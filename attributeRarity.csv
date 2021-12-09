@@ -1,0 +1,131 @@
+attributeTypeId,attributeValue,attributeTypeName,count,ratio
+7,"Black Leather Chelsea with Blue Sole",Footwear,15,0.000158112
+9,"Blue Books",Glasses,19,0.000200276
+9,"3D Glasses",Glasses,20,0.000210817
+5,"Brown Cardigan with Off-White Oxford Shirt",Top,57,0.000600828
+5,"Olive Cardigan with Off-White Oxford Shirt",Top,73,0.000769482
+5,"Brown Cardigan with Off-White Longsleeve Shirt",Top,88,0.000927594
+5,"Olive Cardigan with Off-White Longsleeve Shirt",Top,114,0.001201657
+5,"Dark Gray Cardigan with Off-White Oxford Shirt",Top,116,0.001222738
+5,"Light Gray Cardigan with Off-White Oxford Shirt",Top,134,0.001412474
+5,"Brown Cardigan with Tan Oxford Shirt",Top,138,0.001454637
+5,"Brown Cardigan with Beigse Oxford Shirt",Top,171,0.001802485
+5,"Dark Gray Cardigan with Off-White Longsleeve Shirt",Top,173,0.001823567
+5,"Olive Cardigan with Tan Oxford Shirt",Top,186,0.001960598
+5,"Light Gray Cardigan with Off-White Longsleeve Shirt",Top,201,0.002118711
+5,"Brown Cardigan with Light Gray Oxford Shirt",Top,206,0.002171415
+5,"Olive Cardigan with Beige Oxford Shirt",Top,219,0.002308446
+5,"Brown Cardigan with Tan Longsleeve Shirt",Top,220,0.002318987
+5,"Brown Cardigan with Beige Longsleeve Shirt",Top,255,0.002687917
+5,"Olive Cardigan with Light Gray Oxford Shirt",Top,258,0.002719539
+5,"Olve Cardigan with Tan Longsleeve Shirt",Top,283,0.00298306
+5,"Dark Gray Cardigan with Tan Oxford Shirt",Top,286,0.003014683
+5,"Brown Cardigan with Light Gray Longsleeve Shirt",Top,300,0.003162255
+5,"Light Gray Cardigan with Tan Oxford Shirt",Top,337,0.003552266
+5,"Dark Gray Cardigan with Beige Oxford Shirt",Top,338,0.003562807
+5,"Olive Cardigan with Beige Longsleeve Shirt",Top,349,0.003678757
+5,"Dark Gray Cardigan with Light Gray Oxford Shirt",Top,396,0.004174177
+5,"Light Gray Cardigan with Beige Oxford Shirt",Top,396,0.004174177
+5,"Olive Cardigan with Light Gray Longsleeve Shirt",Top,399,0.004205799
+5,"Dark Gray Cardigan with Tan Longsleeve Shirt",Top,425,0.004479861
+5,"Light Gray Cardigan with Light Gray Oxford Shirt",Top,460,0.004848791
+5,"Light Gray Cardigan with Tan Longsleeve Shirt",Top,498,0.005249343
+5,"Dark Gray Cardigan with Beige Longsleeve Shirt",Top,515,0.005428538
+5,"Dark Gray Cardigan with Light Gray Longsleeve Shirt",Top,594,0.006261265
+5,"Light Gray Cardigan with Beige Longsleeve Shirt",Top,598,0.006303428
+5,"Light Gray Cardigan with Light Gray Longsleeve Shirt",Top,686,0.007231023
+5,"Khaki Jumpsuit",Top,705,0.0074313
+5,"Gray Oxford with Tie and Pocket",Top,752,0.00792672
+11,"Light Blue Smartphone",Accessories,933,0.009834614
+5,"Gray Jumpsuit",Top,946,0.009971645
+12,"Purple Workers Cap",Headwear,951,0.010024349
+8,"Ring One Blue",Ring,954,0.010055971
+5,"Khaki Oxford with Tie and Pocket",Top,996,0.010498687
+5,"Gray Oxford with Tie",Top,1228,0.012944165
+5,"Gray Oxford with Pocket",Top,1255,0.013228768
+5,"Denim Jumpsuit",Top,1419,0.014957467
+5,"Olive Oxford with Tie and Pocket",Top,1503,0.015842899
+5,"Navy Jumpsuit",Top,1665,0.017550517
+5,"Khaki Oxford with Tie",Top,1665,0.017550517
+5,"Khaki Oxford with Pocket",Top,1665,0.017550517
+5,"Tan Blazer with Off-White Shirt and Tan Tie",Top,1716,0.0180881
+5,"Navy Oxford with Tie and Pocket",Top,1738,0.018319999
+5,"Gray Oxford with Buttons",Top,1752,0.018467571
+4,Beard,"Facial Hair",1881,0.01982734
+2,"Long Afro","Hair Style",1898,0.020006535
+2,"Long Straight Bangs","Hair Style",1916,0.02019627
+11,"Blue Lunchbox",Accessories,1917,0.020206811
+5,"Gray Blazer with Black Shirt and Gray Tie",Top,2261,0.023832864
+5,"Khaki Oxford with Buttons",Top,2322,0.024475856
+12,"Navy Blue Workers Cap",Headwear,2379,0.025076684
+5,"Olive Oxford with Pocket",Top,2473,0.026067524
+5,"Olive Oxford with Tie",Top,2477,0.026109688
+5,"Tan Blazer with Off-White Shirt and No Tie",Top,2582,0.027216477
+5,"Red Longsleeve",Top,2876,0.030315487
+5,"Navy Oxford with Pocket",Top,2903,0.03060009
+5,"Navy Oxford with Tie",Top,2910,0.030673876
+5,"Gray Blazer with Black Shirt and No Tie",Top,3417,0.036018088
+5,"Navy Blazer with Striped Shirt and Navy Tie",Top,3436,0.036218364
+5,"Olive Oxford with Buttons",Top,3471,0.036587294
+4,Goatee,"Facial Hair",3769,0.039728467
+5,"Dark Gray Longsleeve",Top,3783,0.039876039
+4,Mustache,"Facial Hair",3808,0.04013956
+5,"Charcoal Blazer with Light Blue Shirt and Black Tie",Top,3964,0.041783933
+5,"Navy Oxford with Buttons",Top,4088,0.043090999
+6,Khaki,Bottom,4607,0.0485617
+6,,Bottom,4735,0.049910929
+2,"Short Updo","Hair Style",4739,0.049953093
+4,Thin,"Facial Hair",4744,0.050005797
+2,"Updo Bun","Hair Style",4768,0.050258777
+9,"Rosegold Aviators",Glasses,4954,0.052219376
+5,"Navy Blazer with Striped Shirt and No Tie",Top,5126,0.054032402
+3,Auburn,"Hair Color",5671,0.059777166
+5,"Blue Longsleeve",Top,5687,0.05994582
+5,"Charcoal Blazer with Light Blue Shirt and No Tie",Top,5955,0.062770768
+12,"Tan Workers Cap",Headwear,6152,0.064847315
+6,"Blue Denim",Bottom,6195,0.065300572
+2,"Low Ponytail","Hair Style",6629,0.069875301
+2,"Short Pixie","Hair Style",6635,0.069938546
+2,"Long Messy","Hair Style",6651,0.0701072
+5,"Light Gray Longsleeve",Top,6664,0.070244231
+2,"Medium Curly Bob","Hair Style",7547,0.079551803
+7,"Redbrown Leather Workboot with Brown Sole",Footwear,7568,0.07977316
+2,"Short Afro Fade","Hair Style",8530,0.089913459
+2,"Short Coil","Hair Style",8540,0.090018868
+2,"Buzz Cut","Hair Style",8555,0.09017698
+6,"Khaki Slacks",Bottom,8896,0.093771411
+6,"Light-Wash Denim",Bottom,9234,0.097334218
+9,"Silver Aviators",Glasses,9256,0.097566117
+4,Stubble,"Facial Hair",9450,0.099611042
+3,"Light Grey","Hair Color",9454,0.099653205
+2,"Short Messy","Hair Style",9471,0.0998324
+10,"Stud Earring",Piercings,9486,0.099990513
+2,"Straight Sideswept Fringe","Hair Style",9487,0.100001054
+11,Lunchbox,Accessories,9502,0.100159166
+2,,"Hair Style",9503,0.100169707
+6,"Dark-Wash Denim",Bottom,10801,0.113851732
+7,"White Leather Sneaker with Grey Sole",Footwear,11320,0.119322434
+7,"Tan Suede Workboot with Tan Sole",Footwear,11399,0.120155161
+6,"Gray Slacks",Bottom,11839,0.124793135
+11,"Black Leather Briefcase",Accessories,13250,0.139666276
+3,Blonde,"Hair Color",13294,0.140130074
+8,"Two Rings",Ring,13311,0.140309268
+7,"Black Leather Shoes with Laces",Footwear,13319,0.140393595
+7,"Black Suede Chelseas with Brown Sole",Footwear,14278,0.150502271
+7,"White Canvas Sneaker with White Sole",Footwear,17038,0.17959502
+11,"Brown Leather Briefcase",Accessories,17043,0.179647724
+3,"Dark Brown","Hair Color",17140,0.180670187
+6,"Navy Slacks",Bottom,17794,0.187563903
+9,"Black Books",Glasses,18947,0.199717505
+7,"Brown Leather Shoes with Laces",Footwear,19932,0.210100243
+6,"Charcoal Slacks",Bottom,20768,0.218912394
+11,"Black Smartphone",Accessories,20836,0.219629172
+3,"Light Brown","Hair Color",20849,0.219766203
+3,Black,"Hair Color",28461,0.300003162
+11,,Accessories,31388,0.330856233
+9,,Glasses,61673,0.650085907
+4,,"Facial Hair",71217,0.75068779
+8,,Ring,80604,0.849634759
+10,,Piercings,85383,0.900009486
+12,,Headwear,85387,0.90005165
+1,White,Background,94869,1

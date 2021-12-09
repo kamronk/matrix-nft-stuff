@@ -346,6 +346,16 @@
 						// Hide.
 							$main._hide();
 
+					} else if (location.hash && !isNaN(location.hash.substr(1).split(',')[0])){
+						
+							findAndShow(location.hash.substr(1));
+						
+						// Prevent default.
+							event.preventDefault();
+							event.stopPropagation();
+
+						// Show article.
+							$main._show('rarity');
 					}
 
 				// Otherwise, check for a matching article.
@@ -357,6 +367,7 @@
 
 						// Show article.
 							$main._show(location.hash.substr(1));
+							debugger;
 
 					}
 
@@ -395,7 +406,12 @@
 				if (location.hash != ''
 				&&	location.hash != '#')
 					$window.on('load', function() {
-						$main._show(location.hash.substr(1), true);
+						if (isNaN(location.hash.substr(1))){
+							$main._show(location.hash.substr(1), true);
+						} else {
+							$main._show('rarity', true);
+							findAndShow(location.hash.substr(1));
+						}
 					});
 
 })(jQuery);

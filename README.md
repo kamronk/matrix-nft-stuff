@@ -2,9 +2,11 @@
 
 Matrix NFT Data and a browsing tool.
 
-The JSON files here are the complete library of matrix avatars.
+You can check the rarity of your attributes by looking at the complete.csv. 
 
-At the moment I'm also working on building a MySQL db of them, and will share a db export here when it's done.
+Download it yourself, or view the raw version here: [https://raw.githubusercontent.com/kamronk/matrix-nft-stuff/main/completeRarity.csv](https://raw.githubusercontent.com/kamronk/matrix-nft-stuff/main/completeRarity.csv)
+
+The JSON files here are the complete library of matrix avatars with more data than I've compiled.
 
 Check out my niftys profile for daily sales counts: [https://niftys.com/kamronk](https://niftys.com/kamronk)
 

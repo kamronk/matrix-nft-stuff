@@ -4,15 +4,11 @@
 
 Matrix NFT Data and a browsing tool.
 
-You can check the rarity of your attributes by looking at the complete.csv. 
-
-Download it yourself, or view the raw version here: [https://raw.githubusercontent.com/kamronk/matrix-nft-stuff/main/completeRarity.csv](https://raw.githubusercontent.com/kamronk/matrix-nft-stuff/main/completeRarity.csv)
+You can check the rarity of your attributes by using the tool here: [https://matrixnftrarechecker.com/](https://matrixnftrarechecker.com/)
 
 The JSON files here are the complete library of matrix avatars with more data than I've compiled.
 
 Check out my niftys profile for daily sales counts: [https://niftys.com/kamronk](https://niftys.com/kamronk)
-
-More to come soon!
 
 ## How is the rarity calculated?
 

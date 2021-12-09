@@ -406,7 +406,7 @@
 				if (location.hash != ''
 				&&	location.hash != '#')
 					$window.on('load', function() {
-						if (isNaN(location.hash.substr(1))){
+						if (isNaN(location.hash.substr(1).split(',')[0])){
 							$main._show(location.hash.substr(1), true);
 						} else {
 							$main._show('rarity', true);

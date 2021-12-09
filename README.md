@@ -1,5 +1,7 @@
 # matrix-nft-stuff
 
+[https://matrixnftrares.com/](https://matrixnftrares.com/), [https://matrixnftchecker.com](https://matrixnftchecker.com), [https://matrixnftrarechecker.com/](https://matrixnftrarechecker.com/)
+
 Matrix NFT Data and a browsing tool.
 
 You can check the rarity of your attributes by looking at the complete.csv. 

@@ -1,18 +1,17 @@
 
 var keepGoing = true;
 
-chrome.storage.local.get("nftranks", ({ nftranks }) => {
-	console.log('ranks ' + nftranks.length);
-	setRankings();
-	
-	browser.runtime.connect().onDisconnect.addListener(function() {
-		// clean up when content script gets disconnected
-		keepGoing = false;
-	});
+var limits = null;
 
+chrome.storage.sync.get([
+ 'rankToShowGreen',
+ 'rareityToShowGreen'
+], function(limits) {
+	limits = limits;
+	setRankings(limits);
 });
 
-function setRankings() {
+function setRankings(limits) {
 	chrome.storage.local.get("nftranks", ({ nftranks }) => {
 		if (document.getElementsByClassName('box-title').length){
 			//details page
@@ -33,7 +32,7 @@ function setRankings() {
 				  return r.tokenId == thisId;
 				});
 			var color = "yellow";
-			if (ranking[0].rank <= 10000) {
+			if (ranking[0].rank <= limits.rankToShowGreen) {
 				color = "lightgreen";
 			}
 			document.getElementsByClassName('nft-content')[0].getElementsByClassName('box')[0].insertAdjacentHTML('afterend',
@@ -78,13 +77,31 @@ function setRankings() {
 					var ranking = nftranks.filter(function (r) {
 						  return r.tokenId == thisId;
 						});
-					var color = "yellow";
-					if (ranking[0].rank <= 10000) {
-						color = "lightgreen";
+						
+					var rankColor = "yellow";
+					if (ranking[0].rank <= limits.rankToShowGreen) {
+						rankColor = "lightgreen";
 					}
-					if (names[i].innerHTML.indexOf('background-color') == -1){
-						names[i].innerHTML += ' <p style="background-color: ' + color + '; text-align: center;"><strong>' + numberWithCommas(ranking[0].rank) + '</strong> / ' + numberWithCommas(nftranks.length) + '</p>';
+					var rareAttrColor = "yellow";
+					if (ranking[0].rarestAttributeRatio <= limits.rareityToShowGreen) {
+						rareAttrColor = "lightgreen";
 					}
+					
+					var ratioPercentage = ranking[0].rarestAttributeRatio * 100;
+					
+					if (names[i].innerHTML.indexOf('background-color') > -1){
+						names[i].getElementsByClassName('kk-listing-ranking')[0].remove();
+						names[i].getElementsByClassName('kk-listing-rarity')[0].remove();
+					}
+					names[i].innerHTML += ` 
+						<p class="kk-listing-ranking" style="background-color: ${rankColor}; text-align: center;">
+							<strong>${numberWithCommas(ranking[0].rank)}</strong> / ${numberWithCommas(nftranks.length)}
+						</p>
+						<p class="kk-listing-rarity" title="${ratioPercentage.toFixed(2)}% of avatars have this trait" style="background-color: ${rareAttrColor}; text-align: center;">
+							Rarest Attribute: <strong>${ranking[0].rarestAttributeValue}</strong>
+						</p>
+					
+					`;
 				} catch (error){
 					console.log('couldnt do ' + names[i]);
 				}
@@ -92,7 +109,9 @@ function setRankings() {
 		}
 		
 		if (keepGoing){
-			setTimeout(setRankings, 1000);
+			setTimeout(function() {
+				setRankings(limits);
+			}, 1000);
 		}
 	});
 }

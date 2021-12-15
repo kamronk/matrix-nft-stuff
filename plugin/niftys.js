@@ -3,6 +3,9 @@ var keepGoing = true;
 
 var limits = null;
 
+var kenzingtonData = null;
+var webomaticData = null;
+
 chrome.storage.sync.get([
  'rankToShowGreen',
  'rareityToShowGreen'
@@ -35,6 +38,59 @@ function setRankings(limits) {
 			if (ranking[0].rank <= limits.rankToShowGreen) {
 				color = "lightgreen";
 			}
+			
+			if (kenzingtonData == null){
+				fetch('https://avatars.azurewebsites.net/api/avatars/' + thisId).then(r => r.text()).then(result => {
+					kenzingtonData = JSON.parse(result);
+				});
+			}
+			if (webomaticData != null){
+				fetch('https://rarity.webomatic.xyz/matrix/?view=profile&id=' + thisId).then(r => r.text()).then(result => {
+					debugger;
+					var trimmedResult = result.split('Rank #')[1].split(' ')[0];
+					debugger;
+				});
+			}
+			
+			var listItems = `
+			   <li>
+				  <div class="inner">
+						<div style="background-color: ${color}; text-align: center;" class="avatar css-vurnku">
+						<a style="margin-bottom: 10px; padding: 5px;" target="_blank" href="https://matrixnftrarechecker.com/#${thisId}">
+						   <div class="avatar-content css-vurnku">
+							  <div id="mnrc-ranking" class="avatar-content">&nbsp;<strong>${numberWithCommas(ranking[0].rank)}</strong> &nbsp;&nbsp;/ ${numberWithCommas(nftranks.length)} MatrixNftRareChecker.com</div>
+						   </div>
+						</a>
+					 </div>
+					 <div class="actions"></div>
+				  </div>
+			   </li>
+		    `;
+			
+			var kenzingtonItem;
+			
+			if (kenzingtonData){
+				var kenColor = "yellow";
+				if (kenzingtonData.rank <= limits.rankToShowGreen) {
+					kenColor = "lightgreen";
+				}
+				listItems += `
+						   <li>
+							  <div class="inner">
+									<div style="background-color: ${kenColor}; text-align: center;" class="avatar css-vurnku">
+									<a style="margin-bottom: 10px; padding: 5px;" target="_blank" href="https://avatars.azurewebsites.net/">
+									   <div class="avatar-content css-vurnku">
+										  <div id="mnrc-ranking" class="avatar-content">&nbsp;<strong>${numberWithCommas(kenzingtonData.rank)}</strong> &nbsp;&nbsp;/ ${numberWithCommas(nftranks.length)} avatars.azurewebsites.net/</div>
+									   </div>
+									</a>
+								 </div>
+								 <div class="actions"></div>
+							  </div>
+						   </li>
+			    `;
+			}
+			
+			
 			document.getElementsByClassName('nft-content')[0].getElementsByClassName('box')[0].insertAdjacentHTML('afterend',
 				`<div class="box kk-rarity-info">
 				   <div class="inner">
@@ -43,19 +99,7 @@ function setRankings(limits) {
 					  </div>
 					  <div class="markets">
 						<ul class="items">
-						   <li>
-							  <div class="inner">
-									<div style="background-color: ${color}; text-align: center;" class="avatar css-vurnku">
-									<a target="_blank" href="https://matrixnftrarechecker.com/#${thisId}">
-									   <div class="avatar-content css-vurnku">
-										  <div id="mnrc-ranking" class="avatar-content">&nbsp;<strong>${numberWithCommas(ranking[0].rank)}</strong> &nbsp;&nbsp;/ ${numberWithCommas(nftranks.length)} MatrixNftRareChecker.com</div>
-									   </div>
-									</a>
-								 </div>
-								 <div class="actions"></div>
-							  </div>
-						   </li>
-						   </li>
+						   ${listItems}
 						</ul>
 					  </div>
 				   </div>
@@ -94,9 +138,6 @@ function setRankings(limits) {
 						names[i].getElementsByClassName('kk-listing-rarity')[0].remove();
 					}
 					names[i].innerHTML += ` 
-						<p class="kk-listing-ranking" style="background-color: ${rankColor}; text-align: center;">
-							<strong>${numberWithCommas(ranking[0].rank)}</strong> / ${numberWithCommas(nftranks.length)}
-						</p>
 						<p class="kk-listing-rarity" title="${ratioPercentage.toFixed(2)}% of avatars have this trait" style="background-color: ${rareAttrColor}; text-align: center;">
 							Rarest Attribute: <strong>${ranking[0].rarestAttributeValue}</strong>
 						</p>

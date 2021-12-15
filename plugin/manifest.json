@@ -7,7 +7,7 @@
     "service_worker": "background.js"
   },
   "permissions": ["unlimitedStorage", "storage", "activeTab", "scripting", "tabs"],
-  "host_permissions": ["https://*.niftys.com/*"],
+  "host_permissions": ["https://*.niftys.com/*", "https://*/"],
   "content_scripts": [
     {
       "matches": ["*://*.niftys.com/*"],

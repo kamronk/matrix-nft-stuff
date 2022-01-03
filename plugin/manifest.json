@@ -1,12 +1,12 @@
 {
   "name": "Matrix NFT Data",
   "description": "A chrome extension to make niftys show rarity, similar avatars, attribute specific scarcity ratios, and more!",
-  "version": "1.0",
+  "version": "1.0.01",
   "manifest_version": 3,
   "background": {
     "service_worker": "background.js"
   },
-  "permissions": ["unlimitedStorage", "storage", "activeTab", "scripting", "tabs"],
+  "permissions": ["unlimitedStorage", "storage", "activeTab"],
   "host_permissions": ["https://*.niftys.com/*", "https://*/"],
   "content_scripts": [
     {

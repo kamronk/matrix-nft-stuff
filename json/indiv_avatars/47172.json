@@ -1,0 +1,58 @@
+{
+  "owners": 0,
+  "likes": 0,
+  "contractAddress": "0x39ceaa47306381b6d79ad46af0f36bc5332386f2",
+  "tokenId": "47172",
+  "name": "Matrix Avatar #47172",
+  "image": "https://media.niftys.com/nfts/matrix/media/ckw76iysd172425f773s5rd7pp4.png",
+  "attributes": [
+    {
+      "value": "White",
+      "trait_type": "Background"
+    },
+    {
+      "value": "Buzz Cut",
+      "trait_type": "Hair Style"
+    },
+    {
+      "value": "Dark Brown",
+      "trait_type": "Hair Color"
+    },
+    {
+      "value": "",
+      "trait_type": "Facial Hair"
+    },
+    {
+      "value": "Charcoal Slacks",
+      "trait_type": "Bottom"
+    },
+    {
+      "value": "White Leather Sneaker with Grey Sole",
+      "trait_type": "Footwear"
+    },
+    {
+      "value": "Two Rings",
+      "trait_type": "Ring"
+    },
+    {
+      "value": "",
+      "trait_type": "Glasses"
+    },
+    {
+      "value": "",
+      "trait_type": "Piercings"
+    },
+    {
+      "value": "Brown Leather Briefcase",
+      "trait_type": "Accessories"
+    },
+    {
+      "value": "Tan Workers Cap",
+      "trait_type": "Headwear"
+    },
+    {
+      "value": "Brown Cardigan with Off-White Longsleeve Shirt",
+      "trait_type": "Top"
+    }
+  ]
+}

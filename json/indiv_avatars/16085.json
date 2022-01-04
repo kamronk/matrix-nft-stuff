@@ -1,0 +1,58 @@
+{
+  "owners": 0,
+  "likes": 0,
+  "contractAddress": "0x39ceaa47306381b6d79ad46af0f36bc5332386f2",
+  "tokenId": "16085",
+  "name": "Matrix Avatar #16085",
+  "image": "https://media.niftys.com/nfts/matrix/media/ckw72h3kk79868f773o3bthnjb.png",
+  "attributes": [
+    {
+      "value": "White",
+      "trait_type": "Background"
+    },
+    {
+      "value": "Short Pixie",
+      "trait_type": "Hair Style"
+    },
+    {
+      "value": "Blonde",
+      "trait_type": "Hair Color"
+    },
+    {
+      "value": "",
+      "trait_type": "Facial Hair"
+    },
+    {
+      "value": "Brown Cardigan with Light Gray Oxford Shirt",
+      "trait_type": "Top"
+    },
+    {
+      "value": "Blue Denim",
+      "trait_type": "Bottom"
+    },
+    {
+      "value": "White Canvas Sneaker with White Sole",
+      "trait_type": "Footwear"
+    },
+    {
+      "value": "",
+      "trait_type": "Ring"
+    },
+    {
+      "value": "",
+      "trait_type": "Headwear"
+    },
+    {
+      "value": "",
+      "trait_type": "Glasses"
+    },
+    {
+      "value": "",
+      "trait_type": "Piercings"
+    },
+    {
+      "value": "Brown Leather Briefcase",
+      "trait_type": "Accessories"
+    }
+  ]
+}

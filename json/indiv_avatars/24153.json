@@ -1,0 +1,58 @@
+{
+  "owners": 0,
+  "likes": 0,
+  "contractAddress": "0x39ceaa47306381b6d79ad46af0f36bc5332386f2",
+  "tokenId": "24153",
+  "name": "Matrix Avatar #24153",
+  "image": "https://media.niftys.com/nfts/matrix/media/ckw74y68u136258f773p9hhl2r5.png",
+  "attributes": [
+    {
+      "value": "White",
+      "trait_type": "Background"
+    },
+    {
+      "value": "",
+      "trait_type": "Hair Style"
+    },
+    {
+      "value": "Dark Brown",
+      "trait_type": "Hair Color"
+    },
+    {
+      "value": "Mustache",
+      "trait_type": "Facial Hair"
+    },
+    {
+      "value": "Navy Oxford with Tie",
+      "trait_type": "Top"
+    },
+    {
+      "value": "Khaki",
+      "trait_type": "Bottom"
+    },
+    {
+      "value": "Redbrown Leather Workboot with Brown Sole",
+      "trait_type": "Footwear"
+    },
+    {
+      "value": "",
+      "trait_type": "Ring"
+    },
+    {
+      "value": "",
+      "trait_type": "Glasses"
+    },
+    {
+      "value": "",
+      "trait_type": "Piercings"
+    },
+    {
+      "value": "",
+      "trait_type": "Accessories"
+    },
+    {
+      "value": "Tan Workers Cap",
+      "trait_type": "Headwear"
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "owners": 0,
+  "likes": 0,
+  "contractAddress": "0x39ceaa47306381b6d79ad46af0f36bc5332386f2",
+  "tokenId": "75768",
+  "name": "Matrix Avatar #75768",
+  "image": "https://media.niftys.com/nfts/matrix/media/ckw7dns3v330388f173lt7g0wa5.png",
+  "attributes": [
+    {
+      "value": "White",
+      "trait_type": "Background"
+    },
+    {
+      "value": "Short Pixie",
+      "trait_type": "Hair Style"
+    },
+    {
+      "value": "Light Brown",
+      "trait_type": "Hair Color"
+    },
+    {
+      "value": "",
+      "trait_type": "Facial Hair"
+    },
+    {
+      "value": "Light Gray Longsleeve",
+      "trait_type": "Top"
+    },
+    {
+      "value": "Khaki Slacks",
+      "trait_type": "Bottom"
+    },
+    {
+      "value": "White Canvas Sneaker with White Sole",
+      "trait_type": "Footwear"
+    },
+    {
+      "value": "Two Rings",
+      "trait_type": "Ring"
+    },
+    {
+      "value": "",
+      "trait_type": "Headwear"
+    },
+    {
+      "value": "Black Books",
+      "trait_type": "Glasses"
+    },
+    {
+      "value": "Stud Earring",
+      "trait_type": "Piercings"
+    },
+    {
+      "value": "",
+      "trait_type": "Accessories"
+    }
+  ]
+}

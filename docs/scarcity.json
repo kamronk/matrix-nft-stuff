@@ -5,7 +5,7 @@ var scarcity = [
     "attributeValue": "Black Leather Chelsea with Blue Sole",
     "attributeTypeName": "Footwear",
     "count": 15,
-    "ratio": 1.54744E-4
+    "ratio": 1.54575E-4
   },
   {
     "scarcityId": 2,
@@ -13,7 +13,7 @@ var scarcity = [
     "attributeValue": "Blue Books",
     "attributeTypeName": "Glasses",
     "count": 20,
-    "ratio": 2.06325E-4
+    "ratio": 2.061E-4
   },
   {
     "scarcityId": 3,
@@ -21,7 +21,7 @@ var scarcity = [
     "attributeValue": "3D Glasses",
     "attributeTypeName": "Glasses",
     "count": 20,
-    "ratio": 2.06325E-4
+    "ratio": 2.061E-4
   },
   {
     "scarcityId": 4,
@@ -29,7 +29,7 @@ var scarcity = [
     "attributeValue": "Brown Cardigan with Off-White Oxford Shirt",
     "attributeTypeName": "Top",
     "count": 59,
-    "ratio": 6.08661E-4
+    "ratio": 6.07996E-4
   },
   {
     "scarcityId": 5,
@@ -37,7 +37,7 @@ var scarcity = [
     "attributeValue": "Olive Cardigan with Off-White Oxford Shirt",
     "attributeTypeName": "Top",
     "count": 75,
-    "ratio": 7.73722E-4
+    "ratio": 7.72877E-4
   },
   {
     "scarcityId": 6,
@@ -45,7 +45,7 @@ var scarcity = [
     "attributeValue": "Brown Cardigan with Off-White Longsleeve Shirt",
     "attributeTypeName": "Top",
     "count": 90,
-    "ratio": 9.28466E-4
+    "ratio": 9.27452E-4
   },
   {
     "scarcityId": 7,
@@ -53,7 +53,7 @@ var scarcity = [
     "attributeValue": "Olive Cardigan with Off-White Longsleeve Shirt",
     "attributeTypeName": "Top",
     "count": 118,
-    "ratio": 0.001217323
+    "ratio": 0.001215993
   },
   {
     "scarcityId": 8,
@@ -61,7 +61,7 @@ var scarcity = [
     "attributeValue": "Dark Gray Cardigan with Off-White Oxford Shirt",
     "attributeTypeName": "Top",
     "count": 119,
-    "ratio": 0.001227639
+    "ratio": 0.001226298
   },
   {
     "scarcityId": 9,
@@ -69,7 +69,7 @@ var scarcity = [
     "attributeValue": "Light Gray Cardigan with Off-White Oxford Shirt",
     "attributeTypeName": "Top",
     "count": 136,
-    "ratio": 0.001403016
+    "ratio": 0.001401483
   },
   {
     "scarcityId": 10,
@@ -77,15 +77,15 @@ var scarcity = [
     "attributeValue": "Brown Cardigan with Tan Oxford Shirt",
     "attributeTypeName": "Top",
     "count": 144,
-    "ratio": 0.001485546
+    "ratio": 0.001483924
   },
   {
     "scarcityId": 11,
     "attributeTypeId": 5,
     "attributeValue": "Brown Cardigan with Beigse Oxford Shirt",
     "attributeTypeName": "Top",
-    "count": 175,
-    "ratio": 0.001805352
+    "count": 176,
+    "ratio": 0.001813685
   },
   {
     "scarcityId": 12,
@@ -93,7 +93,7 @@ var scarcity = [
     "attributeValue": "Dark Gray Cardigan with Off-White Longsleeve Shirt",
     "attributeTypeName": "Top",
     "count": 181,
-    "ratio": 0.001867249
+    "ratio": 0.00186521
   },
   {
     "scarcityId": 13,
@@ -101,15 +101,15 @@ var scarcity = [
     "attributeValue": "Olive Cardigan with Tan Oxford Shirt",
     "attributeTypeName": "Top",
     "count": 195,
-    "ratio": 0.002011678
+    "ratio": 0.00200948
   },
   {
     "scarcityId": 14,
     "attributeTypeId": 5,
     "attributeValue": "Light Gray Cardigan with Off-White Longsleeve Shirt",
     "attributeTypeName": "Top",
-    "count": 203,
-    "ratio": 0.002094208
+    "count": 204,
+    "ratio": 0.002102225
   },
   {
     "scarcityId": 15,
@@ -117,15 +117,15 @@ var scarcity = [
     "attributeValue": "Brown Cardigan with Light Gray Oxford Shirt",
     "attributeTypeName": "Top",
     "count": 207,
-    "ratio": 0.002135473
+    "ratio": 0.00213314
   },
   {
     "scarcityId": 16,
     "attributeTypeId": 5,
     "attributeValue": "Brown Cardigan with Tan Longsleeve Shirt",
     "attributeTypeName": "Top",
-    "count": 220,
-    "ratio": 0.002269585
+    "count": 221,
+    "ratio": 0.002277411
   },
   {
     "scarcityId": 17,
@@ -133,7 +133,7 @@ var scarcity = [
     "attributeValue": "Olive Cardigan with Beige Oxford Shirt",
     "attributeTypeName": "Top",
     "count": 228,
-    "ratio": 0.002352115
+    "ratio": 0.002349546
   },
   {
     "scarcityId": 18,
@@ -141,7 +141,7 @@ var scarcity = [
     "attributeValue": "Brown Cardigan with Beige Longsleeve Shirt",
     "attributeTypeName": "Top",
     "count": 261,
-    "ratio": 0.002692553
+    "ratio": 0.002689612
   },
   {
     "scarcityId": 19,
@@ -149,7 +149,7 @@ var scarcity = [
     "attributeValue": "Olive Cardigan with Light Gray Oxford Shirt",
     "attributeTypeName": "Top",
     "count": 265,
-    "ratio": 0.002733818
+    "ratio": 0.002730832
   },
   {
     "scarcityId": 20,
@@ -157,7 +157,7 @@ var scarcity = [
     "attributeValue": "Olve Cardigan with Tan Longsleeve Shirt",
     "attributeTypeName": "Top",
     "count": 289,
-    "ratio": 0.00298141
+    "ratio": 0.002978153
   },
   {
     "scarcityId": 21,
@@ -165,7 +165,7 @@ var scarcity = [
     "attributeValue": "Dark Gray Cardigan with Tan Oxford Shirt",
     "attributeTypeName": "Top",
     "count": 292,
-    "ratio": 0.003012358
+    "ratio": 0.003009068
   },
   {
     "scarcityId": 22,
@@ -173,7 +173,7 @@ var scarcity = [
     "attributeValue": "Brown Cardigan with Light Gray Longsleeve Shirt",
     "attributeTypeName": "Top",
     "count": 307,
-    "ratio": 0.003167103
+    "ratio": 0.003163643
   },
   {
     "scarcityId": 23,
@@ -181,15 +181,15 @@ var scarcity = [
     "attributeValue": "Light Gray Cardigan with Tan Oxford Shirt",
     "attributeTypeName": "Top",
     "count": 344,
-    "ratio": 0.003548806
+    "ratio": 0.003544929
   },
   {
     "scarcityId": 24,
     "attributeTypeId": 5,
     "attributeValue": "Dark Gray Cardigan with Beige Oxford Shirt",
     "attributeTypeName": "Top",
-    "count": 351,
-    "ratio": 0.00362102
+    "count": 352,
+    "ratio": 0.00362737
   },
   {
     "scarcityId": 25,
@@ -197,23 +197,23 @@ var scarcity = [
     "attributeValue": "Olive Cardigan with Beige Longsleeve Shirt",
     "attributeTypeName": "Top",
     "count": 357,
-    "ratio": 0.003682918
+    "ratio": 0.003678895
   },
   {
     "scarcityId": 26,
     "attributeTypeId": 5,
     "attributeValue": "Light Gray Cardigan with Beige Oxford Shirt",
     "attributeTypeName": "Top",
-    "count": 402,
-    "ratio": 0.004147151
+    "count": 403,
+    "ratio": 0.004152926
   },
   {
     "scarcityId": 27,
     "attributeTypeId": 5,
     "attributeValue": "Dark Gray Cardigan with Light Gray Oxford Shirt",
     "attributeTypeName": "Top",
-    "count": 407,
-    "ratio": 0.004198733
+    "count": 408,
+    "ratio": 0.004204451
   },
   {
     "scarcityId": 28,
@@ -221,7 +221,7 @@ var scarcity = [
     "attributeValue": "Olive Cardigan with Light Gray Longsleeve Shirt",
     "attributeTypeName": "Top",
     "count": 411,
-    "ratio": 0.004239998
+    "ratio": 0.004235366
   },
   {
     "scarcityId": 29,
@@ -229,15 +229,15 @@ var scarcity = [
     "attributeValue": "Dark Gray Cardigan with Tan Longsleeve Shirt",
     "attributeTypeName": "Top",
     "count": 437,
-    "ratio": 0.004508222
+    "ratio": 0.004503297
   },
   {
     "scarcityId": 30,
     "attributeTypeId": 5,
     "attributeValue": "Light Gray Cardigan with Light Gray Oxford Shirt",
     "attributeTypeName": "Top",
-    "count": 475,
-    "ratio": 0.004900241
+    "count": 476,
+    "ratio": 0.004905193
   },
   {
     "scarcityId": 31,
@@ -245,7 +245,7 @@ var scarcity = [
     "attributeValue": "Light Gray Cardigan with Tan Longsleeve Shirt",
     "attributeTypeName": "Top",
     "count": 505,
-    "ratio": 0.00520973
+    "ratio": 0.005204039
   },
   {
     "scarcityId": 32,
@@ -253,7 +253,7 @@ var scarcity = [
     "attributeValue": "Dark Gray Cardigan with Beige Longsleeve Shirt",
     "attributeTypeName": "Top",
     "count": 521,
-    "ratio": 0.005374791
+    "ratio": 0.00536892
   },
   {
     "scarcityId": 33,
@@ -261,7 +261,7 @@ var scarcity = [
     "attributeValue": "Light Gray Cardigan with Beige Longsleeve Shirt",
     "attributeTypeName": "Top",
     "count": 605,
-    "ratio": 0.00624136
+    "ratio": 0.006234542
   },
   {
     "scarcityId": 34,
@@ -269,47 +269,47 @@ var scarcity = [
     "attributeValue": "Dark Gray Cardigan with Light Gray Longsleeve Shirt",
     "attributeTypeName": "Top",
     "count": 607,
-    "ratio": 0.006261992
+    "ratio": 0.006255152
   },
   {
     "scarcityId": 35,
     "attributeTypeId": 5,
     "attributeValue": "Light Gray Cardigan with Light Gray Longsleeve Shirt",
     "attributeTypeName": "Top",
-    "count": 708,
-    "ratio": 0.007303938
+    "count": 709,
+    "ratio": 0.007306265
   },
   {
     "scarcityId": 36,
     "attributeTypeId": 5,
     "attributeValue": "Khaki Jumpsuit",
     "attributeTypeName": "Top",
-    "count": 722,
-    "ratio": 0.007448366
+    "count": 725,
+    "ratio": 0.007471145
   },
   {
     "scarcityId": 37,
     "attributeTypeId": 5,
     "attributeValue": "Gray Oxford with Tie and Pocket",
     "attributeTypeName": "Top",
-    "count": 770,
-    "ratio": 0.007943549
+    "count": 772,
+    "ratio": 0.007955482
   },
   {
     "scarcityId": 38,
     "attributeTypeId": 11,
     "attributeValue": "Light Blue Smartphone",
     "attributeTypeName": "Accessories",
-    "count": 950,
-    "ratio": 0.009800482
+    "count": 952,
+    "ratio": 0.009810387
   },
   {
     "scarcityId": 39,
     "attributeTypeId": 5,
     "attributeValue": "Gray Jumpsuit",
     "attributeTypeName": "Top",
-    "count": 968,
-    "ratio": 0.009986176
+    "count": 973,
+    "ratio": 0.010026793
   },
   {
     "scarcityId": 40,
@@ -317,79 +317,79 @@ var scarcity = [
     "attributeValue": "Ring One Blue",
     "attributeTypeName": "Ring",
     "count": 975,
-    "ratio": 0.01005839
+    "ratio": 0.010047403
   },
   {
     "scarcityId": 41,
     "attributeTypeId": 12,
     "attributeValue": "Purple Workers Cap",
     "attributeTypeName": "Headwear",
-    "count": 975,
-    "ratio": 0.01005839
+    "count": 977,
+    "ratio": 0.010068013
   },
   {
     "scarcityId": 42,
     "attributeTypeId": 5,
     "attributeValue": "Khaki Oxford with Tie and Pocket",
     "attributeTypeName": "Top",
-    "count": 1017,
-    "ratio": 0.010491674
+    "count": 1019,
+    "ratio": 0.010500824
   },
   {
     "scarcityId": 43,
     "attributeTypeId": 5,
     "attributeValue": "Gray Oxford with Tie",
     "attributeTypeName": "Top",
-    "count": 1254,
-    "ratio": 0.012936637
+    "count": 1255,
+    "ratio": 0.012932811
   },
   {
     "scarcityId": 44,
     "attributeTypeId": 5,
     "attributeValue": "Gray Oxford with Pocket",
     "attributeTypeName": "Top",
-    "count": 1280,
-    "ratio": 0.013204861
+    "count": 1281,
+    "ratio": 0.013200741
   },
   {
     "scarcityId": 45,
     "attributeTypeId": 5,
     "attributeValue": "Denim Jumpsuit",
     "attributeTypeName": "Top",
-    "count": 1449,
-    "ratio": 0.014948315
+    "count": 1450,
+    "ratio": 0.014942291
   },
   {
     "scarcityId": 46,
     "attributeTypeId": 5,
     "attributeValue": "Olive Oxford with Tie and Pocket",
     "attributeTypeName": "Top",
-    "count": 1532,
-    "ratio": 0.015804568
+    "count": 1534,
+    "ratio": 0.015807914
   },
   {
     "scarcityId": 47,
     "attributeTypeId": 5,
     "attributeValue": "Khaki Oxford with Pocket",
     "attributeTypeName": "Top",
-    "count": 1696,
-    "ratio": 0.01749644
+    "count": 1699,
+    "ratio": 0.017508244
   },
   {
     "scarcityId": 48,
     "attributeTypeId": 5,
     "attributeValue": "Navy Jumpsuit",
     "attributeTypeName": "Top",
-    "count": 1701,
-    "ratio": 0.017548022
+    "count": 1703,
+    "ratio": 0.017549464
   },
   {
     "scarcityId": 49,
     "attributeTypeId": 5,
     "attributeValue": "Khaki Oxford with Tie",
     "attributeTypeName": "Top",
-    "count": 1702,
-    "ratio": 0.017558338
+    "count": 1703,
+    "ratio": 0.017549464
   },
   {
     "scarcityId": 50,
@@ -397,646 +397,646 @@ var scarcity = [
     "attributeValue": "Tan Blazer with Off-White Shirt and Tan Tie",
     "attributeTypeName": "Top",
     "count": 1742,
-    "ratio": 0.01797099
+    "ratio": 0.01795136
   },
   {
     "scarcityId": 51,
     "attributeTypeId": 5,
     "attributeValue": "Navy Oxford with Tie and Pocket",
     "attributeTypeName": "Top",
-    "count": 1769,
-    "ratio": 0.01824953
+    "count": 1770,
+    "ratio": 0.018239901
   },
   {
     "scarcityId": 52,
     "attributeTypeId": 5,
     "attributeValue": "Gray Oxford with Buttons",
     "attributeTypeName": "Top",
-    "count": 1788,
-    "ratio": 0.01844554
+    "count": 1790,
+    "ratio": 0.018446001
   },
   {
     "scarcityId": 53,
     "attributeTypeId": 4,
     "attributeValue": "Beard",
     "attributeTypeName": "Facial Hair",
-    "count": 1930,
-    "ratio": 0.019910454
+    "count": 1931,
+    "ratio": 0.01989901
   },
   {
     "scarcityId": 54,
     "attributeTypeId": 2,
     "attributeValue": "Long Afro",
     "attributeTypeName": "Hair Style",
-    "count": 1937,
-    "ratio": 0.019982668
+    "count": 1938,
+    "ratio": 0.019971145
   },
   {
     "scarcityId": 55,
     "attributeTypeId": 2,
     "attributeValue": "Long Straight Bangs",
     "attributeTypeName": "Hair Style",
-    "count": 1945,
-    "ratio": 0.020065199
+    "count": 1949,
+    "ratio": 0.020084501
   },
   {
     "scarcityId": 56,
     "attributeTypeId": 11,
     "attributeValue": "Blue Lunchbox",
     "attributeTypeName": "Accessories",
-    "count": 1952,
-    "ratio": 0.020137413
+    "count": 1953,
+    "ratio": 0.020125721
   },
   {
     "scarcityId": 57,
     "attributeTypeId": 5,
     "attributeValue": "Gray Blazer with Black Shirt and Gray Tie",
     "attributeTypeName": "Top",
-    "count": 2322,
-    "ratio": 0.023954443
+    "count": 2324,
+    "ratio": 0.023948887
   },
   {
     "scarcityId": 58,
     "attributeTypeId": 5,
     "attributeValue": "Khaki Oxford with Buttons",
     "attributeTypeName": "Top",
-    "count": 2368,
-    "ratio": 0.024428992
+    "count": 2370,
+    "ratio": 0.024422918
   },
   {
     "scarcityId": 59,
     "attributeTypeId": 12,
     "attributeValue": "Navy Blue Workers Cap",
     "attributeTypeName": "Headwear",
-    "count": 2431,
-    "ratio": 0.025078919
+    "count": 2433,
+    "ratio": 0.025072135
   },
   {
     "scarcityId": 60,
     "attributeTypeId": 5,
     "attributeValue": "Olive Oxford with Pocket",
     "attributeTypeName": "Top",
-    "count": 2529,
-    "ratio": 0.026089916
+    "count": 2533,
+    "ratio": 0.026102638
   },
   {
     "scarcityId": 61,
     "attributeTypeId": 5,
     "attributeValue": "Olive Oxford with Tie",
     "attributeTypeName": "Top",
-    "count": 2536,
-    "ratio": 0.02616213
+    "count": 2539,
+    "ratio": 0.026164468
   },
   {
     "scarcityId": 62,
     "attributeTypeId": 5,
     "attributeValue": "Tan Blazer with Off-White Shirt and No Tie",
     "attributeTypeName": "Top",
-    "count": 2644,
-    "ratio": 0.027276291
+    "count": 2645,
+    "ratio": 0.027256801
   },
   {
     "scarcityId": 63,
     "attributeTypeId": 5,
     "attributeValue": "Red Longsleeve",
     "attributeTypeName": "Top",
-    "count": 2940,
-    "ratio": 0.030329915
+    "count": 2944,
+    "ratio": 0.030338004
   },
   {
     "scarcityId": 64,
     "attributeTypeId": 5,
     "attributeValue": "Navy Oxford with Pocket",
     "attributeTypeName": "Top",
-    "count": 2969,
-    "ratio": 0.030629087
+    "count": 2971,
+    "ratio": 0.03061624
   },
   {
     "scarcityId": 65,
     "attributeTypeId": 5,
     "attributeValue": "Navy Oxford with Tie",
     "attributeTypeName": "Top",
-    "count": 2979,
-    "ratio": 0.03073225
+    "count": 2982,
+    "ratio": 0.030729596
   },
   {
     "scarcityId": 66,
     "attributeTypeId": 5,
     "attributeValue": "Gray Blazer with Black Shirt and No Tie",
     "attributeTypeName": "Top",
-    "count": 3491,
-    "ratio": 0.036014195
+    "count": 3492,
+    "ratio": 0.03598516
   },
   {
     "scarcityId": 67,
     "attributeTypeId": 5,
     "attributeValue": "Navy Blazer with Striped Shirt and Navy Tie",
     "attributeTypeName": "Top",
-    "count": 3510,
-    "ratio": 0.036210204
+    "count": 3516,
+    "ratio": 0.036232481
   },
   {
     "scarcityId": 68,
     "attributeTypeId": 5,
     "attributeValue": "Olive Oxford with Buttons",
     "attributeTypeName": "Top",
-    "count": 3546,
-    "ratio": 0.036581591
+    "count": 3552,
+    "ratio": 0.036603462
   },
   {
     "scarcityId": 69,
     "attributeTypeId": 4,
     "attributeValue": "Goatee",
     "attributeTypeName": "Facial Hair",
-    "count": 3848,
-    "ratio": 0.039697113
+    "count": 3853,
+    "ratio": 0.039705276
   },
   {
     "scarcityId": 70,
     "attributeTypeId": 5,
     "attributeValue": "Dark Gray Longsleeve",
     "attributeTypeName": "Top",
-    "count": 3873,
-    "ratio": 0.03995502
+    "count": 3879,
+    "ratio": 0.039973206
   },
   {
     "scarcityId": 71,
     "attributeTypeId": 4,
     "attributeValue": "Mustache",
     "attributeTypeName": "Facial Hair",
-    "count": 3875,
-    "ratio": 0.039975653
+    "count": 3881,
+    "ratio": 0.039993816
   },
   {
     "scarcityId": 72,
     "attributeTypeId": 5,
     "attributeValue": "Charcoal Blazer with Light Blue Shirt and Black Tie",
     "attributeTypeName": "Top",
-    "count": 4045,
-    "ratio": 0.041729424
+    "count": 4047,
+    "ratio": 0.041704451
   },
   {
     "scarcityId": 73,
     "attributeTypeId": 5,
     "attributeValue": "Navy Oxford with Buttons",
     "attributeTypeName": "Top",
-    "count": 4172,
-    "ratio": 0.043039593
+    "count": 4177,
+    "ratio": 0.043044105
   },
   {
     "scarcityId": 74,
     "attributeTypeId": 6,
     "attributeValue": "Khaki",
     "attributeTypeName": "Bottom",
-    "count": 4716,
-    "ratio": 0.048651659
+    "count": 4720,
+    "ratio": 0.048639736
   },
   {
     "scarcityId": 75,
     "attributeTypeId": 6,
     "attributeValue": "",
     "attributeTypeName": "Bottom",
-    "count": 4840,
-    "ratio": 0.04993088
+    "count": 4851,
+    "ratio": 0.049989694
   },
   {
     "scarcityId": 76,
     "attributeTypeId": 2,
     "attributeValue": "Short Updo",
     "attributeTypeName": "Hair Style",
-    "count": 4846,
-    "ratio": 0.049992778
+    "count": 4853,
+    "ratio": 0.050010305
   },
   {
     "scarcityId": 77,
     "attributeTypeId": 4,
     "attributeValue": "Thin",
     "attributeTypeName": "Facial Hair",
-    "count": 4855,
-    "ratio": 0.050085625
+    "count": 4864,
+    "ratio": 0.05012366
   },
   {
     "scarcityId": 78,
     "attributeTypeId": 2,
     "attributeValue": "Updo Bun",
     "attributeTypeName": "Hair Style",
-    "count": 4862,
-    "ratio": 0.050157839
+    "count": 4869,
+    "ratio": 0.050175185
   },
   {
     "scarcityId": 79,
     "attributeTypeId": 9,
     "attributeValue": "Rosegold Aviators",
     "attributeTypeName": "Glasses",
-    "count": 5073,
-    "ratio": 0.052334578
+    "count": 5077,
+    "ratio": 0.052318631
   },
   {
     "scarcityId": 80,
     "attributeTypeId": 5,
     "attributeValue": "Navy Blazer with Striped Shirt and No Tie",
     "attributeTypeName": "Top",
-    "count": 5247,
-    "ratio": 0.054129613
+    "count": 5250,
+    "ratio": 0.054101401
   },
   {
     "scarcityId": 81,
     "attributeTypeId": 3,
     "attributeValue": "Auburn",
     "attributeTypeName": "Hair Color",
-    "count": 5797,
-    "ratio": 0.059803577
+    "count": 5805,
+    "ratio": 0.059820692
   },
   {
     "scarcityId": 82,
     "attributeTypeId": 5,
     "attributeValue": "Blue Longsleeve",
     "attributeTypeName": "Top",
-    "count": 5799,
-    "ratio": 0.05982421
+    "count": 5805,
+    "ratio": 0.059820692
   },
   {
     "scarcityId": 83,
     "attributeTypeId": 5,
     "attributeValue": "Charcoal Blazer with Light Blue Shirt and No Tie",
     "attributeTypeName": "Top",
-    "count": 6084,
-    "ratio": 0.062764355
+    "count": 6092,
+    "ratio": 0.062778235
   },
   {
     "scarcityId": 84,
     "attributeTypeId": 12,
     "attributeValue": "Tan Workers Cap",
     "attributeTypeName": "Headwear",
-    "count": 6293,
-    "ratio": 0.064920461
+    "count": 6300,
+    "ratio": 0.064921681
   },
   {
     "scarcityId": 85,
     "attributeTypeId": 6,
     "attributeValue": "Blue Denim",
     "attributeTypeName": "Bottom",
-    "count": 6310,
-    "ratio": 0.065095838
+    "count": 6313,
+    "ratio": 0.065055647
   },
   {
     "scarcityId": 86,
     "attributeTypeId": 2,
     "attributeValue": "Low Ponytail",
     "attributeTypeName": "Hair Style",
-    "count": 6776,
-    "ratio": 0.069903233
+    "count": 6783,
+    "ratio": 0.06989901
   },
   {
     "scarcityId": 87,
     "attributeTypeId": 2,
     "attributeValue": "Short Pixie",
     "attributeTypeName": "Hair Style",
-    "count": 6777,
-    "ratio": 0.069913549
+    "count": 6790,
+    "ratio": 0.069971145
   },
   {
     "scarcityId": 88,
     "attributeTypeId": 5,
     "attributeValue": "Light Gray Longsleeve",
     "attributeTypeName": "Top",
-    "count": 6796,
-    "ratio": 0.070109559
+    "count": 6804,
+    "ratio": 0.070115416
   },
   {
     "scarcityId": 89,
     "attributeTypeId": 2,
     "attributeValue": "Long Messy",
     "attributeTypeName": "Hair Style",
-    "count": 6806,
-    "ratio": 0.070212722
+    "count": 6810,
+    "ratio": 0.070177246
   },
   {
     "scarcityId": 90,
     "attributeTypeId": 2,
     "attributeValue": "Medium Curly Bob",
     "attributeTypeName": "Hair Style",
-    "count": 7729,
-    "ratio": 0.079734664
+    "count": 7733,
+    "ratio": 0.079688788
   },
   {
     "scarcityId": 91,
     "attributeTypeId": 7,
     "attributeValue": "Redbrown Leather Workboot with Brown Sole",
     "attributeTypeName": "Footwear",
-    "count": 7739,
-    "ratio": 0.079837827
+    "count": 7745,
+    "ratio": 0.079812448
   },
   {
     "scarcityId": 92,
     "attributeTypeId": 2,
     "attributeValue": "Short Coil",
     "attributeTypeName": "Hair Style",
-    "count": 8704,
-    "ratio": 0.089793055
+    "count": 8718,
+    "ratio": 0.089839241
   },
   {
     "scarcityId": 93,
     "attributeTypeId": 2,
     "attributeValue": "Short Afro Fade",
     "attributeTypeName": "Hair Style",
-    "count": 8736,
-    "ratio": 0.090123176
+    "count": 8743,
+    "ratio": 0.090096867
   },
   {
     "scarcityId": 94,
     "attributeTypeId": 2,
     "attributeValue": "Buzz Cut",
     "attributeTypeName": "Hair Style",
-    "count": 8751,
-    "ratio": 0.090277921
+    "count": 8761,
+    "ratio": 0.090282357
   },
   {
     "scarcityId": 95,
     "attributeTypeId": 6,
     "attributeValue": "Khaki Slacks",
     "attributeTypeName": "Bottom",
-    "count": 9083,
-    "ratio": 0.093702931
+    "count": 9094,
+    "ratio": 0.093713932
   },
   {
     "scarcityId": 96,
     "attributeTypeId": 6,
     "attributeValue": "Light-Wash Denim",
     "attributeTypeName": "Bottom",
-    "count": 9455,
-    "ratio": 0.097540594
+    "count": 9464,
+    "ratio": 0.097526793
   },
   {
     "scarcityId": 97,
     "attributeTypeId": 9,
     "attributeValue": "Silver Aviators",
     "attributeTypeName": "Glasses",
-    "count": 9457,
-    "ratio": 0.097561227
+    "count": 9472,
+    "ratio": 0.097609233
   },
   {
     "scarcityId": 98,
     "attributeTypeId": 2,
     "attributeValue": "Short Messy",
     "attributeTypeName": "Hair Style",
-    "count": 9666,
-    "ratio": 0.099717333
+    "count": 9673,
+    "ratio": 0.099680544
   },
   {
     "scarcityId": 99,
     "attributeTypeId": 4,
     "attributeValue": "Stubble",
     "attributeTypeName": "Facial Hair",
-    "count": 9672,
-    "ratio": 0.099779231
+    "count": 9677,
+    "ratio": 0.099721764
   },
   {
     "scarcityId": 100,
     "attributeTypeId": 10,
     "attributeValue": "Stud Earring",
     "attributeTypeName": "Piercings",
-    "count": 9681,
-    "ratio": 0.099872077
+    "count": 9689,
+    "ratio": 0.099845424
   },
   {
     "scarcityId": 101,
     "attributeTypeId": 3,
     "attributeValue": "Light Grey",
     "attributeTypeName": "Hair Color",
-    "count": 9686,
-    "ratio": 0.099923659
+    "count": 9694,
+    "ratio": 0.099896949
   },
   {
     "scarcityId": 102,
     "attributeTypeId": 2,
     "attributeValue": "Straight Sideswept Fringe",
     "attributeTypeName": "Hair Style",
-    "count": 9693,
-    "ratio": 0.099995873
+    "count": 9704,
+    "ratio": 0.1
   },
   {
     "scarcityId": 103,
     "attributeTypeId": 2,
     "attributeValue": "",
     "attributeTypeName": "Hair Style",
-    "count": 9706,
-    "ratio": 0.100129985
+    "count": 9716,
+    "ratio": 0.10012366
   },
   {
     "scarcityId": 104,
     "attributeTypeId": 11,
     "attributeValue": "Lunchbox",
     "attributeTypeName": "Accessories",
-    "count": 9714,
-    "ratio": 0.100212515
+    "count": 9721,
+    "ratio": 0.100175185
   },
   {
     "scarcityId": 105,
     "attributeTypeId": 6,
     "attributeValue": "Dark-Wash Denim",
     "attributeTypeName": "Bottom",
-    "count": 11038,
-    "ratio": 0.113871293
+    "count": 11052,
+    "ratio": 0.113891178
   },
   {
     "scarcityId": 106,
     "attributeTypeId": 7,
     "attributeValue": "White Leather Sneaker with Grey Sole",
     "attributeTypeName": "Footwear",
-    "count": 11566,
-    "ratio": 0.119318299
+    "count": 11580,
+    "ratio": 0.119332234
   },
   {
     "scarcityId": 107,
     "attributeTypeId": 7,
     "attributeValue": "Tan Suede Workboot with Tan Sole",
     "attributeTypeName": "Footwear",
-    "count": 11656,
-    "ratio": 0.120246765
+    "count": 11663,
+    "ratio": 0.120187551
   },
   {
     "scarcityId": 108,
     "attributeTypeId": 6,
     "attributeValue": "Gray Slacks",
     "attributeTypeName": "Bottom",
-    "count": 12088,
-    "ratio": 0.124703406
+    "count": 12103,
+    "ratio": 0.124721764
   },
   {
     "scarcityId": 109,
     "attributeTypeId": 11,
     "attributeValue": "Black Leather Briefcase",
     "attributeTypeName": "Accessories",
-    "count": 13545,
-    "ratio": 0.139734252
+    "count": 13560,
+    "ratio": 0.139736191
   },
   {
     "scarcityId": 110,
     "attributeTypeId": 8,
     "attributeValue": "Two Rings",
     "attributeTypeName": "Ring",
-    "count": 13583,
-    "ratio": 0.140126271
+    "count": 13596,
+    "ratio": 0.140107172
   },
   {
     "scarcityId": 111,
     "attributeTypeId": 3,
     "attributeValue": "Blonde",
     "attributeTypeName": "Hair Color",
-    "count": 13585,
-    "ratio": 0.140146904
+    "count": 13604,
+    "ratio": 0.140189612
   },
   {
     "scarcityId": 112,
     "attributeTypeId": 7,
     "attributeValue": "Black Leather Shoes with Laces",
     "attributeTypeName": "Footwear",
-    "count": 13602,
-    "ratio": 0.140322281
+    "count": 13617,
+    "ratio": 0.140323577
   },
   {
     "scarcityId": 113,
     "attributeTypeId": 7,
     "attributeValue": "Black Suede Chelseas with Brown Sole",
     "attributeTypeName": "Footwear",
-    "count": 14558,
-    "ratio": 0.150184661
+    "count": 14579,
+    "ratio": 0.150237015
   },
   {
     "scarcityId": 114,
     "attributeTypeId": 7,
     "attributeValue": "White Canvas Sneaker with White Sole",
     "attributeTypeName": "Footwear",
-    "count": 17421,
-    "ratio": 0.179720222
+    "count": 17443,
+    "ratio": 0.179750618
   },
   {
     "scarcityId": 115,
     "attributeTypeId": 11,
     "attributeValue": "Brown Leather Briefcase",
     "attributeTypeName": "Accessories",
-    "count": 17429,
-    "ratio": 0.179802752
+    "count": 17450,
+    "ratio": 0.179822753
   },
   {
     "scarcityId": 116,
     "attributeTypeId": 3,
     "attributeValue": "Dark Brown",
     "attributeTypeName": "Hair Color",
-    "count": 17476,
-    "ratio": 0.180287618
+    "count": 17492,
+    "ratio": 0.180255564
   },
   {
     "scarcityId": 117,
     "attributeTypeId": 6,
     "attributeValue": "Navy Slacks",
     "attributeTypeName": "Bottom",
-    "count": 18172,
-    "ratio": 0.187467761
+    "count": 18195,
+    "ratio": 0.1875
   },
   {
     "scarcityId": 118,
     "attributeTypeId": 9,
     "attributeValue": "Black Books",
     "attributeTypeName": "Glasses",
-    "count": 19382,
-    "ratio": 0.199950481
+    "count": 19403,
+    "ratio": 0.199948474
   },
   {
     "scarcityId": 119,
     "attributeTypeId": 7,
     "attributeValue": "Brown Leather Shoes with Laces",
     "attributeTypeName": "Footwear",
-    "count": 20377,
-    "ratio": 0.210215197
+    "count": 20398,
+    "ratio": 0.210201978
   },
   {
     "scarcityId": 120,
     "attributeTypeId": 6,
     "attributeValue": "Charcoal Slacks",
     "attributeTypeName": "Bottom",
-    "count": 21232,
-    "ratio": 0.219035632
+    "count": 21248,
+    "ratio": 0.218961253
   },
   {
     "scarcityId": 121,
     "attributeTypeId": 11,
     "attributeValue": "Black Smartphone",
     "attributeTypeName": "Accessories",
-    "count": 21295,
-    "ratio": 0.219685559
+    "count": 21319,
+    "ratio": 0.21969291
   },
   {
     "scarcityId": 122,
     "attributeTypeId": 3,
     "attributeValue": "Light Brown",
     "attributeTypeName": "Hair Color",
-    "count": 21314,
-    "ratio": 0.219881568
+    "count": 21340,
+    "ratio": 0.219909315
   },
   {
     "scarcityId": 123,
     "attributeTypeId": 3,
     "attributeValue": "Black",
     "attributeTypeName": "Hair Color",
-    "count": 29076,
-    "ratio": 0.299956671
+    "count": 29105,
+    "ratio": 0.299927864
   },
   {
     "scarcityId": 124,
     "attributeTypeId": 11,
     "attributeValue": "",
     "attributeTypeName": "Accessories",
-    "count": 32049,
-    "ratio": 0.330627024
+    "count": 32085,
+    "ratio": 0.33063685
   },
   {
     "scarcityId": 125,
     "attributeTypeId": 9,
     "attributeValue": "",
     "attributeTypeName": "Glasses",
-    "count": 62982,
-    "ratio": 0.64974106
+    "count": 63048,
+    "ratio": 0.649711459
   },
   {
     "scarcityId": 126,
     "attributeTypeId": 4,
     "attributeValue": "",
     "attributeTypeName": "Facial Hair",
-    "count": 72754,
-    "ratio": 0.750551921
+    "count": 72834,
+    "ratio": 0.750556471
   },
   {
     "scarcityId": 127,
     "attributeTypeId": 8,
     "attributeValue": "",
     "attributeTypeName": "Ring",
-    "count": 82376,
-    "ratio": 0.849815338
+    "count": 82469,
+    "ratio": 0.849845424
   },
   {
     "scarcityId": 128,
     "attributeTypeId": 12,
     "attributeValue": "",
     "attributeTypeName": "Headwear",
-    "count": 87235,
-    "ratio": 0.899942228
+    "count": 87330,
+    "ratio": 0.899938169
   },
   {
     "scarcityId": 129,
     "attributeTypeId": 10,
     "attributeValue": "",
     "attributeTypeName": "Piercings",
-    "count": 87253,
-    "ratio": 0.900127922
+    "count": 87351,
+    "ratio": 0.900154575
   },
   {
     "scarcityId": 130,
     "attributeTypeId": 1,
     "attributeValue": "White",
     "attributeTypeName": "Background",
-    "count": 96934,
+    "count": 97040,
     "ratio": 1.0
   }
 ];

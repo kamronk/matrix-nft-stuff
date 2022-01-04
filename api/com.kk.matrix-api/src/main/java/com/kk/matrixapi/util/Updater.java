@@ -1,12 +1,16 @@
 package com.kk.matrixapi.util;
 
+import java.io.File;
 import java.util.ArrayList;
 
+import com.google.gson.Gson;
+import com.google.gson.GsonBuilder;
 import com.kk.matrixapi.NiftysAggregatorClient;
 import com.kk.matrixapi.NiftysWebClient;
 import com.kk.matrixapi.db.QueryDoer;
 import com.kk.matrixapi.model.json.Attribute;
 import com.kk.matrixapi.model.json.Nft;
+import com.kk.matrixapi.model.json.RarityComposite;
 
 public class Updater implements Runnable {
 	
@@ -54,6 +58,9 @@ public class Updater implements Runnable {
 				} else {
 					QueryDoer.updateNft(existingNftId, jsonData.likes, jsonData.image);
 				}
+
+		        Gson gg = new GsonBuilder().setPrettyPrinting().create();
+	            Util.writeToFile(".." + File.separator + ".." + File.separator + "json" + File.separator + "indiv_avatars" + File.separator + jsonData.tokenId + ".json", gg.toJson(jsonData));
 				
 				for(Attribute attr : jsonData.attributes) {
 		        	int attrTypeId = QueryDoer.getAttributeTypeId(attr.trait_type);

@@ -51,6 +51,7 @@ public class QueryDoer {
 					, rs.getString(4)
 					, rs.getString(5)
 				));
+				rank++;
 		}
 		rs.close();
 		stmt.close();

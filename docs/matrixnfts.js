@@ -57,9 +57,11 @@ function findAndShow(ids){
 			<tr>
 				<td>${ranking.tokenId}</td>
 				<td><strong>${ranking.rank}</strong> / ${ranks.length} &nbsp <sup>Score: ${parseFloat("" + ranking.avgRatio).toFixed(5)}</sup></td>
+				<td><a class="button small" href="${ranking.image}" target="_blank">Download</a></td>
 				<td><a href="https://niftys.com/nft/0x39ceaa47306381b6d79ad46af0f36bc5332386f2/${ranking.tokenId}" target="_blank">Avatar # ${ranking.tokenId}</a></td>
 			</tr>
 		`);
 	}
 }
+
 

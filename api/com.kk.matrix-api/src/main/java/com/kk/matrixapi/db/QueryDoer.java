@@ -12,98 +12,6 @@ import com.kk.matrixapi.model.json.RarityComposite;
 
 public class QueryDoer {
 
-	public static boolean updateRarity() {
-		boolean retVar = false;
-		try {
-			Connection connection = DbPooledDataSource.getConnection();
-			
-			String stmtStr = "drop table IF EXISTS tempNftRarity; "
-					+ "create table tempNftRarity (nftId int, ratioSum double, avgRatio double, minRatio double, attributeName varchar(500)) " + 
-					"select a.nftId as nftId, sum(t.ratio) as ratioSum, sum(t.ratio) / count(a.attributeId) as avgRatio " + 
-					"from attribute a " + 
-					"	left join scarcity t on t.attributeTypeId = a.attributeTypeId and a.value = t.attributeValue " + 
-					"group by a.nftId " + 
-					"order by avgRatio;" + 
-					"UPDATE tempNftRarity r" + 
-					"SET r.minRatio = (select a.scarcityRatio from attribute a where a.nftId = r.nftId order by a.scarcityRatio limit 1); " +
-					"UPDATE tempNftRarity r " + 
-					"SET r.attributeName = (select a.value from attribute a where a.nftId = r.nftId order by a.scarcityRatio limit 1); ";
-			PreparedStatement stat = connection.prepareStatement(stmtStr);
-			stat.executeUpdate();
-			stat.close();
-			
-			connection.close();
-			retVar = true;
-		} catch (NumberFormatException nfe) {
-			nfe.printStackTrace();
-		} catch (SQLException e) {
-			e.printStackTrace();
-		}
-		return retVar;
-	}
-
-	public static boolean updateScarcity(int numberOfAvatars) {
-		boolean retVar = false;
-		try {
-			Connection connection = DbPooledDataSource.getConnection();
-			String stmtStr = "truncate scarcity; "
-					+ "insert into scarcity (attributeTypeId, attributeValue, attributeTypeName, count, ratio) " + 
-					"select attributeTypeId, value as attributeValue, name as attributeTypeName, numOfThis as count, numOfThis / ? as ratio from attributeCounts ";
-			PreparedStatement stat = connection.prepareStatement(stmtStr);
-			stat.setInt(1, numberOfAvatars);
-			stat.executeUpdate();
-			retVar = true;
-			stat.close();
-			connection.close();
-		} catch (NumberFormatException nfe) {
-			nfe.printStackTrace();
-		} catch (SQLException e) {
-			e.printStackTrace();
-		}
-		return retVar;
-	}
-
-	public static boolean updateAttributeCountsView() {
-		boolean retVar = false;
-		try {
-			Connection connection = DbPooledDataSource.getConnection();
-			String stmtStr = "drop view IF EXISTS attributeCounts; "
-					+ "CREATE VIEW attributeCounts AS " + 
-					"select a.value, at.attributeTypeId, at.name, count(a.attributeId) as numOfThis " + 
-					"from attribute a inner join attributeType at on at.attributeTypeId = a.attributeTypeId " + 
-					"group by a.value, at.attributeTypeId, a.attributeTypeId " + 
-					"order by numOfThis asc";
-			PreparedStatement stat = connection.prepareStatement(stmtStr);
-			stat.executeUpdate();
-			retVar = true;
-			stat.close();
-			connection.close();
-		} catch (NumberFormatException nfe) {
-			nfe.printStackTrace();
-		} catch (SQLException e) {
-			e.printStackTrace();
-		}
-		return retVar;
-	}
-
-	public static boolean updateNftTokenIdInt() {
-		boolean retVar = false;
-		try {
-			Connection connection = DbPooledDataSource.getConnection();
-			String stmtStr = "UPDATE nft SET tokenIdInt = CONVERT(tokenId, SIGNED INTEGER)";
-			PreparedStatement stat = connection.prepareStatement(stmtStr);
-			stat.executeUpdate();
-			retVar = true;
-			stat.close();
-			connection.close();
-		} catch (NumberFormatException nfe) {
-			nfe.printStackTrace();
-		} catch (SQLException e) {
-			e.printStackTrace();
-		}
-		return retVar;
-	}
-
 	public static boolean updateAttributeScarcity(int attributeId, double scarcityRatio) {
 		boolean retVar = false;
 		try {
@@ -128,7 +36,7 @@ public class QueryDoer {
 		ArrayList<RarityComposite> elems = new ArrayList<RarityComposite>();
 		try {
 			Connection connection = DbPooledDataSource.getConnection();
-			String selectQry = " select nft.tokenIdInt, avgRatio, minRatio, attributeName from tempNftRarity t "
+			String selectQry = " select nft.tokenIdInt, avgRatio, minRatio, attributeName, nft.image from tempNftRarity t "
 					+ " join nft on nft.nftId = t.nftId "
 					+ " order by avgRatio ";
 			Statement stmt = connection.createStatement();
@@ -141,6 +49,7 @@ public class QueryDoer {
 					, rs.getDouble(2)
 					, rs.getDouble(3)
 					, rs.getString(4)
+					, rs.getString(5)
 				));
 		}
 		rs.close();
@@ -445,15 +354,16 @@ public class QueryDoer {
 		return retVar;
 	}
 
-	public static int insertNft(String tokenId, int likes, String contractAddress) {
+	public static int insertNft(String tokenId, int likes, String contractAddress, String image) {
 		int retVar = 0;
 		try {
 			Connection connection = DbPooledDataSource.getConnection();
-			String insertStr = "INSERT INTO nft (tokenId, likes, contractAddress) VALUES (?,?,?)";
+			String insertStr = "INSERT INTO nft (tokenId, likes, contractAddress, image) VALUES (?,?,?,?)";
 			PreparedStatement prepStmt = connection.prepareStatement(insertStr, Statement.RETURN_GENERATED_KEYS);
 			prepStmt.setString(1, tokenId);
 			prepStmt.setInt(2, likes);
 			prepStmt.setString(3, contractAddress);
+			prepStmt.setString(4, image);
 			prepStmt.executeUpdate();
 			ResultSet generatedKeys = prepStmt.getGeneratedKeys();
 			if(generatedKeys.next()){
@@ -470,46 +380,102 @@ public class QueryDoer {
 		return retVar;
 	}
 
-//	public boolean updateCampaigns(int campaignId, String name, String ownedByUserId, String active, Date createdDate, Date updatedDate, ServletContext context) {
-//		boolean retVar = false;
-//		try {
-//			Connection connection = DbPooledDataSource.getConnection(context);
-//			String stmtStr = "UPDATE campaigns SET campaign_id = ? , name = ? , owned_by_user_id = ? , active = ? , created_date = ? , updated_date = ?  WHERE campaign_id = ?";
-//			PreparedStatement stat = connection.prepareStatement(stmtStr);
-//			stat.setInt(1, campaignId);
-//			stat.setString(2, name);
-//			stat.setString(3, ownedByUserId);
-//			stat.setString(4, active);
-//			stat.setDate(5, new java.sql.Date(createdDate.getTime()));
-//			stat.setDate(6, new java.sql.Date(updatedDate.getTime()));
-//			stat.executeUpdate();
-//			retVar = true;
-//			stat.close();
-//			connection.close();
-//		} catch (NumberFormatException nfe) {
-//			nfe.printStackTrace();
-//		} catch (SQLException e) {
-//			e.printStackTrace();
-//		}
-//		return retVar;
-//	}
-//
-//	public boolean deleteCampaigns(int campaignId, ServletContext context) {
-//		boolean retVar = false;
-//		try {
-//			Connection connection = DbPooledDataSource.getConnection(context);
-//			String stmtStr = "DELETE FROM campaigns WHERE campaign_id = ?";
-//			PreparedStatement stat = connection.prepareStatement(stmtStr);
-//			stat.setInt(1, campaignId);
-//			stat.executeUpdate();
-//			retVar = true;
-//			stat.close();
-//			connection.close();
-//		} catch (NumberFormatException nfe) {
-//			nfe.printStackTrace();
-//		} catch (SQLException e) {
-//			e.printStackTrace();
-//		}
-//		return retVar;
-//	}
+	public static int updateNft(int nftId, int likes, String image) {
+		int retVar = 0;
+		try {
+			Connection connection = DbPooledDataSource.getConnection();
+			String insertStr = "update nft set likes = ?, image = ? where nftId = ?";
+			PreparedStatement prepStmt = connection.prepareStatement(insertStr, Statement.RETURN_GENERATED_KEYS);
+			prepStmt.setInt(1, likes);
+			prepStmt.setString(2, image);
+			prepStmt.setInt(3, nftId);
+			prepStmt.executeUpdate();
+			ResultSet generatedKeys = prepStmt.getGeneratedKeys();
+			if(generatedKeys.next()){
+				retVar = generatedKeys.getInt(1);
+			}
+			generatedKeys.close();
+			prepStmt.close();
+			connection.close();
+		} catch (NumberFormatException nfe) {
+			nfe.printStackTrace();
+		} catch (SQLException e) {
+			e.printStackTrace();
+		}
+		return retVar;
+	}
+
+	public static boolean updateRarity() {
+		return executeStmts("drop table IF EXISTS tempNftRarity; "
+				+ "create table tempNftRarity (nftId int, ratioSum double, avgRatio double, minRatio double, attributeName varchar(500)) " + 
+						"select a.nftId as nftId, sum(t.ratio) as ratioSum, sum(t.ratio) / count(a.attributeId) as avgRatio " + 
+						"from attribute a " + 
+							"left join scarcity t on t.attributeTypeId = a.attributeTypeId and a.value = t.attributeValue " + 
+						"group by a.nftId " + 
+						"order by avgRatio;" + 
+				"UPDATE tempNftRarity r " + 
+					"SET r.minRatio = (select a.scarcityRatio from attribute a where a.nftId = r.nftId order by a.scarcityRatio limit 1); " +
+				"UPDATE tempNftRarity r " + 
+					"SET r.attributeName = (select a.value from attribute a where a.nftId = r.nftId order by a.scarcityRatio limit 1); ");
+	}
+
+	public static boolean updateScarcity(int numberOfAvatars) {
+		boolean retVar = false;
+		try {
+			Connection connection = DbPooledDataSource.getConnection();
+			
+			PreparedStatement stat1 = connection.prepareStatement("truncate scarcity;");
+			stat1.executeUpdate();
+			stat1.close();
+			
+			PreparedStatement stat = connection.prepareStatement("insert into scarcity (attributeTypeId, attributeValue, attributeTypeName, count, ratio) " + 
+					"select attributeTypeId, value as attributeValue, name as attributeTypeName, numOfThis as count, numOfThis / ? as ratio from attributeCounts ");
+			stat.setInt(1, numberOfAvatars);
+			stat.executeUpdate();
+			stat.close();
+			
+			retVar = true;
+			connection.close();
+		} catch (NumberFormatException nfe) {
+			nfe.printStackTrace();
+		} catch (SQLException e) {
+			e.printStackTrace();
+		}
+		return retVar;
+	}
+
+	public static boolean updateAttributeCountsView() {
+		return executeStmts("drop view IF EXISTS attributeCounts; "
+				+ " CREATE VIEW attributeCounts AS " + 
+						"select a.value, at.attributeTypeId, at.name, count(a.attributeId) as numOfThis " + 
+						"from attribute a inner join attributeType at on at.attributeTypeId = a.attributeTypeId " + 
+						"group by a.value, at.attributeTypeId, a.attributeTypeId " + 
+						"order by numOfThis asc");
+	}
+	
+	public static boolean updateNftTokenIdInt() {
+		return executeStmts("UPDATE nft SET tokenIdInt = CONVERT(tokenId, SIGNED INTEGER)");
+	}
+
+	public static boolean executeStmts(String sql) {
+		boolean retVar = false;
+		try {
+			Connection connection = DbPooledDataSource.getConnection();
+			for(String stmt : sql.split(";")) {
+				if (stmt.trim().length() > 1) {
+					PreparedStatement stat = connection.prepareStatement(stmt);
+					stat.executeUpdate();
+					stat.close();
+				}
+			}
+			retVar = true;
+			connection.close();
+		} catch (NumberFormatException nfe) {
+			nfe.printStackTrace();
+		} catch (SQLException e) {
+			e.printStackTrace();
+		}
+		return retVar;
+	}
+
 }

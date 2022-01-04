@@ -7,15 +7,17 @@ public class RarityComposite {
 	public double avgRatio;
 	public double rarestAttributeRatio;
 	public String rarestAttributeValue;
+	public String image;
 	
 	public RarityComposite(int tokenId, int rank, double avgRatio, double rarestAttributeRatio,
-			String rarestAttributeValue) {
+			String rarestAttributeValue, String image) {
 		super();
 		this.tokenId = tokenId;
 		this.rank = rank;
 		this.avgRatio = avgRatio;
 		this.rarestAttributeRatio = rarestAttributeRatio;
 		this.rarestAttributeValue = rarestAttributeValue;
+		this.image = image;
 	}
 	
 }

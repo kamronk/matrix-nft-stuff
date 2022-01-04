@@ -50,7 +50,9 @@ public class Updater implements Runnable {
 				int existingNftId = QueryDoer.getNftId(jsonData.tokenId);
 				
 				if (existingNftId == 0) {
-					existingNftId = QueryDoer.insertNft(jsonData.tokenId, jsonData.likes, jsonData.contractAddress);
+					existingNftId = QueryDoer.insertNft(jsonData.tokenId, jsonData.likes, jsonData.contractAddress, jsonData.image);
+				} else {
+					QueryDoer.updateNft(existingNftId, jsonData.likes, jsonData.image);
 				}
 				
 				for(Attribute attr : jsonData.attributes) {
@@ -75,7 +77,7 @@ public class Updater implements Runnable {
 		long endTime = System.currentTimeMillis();
 		long timeItTook = endTime - startTime;
 
-		Updater.currentlyRunningStartingIds.remove(this.startId);
+		Updater.currentlyRunningStartingIds.remove(Updater.currentlyRunningStartingIds.indexOf(this.startId));
 		
 		System.out.println("Took: " + timeItTook + " ms");
 	}

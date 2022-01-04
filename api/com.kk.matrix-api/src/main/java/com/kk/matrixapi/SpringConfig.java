@@ -1,10 +1,11 @@
 package com.kk.matrixapi;
 
-import java.io.BufferedWriter;
-import java.io.FileWriter;
+import java.io.File;
 import java.io.IOException;
+import java.util.Date;
 import java.util.List;
 
+import org.apache.commons.io.FileUtils;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.context.annotation.ComponentScan;
 import org.springframework.context.annotation.Configuration;
@@ -12,10 +13,12 @@ import org.springframework.scheduling.annotation.EnableScheduling;
 import org.springframework.scheduling.annotation.Scheduled;
 
 import com.google.gson.Gson;
+import com.google.gson.GsonBuilder;
 import com.kk.matrixapi.db.QueryDoer;
 import com.kk.matrixapi.model.db.Scarcity;
 import com.kk.matrixapi.model.json.RarityComposite;
 import com.kk.matrixapi.util.Updater;
+import com.kk.matrixapi.util.Util;
 
 @Configuration
 @ComponentScan("com.kk.matrixapi")
@@ -44,6 +47,7 @@ public class SpringConfig {
 		
 		while(Updater.currentlyRunningStartingIds.size() != 0) {
 			try {
+				System.out.println("Still working " + (new Date()) + " " + Updater.currentlyRunningStartingIds.size() + " threads left");
 				Thread.sleep(45 * 1000);
 			} catch (InterruptedException e) {
 				e.printStackTrace();
@@ -57,33 +61,25 @@ public class SpringConfig {
 		QueryDoer.updateAttributeCountsView();
 		QueryDoer.updateScarcity(numberOfAvatars);
 		QueryDoer.updateRarity();
+
+		System.out.println("Done updating rarity");
 		
 		//create json files
 
+        Gson gg = new GsonBuilder().setPrettyPrinting().create();
+
     	List<Scarcity> scars = Scarcity.getScarcitys();
-
-        Gson gg = new Gson();
-        
-        String scarsFileBody = gg.toJson(scars);
-        
-        try {
-			BufferedWriter out = new BufferedWriter(new FileWriter("scarcity.json"));
-			out.write(scarsFileBody);
-			out.close();
-		} catch (IOException e) {
-			e.printStackTrace();
-		}
-
     	List<RarityComposite> ranks = QueryDoer.getRanks();
     	
-        String ranksFileBody = gg.toJson(ranks);
-        
-        try {
-			BufferedWriter out = new BufferedWriter(new FileWriter("ranks.json"));
-			out.write(ranksFileBody);
-			out.close();
-		} catch (IOException e) {
-			e.printStackTrace();
-		}
+        Util.writeToFile(".." + File.separator + ".." + File.separator + "json" + File.separator + "scarcity.json", gg.toJson(scars));
+        Util.writeToFile(".." + File.separator + ".." + File.separator + "json" + File.separator + "ranks.json", gg.toJson(ranks));
+        Util.writeToFile(".." + File.separator + ".." + File.separator + "docs" + File.separator + "scarcity.json", 
+        		"var scarcity = " + gg.toJson(scars) + ";");
+        Util.writeToFile(".." + File.separator + ".." + File.separator + "docs" + File.separator + "ranks.json", 
+        		"var ranks = " + gg.toJson(ranks) + ";");
+
+		System.out.println("JSON files created");
+		
+		
 	}
 }

@@ -10,7 +10,7 @@ import java.net.URL;
 
 public class Util {
 
-    private static int writeToFile(String fullfilepath, String fileBody){
+    public static int writeToFile(String fullfilepath, String fileBody){
         int retVar = 1;
         try {
             BufferedWriter out = new BufferedWriter(new FileWriter(fullfilepath));
@@ -23,7 +23,7 @@ public class Util {
         return retVar;
     }
 
-    private static String readFromUrl(String url){
+    public static String readFromUrl(String url){
         String responseBody = "";
         try {
             URL siteUrl = new URL(url);

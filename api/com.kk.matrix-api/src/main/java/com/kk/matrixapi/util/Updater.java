@@ -41,30 +41,13 @@ public class Updater implements Runnable {
 			
 			try {
 
-				Nft blueAvatarNft = null;
-				Nft redAvatarNft = null;
-				Nft baseAvatarNft = null;
-				try {
-					blueAvatarNft = niftysAggregatorClient.getTraits(NiftysAvatarClient.BLUE_ID, i);
-				} catch (Exception e) {/*ignore*/}
-				try {
-					redAvatarNft = niftysAggregatorClient.getTraits(NiftysAvatarClient.RED_ID, i);
-				} catch (Exception e) {/*ignore*/}
-				try {
-					baseAvatarNft = niftysAggregatorClient.getTraits(NiftysAvatarClient.BASE_ID, i);
-				} catch (Exception e) {/*ignore*/}
+				Nft jsonData = getNft(i);
 
-				Nft jsonData = null;
-
-				if (blueAvatarNft != null) {
-					jsonData = blueAvatarNft;
-					jsonData.contractAddress = "0x423e540cb46db0e4df1ac96bcbddf78a804647d8";
-				} else if (redAvatarNft != null) {
-					jsonData = redAvatarNft;
-					jsonData.contractAddress = "0x28e4b03bc88b59d25f3467b2252b66d4b2c43286";
-				} else {
-					jsonData = baseAvatarNft;
-					jsonData.contractAddress = "0x39ceaa47306381b6d79ad46af0f36bc5332386f2";
+				if (jsonData == null) {
+					//try one more time, else let exception be thrown from here
+					jsonData = getNft(i);
+					continue;
+//					throw new Exception("Could not find token #" + i);
 				}
 				
 //				List<OffersComposite> offers = niftysWebClient.getOffers(i);
@@ -96,9 +79,7 @@ public class Updater implements Runnable {
 				}
 				
 			} catch (Exception e) {
-				if (!e.getMessage().contains("404 Not Found")) {
-					e.printStackTrace();
-				}
+				e.printStackTrace();
 			}
 
 		}
@@ -109,6 +90,28 @@ public class Updater implements Runnable {
 		Updater.currentlyRunningStartingIds.remove(Updater.currentlyRunningStartingIds.indexOf(this.startId));
 		
 		System.out.println("Took: " + timeItTook + " ms");
+	}
+	
+	private Nft getNft(int tokenId) {
+		Nft blueAvatarNft = null;
+		Nft redAvatarNft = null;
+		Nft baseAvatarNft = null;
+		try {
+			blueAvatarNft = niftysAggregatorClient.getTraits(NiftysAvatarClient.BLUE_ID, tokenId);
+			blueAvatarNft.contractAddress = "0x423e540cb46db0e4df1ac96bcbddf78a804647d8";
+			return blueAvatarNft;
+		} catch (Exception e) {/*ignore*/}
+		try {
+			redAvatarNft = niftysAggregatorClient.getTraits(NiftysAvatarClient.RED_ID, tokenId);
+			redAvatarNft.contractAddress = "0x28e4b03bc88b59d25f3467b2252b66d4b2c43286";
+			return redAvatarNft;
+		} catch (Exception e) {/*ignore*/}
+		try {
+			baseAvatarNft = niftysAggregatorClient.getTraits(NiftysAvatarClient.BASE_ID, tokenId);
+			baseAvatarNft.contractAddress = "0x39ceaa47306381b6d79ad46af0f36bc5332386f2";
+			return baseAvatarNft;
+		} catch (Exception e) {/*ignore*/}
+		return null;
 	}
 
 }

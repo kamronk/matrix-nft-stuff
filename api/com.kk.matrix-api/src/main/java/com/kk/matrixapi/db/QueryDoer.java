@@ -146,6 +146,14 @@ public class QueryDoer {
 		int id = 0;
 		try {
 			Connection connection = DbPooledDataSource.getConnection();
+
+//			PreparedStatement stat1 = connection.prepareStatement("SET CHARACTER SET 'utf8';");
+//			stat1.executeUpdate();
+//			stat1.close();
+//			PreparedStatement stat2 = connection.prepareStatement("SET NAMES 'utf8';");
+//			stat2.executeUpdate();
+//			stat2.close();
+
 			String selectQry = " SELECT attributeId FROM attribute where value = ? AND nftId = ? AND attributeTypeId = ?";
 			PreparedStatement prepStat = connection.prepareStatement(selectQry);
 			prepStat.setString(1, value);
@@ -161,6 +169,9 @@ public class QueryDoer {
 		} catch (NumberFormatException nfe) {
 			nfe.printStackTrace();
 		} catch (SQLException se) {
+			System.out.println(">" + value + "<");
+			System.out.println(">" + nftId + "<");
+			System.out.println(">" + attributeTypeId + "<");
 			se.printStackTrace();
 		}
 		return id;
@@ -290,6 +301,9 @@ public class QueryDoer {
 			Connection connection = DbPooledDataSource.getConnection();
 			String insertStr = "INSERT INTO attribute (value, nftId, attributeTypeId) VALUES (?,?,?)";
 			PreparedStatement prepStmt = connection.prepareStatement(insertStr, Statement.RETURN_GENERATED_KEYS);
+			if (value.contains("\\xC5\\x84ski")) {
+				System.out.println("");
+			}
 			prepStmt.setString(1, value);
 			prepStmt.setInt(2, nftId);
 			prepStmt.setInt(3, attributeTypeId);

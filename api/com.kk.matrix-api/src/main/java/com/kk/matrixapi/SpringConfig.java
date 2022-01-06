@@ -26,14 +26,14 @@ import com.kk.matrixapi.util.Util;
 public class SpringConfig {
 	
 	@Autowired
-	NiftysAggregatorClient webClient;
+	NiftysAvatarClient webClient;
 	
 	@Autowired
 	NiftysWebClient niftysWebClient;
 
 	@Scheduled(fixedDelay = 86400000)
 	public void updateTraits() {
-		
+
 		int chunks = 100;
 		for(int i = 0; i < chunks; i++) {
 			int totalToDo = 100000 / chunks;

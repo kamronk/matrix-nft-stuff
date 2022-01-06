@@ -5,7 +5,7 @@ import java.util.ArrayList;
 
 import com.google.gson.Gson;
 import com.google.gson.GsonBuilder;
-import com.kk.matrixapi.NiftysAggregatorClient;
+import com.kk.matrixapi.NiftysAvatarClient;
 import com.kk.matrixapi.NiftysWebClient;
 import com.kk.matrixapi.db.QueryDoer;
 import com.kk.matrixapi.model.json.Attribute;
@@ -16,14 +16,14 @@ public class Updater implements Runnable {
 	
 	public static ArrayList<Integer> currentlyRunningStartingIds = new ArrayList<Integer>();
 	
-	NiftysAggregatorClient niftysAggregatorClient;
+	NiftysAvatarClient niftysAggregatorClient;
 
 	NiftysWebClient niftysWebClient;
 
 	private int startId;
 	private int endId;
 
-	public Updater(int startId, int endId, NiftysWebClient niftysWebClient, NiftysAggregatorClient niftysAggregatorClient) {
+	public Updater(int startId, int endId, NiftysWebClient niftysWebClient, NiftysAvatarClient niftysAggregatorClient) {
 		this.startId = startId;
 		this.endId = endId;
 		this.niftysAggregatorClient = niftysAggregatorClient;
@@ -41,14 +41,36 @@ public class Updater implements Runnable {
 			
 			try {
 
-				Nft jsonData = niftysAggregatorClient.getTraits(i);
+				Nft blueAvatarNft = null;
+				Nft redAvatarNft = null;
+				Nft baseAvatarNft = null;
+				try {
+					blueAvatarNft = niftysAggregatorClient.getTraits(NiftysAvatarClient.BLUE_ID, i);
+				} catch (Exception e) {/*ignore*/}
+				try {
+					redAvatarNft = niftysAggregatorClient.getTraits(NiftysAvatarClient.RED_ID, i);
+				} catch (Exception e) {/*ignore*/}
+				try {
+					baseAvatarNft = niftysAggregatorClient.getTraits(NiftysAvatarClient.BASE_ID, i);
+				} catch (Exception e) {/*ignore*/}
+
+				Nft jsonData = null;
+
+				if (blueAvatarNft != null) {
+					jsonData = blueAvatarNft;
+					jsonData.contractAddress = "0x423e540cb46db0e4df1ac96bcbddf78a804647d8";
+				} else if (redAvatarNft != null) {
+					jsonData = redAvatarNft;
+					jsonData.contractAddress = "0x28e4b03bc88b59d25f3467b2252b66d4b2c43286";
+				} else {
+					jsonData = baseAvatarNft;
+					jsonData.contractAddress = "0x39ceaa47306381b6d79ad46af0f36bc5332386f2";
+				}
+				
 //				List<OffersComposite> offers = niftysWebClient.getOffers(i);
 				
 				if (jsonData.tokenId == null) {
 					jsonData.tokenId = "" + i;
-				}
-				if (jsonData.contractAddress == null) {
-					jsonData.contractAddress = "0x39ceaa47306381b6d79ad46af0f36bc5332386f2";
 				}
 				
 				int existingNftId = QueryDoer.getNftId(jsonData.tokenId);

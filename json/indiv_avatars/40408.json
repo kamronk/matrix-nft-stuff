@@ -7,36 +7,16 @@
   "image": "https://media.niftys.com/nfts/matrix/media/ckw793yrm227075f573bfme91dn.png",
   "attributes": [
     {
-      "value": "White",
-      "trait_type": "Background"
+      "value": "Black Leather Briefcase",
+      "trait_type": "Accessories"
     },
     {
-      "value": "Buzz Cut",
-      "trait_type": "Hair Style"
-    },
-    {
-      "value": "Dark Brown",
-      "trait_type": "Hair Color"
+      "value": "Stud Earring",
+      "trait_type": "Piercings"
     },
     {
       "value": "",
-      "trait_type": "Facial Hair"
-    },
-    {
-      "value": "Gray Oxford with Tie and Pocket",
-      "trait_type": "Top"
-    },
-    {
-      "value": "Khaki Slacks",
-      "trait_type": "Bottom"
-    },
-    {
-      "value": "Brown Leather Shoes with Laces",
-      "trait_type": "Footwear"
-    },
-    {
-      "value": "",
-      "trait_type": "Ring"
+      "trait_type": "Glasses"
     },
     {
       "value": "",
@@ -44,15 +24,35 @@
     },
     {
       "value": "",
-      "trait_type": "Glasses"
+      "trait_type": "Ring"
     },
     {
-      "value": "Stud Earring",
-      "trait_type": "Piercings"
+      "value": "Brown Leather Shoes with Laces",
+      "trait_type": "Footwear"
     },
     {
-      "value": "Black Leather Briefcase",
-      "trait_type": "Accessories"
+      "value": "Khaki Slacks",
+      "trait_type": "Bottom"
+    },
+    {
+      "value": "Gray Oxford with Tie and Pocket",
+      "trait_type": "Top"
+    },
+    {
+      "value": "",
+      "trait_type": "Facial Hair"
+    },
+    {
+      "value": "Dark Brown",
+      "trait_type": "Hair Color"
+    },
+    {
+      "value": "Buzz Cut",
+      "trait_type": "Hair Style"
+    },
+    {
+      "value": "White",
+      "trait_type": "Background"
     }
   ]
 }

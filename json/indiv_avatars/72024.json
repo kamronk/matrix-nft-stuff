@@ -7,40 +7,12 @@
   "image": "https://media.niftys.com/nfts/matrix/media/ckw7bhbhj280653f973c6r2jo90.png",
   "attributes": [
     {
-      "value": "White",
-      "trait_type": "Background"
-    },
-    {
-      "value": "Buzz Cut",
-      "trait_type": "Hair Style"
-    },
-    {
-      "value": "Black",
-      "trait_type": "Hair Color"
-    },
-    {
-      "value": "Stubble",
-      "trait_type": "Facial Hair"
-    },
-    {
-      "value": "Khaki Jumpsuit",
-      "trait_type": "Top"
+      "value": "Tan Worker\u0027s Cap",
+      "trait_type": "Headwear"
     },
     {
       "value": "",
-      "trait_type": "Bottom"
-    },
-    {
-      "value": "White Canvas Sneaker with White Sole",
-      "trait_type": "Footwear"
-    },
-    {
-      "value": "",
-      "trait_type": "Ring"
-    },
-    {
-      "value": "",
-      "trait_type": "Glasses"
+      "trait_type": "Accessories"
     },
     {
       "value": "",
@@ -48,11 +20,39 @@
     },
     {
       "value": "",
-      "trait_type": "Accessories"
+      "trait_type": "Glasses"
     },
     {
-      "value": "Tan Workers Cap",
-      "trait_type": "Headwear"
+      "value": "",
+      "trait_type": "Ring"
+    },
+    {
+      "value": "White Canvas Sneaker with White Sole",
+      "trait_type": "Footwear"
+    },
+    {
+      "value": "",
+      "trait_type": "Bottom"
+    },
+    {
+      "value": "Khaki Jumpsuit",
+      "trait_type": "Top"
+    },
+    {
+      "value": "Stubble",
+      "trait_type": "Facial Hair"
+    },
+    {
+      "value": "Black",
+      "trait_type": "Hair Color"
+    },
+    {
+      "value": "Buzz Cut",
+      "trait_type": "Hair Style"
+    },
+    {
+      "value": "White",
+      "trait_type": "Background"
     }
   ]
 }

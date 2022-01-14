@@ -1,46 +1,114 @@
 {
   "owners": 0,
   "likes": 0,
-  "contractAddress": "0x39ceaa47306381b6d79ad46af0f36bc5332386f2",
+  "contractAddress": "0x28e4b03bc88b59d25f3467b2252b66d4b2c43286",
   "tokenId": "53544",
   "name": "Matrix Avatar #53544",
-  "image": "https://media.niftys.com/nfts/matrix/media/ckw79p9i6241593f3733i5r5otp.png",
+  "image": "https://media.niftys.com/nfts/matrix/media/ckx9uwwcl437524zq739jybozwt.png",
   "attributes": [
     {
-      "value": "White",
-      "trait_type": "Background"
+      "value": "You\u0027ve got a bad feeling about this",
+      "trait_type": "Perception"
     },
     {
-      "value": "Low Ponytail",
-      "trait_type": "Hair Style"
+      "value": "Yes",
+      "trait_type": "Headjack"
     },
     {
-      "value": "Auburn",
-      "trait_type": "Hair Color"
+      "value": "Small Arrows",
+      "trait_type": "Bicep Tattoo"
     },
     {
-      "value": "Mustache",
-      "trait_type": "Facial Hair"
+      "value": "None",
+      "trait_type": "Name"
     },
     {
-      "value": "Light Gray Cardigan with Tan Oxford Shirt",
+      "value": "Black Leather Tank",
       "trait_type": "Top"
     },
     {
-      "value": "Blue Denim",
-      "trait_type": "Bottom"
+      "value": "Steps forward as others flee",
+      "trait_type": "Will"
     },
     {
-      "value": "Tan Suede Workboot with Tan Sole",
+      "value": "Square",
+      "trait_type": "Forearm Tattoo"
+    },
+    {
+      "value": "Sleep paralysis",
+      "trait_type": "Movement"
+    },
+    {
+      "value": "Nobody\u0027s buying it",
+      "trait_type": "Persuasion"
+    },
+    {
+      "value": "Katana with Black Handle and Silver Blade",
+      "trait_type": "Right Hand Accessory"
+    },
+    {
+      "value": "Black Patent Leather Neo Combat Boot",
       "trait_type": "Footwear"
     },
     {
-      "value": "",
-      "trait_type": "Ring"
+      "value": "Green Cotton Wool Slacks with Buckles",
+      "trait_type": "Bottom"
+    },
+    {
+      "value": "Appreciation for the complexity of human behavior",
+      "trait_type": "Awareness"
+    },
+    {
+      "value": "Your grandma beats you at arm-wrestling",
+      "trait_type": "Power"
+    },
+    {
+      "value": "2",
+      "trait_type": "Charisma"
+    },
+    {
+      "value": "12",
+      "trait_type": "Wisdom"
+    },
+    {
+      "value": "9",
+      "trait_type": "Intelligence"
+    },
+    {
+      "value": "2",
+      "trait_type": "Dexterity"
+    },
+    {
+      "value": "13",
+      "trait_type": "Constitution"
+    },
+    {
+      "value": "2",
+      "trait_type": "Strength"
+    },
+    {
+      "value": "1",
+      "trait_type": "Votes"
+    },
+    {
+      "value": "1",
+      "trait_type": "Generation"
     },
     {
       "value": "",
-      "trait_type": "Headwear"
+      "trait_type": "Left Hand Accessory"
+    },
+    {
+      "value": "",
+      "trait_type": "Front Neck Tattoo"
+    },
+    {
+      "value": "",
+      "trait_type": "Side Neck Tattoo"
+    },
+    {
+      "value": "",
+      "trait_type": "Piercings"
     },
     {
       "value": "",
@@ -48,11 +116,35 @@
     },
     {
       "value": "",
-      "trait_type": "Piercings"
+      "trait_type": "Neckwear"
     },
     {
-      "value": "Black Smartphone",
-      "trait_type": "Accessories"
+      "value": "",
+      "trait_type": "Wristwear"
+    },
+    {
+      "value": "",
+      "trait_type": "Facial Expression"
+    },
+    {
+      "value": "Thin",
+      "trait_type": "Facial Hair"
+    },
+    {
+      "value": "Natural",
+      "trait_type": "Hair Dye"
+    },
+    {
+      "value": "Auburn",
+      "trait_type": "Hair Color"
+    },
+    {
+      "value": "Short Afro Fade",
+      "trait_type": "Hair Style"
+    },
+    {
+      "value": "Light Rain",
+      "trait_type": "Background"
     }
   ]
 }

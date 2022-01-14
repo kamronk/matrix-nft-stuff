@@ -7,40 +7,12 @@
   "image": "https://media.niftys.com/nfts/matrix/media/ckw75mt6d151101f4738rhykocv.png",
   "attributes": [
     {
-      "value": "White",
-      "trait_type": "Background"
-    },
-    {
-      "value": "Short Updo",
-      "trait_type": "Hair Style"
-    },
-    {
-      "value": "Dark Brown",
-      "trait_type": "Hair Color"
-    },
-    {
-      "value": "Stubble",
-      "trait_type": "Facial Hair"
-    },
-    {
-      "value": "Gray Jumpsuit",
-      "trait_type": "Top"
+      "value": "Brown Leather Briefcase",
+      "trait_type": "Accessories"
     },
     {
       "value": "",
-      "trait_type": "Bottom"
-    },
-    {
-      "value": "White Leather Sneaker with Grey Sole",
-      "trait_type": "Footwear"
-    },
-    {
-      "value": "",
-      "trait_type": "Ring"
-    },
-    {
-      "value": "",
-      "trait_type": "Headwear"
+      "trait_type": "Piercings"
     },
     {
       "value": "",
@@ -48,11 +20,39 @@
     },
     {
       "value": "",
-      "trait_type": "Piercings"
+      "trait_type": "Headwear"
     },
     {
-      "value": "Brown Leather Briefcase",
-      "trait_type": "Accessories"
+      "value": "",
+      "trait_type": "Ring"
+    },
+    {
+      "value": "White Leather Sneaker with Grey Sole",
+      "trait_type": "Footwear"
+    },
+    {
+      "value": "",
+      "trait_type": "Bottom"
+    },
+    {
+      "value": "Gray Jumpsuit",
+      "trait_type": "Top"
+    },
+    {
+      "value": "Stubble",
+      "trait_type": "Facial Hair"
+    },
+    {
+      "value": "Dark Brown",
+      "trait_type": "Hair Color"
+    },
+    {
+      "value": "Short Updo",
+      "trait_type": "Hair Style"
+    },
+    {
+      "value": "White",
+      "trait_type": "Background"
     }
   ]
 }

@@ -7,40 +7,32 @@
   "image": "https://media.niftys.com/nfts/matrix/media/ckw76z39b179838f173wivcw7t9.png",
   "attributes": [
     {
-      "value": "White",
-      "trait_type": "Background"
-    },
-    {
-      "value": "Short Coil",
-      "trait_type": "Hair Style"
-    },
-    {
-      "value": "Light Brown",
-      "trait_type": "Hair Color"
+      "value": "Gray Blazer with Black Shirt and No Tie",
+      "trait_type": "Top"
     },
     {
       "value": "",
       "trait_type": "Facial Hair"
     },
     {
-      "value": "Gray Blazer with Black Shirt and No Tie",
-      "trait_type": "Top"
+      "value": "Light Brown",
+      "trait_type": "Hair Color"
     },
     {
-      "value": "Blue Denim",
-      "trait_type": "Bottom"
+      "value": "Short Coil",
+      "trait_type": "Hair Style"
     },
     {
-      "value": "Redbrown Leather Workboot with Brown Sole",
-      "trait_type": "Footwear"
+      "value": "White",
+      "trait_type": "Background"
     },
     {
-      "value": "Two Rings",
-      "trait_type": "Ring"
+      "value": "Brown Leather Briefcase",
+      "trait_type": "Accessories"
     },
     {
       "value": "",
-      "trait_type": "Headwear"
+      "trait_type": "Piercings"
     },
     {
       "value": "",
@@ -48,11 +40,19 @@
     },
     {
       "value": "",
-      "trait_type": "Piercings"
+      "trait_type": "Headwear"
     },
     {
-      "value": "Brown Leather Briefcase",
-      "trait_type": "Accessories"
+      "value": "Two Rings",
+      "trait_type": "Ring"
+    },
+    {
+      "value": "Redbrown Leather Workboot with Brown Sole",
+      "trait_type": "Footwear"
+    },
+    {
+      "value": "Blue Denim",
+      "trait_type": "Bottom"
     }
   ]
 }

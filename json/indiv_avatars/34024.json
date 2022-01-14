@@ -7,44 +7,8 @@
   "image": "https://media.niftys.com/nfts/matrix/media/ckw748ju2119927f773ije7u7c1.png",
   "attributes": [
     {
-      "value": "White",
-      "trait_type": "Background"
-    },
-    {
-      "value": "Short Coil",
-      "trait_type": "Hair Style"
-    },
-    {
-      "value": "Dark Brown",
-      "trait_type": "Hair Color"
-    },
-    {
-      "value": "Thin",
-      "trait_type": "Facial Hair"
-    },
-    {
-      "value": "Olive Cardigan with Light Gray Longsleeve Shirt",
-      "trait_type": "Top"
-    },
-    {
-      "value": "Blue Denim",
-      "trait_type": "Bottom"
-    },
-    {
-      "value": "Brown Leather Shoes with Laces",
-      "trait_type": "Footwear"
-    },
-    {
       "value": "",
-      "trait_type": "Ring"
-    },
-    {
-      "value": "",
-      "trait_type": "Headwear"
-    },
-    {
-      "value": "",
-      "trait_type": "Glasses"
+      "trait_type": "Accessories"
     },
     {
       "value": "",
@@ -52,7 +16,43 @@
     },
     {
       "value": "",
-      "trait_type": "Accessories"
+      "trait_type": "Glasses"
+    },
+    {
+      "value": "",
+      "trait_type": "Headwear"
+    },
+    {
+      "value": "",
+      "trait_type": "Ring"
+    },
+    {
+      "value": "Brown Leather Shoes with Laces",
+      "trait_type": "Footwear"
+    },
+    {
+      "value": "Blue Denim",
+      "trait_type": "Bottom"
+    },
+    {
+      "value": "Olive Cardigan with Light Gray Longsleeve Shirt",
+      "trait_type": "Top"
+    },
+    {
+      "value": "Thin",
+      "trait_type": "Facial Hair"
+    },
+    {
+      "value": "Dark Brown",
+      "trait_type": "Hair Color"
+    },
+    {
+      "value": "Short Coil",
+      "trait_type": "Hair Style"
+    },
+    {
+      "value": "White",
+      "trait_type": "Background"
     }
   ]
 }

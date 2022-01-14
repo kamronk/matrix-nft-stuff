@@ -1,50 +1,102 @@
 {
   "owners": 0,
   "likes": 0,
-  "contractAddress": "0x39ceaa47306381b6d79ad46af0f36bc5332386f2",
+  "contractAddress": "0x28e4b03bc88b59d25f3467b2252b66d4b2c43286",
   "tokenId": "93569",
   "name": "Matrix Avatar #93569",
-  "image": "https://media.niftys.com/nfts/matrix/media/ckw79k7ca237940f273v8w4l06m.png",
+  "image": "https://media.niftys.com/nfts/matrix/media/ckx9ulrtx433013zp732tq685ae.png",
   "attributes": [
     {
-      "value": "White",
-      "trait_type": "Background"
+      "value": "Meditative",
+      "trait_type": "Facial Expression"
     },
     {
-      "value": "Buzz Cut",
-      "trait_type": "Hair Style"
+      "value": "Black Shotgun",
+      "trait_type": "Left Hand Accessory"
     },
     {
-      "value": "Dark Brown",
-      "trait_type": "Hair Color"
+      "value": "You\u0027re a bit of a charmer",
+      "trait_type": "Persuasion"
+    },
+    {
+      "value": "7",
+      "trait_type": "Charisma"
+    },
+    {
+      "value": "You have a childlike sense of wonder",
+      "trait_type": "Awareness"
+    },
+    {
+      "value": "7",
+      "trait_type": "Wisdom"
+    },
+    {
+      "value": "Can smell fear",
+      "trait_type": "Perception"
+    },
+    {
+      "value": "14",
+      "trait_type": "Intelligence"
+    },
+    {
+      "value": "Can walk and chew gum AT THE SAME TIME (good job!)",
+      "trait_type": "Movement"
+    },
+    {
+      "value": "4",
+      "trait_type": "Dexterity"
+    },
+    {
+      "value": "True grit",
+      "trait_type": "Will"
+    },
+    {
+      "value": "9",
+      "trait_type": "Constitution"
+    },
+    {
+      "value": "Can put up a fight",
+      "trait_type": "Power"
+    },
+    {
+      "value": "4",
+      "trait_type": "Strength"
+    },
+    {
+      "value": "TBD",
+      "trait_type": "Name"
+    },
+    {
+      "value": "1",
+      "trait_type": "Votes"
+    },
+    {
+      "value": "1",
+      "trait_type": "Generation"
+    },
+    {
+      "value": "Yes",
+      "trait_type": "Headjack"
     },
     {
       "value": "",
-      "trait_type": "Facial Hair"
-    },
-    {
-      "value": "Blue Longsleeve",
-      "trait_type": "Top"
-    },
-    {
-      "value": "Light-Wash Denim",
-      "trait_type": "Bottom"
-    },
-    {
-      "value": "Black Suede Chelseas with Brown Sole",
-      "trait_type": "Footwear"
+      "trait_type": "Right Hand Accessory"
     },
     {
       "value": "",
-      "trait_type": "Ring"
+      "trait_type": "Front Neck Tattoo"
+    },
+    {
+      "value": "Intersecting Triangles",
+      "trait_type": "Side Neck Tattoo"
     },
     {
       "value": "",
-      "trait_type": "Headwear"
+      "trait_type": "Forearm Tattoo"
     },
     {
       "value": "",
-      "trait_type": "Glasses"
+      "trait_type": "Bicep Tattoo"
     },
     {
       "value": "",
@@ -52,7 +104,47 @@
     },
     {
       "value": "",
-      "trait_type": "Accessories"
+      "trait_type": "Glasses"
+    },
+    {
+      "value": "",
+      "trait_type": "Neckwear"
+    },
+    {
+      "value": "",
+      "trait_type": "Wristwear"
+    },
+    {
+      "value": "Red Leather Neo Combat Boot",
+      "trait_type": "Footwear"
+    },
+    {
+      "value": "Black Cotton Leggings",
+      "trait_type": "Bottom"
+    },
+    {
+      "value": "Green Leather Moto Jacket with Charcoal Leather Crew",
+      "trait_type": "Top"
+    },
+    {
+      "value": "",
+      "trait_type": "Facial Hair"
+    },
+    {
+      "value": "Natural",
+      "trait_type": "Hair Dye"
+    },
+    {
+      "value": "Dark Brown",
+      "trait_type": "Hair Color"
+    },
+    {
+      "value": "Short Sideswept Fringe",
+      "trait_type": "Hair Style"
+    },
+    {
+      "value": "Heavy Rain",
+      "trait_type": "Background"
     }
   ]
 }

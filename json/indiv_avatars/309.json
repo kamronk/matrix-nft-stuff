@@ -7,20 +7,20 @@
   "image": "https://media.niftys.com/nfts/matrix/media/ckw6yuwqk0270f67389fdrxdq.png",
   "attributes": [
     {
-      "value": "White",
-      "trait_type": "Background"
-    },
-    {
-      "value": "Short Afro Fade",
-      "trait_type": "Hair Style"
+      "value": "",
+      "trait_type": "Facial Hair"
     },
     {
       "value": "Black",
       "trait_type": "Hair Color"
     },
     {
-      "value": "",
-      "trait_type": "Facial Hair"
+      "value": "Short Afro Fade",
+      "trait_type": "Hair Style"
+    },
+    {
+      "value": "White",
+      "trait_type": "Background"
     },
     {
       "value": "Navy Jumpsuit",

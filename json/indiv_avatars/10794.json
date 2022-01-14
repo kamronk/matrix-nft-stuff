@@ -1,58 +1,150 @@
 {
   "owners": 0,
   "likes": 0,
-  "contractAddress": "0x39ceaa47306381b6d79ad46af0f36bc5332386f2",
+  "contractAddress": "0x28e4b03bc88b59d25f3467b2252b66d4b2c43286",
   "tokenId": "10794",
   "name": "Matrix Avatar #10794",
-  "image": "https://media.niftys.com/nfts/matrix/media/ckw71455z48675f173ztwliu8a.png",
+  "image": "https://media.niftys.com/nfts/matrix/media/ckx9l4ldi103556zo732isw9kil.png",
   "attributes": [
     {
-      "value": "White",
-      "trait_type": "Background"
+      "value": "Katana with Black Handle and Silver Blade",
+      "trait_type": "Left Hand Accessory"
     },
     {
-      "value": "Short Afro Fade",
-      "trait_type": "Hair Style"
-    },
-    {
-      "value": "Light Brown",
-      "trait_type": "Hair Color"
-    },
-    {
-      "value": "",
-      "trait_type": "Facial Hair"
-    },
-    {
-      "value": "Dark Gray Longsleeve",
-      "trait_type": "Top"
-    },
-    {
-      "value": "Dark-Wash Denim",
-      "trait_type": "Bottom"
-    },
-    {
-      "value": "Black Suede Chelseas with Brown Sole",
+      "value": "White Leather Combat Cuff Boot",
       "trait_type": "Footwear"
     },
     {
-      "value": "Two Rings",
-      "trait_type": "Ring"
+      "value": "Maintains status quo",
+      "trait_type": "Persuasion"
+    },
+    {
+      "value": "5",
+      "trait_type": "Charisma"
+    },
+    {
+      "value": "You have walked the manifold path",
+      "trait_type": "Awareness"
+    },
+    {
+      "value": "14",
+      "trait_type": "Wisdom"
+    },
+    {
+      "value": "Can hear a heartbeat a mile away",
+      "trait_type": "Perception"
+    },
+    {
+      "value": "12",
+      "trait_type": "Intelligence"
+    },
+    {
+      "value": "Getting the hang of it",
+      "trait_type": "Movement"
+    },
+    {
+      "value": "5",
+      "trait_type": "Dexterity"
+    },
+    {
+      "value": "Incredible moral fiber",
+      "trait_type": "Will"
+    },
+    {
+      "value": "11",
+      "trait_type": "Constitution"
+    },
+    {
+      "value": "Can put up a fight",
+      "trait_type": "Power"
+    },
+    {
+      "value": "4",
+      "trait_type": "Strength"
+    },
+    {
+      "value": "TBD",
+      "trait_type": "Name"
+    },
+    {
+      "value": "1",
+      "trait_type": "Votes"
+    },
+    {
+      "value": "1",
+      "trait_type": "Generation"
+    },
+    {
+      "value": "Yes",
+      "trait_type": "Headjack"
     },
     {
       "value": "",
-      "trait_type": "Headwear"
+      "trait_type": "Right Hand Accessory"
     },
     {
       "value": "",
-      "trait_type": "Glasses"
+      "trait_type": "Front Neck Tattoo"
+    },
+    {
+      "value": "",
+      "trait_type": "Side Neck Tattoo"
+    },
+    {
+      "value": "Alchemy",
+      "trait_type": "Forearm Tattoo"
+    },
+    {
+      "value": "Shaded Circle",
+      "trait_type": "Bicep Tattoo"
     },
     {
       "value": "",
       "trait_type": "Piercings"
     },
     {
-      "value": "Lunchbox",
-      "trait_type": "Accessories"
+      "value": "Black Wayfarer with Black Lens",
+      "trait_type": "Glasses"
+    },
+    {
+      "value": "",
+      "trait_type": "Neckwear"
+    },
+    {
+      "value": "",
+      "trait_type": "Wristwear"
+    },
+    {
+      "value": "Red Leather Leggings",
+      "trait_type": "Bottom"
+    },
+    {
+      "value": "Black Patent Leather Tank",
+      "trait_type": "Top"
+    },
+    {
+      "value": "",
+      "trait_type": "Facial Expression"
+    },
+    {
+      "value": "Mustache",
+      "trait_type": "Facial Hair"
+    },
+    {
+      "value": "Natural",
+      "trait_type": "Hair Dye"
+    },
+    {
+      "value": "Light Brown",
+      "trait_type": "Hair Color"
+    },
+    {
+      "value": "Short Coil",
+      "trait_type": "Hair Style"
+    },
+    {
+      "value": "Light Rain",
+      "trait_type": "Background"
     }
   ]
 }

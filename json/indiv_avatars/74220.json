@@ -1,58 +1,150 @@
 {
   "owners": 0,
   "likes": 0,
-  "contractAddress": "0x39ceaa47306381b6d79ad46af0f36bc5332386f2",
+  "contractAddress": "0x28e4b03bc88b59d25f3467b2252b66d4b2c43286",
   "tokenId": "74220",
   "name": "Matrix Avatar #74220",
-  "image": "https://media.niftys.com/nfts/matrix/media/ckw7bpmcj284921fa73s0ulcbbp.png",
+  "image": "https://media.niftys.com/nfts/matrix/media/ckx9wnxns500799zx73wp69f1k8.png",
   "attributes": [
     {
-      "value": "",
+      "value": "Yes",
+      "trait_type": "Headjack"
+    },
+    {
+      "value": "None",
+      "trait_type": "Name"
+    },
+    {
+      "value": "White Leather Tank",
+      "trait_type": "Top"
+    },
+    {
+      "value": "Silver Short Sai",
+      "trait_type": "Left Hand Accessory"
+    },
+    {
+      "value": "Running circles around enemies",
+      "trait_type": "Movement"
+    },
+    {
+      "value": "White Rabbit",
+      "trait_type": "Bicep Tattoo"
+    },
+    {
+      "value": "Black Nose, Lip",
       "trait_type": "Piercings"
     },
     {
-      "value": "White",
-      "trait_type": "Background"
+      "value": "Laughing at your mistakes",
+      "trait_type": "Awareness"
+    },
+    {
+      "value": "Black Knee High Leather Boots",
+      "trait_type": "Footwear"
+    },
+    {
+      "value": "Incredible moral fiber",
+      "trait_type": "Will"
+    },
+    {
+      "value": "Could probably convince a small child",
+      "trait_type": "Persuasion"
+    },
+    {
+      "value": "Can take a punch",
+      "trait_type": "Power"
+    },
+    {
+      "value": "Can see around corners",
+      "trait_type": "Perception"
+    },
+    {
+      "value": "White Patent Leather Pants with Buckles",
+      "trait_type": "Bottom"
+    },
+    {
+      "value": "3",
+      "trait_type": "Charisma"
+    },
+    {
+      "value": "10",
+      "trait_type": "Wisdom"
+    },
+    {
+      "value": "11",
+      "trait_type": "Intelligence"
+    },
+    {
+      "value": "7",
+      "trait_type": "Dexterity"
+    },
+    {
+      "value": "11",
+      "trait_type": "Constitution"
+    },
+    {
+      "value": "3",
+      "trait_type": "Strength"
+    },
+    {
+      "value": "1",
+      "trait_type": "Votes"
+    },
+    {
+      "value": "1",
+      "trait_type": "Generation"
     },
     {
       "value": "",
-      "trait_type": "Hair Style"
+      "trait_type": "Right Hand Accessory"
     },
     {
-      "value": "Blonde",
-      "trait_type": "Hair Color"
+      "value": "",
+      "trait_type": "Front Neck Tattoo"
+    },
+    {
+      "value": "",
+      "trait_type": "Side Neck Tattoo"
+    },
+    {
+      "value": "",
+      "trait_type": "Forearm Tattoo"
+    },
+    {
+      "value": "",
+      "trait_type": "Glasses"
+    },
+    {
+      "value": "Leather Cuff",
+      "trait_type": "Neckwear"
+    },
+    {
+      "value": "",
+      "trait_type": "Wristwear"
+    },
+    {
+      "value": "",
+      "trait_type": "Facial Expression"
     },
     {
       "value": "",
       "trait_type": "Facial Hair"
     },
     {
-      "value": "Navy Jumpsuit",
-      "trait_type": "Top"
+      "value": "Dark Blue",
+      "trait_type": "Hair Dye"
     },
     {
-      "value": "",
-      "trait_type": "Bottom"
+      "value": "Blonde",
+      "trait_type": "Hair Color"
     },
     {
-      "value": "White Leather Sneaker with Grey Sole",
-      "trait_type": "Footwear"
+      "value": "Long Straight Bangs",
+      "trait_type": "Hair Style"
     },
     {
-      "value": "",
-      "trait_type": "Ring"
-    },
-    {
-      "value": "",
-      "trait_type": "Headwear"
-    },
-    {
-      "value": "Black Books",
-      "trait_type": "Glasses"
-    },
-    {
-      "value": "Black Smartphone",
-      "trait_type": "Accessories"
+      "value": "Heavy Rain",
+      "trait_type": "Background"
     }
   ]
 }

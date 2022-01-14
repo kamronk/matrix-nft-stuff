@@ -1,46 +1,82 @@
 {
   "owners": 0,
   "likes": 0,
-  "contractAddress": "0x39ceaa47306381b6d79ad46af0f36bc5332386f2",
+  "contractAddress": "0x423e540cb46db0e4df1ac96bcbddf78a804647d8",
   "tokenId": "94433",
   "name": "Matrix Avatar #94433",
-  "image": "https://media.niftys.com/nfts/matrix/media/ckw780iq0204560f973rulphpbm.png",
+  "image": "https://media.niftys.com/nfts/matrix/media/ckxabm0jk3187077w736wezdz1u.png",
   "attributes": [
     {
-      "value": "White",
-      "trait_type": "Background"
+      "value": "None",
+      "trait_type": "Name"
     },
     {
-      "value": "Updo Bun",
-      "trait_type": "Hair Style"
+      "value": "Pragmatic Coupe",
+      "trait_type": "Transportation"
     },
     {
-      "value": "Light Grey",
-      "trait_type": "Hair Color"
+      "value": "Master",
+      "trait_type": "Zen"
     },
     {
-      "value": "Stubble",
-      "trait_type": "Facial Hair"
+      "value": "Got caught hacking your grades",
+      "trait_type": "Hacking"
     },
     {
-      "value": "Gray Oxford with Tie",
-      "trait_type": "Top"
+      "value": "Bookkeeper",
+      "trait_type": "Occupation"
     },
     {
-      "value": "Gray Slacks",
-      "trait_type": "Bottom"
+      "value": "12",
+      "trait_type": "Wisdom"
     },
     {
-      "value": "Black Leather Shoes with Laces",
-      "trait_type": "Footwear"
+      "value": "13",
+      "trait_type": "Intelligence"
     },
     {
-      "value": "Two Rings",
-      "trait_type": "Ring"
+      "value": "4981",
+      "trait_type": "Social Media Followers"
+    },
+    {
+      "value": "8",
+      "trait_type": "Charisma"
+    },
+    {
+      "value": "10",
+      "trait_type": "Dexterity"
+    },
+    {
+      "value": "52968",
+      "trait_type": "Salary"
+    },
+    {
+      "value": "8",
+      "trait_type": "Strength"
+    },
+    {
+      "value": "753",
+      "trait_type": "Credit Score"
+    },
+    {
+      "value": "13",
+      "trait_type": "Constitution"
+    },
+    {
+      "value": "1",
+      "trait_type": "Votes"
+    },
+    {
+      "value": "1",
+      "trait_type": "Generation"
+    },
+    {
+      "value": "Black Smartphone",
+      "trait_type": "Accessories"
     },
     {
       "value": "",
-      "trait_type": "Headwear"
+      "trait_type": "Piercings"
     },
     {
       "value": "",
@@ -48,11 +84,39 @@
     },
     {
       "value": "",
-      "trait_type": "Piercings"
+      "trait_type": "Headwear"
     },
     {
-      "value": "Black Smartphone",
-      "trait_type": "Accessories"
+      "value": "Two Rings",
+      "trait_type": "Ring"
+    },
+    {
+      "value": "Black Leather Shoes with Laces",
+      "trait_type": "Footwear"
+    },
+    {
+      "value": "Gray Slacks",
+      "trait_type": "Bottom"
+    },
+    {
+      "value": "Gray Oxford with Tie",
+      "trait_type": "Top"
+    },
+    {
+      "value": "Stubble",
+      "trait_type": "Facial Hair"
+    },
+    {
+      "value": "Light Grey",
+      "trait_type": "Hair Color"
+    },
+    {
+      "value": "Updo Bun",
+      "trait_type": "Hair Style"
+    },
+    {
+      "value": "White Heavy Rain",
+      "trait_type": "Background"
     }
   ]
 }

@@ -7,36 +7,16 @@
   "image": "https://media.niftys.com/nfts/matrix/media/ckw6zdjjw10499f573uk7zvugf.png",
   "attributes": [
     {
-      "value": "White",
-      "trait_type": "Background"
+      "value": "Blue Lunchbox",
+      "trait_type": "Accessories"
     },
     {
-      "value": "Low Ponytail",
-      "trait_type": "Hair Style"
-    },
-    {
-      "value": "Black",
-      "trait_type": "Hair Color"
-    },
-    {
-      "value": "Mustache",
-      "trait_type": "Facial Hair"
-    },
-    {
-      "value": "Red Longsleeve",
-      "trait_type": "Top"
-    },
-    {
-      "value": "Blue Denim",
-      "trait_type": "Bottom"
-    },
-    {
-      "value": "White Leather Sneaker with Grey Sole",
-      "trait_type": "Footwear"
+      "value": "Stud Earring",
+      "trait_type": "Piercings"
     },
     {
       "value": "",
-      "trait_type": "Ring"
+      "trait_type": "Glasses"
     },
     {
       "value": "",
@@ -44,15 +24,35 @@
     },
     {
       "value": "",
-      "trait_type": "Glasses"
+      "trait_type": "Ring"
     },
     {
-      "value": "Stud Earring",
-      "trait_type": "Piercings"
+      "value": "White Leather Sneaker with Grey Sole",
+      "trait_type": "Footwear"
     },
     {
-      "value": "Blue Lunchbox",
-      "trait_type": "Accessories"
+      "value": "Blue Denim",
+      "trait_type": "Bottom"
+    },
+    {
+      "value": "Red Longsleeve",
+      "trait_type": "Top"
+    },
+    {
+      "value": "Mustache",
+      "trait_type": "Facial Hair"
+    },
+    {
+      "value": "Black",
+      "trait_type": "Hair Color"
+    },
+    {
+      "value": "Low Ponytail",
+      "trait_type": "Hair Style"
+    },
+    {
+      "value": "White",
+      "trait_type": "Background"
     }
   ]
 }

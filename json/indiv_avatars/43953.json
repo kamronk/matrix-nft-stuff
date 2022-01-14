@@ -7,6 +7,14 @@
   "image": "https://media.niftys.com/nfts/matrix/media/ckw795z9k230475f973ho8vkqtu.png",
   "attributes": [
     {
+      "value": "Short Messy",
+      "trait_type": "Hair Style"
+    },
+    {
+      "value": "White",
+      "trait_type": "Background"
+    },
+    {
       "value": "",
       "trait_type": "Accessories"
     },
@@ -45,14 +53,6 @@
     {
       "value": "Light Brown",
       "trait_type": "Hair Color"
-    },
-    {
-      "value": "Short Messy",
-      "trait_type": "Hair Style"
-    },
-    {
-      "value": "White",
-      "trait_type": "Background"
     }
   ]
 }

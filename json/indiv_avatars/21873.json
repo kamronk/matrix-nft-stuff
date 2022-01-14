@@ -1,58 +1,150 @@
 {
   "owners": 0,
   "likes": 0,
-  "contractAddress": "0x39ceaa47306381b6d79ad46af0f36bc5332386f2",
+  "contractAddress": "0x28e4b03bc88b59d25f3467b2252b66d4b2c43286",
   "tokenId": "21873",
   "name": "Matrix Avatar #21873",
-  "image": "https://media.niftys.com/nfts/matrix/media/ckw731bwm91202f9734kfwr7w8.png",
+  "image": "https://media.niftys.com/nfts/matrix/media/ckx9mmqiv163742zw73gwfw5t3p.png",
   "attributes": [
     {
-      "value": "White",
-      "trait_type": "Background"
+      "value": "Katana with Black Handle and Silver Blade",
+      "trait_type": "Right Hand Accessory"
     },
     {
-      "value": "Short Afro Fade",
-      "trait_type": "Hair Style"
+      "value": "Self-induced illusions fade",
+      "trait_type": "Awareness"
     },
     {
-      "value": "Light Grey",
-      "trait_type": "Hair Color"
+      "value": "Could probably convince a small child",
+      "trait_type": "Persuasion"
     },
     {
-      "value": "Mustache",
-      "trait_type": "Facial Hair"
+      "value": "3",
+      "trait_type": "Charisma"
     },
     {
-      "value": "Navy Blazer with Striped Shirt and Navy Tie",
-      "trait_type": "Top"
+      "value": "8",
+      "trait_type": "Wisdom"
     },
     {
-      "value": "Gray Slacks",
-      "trait_type": "Bottom"
+      "value": "Can see around corners",
+      "trait_type": "Perception"
     },
     {
-      "value": "Brown Leather Shoes with Laces",
-      "trait_type": "Footwear"
+      "value": "11",
+      "trait_type": "Intelligence"
+    },
+    {
+      "value": "Can walk and chew gum AT THE SAME TIME (good job!)",
+      "trait_type": "Movement"
+    },
+    {
+      "value": "4",
+      "trait_type": "Dexterity"
+    },
+    {
+      "value": "Pocket dial 911",
+      "trait_type": "Will"
+    },
+    {
+      "value": "3",
+      "trait_type": "Constitution"
+    },
+    {
+      "value": "Can take a punch",
+      "trait_type": "Power"
+    },
+    {
+      "value": "3",
+      "trait_type": "Strength"
+    },
+    {
+      "value": "TBD",
+      "trait_type": "Name"
+    },
+    {
+      "value": "1",
+      "trait_type": "Votes"
+    },
+    {
+      "value": "1",
+      "trait_type": "Generation"
+    },
+    {
+      "value": "Yes",
+      "trait_type": "Headjack"
+    },
+    {
+      "value": "Katana with White Handle and Silver Blade",
+      "trait_type": "Left Hand Accessory"
     },
     {
       "value": "",
-      "trait_type": "Ring"
+      "trait_type": "Front Neck Tattoo"
     },
     {
       "value": "",
-      "trait_type": "Headwear"
+      "trait_type": "Side Neck Tattoo"
     },
     {
       "value": "",
-      "trait_type": "Glasses"
+      "trait_type": "Forearm Tattoo"
+    },
+    {
+      "value": "",
+      "trait_type": "Bicep Tattoo"
     },
     {
       "value": "",
       "trait_type": "Piercings"
     },
     {
+      "value": "Black Futurist with Black Lens",
+      "trait_type": "Glasses"
+    },
+    {
       "value": "",
-      "trait_type": "Accessories"
+      "trait_type": "Neckwear"
+    },
+    {
+      "value": "",
+      "trait_type": "Wristwear"
+    },
+    {
+      "value": "",
+      "trait_type": "Footwear"
+    },
+    {
+      "value": "Black Cotton Martial Arts Pants",
+      "trait_type": "Bottom"
+    },
+    {
+      "value": "Green Cotton Martial Arts Top",
+      "trait_type": "Top"
+    },
+    {
+      "value": "Scowl",
+      "trait_type": "Facial Expression"
+    },
+    {
+      "value": "",
+      "trait_type": "Facial Hair"
+    },
+    {
+      "value": "Green",
+      "trait_type": "Hair Dye"
+    },
+    {
+      "value": "Light Grey",
+      "trait_type": "Hair Color"
+    },
+    {
+      "value": "Short Messy",
+      "trait_type": "Hair Style"
+    },
+    {
+      "value": "Light Rain",
+      "trait_type": "Background"
     }
   ]
 }

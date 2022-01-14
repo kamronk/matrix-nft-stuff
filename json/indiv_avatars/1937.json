@@ -7,40 +7,12 @@
   "image": "https://media.niftys.com/nfts/matrix/media/ckw6zsfos19002f473mkfstitj.png",
   "attributes": [
     {
-      "value": "White",
-      "trait_type": "Background"
-    },
-    {
-      "value": "Short Updo",
-      "trait_type": "Hair Style"
-    },
-    {
-      "value": "Blonde",
-      "trait_type": "Hair Color"
-    },
-    {
-      "value": "Thin",
-      "trait_type": "Facial Hair"
-    },
-    {
-      "value": "Navy Oxford with Tie",
-      "trait_type": "Top"
-    },
-    {
-      "value": "Khaki",
-      "trait_type": "Bottom"
-    },
-    {
-      "value": "Black Suede Chelseas with Brown Sole",
-      "trait_type": "Footwear"
+      "value": "Brown Leather Briefcase",
+      "trait_type": "Accessories"
     },
     {
       "value": "",
-      "trait_type": "Ring"
-    },
-    {
-      "value": "",
-      "trait_type": "Headwear"
+      "trait_type": "Piercings"
     },
     {
       "value": "",
@@ -48,11 +20,39 @@
     },
     {
       "value": "",
-      "trait_type": "Piercings"
+      "trait_type": "Headwear"
     },
     {
-      "value": "Brown Leather Briefcase",
-      "trait_type": "Accessories"
+      "value": "",
+      "trait_type": "Ring"
+    },
+    {
+      "value": "Black Suede Chelseas with Brown Sole",
+      "trait_type": "Footwear"
+    },
+    {
+      "value": "Khaki",
+      "trait_type": "Bottom"
+    },
+    {
+      "value": "Navy Oxford with Tie",
+      "trait_type": "Top"
+    },
+    {
+      "value": "Thin",
+      "trait_type": "Facial Hair"
+    },
+    {
+      "value": "Blonde",
+      "trait_type": "Hair Color"
+    },
+    {
+      "value": "Short Updo",
+      "trait_type": "Hair Style"
+    },
+    {
+      "value": "White",
+      "trait_type": "Background"
     }
   ]
 }

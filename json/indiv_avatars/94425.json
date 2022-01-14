@@ -7,36 +7,16 @@
   "image": "https://media.niftys.com/nfts/matrix/media/ckw7a2alf248906f273c8xyrbzw.png",
   "attributes": [
     {
-      "value": "White",
-      "trait_type": "Background"
+      "value": "Brown Leather Briefcase",
+      "trait_type": "Accessories"
     },
     {
-      "value": "Low Ponytail",
-      "trait_type": "Hair Style"
-    },
-    {
-      "value": "Black",
-      "trait_type": "Hair Color"
-    },
-    {
-      "value": "Mustache",
-      "trait_type": "Facial Hair"
-    },
-    {
-      "value": "Olive Oxford with Buttons",
-      "trait_type": "Top"
-    },
-    {
-      "value": "Charcoal Slacks",
-      "trait_type": "Bottom"
-    },
-    {
-      "value": "Tan Suede Workboot with Tan Sole",
-      "trait_type": "Footwear"
+      "value": "Stud Earring",
+      "trait_type": "Piercings"
     },
     {
       "value": "",
-      "trait_type": "Ring"
+      "trait_type": "Glasses"
     },
     {
       "value": "",
@@ -44,15 +24,35 @@
     },
     {
       "value": "",
-      "trait_type": "Glasses"
+      "trait_type": "Ring"
     },
     {
-      "value": "Stud Earring",
-      "trait_type": "Piercings"
+      "value": "Tan Suede Workboot with Tan Sole",
+      "trait_type": "Footwear"
     },
     {
-      "value": "Brown Leather Briefcase",
-      "trait_type": "Accessories"
+      "value": "Charcoal Slacks",
+      "trait_type": "Bottom"
+    },
+    {
+      "value": "Olive Oxford with Buttons",
+      "trait_type": "Top"
+    },
+    {
+      "value": "Mustache",
+      "trait_type": "Facial Hair"
+    },
+    {
+      "value": "Black",
+      "trait_type": "Hair Color"
+    },
+    {
+      "value": "Low Ponytail",
+      "trait_type": "Hair Style"
+    },
+    {
+      "value": "White",
+      "trait_type": "Background"
     }
   ]
 }

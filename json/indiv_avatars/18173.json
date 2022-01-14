@@ -1,46 +1,102 @@
 {
   "owners": 0,
   "likes": 0,
-  "contractAddress": "0x39ceaa47306381b6d79ad46af0f36bc5332386f2",
+  "contractAddress": "0x28e4b03bc88b59d25f3467b2252b66d4b2c43286",
   "tokenId": "18173",
   "name": "Matrix Avatar #18173",
-  "image": "https://media.niftys.com/nfts/matrix/media/ckw726jox74622f473ftkn7ycu.png",
+  "image": "https://media.niftys.com/nfts/matrix/media/ckx9m5z0m143524zr73edgzon4d.png",
   "attributes": [
     {
-      "value": "White",
-      "trait_type": "Background"
+      "value": "People follow you blindly",
+      "trait_type": "Persuasion"
     },
     {
-      "value": "Short Afro Fade",
-      "trait_type": "Hair Style"
+      "value": "11",
+      "trait_type": "Charisma"
     },
     {
-      "value": "Auburn",
-      "trait_type": "Hair Color"
+      "value": "Appreciation for the complexity of human behavior",
+      "trait_type": "Awareness"
     },
     {
-      "value": "Mustache",
-      "trait_type": "Facial Hair"
+      "value": "12",
+      "trait_type": "Wisdom"
     },
     {
-      "value": "Light Gray Longsleeve",
-      "trait_type": "Top"
+      "value": "Can hear a bee\u0027s wings",
+      "trait_type": "Perception"
     },
     {
-      "value": "Light-Wash Denim",
-      "trait_type": "Bottom"
+      "value": "10",
+      "trait_type": "Intelligence"
     },
     {
-      "value": "Black Suede Chelseas with Brown Sole",
-      "trait_type": "Footwear"
+      "value": "Can walk and chew gum AT THE SAME TIME (good job!)",
+      "trait_type": "Movement"
+    },
+    {
+      "value": "4",
+      "trait_type": "Dexterity"
+    },
+    {
+      "value": "Surprising resilience",
+      "trait_type": "Will"
+    },
+    {
+      "value": "8",
+      "trait_type": "Constitution"
+    },
+    {
+      "value": "People get out of your way",
+      "trait_type": "Power"
+    },
+    {
+      "value": "7",
+      "trait_type": "Strength"
+    },
+    {
+      "value": "TBD",
+      "trait_type": "Name"
+    },
+    {
+      "value": "1",
+      "trait_type": "Votes"
+    },
+    {
+      "value": "1",
+      "trait_type": "Generation"
+    },
+    {
+      "value": "Yes",
+      "trait_type": "Headjack"
     },
     {
       "value": "",
-      "trait_type": "Ring"
+      "trait_type": "Right Hand Accessory"
+    },
+    {
+      "value": "Black Submachine Gun",
+      "trait_type": "Left Hand Accessory"
     },
     {
       "value": "",
-      "trait_type": "Headwear"
+      "trait_type": "Front Neck Tattoo"
+    },
+    {
+      "value": "",
+      "trait_type": "Side Neck Tattoo"
+    },
+    {
+      "value": "",
+      "trait_type": "Forearm Tattoo"
+    },
+    {
+      "value": "",
+      "trait_type": "Bicep Tattoo"
+    },
+    {
+      "value": "Black Earrings",
+      "trait_type": "Piercings"
     },
     {
       "value": "",
@@ -48,11 +104,47 @@
     },
     {
       "value": "",
-      "trait_type": "Piercings"
+      "trait_type": "Neckwear"
     },
     {
-      "value": "Lunchbox",
-      "trait_type": "Accessories"
+      "value": "",
+      "trait_type": "Wristwear"
+    },
+    {
+      "value": "",
+      "trait_type": "Footwear"
+    },
+    {
+      "value": "Black Cotton Martial Arts Pants",
+      "trait_type": "Bottom"
+    },
+    {
+      "value": "Green Cotton Martial Arts Top",
+      "trait_type": "Top"
+    },
+    {
+      "value": "Meditative",
+      "trait_type": "Facial Expression"
+    },
+    {
+      "value": "",
+      "trait_type": "Facial Hair"
+    },
+    {
+      "value": "Natural",
+      "trait_type": "Hair Dye"
+    },
+    {
+      "value": "Auburn",
+      "trait_type": "Hair Color"
+    },
+    {
+      "value": "",
+      "trait_type": "Hair Style"
+    },
+    {
+      "value": "Light Rain",
+      "trait_type": "Background"
     }
   ]
 }

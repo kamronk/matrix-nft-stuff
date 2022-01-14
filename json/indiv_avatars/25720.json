@@ -7,28 +7,24 @@
   "image": "https://media.niftys.com/nfts/matrix/media/ckw73irfu101425f573wu80ctpa.png",
   "attributes": [
     {
-      "value": "White",
-      "trait_type": "Background"
+      "value": "Blue Lunchbox",
+      "trait_type": "Accessories"
     },
     {
-      "value": "Short Messy",
-      "trait_type": "Hair Style"
+      "value": "Stud Earring",
+      "trait_type": "Piercings"
     },
     {
-      "value": "Dark Brown",
-      "trait_type": "Hair Color"
-    },
-    {
-      "value": "Stubble",
-      "trait_type": "Facial Hair"
-    },
-    {
-      "value": "Gray Jumpsuit",
-      "trait_type": "Top"
+      "value": "Black Books",
+      "trait_type": "Glasses"
     },
     {
       "value": "",
-      "trait_type": "Bottom"
+      "trait_type": "Headwear"
+    },
+    {
+      "value": "",
+      "trait_type": "Ring"
     },
     {
       "value": "Tan Suede Workboot with Tan Sole",
@@ -36,23 +32,27 @@
     },
     {
       "value": "",
-      "trait_type": "Ring"
+      "trait_type": "Bottom"
     },
     {
-      "value": "",
-      "trait_type": "Headwear"
+      "value": "Gray Jumpsuit",
+      "trait_type": "Top"
     },
     {
-      "value": "Black Books",
-      "trait_type": "Glasses"
+      "value": "Stubble",
+      "trait_type": "Facial Hair"
     },
     {
-      "value": "Stud Earring",
-      "trait_type": "Piercings"
+      "value": "Dark Brown",
+      "trait_type": "Hair Color"
     },
     {
-      "value": "Blue Lunchbox",
-      "trait_type": "Accessories"
+      "value": "Short Messy",
+      "trait_type": "Hair Style"
+    },
+    {
+      "value": "White",
+      "trait_type": "Background"
     }
   ]
 }

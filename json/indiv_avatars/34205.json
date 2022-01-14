@@ -7,28 +7,12 @@
   "image": "https://media.niftys.com/nfts/matrix/media/ckw753i3o137973f9736smhkix2.png",
   "attributes": [
     {
-      "value": "Dark Gray Cardigan with Beige Oxford Shirt",
+      "value": "Dark Gray Cardigan with Beige Oxford and No Tie",
       "trait_type": "Top"
     },
     {
       "value": "Brown Leather Briefcase",
       "trait_type": "Accessories"
-    },
-    {
-      "value": "",
-      "trait_type": "Piercings"
-    },
-    {
-      "value": "",
-      "trait_type": "Glasses"
-    },
-    {
-      "value": "",
-      "trait_type": "Headwear"
-    },
-    {
-      "value": "",
-      "trait_type": "Ring"
     },
     {
       "value": "Brown Leather Shoes with Laces",
@@ -53,6 +37,22 @@
     {
       "value": "White",
       "trait_type": "Background"
+    },
+    {
+      "value": "",
+      "trait_type": "Piercings"
+    },
+    {
+      "value": "",
+      "trait_type": "Glasses"
+    },
+    {
+      "value": "",
+      "trait_type": "Headwear"
+    },
+    {
+      "value": "",
+      "trait_type": "Ring"
     }
   ]
 }

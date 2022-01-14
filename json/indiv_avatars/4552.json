@@ -1,46 +1,82 @@
 {
   "owners": 0,
   "likes": 0,
-  "contractAddress": "0x39ceaa47306381b6d79ad46af0f36bc5332386f2",
+  "contractAddress": "0x423e540cb46db0e4df1ac96bcbddf78a804647d8",
   "tokenId": "4552",
   "name": "Matrix Avatar #4552",
-  "image": "https://media.niftys.com/nfts/matrix/media/ckw715tp050707f473n85hj3lt.png",
+  "image": "https://media.niftys.com/nfts/matrix/media/ckxa3qroh898557r73cum1kzly.png",
   "attributes": [
     {
-      "value": "White",
-      "trait_type": "Background"
+      "value": "None",
+      "trait_type": "Name"
     },
     {
-      "value": "Low Ponytail",
-      "trait_type": "Hair Style"
+      "value": "Pragmatic Coupe",
+      "trait_type": "Transportation"
     },
     {
-      "value": "Dark Brown",
-      "trait_type": "Hair Color"
+      "value": "Earned an MIT Computer Sciences Diploma",
+      "trait_type": "Hacking"
+    },
+    {
+      "value": "Budding Scholar",
+      "trait_type": "Zen"
+    },
+    {
+      "value": "Assistant to the Regional Manager",
+      "trait_type": "Occupation"
+    },
+    {
+      "value": "8",
+      "trait_type": "Wisdom"
+    },
+    {
+      "value": "14",
+      "trait_type": "Intelligence"
+    },
+    {
+      "value": "128",
+      "trait_type": "Social Media Followers"
+    },
+    {
+      "value": "4",
+      "trait_type": "Charisma"
+    },
+    {
+      "value": "10",
+      "trait_type": "Dexterity"
+    },
+    {
+      "value": "76302",
+      "trait_type": "Salary"
+    },
+    {
+      "value": "9",
+      "trait_type": "Strength"
+    },
+    {
+      "value": "777",
+      "trait_type": "Credit Score"
+    },
+    {
+      "value": "14",
+      "trait_type": "Constitution"
+    },
+    {
+      "value": "1",
+      "trait_type": "Votes"
+    },
+    {
+      "value": "1",
+      "trait_type": "Generation"
     },
     {
       "value": "",
-      "trait_type": "Facial Hair"
-    },
-    {
-      "value": "Olive Cardigan with Light Gray Longsleeve Shirt",
-      "trait_type": "Top"
-    },
-    {
-      "value": "Gray Slacks",
-      "trait_type": "Bottom"
-    },
-    {
-      "value": "White Leather Sneaker with Grey Sole",
-      "trait_type": "Footwear"
+      "trait_type": "Accessories"
     },
     {
       "value": "",
-      "trait_type": "Ring"
-    },
-    {
-      "value": "",
-      "trait_type": "Headwear"
+      "trait_type": "Piercings"
     },
     {
       "value": "Black Books",
@@ -48,11 +84,39 @@
     },
     {
       "value": "",
-      "trait_type": "Piercings"
+      "trait_type": "Headwear"
     },
     {
       "value": "",
-      "trait_type": "Accessories"
+      "trait_type": "Ring"
+    },
+    {
+      "value": "White Leather Sneaker with Grey Sole",
+      "trait_type": "Footwear"
+    },
+    {
+      "value": "Gray Slacks",
+      "trait_type": "Bottom"
+    },
+    {
+      "value": "Olive Cardigan with Light Gray Longsleeve Shirt",
+      "trait_type": "Top"
+    },
+    {
+      "value": "",
+      "trait_type": "Facial Hair"
+    },
+    {
+      "value": "Dark Brown",
+      "trait_type": "Hair Color"
+    },
+    {
+      "value": "Low Ponytail",
+      "trait_type": "Hair Style"
+    },
+    {
+      "value": "White Heavy Rain",
+      "trait_type": "Background"
     }
   ]
 }

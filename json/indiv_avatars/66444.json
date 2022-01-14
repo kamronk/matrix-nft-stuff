@@ -1,58 +1,150 @@
 {
   "owners": 0,
   "likes": 0,
-  "contractAddress": "0x39ceaa47306381b6d79ad46af0f36bc5332386f2",
+  "contractAddress": "0x28e4b03bc88b59d25f3467b2252b66d4b2c43286",
   "tokenId": "66444",
   "name": "Matrix Avatar #66444",
-  "image": "https://media.niftys.com/nfts/matrix/media/ckw7c91ym298586f173eo9bwd5f.png",
+  "image": "https://media.niftys.com/nfts/matrix/media/ckx9xjobx540792zo7329nc2ipx.png",
   "attributes": [
     {
-      "value": "White",
-      "trait_type": "Background"
+      "value": "Your significant other\u0027s mom loves you",
+      "trait_type": "Persuasion"
     },
     {
-      "value": "Short Pixie",
-      "trait_type": "Hair Style"
+      "value": "You forgot your mantra",
+      "trait_type": "Awareness"
     },
     {
-      "value": "Dark Brown",
-      "trait_type": "Hair Color"
+      "value": "Yes",
+      "trait_type": "Headjack"
     },
     {
-      "value": "",
-      "trait_type": "Facial Hair"
-    },
-    {
-      "value": "Olive Oxford with Tie",
+      "value": "Black Leather Crewneck Tunic",
       "trait_type": "Top"
     },
     {
-      "value": "Navy Slacks",
+      "value": "None",
+      "trait_type": "Name"
+    },
+    {
+      "value": "Quiet confidence",
+      "trait_type": "Will"
+    },
+    {
+      "value": "Black Patent Leather Leggins",
       "trait_type": "Bottom"
     },
     {
-      "value": "Redbrown Leather Workboot with Brown Sole",
+      "value": "Black Gun",
+      "trait_type": "Left Hand Accessory"
+    },
+    {
+      "value": "Black Gun",
+      "trait_type": "Right Hand Accessory"
+    },
+    {
+      "value": "White Patent Leather Neo Combat Boot",
       "trait_type": "Footwear"
     },
     {
-      "value": "",
-      "trait_type": "Ring"
+      "value": "Can walk and chew gum AT THE SAME TIME (good job!)",
+      "trait_type": "Movement"
+    },
+    {
+      "value": "Can hear a heartbeat a mile away",
+      "trait_type": "Perception"
+    },
+    {
+      "value": "Your grandma beats you at arm-wrestling",
+      "trait_type": "Power"
+    },
+    {
+      "value": "8",
+      "trait_type": "Charisma"
+    },
+    {
+      "value": "5",
+      "trait_type": "Wisdom"
+    },
+    {
+      "value": "12",
+      "trait_type": "Intelligence"
+    },
+    {
+      "value": "4",
+      "trait_type": "Dexterity"
+    },
+    {
+      "value": "10",
+      "trait_type": "Constitution"
+    },
+    {
+      "value": "2",
+      "trait_type": "Strength"
+    },
+    {
+      "value": "1",
+      "trait_type": "Votes"
+    },
+    {
+      "value": "1",
+      "trait_type": "Generation"
     },
     {
       "value": "",
-      "trait_type": "Headwear"
+      "trait_type": "Front Neck Tattoo"
     },
     {
       "value": "",
-      "trait_type": "Glasses"
+      "trait_type": "Side Neck Tattoo"
+    },
+    {
+      "value": "",
+      "trait_type": "Forearm Tattoo"
+    },
+    {
+      "value": "",
+      "trait_type": "Bicep Tattoo"
     },
     {
       "value": "",
       "trait_type": "Piercings"
     },
     {
-      "value": "Brown Leather Briefcase",
-      "trait_type": "Accessories"
+      "value": "",
+      "trait_type": "Glasses"
+    },
+    {
+      "value": "Leather Cuff",
+      "trait_type": "Neckwear"
+    },
+    {
+      "value": "",
+      "trait_type": "Wristwear"
+    },
+    {
+      "value": "",
+      "trait_type": "Facial Expression"
+    },
+    {
+      "value": "",
+      "trait_type": "Facial Hair"
+    },
+    {
+      "value": "Natural",
+      "trait_type": "Hair Dye"
+    },
+    {
+      "value": "Dark Brown",
+      "trait_type": "Hair Color"
+    },
+    {
+      "value": "Short Pixie",
+      "trait_type": "Hair Style"
+    },
+    {
+      "value": "Light Rain",
+      "trait_type": "Background"
     }
   ]
 }

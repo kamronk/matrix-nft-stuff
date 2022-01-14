@@ -1,58 +1,150 @@
 {
   "owners": 0,
   "likes": 0,
-  "contractAddress": "0x39ceaa47306381b6d79ad46af0f36bc5332386f2",
+  "contractAddress": "0x28e4b03bc88b59d25f3467b2252b66d4b2c43286",
   "tokenId": "70509",
   "name": "Matrix Avatar #70509",
-  "image": "https://media.niftys.com/nfts/matrix/media/ckw7bc59p277160f173aq64l06h.png",
+  "image": "https://media.niftys.com/nfts/matrix/media/ckx9wh63z503276zo73gasx48q3.png",
   "attributes": [
     {
-      "value": "White",
-      "trait_type": "Background"
+      "value": "You\u0027re a bit of a charmer",
+      "trait_type": "Persuasion"
     },
     {
-      "value": "Low Ponytail",
-      "trait_type": "Hair Style"
+      "value": "Yes",
+      "trait_type": "Headjack"
     },
     {
-      "value": "Blonde",
-      "trait_type": "Hair Color"
+      "value": "Two left feet",
+      "trait_type": "Movement"
     },
     {
-      "value": "Mustache",
-      "trait_type": "Facial Hair"
-    },
-    {
-      "value": "Gray Blazer with Black Shirt and No Tie",
+      "value": "Green Cotton Crewneck Tunic",
       "trait_type": "Top"
     },
     {
-      "value": "Khaki",
-      "trait_type": "Bottom"
+      "value": "None",
+      "trait_type": "Name"
     },
     {
-      "value": "White Leather Sneaker with Grey Sole",
+      "value": "Steps forward as others flee",
+      "trait_type": "Will"
+    },
+    {
+      "value": "Learning to regulate emotions",
+      "trait_type": "Awareness"
+    },
+    {
+      "value": "Black Hex with Purple Polarized Lens",
+      "trait_type": "Glasses"
+    },
+    {
+      "value": "Black Gun",
+      "trait_type": "Left Hand Accessory"
+    },
+    {
+      "value": "Green Leather Combat Cuff Boot",
       "trait_type": "Footwear"
     },
     {
-      "value": "",
-      "trait_type": "Ring"
+      "value": "Can take a punch",
+      "trait_type": "Power"
+    },
+    {
+      "value": "Can hear a bee\u0027s wings",
+      "trait_type": "Perception"
+    },
+    {
+      "value": "Black Leather Pants with Buckles",
+      "trait_type": "Bottom"
+    },
+    {
+      "value": "7",
+      "trait_type": "Charisma"
+    },
+    {
+      "value": "9",
+      "trait_type": "Wisdom"
+    },
+    {
+      "value": "10",
+      "trait_type": "Intelligence"
+    },
+    {
+      "value": "3",
+      "trait_type": "Dexterity"
+    },
+    {
+      "value": "13",
+      "trait_type": "Constitution"
+    },
+    {
+      "value": "3",
+      "trait_type": "Strength"
+    },
+    {
+      "value": "1",
+      "trait_type": "Votes"
+    },
+    {
+      "value": "1",
+      "trait_type": "Generation"
+    },
+    {
+      "value": "Phone",
+      "trait_type": "Right Hand Accessory"
     },
     {
       "value": "",
-      "trait_type": "Headwear"
+      "trait_type": "Front Neck Tattoo"
     },
     {
-      "value": "Black Books",
-      "trait_type": "Glasses"
+      "value": "",
+      "trait_type": "Side Neck Tattoo"
+    },
+    {
+      "value": "",
+      "trait_type": "Forearm Tattoo"
+    },
+    {
+      "value": "",
+      "trait_type": "Bicep Tattoo"
     },
     {
       "value": "",
       "trait_type": "Piercings"
     },
     {
-      "value": "Brown Leather Briefcase",
-      "trait_type": "Accessories"
+      "value": "",
+      "trait_type": "Neckwear"
+    },
+    {
+      "value": "",
+      "trait_type": "Wristwear"
+    },
+    {
+      "value": "",
+      "trait_type": "Facial Expression"
+    },
+    {
+      "value": "",
+      "trait_type": "Facial Hair"
+    },
+    {
+      "value": "Natural",
+      "trait_type": "Hair Dye"
+    },
+    {
+      "value": "Blonde",
+      "trait_type": "Hair Color"
+    },
+    {
+      "value": "Low Ponytail",
+      "trait_type": "Hair Style"
+    },
+    {
+      "value": "Light Rain",
+      "trait_type": "Background"
     }
   ]
 }

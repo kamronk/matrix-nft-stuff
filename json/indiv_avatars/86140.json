@@ -1,58 +1,150 @@
 {
   "owners": 0,
   "likes": 0,
-  "contractAddress": "0x39ceaa47306381b6d79ad46af0f36bc5332386f2",
+  "contractAddress": "0x28e4b03bc88b59d25f3467b2252b66d4b2c43286",
   "tokenId": "86140",
   "name": "Matrix Avatar #86140",
-  "image": "https://media.niftys.com/nfts/matrix/media/ckw75hoss145856f1739cpbz2kb.png",
+  "image": "https://media.niftys.com/nfts/matrix/media/ckx9pe27v273605zo73xp9qyglz.png",
   "attributes": [
     {
-      "value": "White",
-      "trait_type": "Background"
+      "value": "You\u0027ve got a bad feeling about this",
+      "trait_type": "Perception"
     },
     {
-      "value": "Low Ponytail",
-      "trait_type": "Hair Style"
+      "value": "You\u0027re a bit of a charmer",
+      "trait_type": "Persuasion"
     },
     {
-      "value": "Black",
-      "trait_type": "Hair Color"
+      "value": "Yes",
+      "trait_type": "Headjack"
+    },
+    {
+      "value": "None",
+      "trait_type": "Name"
+    },
+    {
+      "value": "Black Patent Leather Trench Coat with Black Cotton Tank",
+      "trait_type": "Top"
+    },
+    {
+      "value": "Black Short Sai",
+      "trait_type": "Left Hand Accessory"
+    },
+    {
+      "value": "Pretty light on your feet",
+      "trait_type": "Movement"
+    },
+    {
+      "value": "Black Morpheus with Dark Mirrored Lens",
+      "trait_type": "Glasses"
+    },
+    {
+      "value": "Red Leather Leggings",
+      "trait_type": "Bottom"
+    },
+    {
+      "value": "Green Patent Leather Knee High Boots",
+      "trait_type": "Footwear"
+    },
+    {
+      "value": "Incredible moral fiber",
+      "trait_type": "Will"
+    },
+    {
+      "value": "Black Eyebrow Ring",
+      "trait_type": "Piercings"
+    },
+    {
+      "value": "Can put up a fight",
+      "trait_type": "Power"
+    },
+    {
+      "value": "Appreciation for the complexity of human behavior",
+      "trait_type": "Awareness"
+    },
+    {
+      "value": "7",
+      "trait_type": "Charisma"
+    },
+    {
+      "value": "12",
+      "trait_type": "Wisdom"
+    },
+    {
+      "value": "9",
+      "trait_type": "Intelligence"
+    },
+    {
+      "value": "6",
+      "trait_type": "Dexterity"
+    },
+    {
+      "value": "11",
+      "trait_type": "Constitution"
+    },
+    {
+      "value": "4",
+      "trait_type": "Strength"
+    },
+    {
+      "value": "1",
+      "trait_type": "Votes"
+    },
+    {
+      "value": "1",
+      "trait_type": "Generation"
+    },
+    {
+      "value": "",
+      "trait_type": "Right Hand Accessory"
+    },
+    {
+      "value": "",
+      "trait_type": "Front Neck Tattoo"
+    },
+    {
+      "value": "",
+      "trait_type": "Side Neck Tattoo"
+    },
+    {
+      "value": "",
+      "trait_type": "Forearm Tattoo"
+    },
+    {
+      "value": "",
+      "trait_type": "Bicep Tattoo"
+    },
+    {
+      "value": "",
+      "trait_type": "Neckwear"
+    },
+    {
+      "value": "",
+      "trait_type": "Wristwear"
+    },
+    {
+      "value": "Smirk",
+      "trait_type": "Facial Expression"
     },
     {
       "value": "",
       "trait_type": "Facial Hair"
     },
     {
-      "value": "Dark Gray Longsleeve",
-      "trait_type": "Top"
+      "value": "Natural",
+      "trait_type": "Hair Dye"
     },
     {
-      "value": "Charcoal Slacks",
-      "trait_type": "Bottom"
+      "value": "Black",
+      "trait_type": "Hair Color"
     },
     {
-      "value": "Tan Suede Workboot with Tan Sole",
-      "trait_type": "Footwear"
+      "value": "Pulled Back Short",
+      "trait_type": "Hair Style"
     },
     {
-      "value": "",
-      "trait_type": "Ring"
-    },
-    {
-      "value": "",
-      "trait_type": "Headwear"
-    },
-    {
-      "value": "",
-      "trait_type": "Glasses"
-    },
-    {
-      "value": "",
-      "trait_type": "Piercings"
-    },
-    {
-      "value": "",
-      "trait_type": "Accessories"
+      "value": "Heavy Rain",
+      "trait_type": "Background"
     }
   ]
 }

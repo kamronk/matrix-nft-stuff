@@ -1,50 +1,106 @@
 {
   "owners": 0,
   "likes": 0,
-  "contractAddress": "0x39ceaa47306381b6d79ad46af0f36bc5332386f2",
+  "contractAddress": "0x28e4b03bc88b59d25f3467b2252b66d4b2c43286",
   "tokenId": "81053",
   "name": "Matrix Avatar #81053",
-  "image": "https://media.niftys.com/nfts/matrix/media/ckw6zj38g13699f873xt57uh78.png",
+  "image": "https://media.niftys.com/nfts/matrix/media/ckx9jbxd929915zv739poazrk0.png",
   "attributes": [
     {
-      "value": "White",
-      "trait_type": "Background"
+      "value": "Round Black with Black Lens",
+      "trait_type": "Glasses"
     },
     {
-      "value": "Updo Bun",
-      "trait_type": "Hair Style"
-    },
-    {
-      "value": "Black",
-      "trait_type": "Hair Color"
-    },
-    {
-      "value": "",
-      "trait_type": "Facial Hair"
-    },
-    {
-      "value": "Khaki Oxford with Tie",
-      "trait_type": "Top"
-    },
-    {
-      "value": "Khaki Slacks",
+      "value": "Black Cotton Wool Slacks with Buckles",
       "trait_type": "Bottom"
     },
     {
-      "value": "White Canvas Sneaker with White Sole",
-      "trait_type": "Footwear"
+      "value": "Could sell ice to an eskimo",
+      "trait_type": "Persuasion"
+    },
+    {
+      "value": "9",
+      "trait_type": "Charisma"
+    },
+    {
+      "value": "Laughing at your mistakes",
+      "trait_type": "Awareness"
+    },
+    {
+      "value": "10",
+      "trait_type": "Wisdom"
+    },
+    {
+      "value": "You\u0027ve got a bad feeling about this",
+      "trait_type": "Perception"
+    },
+    {
+      "value": "9",
+      "trait_type": "Intelligence"
+    },
+    {
+      "value": "Astonishing acrobatics",
+      "trait_type": "Movement"
+    },
+    {
+      "value": "10",
+      "trait_type": "Dexterity"
+    },
+    {
+      "value": "Quiet confidence",
+      "trait_type": "Will"
+    },
+    {
+      "value": "10",
+      "trait_type": "Constitution"
+    },
+    {
+      "value": "I wouldn\u0027t mess with you",
+      "trait_type": "Power"
+    },
+    {
+      "value": "6",
+      "trait_type": "Strength"
+    },
+    {
+      "value": "TBD",
+      "trait_type": "Name"
+    },
+    {
+      "value": "1",
+      "trait_type": "Votes"
+    },
+    {
+      "value": "1",
+      "trait_type": "Generation"
+    },
+    {
+      "value": "Yes",
+      "trait_type": "Headjack"
+    },
+    {
+      "value": "Phone",
+      "trait_type": "Right Hand Accessory"
+    },
+    {
+      "value": "Katana with White Handle and Silver Blade",
+      "trait_type": "Left Hand Accessory"
     },
     {
       "value": "",
-      "trait_type": "Ring"
+      "trait_type": "Front Neck Tattoo"
     },
     {
       "value": "",
-      "trait_type": "Headwear"
+      "trait_type": "Side Neck Tattoo"
     },
     {
       "value": "",
-      "trait_type": "Glasses"
+      "trait_type": "Forearm Tattoo"
+    },
+    {
+      "value": "",
+      "trait_type": "Bicep Tattoo"
     },
     {
       "value": "",
@@ -52,7 +108,43 @@
     },
     {
       "value": "",
-      "trait_type": "Accessories"
+      "trait_type": "Neckwear"
+    },
+    {
+      "value": "Studded Leather",
+      "trait_type": "Wristwear"
+    },
+    {
+      "value": "Black Leather Neo Combat Boot",
+      "trait_type": "Footwear"
+    },
+    {
+      "value": "Charcoal Cotton Longsleeve Crew",
+      "trait_type": "Top"
+    },
+    {
+      "value": "",
+      "trait_type": "Facial Expression"
+    },
+    {
+      "value": "",
+      "trait_type": "Facial Hair"
+    },
+    {
+      "value": "Natural",
+      "trait_type": "Hair Dye"
+    },
+    {
+      "value": "Black",
+      "trait_type": "Hair Color"
+    },
+    {
+      "value": "Short Messy",
+      "trait_type": "Hair Style"
+    },
+    {
+      "value": "Light Rain",
+      "trait_type": "Background"
     }
   ]
 }

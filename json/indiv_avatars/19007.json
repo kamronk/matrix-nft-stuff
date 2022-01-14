@@ -7,36 +7,16 @@
   "image": "https://media.niftys.com/nfts/matrix/media/ckw72ls1q81292f173ujm88kbz.png",
   "attributes": [
     {
-      "value": "White",
-      "trait_type": "Background"
+      "value": "Tan Worker\u0027s Cap",
+      "trait_type": "Headwear"
+    },
+    {
+      "value": "Lunchbox",
+      "trait_type": "Accessories"
     },
     {
       "value": "",
-      "trait_type": "Hair Style"
-    },
-    {
-      "value": "Dark Brown",
-      "trait_type": "Hair Color"
-    },
-    {
-      "value": "",
-      "trait_type": "Facial Hair"
-    },
-    {
-      "value": "Olive Oxford with Pocket",
-      "trait_type": "Top"
-    },
-    {
-      "value": "Khaki Slacks",
-      "trait_type": "Bottom"
-    },
-    {
-      "value": "Brown Leather Shoes with Laces",
-      "trait_type": "Footwear"
-    },
-    {
-      "value": "",
-      "trait_type": "Ring"
+      "trait_type": "Piercings"
     },
     {
       "value": "",
@@ -44,15 +24,35 @@
     },
     {
       "value": "",
-      "trait_type": "Piercings"
+      "trait_type": "Ring"
     },
     {
-      "value": "Lunchbox",
-      "trait_type": "Accessories"
+      "value": "Brown Leather Shoes with Laces",
+      "trait_type": "Footwear"
     },
     {
-      "value": "Tan Workers Cap",
-      "trait_type": "Headwear"
+      "value": "Khaki Slacks",
+      "trait_type": "Bottom"
+    },
+    {
+      "value": "Olive Oxford with Pocket",
+      "trait_type": "Top"
+    },
+    {
+      "value": "",
+      "trait_type": "Facial Hair"
+    },
+    {
+      "value": "Dark Brown",
+      "trait_type": "Hair Color"
+    },
+    {
+      "value": "",
+      "trait_type": "Hair Style"
+    },
+    {
+      "value": "White",
+      "trait_type": "Background"
     }
   ]
 }

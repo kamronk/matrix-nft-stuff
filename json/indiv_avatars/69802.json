@@ -7,52 +7,52 @@
   "image": "https://media.niftys.com/nfts/matrix/media/ckw7baxre276458f173a0zfv3wx.png",
   "attributes": [
     {
-      "value": "",
-      "trait_type": "Ring"
-    },
-    {
-      "value": "",
-      "trait_type": "Headwear"
-    },
-    {
-      "value": "White",
-      "trait_type": "Background"
-    },
-    {
-      "value": "Short Messy",
-      "trait_type": "Hair Style"
-    },
-    {
-      "value": "Light Brown",
-      "trait_type": "Hair Color"
-    },
-    {
-      "value": "",
-      "trait_type": "Facial Hair"
-    },
-    {
-      "value": "Navy Blazer with Striped Shirt and No Tie",
-      "trait_type": "Top"
-    },
-    {
-      "value": "Gray Slacks",
-      "trait_type": "Bottom"
-    },
-    {
-      "value": "White Canvas Sneaker with White Sole",
-      "trait_type": "Footwear"
-    },
-    {
-      "value": "",
-      "trait_type": "Glasses"
+      "value": "Lunchbox",
+      "trait_type": "Accessories"
     },
     {
       "value": "",
       "trait_type": "Piercings"
     },
     {
-      "value": "Lunchbox",
-      "trait_type": "Accessories"
+      "value": "",
+      "trait_type": "Glasses"
+    },
+    {
+      "value": "White Canvas Sneaker with White Sole",
+      "trait_type": "Footwear"
+    },
+    {
+      "value": "Gray Slacks",
+      "trait_type": "Bottom"
+    },
+    {
+      "value": "Navy Blazer with Striped Shirt and No Tie",
+      "trait_type": "Top"
+    },
+    {
+      "value": "",
+      "trait_type": "Facial Hair"
+    },
+    {
+      "value": "Light Brown",
+      "trait_type": "Hair Color"
+    },
+    {
+      "value": "Short Messy",
+      "trait_type": "Hair Style"
+    },
+    {
+      "value": "White",
+      "trait_type": "Background"
+    },
+    {
+      "value": "",
+      "trait_type": "Headwear"
+    },
+    {
+      "value": "",
+      "trait_type": "Ring"
     }
   ]
 }

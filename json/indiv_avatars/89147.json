@@ -7,40 +7,12 @@
   "image": "https://media.niftys.com/nfts/matrix/media/ckw769qon164781f373hhrq4j16.png",
   "attributes": [
     {
-      "value": "White",
-      "trait_type": "Background"
+      "value": "Navy Blue Worker\u0027s Cap",
+      "trait_type": "Headwear"
     },
     {
       "value": "",
-      "trait_type": "Hair Style"
-    },
-    {
-      "value": "Black",
-      "trait_type": "Hair Color"
-    },
-    {
-      "value": "Mustache",
-      "trait_type": "Facial Hair"
-    },
-    {
-      "value": "Navy Oxford with Tie and Pocket",
-      "trait_type": "Top"
-    },
-    {
-      "value": "Charcoal Slacks",
-      "trait_type": "Bottom"
-    },
-    {
-      "value": "Black Suede Chelseas with Brown Sole",
-      "trait_type": "Footwear"
-    },
-    {
-      "value": "Two Rings",
-      "trait_type": "Ring"
-    },
-    {
-      "value": "",
-      "trait_type": "Glasses"
+      "trait_type": "Accessories"
     },
     {
       "value": "Stud Earring",
@@ -48,11 +20,39 @@
     },
     {
       "value": "",
-      "trait_type": "Accessories"
+      "trait_type": "Glasses"
     },
     {
-      "value": "Navy Blue Workers Cap",
-      "trait_type": "Headwear"
+      "value": "Two Rings",
+      "trait_type": "Ring"
+    },
+    {
+      "value": "Black Suede Chelseas with Brown Sole",
+      "trait_type": "Footwear"
+    },
+    {
+      "value": "Charcoal Slacks",
+      "trait_type": "Bottom"
+    },
+    {
+      "value": "Navy Oxford with Tie and Pocket",
+      "trait_type": "Top"
+    },
+    {
+      "value": "Mustache",
+      "trait_type": "Facial Hair"
+    },
+    {
+      "value": "Black",
+      "trait_type": "Hair Color"
+    },
+    {
+      "value": "",
+      "trait_type": "Hair Style"
+    },
+    {
+      "value": "White",
+      "trait_type": "Background"
     }
   ]
 }

@@ -1,14 +1,58 @@
 {
   "owners": 0,
   "likes": 0,
-  "contractAddress": "0x39ceaa47306381b6d79ad46af0f36bc5332386f2",
+  "contractAddress": "0x28e4b03bc88b59d25f3467b2252b66d4b2c43286",
   "tokenId": "39089",
   "name": "Matrix Avatar #39089",
-  "image": "https://media.niftys.com/nfts/matrix/media/ckw75ppyl151124f173cutugj6q.png",
+  "image": "https://media.niftys.com/nfts/matrix/media/ckx9pmdb5282829zo73tizrnsw7.png",
   "attributes": [
     {
-      "value": "Black Smartphone",
-      "trait_type": "Accessories"
+      "value": "Black Neo with Mirror Lens",
+      "trait_type": "Glasses"
+    },
+    {
+      "value": "Black Leather Combat Cuff Boot",
+      "trait_type": "Footwear"
+    },
+    {
+      "value": "Heavy Rain",
+      "trait_type": "Background"
+    },
+    {
+      "value": "Asymmetrical Bob",
+      "trait_type": "Hair Style"
+    },
+    {
+      "value": "Blonde",
+      "trait_type": "Hair Color"
+    },
+    {
+      "value": "Natural",
+      "trait_type": "Hair Dye"
+    },
+    {
+      "value": "",
+      "trait_type": "Facial Hair"
+    },
+    {
+      "value": "",
+      "trait_type": "Facial Expression"
+    },
+    {
+      "value": "Black Leather Trench Coat with Black Cotton Tank",
+      "trait_type": "Top"
+    },
+    {
+      "value": "Red Patent Leather Leggins",
+      "trait_type": "Bottom"
+    },
+    {
+      "value": "",
+      "trait_type": "Wristwear"
+    },
+    {
+      "value": "",
+      "trait_type": "Neckwear"
     },
     {
       "value": "",
@@ -16,43 +60,91 @@
     },
     {
       "value": "",
-      "trait_type": "Glasses"
+      "trait_type": "Bicep Tattoo"
     },
     {
       "value": "",
-      "trait_type": "Headwear"
+      "trait_type": "Forearm Tattoo"
     },
     {
       "value": "",
-      "trait_type": "Ring"
+      "trait_type": "Side Neck Tattoo"
     },
     {
-      "value": "Redbrown Leather Workboot with Brown Sole",
-      "trait_type": "Footwear"
+      "value": "Intersecting Squares",
+      "trait_type": "Front Neck Tattoo"
     },
     {
-      "value": "Charcoal Slacks",
-      "trait_type": "Bottom"
+      "value": "Black Arm Pole",
+      "trait_type": "Left Hand Accessory"
     },
     {
-      "value": "Blue Longsleeve",
-      "trait_type": "Top"
+      "value": "",
+      "trait_type": "Right Hand Accessory"
     },
     {
-      "value": "Thin",
-      "trait_type": "Facial Hair"
+      "value": "Yes",
+      "trait_type": "Headjack"
     },
     {
-      "value": "Blonde",
-      "trait_type": "Hair Color"
+      "value": "1",
+      "trait_type": "Generation"
     },
     {
-      "value": "Short Coil",
-      "trait_type": "Hair Style"
+      "value": "1",
+      "trait_type": "Votes"
     },
     {
-      "value": "White",
-      "trait_type": "Background"
+      "value": "TBD",
+      "trait_type": "Name"
+    },
+    {
+      "value": "3",
+      "trait_type": "Strength"
+    },
+    {
+      "value": "Can take a punch",
+      "trait_type": "Power"
+    },
+    {
+      "value": "11",
+      "trait_type": "Constitution"
+    },
+    {
+      "value": "Incredible moral fiber",
+      "trait_type": "Will"
+    },
+    {
+      "value": "5",
+      "trait_type": "Dexterity"
+    },
+    {
+      "value": "Getting the hang of it",
+      "trait_type": "Movement"
+    },
+    {
+      "value": "10",
+      "trait_type": "Intelligence"
+    },
+    {
+      "value": "Can hear a bee\u0027s wings",
+      "trait_type": "Perception"
+    },
+    {
+      "value": "10",
+      "trait_type": "Wisdom"
+    },
+    {
+      "value": "Laughing at your mistakes",
+      "trait_type": "Awareness"
+    },
+    {
+      "value": "2",
+      "trait_type": "Charisma"
+    },
+    {
+      "value": "Nobody\u0027s buying it",
+      "trait_type": "Persuasion"
     }
   ]
 }

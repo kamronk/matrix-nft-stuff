@@ -7,6 +7,14 @@
   "image": "https://media.niftys.com/nfts/matrix/media/ckw7agk34257911f6736dlsl748.png",
   "attributes": [
     {
+      "value": "Short Coil",
+      "trait_type": "Hair Style"
+    },
+    {
+      "value": "White",
+      "trait_type": "Background"
+    },
+    {
       "value": "",
       "trait_type": "Accessories"
     },
@@ -45,14 +53,6 @@
     {
       "value": "Dark Brown",
       "trait_type": "Hair Color"
-    },
-    {
-      "value": "Short Coil",
-      "trait_type": "Hair Style"
-    },
-    {
-      "value": "White",
-      "trait_type": "Background"
     }
   ]
 }

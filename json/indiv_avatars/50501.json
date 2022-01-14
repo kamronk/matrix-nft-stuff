@@ -1,42 +1,86 @@
 {
   "owners": 0,
   "likes": 0,
-  "contractAddress": "0x39ceaa47306381b6d79ad46af0f36bc5332386f2",
+  "contractAddress": "0x423e540cb46db0e4df1ac96bcbddf78a804647d8",
   "tokenId": "50501",
   "name": "Matrix Avatar #50501",
-  "image": "https://media.niftys.com/nfts/matrix/media/ckw7ac4ue254343f573gkzs1k59.png",
+  "image": "https://media.niftys.com/nfts/matrix/media/ckxae1xmz4019437s732cc0g2pa.png",
   "attributes": [
     {
-      "value": "White",
-      "trait_type": "Background"
+      "value": "Purple Worker\u0027s Cap",
+      "trait_type": "Headwear"
     },
     {
-      "value": "Buzz Cut",
-      "trait_type": "Hair Style"
+      "value": "None",
+      "trait_type": "Name"
     },
     {
-      "value": "Black",
-      "trait_type": "Hair Color"
+      "value": "Pragmatic Coupe",
+      "trait_type": "Transportation"
+    },
+    {
+      "value": "Night Shift Supervisor",
+      "trait_type": "Occupation"
+    },
+    {
+      "value": "Know your way around a spreadsheet",
+      "trait_type": "Hacking"
+    },
+    {
+      "value": "Graduate",
+      "trait_type": "Zen"
+    },
+    {
+      "value": "9",
+      "trait_type": "Wisdom"
+    },
+    {
+      "value": "6",
+      "trait_type": "Intelligence"
+    },
+    {
+      "value": "777",
+      "trait_type": "Social Media Followers"
+    },
+    {
+      "value": "6",
+      "trait_type": "Charisma"
+    },
+    {
+      "value": "10",
+      "trait_type": "Dexterity"
+    },
+    {
+      "value": "10098",
+      "trait_type": "Salary"
+    },
+    {
+      "value": "5",
+      "trait_type": "Strength"
+    },
+    {
+      "value": "777",
+      "trait_type": "Credit Score"
+    },
+    {
+      "value": "14",
+      "trait_type": "Constitution"
+    },
+    {
+      "value": "1",
+      "trait_type": "Votes"
+    },
+    {
+      "value": "1",
+      "trait_type": "Generation"
+    },
+    {
+      "value": "Black Leather Briefcase",
+      "trait_type": "Accessories"
     },
     {
       "value": "",
-      "trait_type": "Facial Hair"
-    },
-    {
-      "value": "Charcoal Blazer with Light Blue Shirt and No Tie",
-      "trait_type": "Top"
-    },
-    {
-      "value": "Khaki Slacks",
-      "trait_type": "Bottom"
-    },
-    {
-      "value": "Black Suede Chelseas with Brown Sole",
-      "trait_type": "Footwear"
-    },
-    {
-      "value": "",
-      "trait_type": "Ring"
+      "trait_type": "Piercings"
     },
     {
       "value": "",
@@ -44,15 +88,35 @@
     },
     {
       "value": "",
-      "trait_type": "Piercings"
+      "trait_type": "Ring"
     },
     {
-      "value": "Black Leather Briefcase",
-      "trait_type": "Accessories"
+      "value": "Black Suede Chelseas with Brown Sole",
+      "trait_type": "Footwear"
     },
     {
-      "value": "Purple Workers Cap",
-      "trait_type": "Headwear"
+      "value": "Khaki Slacks",
+      "trait_type": "Bottom"
+    },
+    {
+      "value": "Charcoal Blazer with Light Blue Shirt and No Tie",
+      "trait_type": "Top"
+    },
+    {
+      "value": "",
+      "trait_type": "Facial Hair"
+    },
+    {
+      "value": "Black",
+      "trait_type": "Hair Color"
+    },
+    {
+      "value": "Buzz Cut",
+      "trait_type": "Hair Style"
+    },
+    {
+      "value": "White Medium Rain",
+      "trait_type": "Background"
     }
   ]
 }

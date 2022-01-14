@@ -7,40 +7,12 @@
   "image": "https://media.niftys.com/nfts/matrix/media/ckw73722f94846fa737wdg5ldo.png",
   "attributes": [
     {
-      "value": "White",
-      "trait_type": "Background"
-    },
-    {
-      "value": "Straight Sideswept Fringe",
-      "trait_type": "Hair Style"
-    },
-    {
-      "value": "Light Brown",
-      "trait_type": "Hair Color"
+      "value": "",
+      "trait_type": "Accessories"
     },
     {
       "value": "",
-      "trait_type": "Facial Hair"
-    },
-    {
-      "value": "Light Gray Cardigan with Beige Longsleeve Shirt",
-      "trait_type": "Top"
-    },
-    {
-      "value": "Dark-Wash Denim",
-      "trait_type": "Bottom"
-    },
-    {
-      "value": "Tan Suede Workboot with Tan Sole",
-      "trait_type": "Footwear"
-    },
-    {
-      "value": "",
-      "trait_type": "Ring"
-    },
-    {
-      "value": "",
-      "trait_type": "Headwear"
+      "trait_type": "Piercings"
     },
     {
       "value": "Black Books",
@@ -48,11 +20,39 @@
     },
     {
       "value": "",
-      "trait_type": "Piercings"
+      "trait_type": "Headwear"
     },
     {
       "value": "",
-      "trait_type": "Accessories"
+      "trait_type": "Ring"
+    },
+    {
+      "value": "Tan Suede Workboot with Tan Sole",
+      "trait_type": "Footwear"
+    },
+    {
+      "value": "Dark-Wash Denim",
+      "trait_type": "Bottom"
+    },
+    {
+      "value": "Light Gray Cardigan with Beige Longsleeve Shirt",
+      "trait_type": "Top"
+    },
+    {
+      "value": "",
+      "trait_type": "Facial Hair"
+    },
+    {
+      "value": "Light Brown",
+      "trait_type": "Hair Color"
+    },
+    {
+      "value": "Straight Sideswept Fringe",
+      "trait_type": "Hair Style"
+    },
+    {
+      "value": "White",
+      "trait_type": "Background"
     }
   ]
 }

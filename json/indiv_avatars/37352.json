@@ -1,14 +1,62 @@
 {
   "owners": 0,
   "likes": 0,
-  "contractAddress": "0x39ceaa47306381b6d79ad46af0f36bc5332386f2",
+  "contractAddress": "0x28e4b03bc88b59d25f3467b2252b66d4b2c43286",
   "tokenId": "37352",
   "name": "Matrix Avatar #37352",
-  "image": "https://media.niftys.com/nfts/matrix/media/ckw75e5rb144122fa730p5377le.png",
+  "image": "https://media.niftys.com/nfts/matrix/media/ckx9p1q0j254481zx73dxserivk.png",
   "attributes": [
     {
-      "value": "Black Leather Briefcase",
-      "trait_type": "Accessories"
+      "value": "TBD",
+      "trait_type": "Name"
+    },
+    {
+      "value": "Green Black Patent Leather Neo Combat Boot",
+      "trait_type": "Footwear"
+    },
+    {
+      "value": "Medium Rain",
+      "trait_type": "Background"
+    },
+    {
+      "value": "Asymmetrical Bob",
+      "trait_type": "Hair Style"
+    },
+    {
+      "value": "Light Brown",
+      "trait_type": "Hair Color"
+    },
+    {
+      "value": "Natural",
+      "trait_type": "Hair Dye"
+    },
+    {
+      "value": "Stubble",
+      "trait_type": "Facial Hair"
+    },
+    {
+      "value": "",
+      "trait_type": "Facial Expression"
+    },
+    {
+      "value": "Black Cotton Longsleeve Crew",
+      "trait_type": "Top"
+    },
+    {
+      "value": "White Leather Leggings",
+      "trait_type": "Bottom"
+    },
+    {
+      "value": "",
+      "trait_type": "Wristwear"
+    },
+    {
+      "value": "",
+      "trait_type": "Neckwear"
+    },
+    {
+      "value": "Black Neo with Black Lens",
+      "trait_type": "Glasses"
     },
     {
       "value": "",
@@ -16,43 +64,87 @@
     },
     {
       "value": "",
-      "trait_type": "Glasses"
+      "trait_type": "Bicep Tattoo"
     },
     {
       "value": "",
-      "trait_type": "Headwear"
+      "trait_type": "Forearm Tattoo"
     },
     {
       "value": "",
-      "trait_type": "Ring"
-    },
-    {
-      "value": "White Canvas Sneaker with White Sole",
-      "trait_type": "Footwear"
-    },
-    {
-      "value": "Gray Slacks",
-      "trait_type": "Bottom"
-    },
-    {
-      "value": "Dark Gray Longsleeve",
-      "trait_type": "Top"
+      "trait_type": "Side Neck Tattoo"
     },
     {
       "value": "",
-      "trait_type": "Facial Hair"
+      "trait_type": "Front Neck Tattoo"
     },
     {
-      "value": "Light Brown",
-      "trait_type": "Hair Color"
+      "value": "",
+      "trait_type": "Left Hand Accessory"
     },
     {
-      "value": "Long Messy",
-      "trait_type": "Hair Style"
+      "value": "",
+      "trait_type": "Right Hand Accessory"
     },
     {
-      "value": "White",
-      "trait_type": "Background"
+      "value": "Yes",
+      "trait_type": "Headjack"
+    },
+    {
+      "value": "1",
+      "trait_type": "Generation"
+    },
+    {
+      "value": "1",
+      "trait_type": "Votes"
+    },
+    {
+      "value": "3",
+      "trait_type": "Strength"
+    },
+    {
+      "value": "Can take a punch",
+      "trait_type": "Power"
+    },
+    {
+      "value": "11",
+      "trait_type": "Constitution"
+    },
+    {
+      "value": "Incredible moral fiber",
+      "trait_type": "Will"
+    },
+    {
+      "value": "3",
+      "trait_type": "Dexterity"
+    },
+    {
+      "value": "Two left feet",
+      "trait_type": "Movement"
+    },
+    {
+      "value": "10",
+      "trait_type": "Intelligence"
+    },
+    {
+      "value": "Can hear a bee\u0027s wings",
+      "trait_type": "Perception"
+    },
+    {
+      "value": "7",
+      "trait_type": "Wisdom"
+    },
+    {
+      "value": "You have a childlike sense of wonder",
+      "trait_type": "Awareness"
+    },
+    {
+      "value": "16",
+      "trait_type": "Charisma"
+    },
+    {
+      "value": "History books will be written about you",
+      "trait_type": "Persuasion"
     }
   ]
 }

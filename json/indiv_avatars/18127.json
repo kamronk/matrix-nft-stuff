@@ -1,14 +1,94 @@
 {
   "owners": 0,
   "likes": 0,
-  "contractAddress": "0x39ceaa47306381b6d79ad46af0f36bc5332386f2",
+  "contractAddress": "0x28e4b03bc88b59d25f3467b2252b66d4b2c43286",
   "tokenId": "18127",
   "name": "Matrix Avatar #18127",
-  "image": "https://media.niftys.com/nfts/matrix/media/ckw730es890956f373tp3d4zv2.png",
+  "image": "https://media.niftys.com/nfts/matrix/media/ckx9mxjso174030zq73dynz564q.png",
   "attributes": [
     {
+      "value": "Yes",
+      "trait_type": "Headjack"
+    },
+    {
+      "value": "They wouldn\u0027t like you when you\u0027re angry",
+      "trait_type": "Power"
+    },
+    {
+      "value": "None",
+      "trait_type": "Name"
+    },
+    {
+      "value": "Shaded Circle",
+      "trait_type": "Side Neck Tattoo"
+    },
+    {
+      "value": "Black Cotton Martial Arts Top",
+      "trait_type": "Top"
+    },
+    {
+      "value": "Maintains status quo",
+      "trait_type": "Persuasion"
+    },
+    {
+      "value": "Black Cotton Leggings",
+      "trait_type": "Bottom"
+    },
+    {
+      "value": "Laughing at your mistakes",
+      "trait_type": "Awareness"
+    },
+    {
+      "value": "Last one standing",
+      "trait_type": "Will"
+    },
+    {
+      "value": "Getting the hang of it",
+      "trait_type": "Movement"
+    },
+    {
+      "value": "Round Black with Black Lens",
+      "trait_type": "Glasses"
+    },
+    {
+      "value": "White Leather Neo Combat Boot",
+      "trait_type": "Footwear"
+    },
+    {
+      "value": "Can hear a heartbeat a mile away",
+      "trait_type": "Perception"
+    },
+    {
+      "value": "Heavy Rain",
+      "trait_type": "Background"
+    },
+    {
+      "value": "Faux Hawk",
+      "trait_type": "Hair Style"
+    },
+    {
+      "value": "Dark Brown",
+      "trait_type": "Hair Color"
+    },
+    {
+      "value": "Pink",
+      "trait_type": "Hair Dye"
+    },
+    {
       "value": "",
-      "trait_type": "Accessories"
+      "trait_type": "Facial Hair"
+    },
+    {
+      "value": "",
+      "trait_type": "Facial Expression"
+    },
+    {
+      "value": "",
+      "trait_type": "Wristwear"
+    },
+    {
+      "value": "",
+      "trait_type": "Neckwear"
     },
     {
       "value": "",
@@ -16,43 +96,55 @@
     },
     {
       "value": "",
-      "trait_type": "Glasses"
+      "trait_type": "Bicep Tattoo"
     },
     {
       "value": "",
-      "trait_type": "Headwear"
+      "trait_type": "Forearm Tattoo"
     },
     {
       "value": "",
-      "trait_type": "Ring"
-    },
-    {
-      "value": "Tan Suede Workboot with Tan Sole",
-      "trait_type": "Footwear"
-    },
-    {
-      "value": "Gray Slacks",
-      "trait_type": "Bottom"
-    },
-    {
-      "value": "Blue Longsleeve",
-      "trait_type": "Top"
+      "trait_type": "Front Neck Tattoo"
     },
     {
       "value": "",
-      "trait_type": "Facial Hair"
+      "trait_type": "Left Hand Accessory"
     },
     {
-      "value": "Dark Brown",
-      "trait_type": "Hair Color"
+      "value": "",
+      "trait_type": "Right Hand Accessory"
     },
     {
-      "value": "Short Updo",
-      "trait_type": "Hair Style"
+      "value": "1",
+      "trait_type": "Generation"
     },
     {
-      "value": "White",
-      "trait_type": "Background"
+      "value": "1",
+      "trait_type": "Votes"
+    },
+    {
+      "value": "12",
+      "trait_type": "Strength"
+    },
+    {
+      "value": "14",
+      "trait_type": "Constitution"
+    },
+    {
+      "value": "5",
+      "trait_type": "Dexterity"
+    },
+    {
+      "value": "12",
+      "trait_type": "Intelligence"
+    },
+    {
+      "value": "10",
+      "trait_type": "Wisdom"
+    },
+    {
+      "value": "5",
+      "trait_type": "Charisma"
     }
   ]
 }

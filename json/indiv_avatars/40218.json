@@ -7,40 +7,12 @@
   "image": "https://media.niftys.com/nfts/matrix/media/ckw7a5hs6254176f873y408irk8.png",
   "attributes": [
     {
-      "value": "White",
-      "trait_type": "Background"
-    },
-    {
-      "value": "Long Straight Bangs",
-      "trait_type": "Hair Style"
-    },
-    {
-      "value": "Blonde",
-      "trait_type": "Hair Color"
+      "value": "Lunchbox",
+      "trait_type": "Accessories"
     },
     {
       "value": "",
-      "trait_type": "Facial Hair"
-    },
-    {
-      "value": "Olive Oxford with Tie",
-      "trait_type": "Top"
-    },
-    {
-      "value": "Gray Slacks",
-      "trait_type": "Bottom"
-    },
-    {
-      "value": "White Canvas Sneaker with White Sole",
-      "trait_type": "Footwear"
-    },
-    {
-      "value": "Two Rings",
-      "trait_type": "Ring"
-    },
-    {
-      "value": "",
-      "trait_type": "Headwear"
+      "trait_type": "Piercings"
     },
     {
       "value": "Silver Aviators",
@@ -48,11 +20,39 @@
     },
     {
       "value": "",
-      "trait_type": "Piercings"
+      "trait_type": "Headwear"
     },
     {
-      "value": "Lunchbox",
-      "trait_type": "Accessories"
+      "value": "Two Rings",
+      "trait_type": "Ring"
+    },
+    {
+      "value": "White Canvas Sneaker with White Sole",
+      "trait_type": "Footwear"
+    },
+    {
+      "value": "Gray Slacks",
+      "trait_type": "Bottom"
+    },
+    {
+      "value": "Olive Oxford with Tie",
+      "trait_type": "Top"
+    },
+    {
+      "value": "",
+      "trait_type": "Facial Hair"
+    },
+    {
+      "value": "Blonde",
+      "trait_type": "Hair Color"
+    },
+    {
+      "value": "Long Straight Bangs",
+      "trait_type": "Hair Style"
+    },
+    {
+      "value": "White",
+      "trait_type": "Background"
     }
   ]
 }

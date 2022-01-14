@@ -7,16 +7,20 @@
   "image": "https://media.niftys.com/nfts/matrix/media/ckw7768hf187429f7735mlo9grz.png",
   "attributes": [
     {
+      "value": "White",
+      "trait_type": "Background"
+    },
+    {
+      "value": "",
+      "trait_type": "Glasses"
+    },
+    {
       "value": "Brown Leather Briefcase",
       "trait_type": "Accessories"
     },
     {
       "value": "",
       "trait_type": "Piercings"
-    },
-    {
-      "value": "",
-      "trait_type": "Glasses"
     },
     {
       "value": "",
@@ -49,10 +53,6 @@
     {
       "value": "Medium Curly Bob",
       "trait_type": "Hair Style"
-    },
-    {
-      "value": "White",
-      "trait_type": "Background"
     }
   ]
 }

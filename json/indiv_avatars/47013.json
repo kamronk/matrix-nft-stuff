@@ -1,58 +1,150 @@
 {
   "owners": 0,
   "likes": 0,
-  "contractAddress": "0x39ceaa47306381b6d79ad46af0f36bc5332386f2",
+  "contractAddress": "0x28e4b03bc88b59d25f3467b2252b66d4b2c43286",
   "tokenId": "47013",
   "name": "Matrix Avatar #47013",
-  "image": "https://media.niftys.com/nfts/matrix/media/ckw76jbf9170704f9739s06mtbg.png",
+  "image": "https://media.niftys.com/nfts/matrix/media/ckx9q9rj6302880zw733cy32mb7.png",
   "attributes": [
     {
-      "value": "",
+      "value": "Yes",
+      "trait_type": "Headjack"
+    },
+    {
+      "value": "True grit",
+      "trait_type": "Will"
+    },
+    {
+      "value": "None",
+      "trait_type": "Name"
+    },
+    {
+      "value": "Pretty light on your feet",
+      "trait_type": "Movement"
+    },
+    {
+      "value": "Black Nose, Lip, Forehead",
       "trait_type": "Piercings"
     },
     {
-      "value": "White",
-      "trait_type": "Background"
-    },
-    {
-      "value": "Medium Curly Bob",
-      "trait_type": "Hair Style"
-    },
-    {
-      "value": "Black",
-      "trait_type": "Hair Color"
-    },
-    {
-      "value": "",
-      "trait_type": "Facial Hair"
-    },
-    {
-      "value": "Navy Blazer with Striped Shirt and No Tie",
+      "value": "Black Patent Leather Mandarin Trench Coat",
       "trait_type": "Top"
     },
     {
-      "value": "Navy Slacks",
+      "value": "Red Cotton Leggings",
       "trait_type": "Bottom"
     },
     {
-      "value": "Black Leather Shoes with Laces",
+      "value": "Learning to regulate emotions",
+      "trait_type": "Awareness"
+    },
+    {
+      "value": "Even you don\u0027t believe you",
+      "trait_type": "Persuasion"
+    },
+    {
+      "value": "White Leather Combat Cuff Boot",
       "trait_type": "Footwear"
     },
     {
-      "value": "",
-      "trait_type": "Ring"
+      "value": "Can take a punch",
+      "trait_type": "Power"
+    },
+    {
+      "value": "Can hear a bee\u0027s wings",
+      "trait_type": "Perception"
+    },
+    {
+      "value": "1",
+      "trait_type": "Charisma"
+    },
+    {
+      "value": "9",
+      "trait_type": "Wisdom"
+    },
+    {
+      "value": "10",
+      "trait_type": "Intelligence"
+    },
+    {
+      "value": "6",
+      "trait_type": "Dexterity"
+    },
+    {
+      "value": "9",
+      "trait_type": "Constitution"
+    },
+    {
+      "value": "3",
+      "trait_type": "Strength"
+    },
+    {
+      "value": "1",
+      "trait_type": "Votes"
+    },
+    {
+      "value": "1",
+      "trait_type": "Generation"
     },
     {
       "value": "",
-      "trait_type": "Headwear"
+      "trait_type": "Right Hand Accessory"
+    },
+    {
+      "value": "Phone",
+      "trait_type": "Left Hand Accessory"
+    },
+    {
+      "value": "",
+      "trait_type": "Front Neck Tattoo"
+    },
+    {
+      "value": "",
+      "trait_type": "Side Neck Tattoo"
+    },
+    {
+      "value": "",
+      "trait_type": "Forearm Tattoo"
+    },
+    {
+      "value": "",
+      "trait_type": "Bicep Tattoo"
     },
     {
       "value": "",
       "trait_type": "Glasses"
     },
     {
-      "value": "Brown Leather Briefcase",
-      "trait_type": "Accessories"
+      "value": "",
+      "trait_type": "Neckwear"
+    },
+    {
+      "value": "",
+      "trait_type": "Wristwear"
+    },
+    {
+      "value": "",
+      "trait_type": "Facial Expression"
+    },
+    {
+      "value": "",
+      "trait_type": "Facial Hair"
+    },
+    {
+      "value": "Yellow",
+      "trait_type": "Hair Dye"
+    },
+    {
+      "value": "Black",
+      "trait_type": "Hair Color"
+    },
+    {
+      "value": "Long Messy",
+      "trait_type": "Hair Style"
+    },
+    {
+      "value": "Heavy Rain",
+      "trait_type": "Background"
     }
   ]
 }

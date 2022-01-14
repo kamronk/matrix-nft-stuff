@@ -8,43 +8,7 @@
   "attributes": [
     {
       "value": "",
-      "trait_type": "Accessories"
-    },
-    {
-      "value": "White",
-      "trait_type": "Background"
-    },
-    {
-      "value": "Medium Curly Bob",
-      "trait_type": "Hair Style"
-    },
-    {
-      "value": "Blonde",
-      "trait_type": "Hair Color"
-    },
-    {
-      "value": "",
-      "trait_type": "Facial Hair"
-    },
-    {
-      "value": "Red Longsleeve",
-      "trait_type": "Top"
-    },
-    {
-      "value": "Dark-Wash Denim",
-      "trait_type": "Bottom"
-    },
-    {
-      "value": "Brown Leather Shoes with Laces",
-      "trait_type": "Footwear"
-    },
-    {
-      "value": "",
-      "trait_type": "Ring"
-    },
-    {
-      "value": "",
-      "trait_type": "Headwear"
+      "trait_type": "Piercings"
     },
     {
       "value": "Silver Aviators",
@@ -52,7 +16,43 @@
     },
     {
       "value": "",
-      "trait_type": "Piercings"
+      "trait_type": "Headwear"
+    },
+    {
+      "value": "",
+      "trait_type": "Ring"
+    },
+    {
+      "value": "Brown Leather Shoes with Laces",
+      "trait_type": "Footwear"
+    },
+    {
+      "value": "Dark-Wash Denim",
+      "trait_type": "Bottom"
+    },
+    {
+      "value": "Red Longsleeve",
+      "trait_type": "Top"
+    },
+    {
+      "value": "",
+      "trait_type": "Facial Hair"
+    },
+    {
+      "value": "Blonde",
+      "trait_type": "Hair Color"
+    },
+    {
+      "value": "Medium Curly Bob",
+      "trait_type": "Hair Style"
+    },
+    {
+      "value": "White",
+      "trait_type": "Background"
+    },
+    {
+      "value": "",
+      "trait_type": "Accessories"
     }
   ]
 }

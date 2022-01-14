@@ -1,58 +1,150 @@
 {
   "owners": 0,
   "likes": 0,
-  "contractAddress": "0x39ceaa47306381b6d79ad46af0f36bc5332386f2",
+  "contractAddress": "0x28e4b03bc88b59d25f3467b2252b66d4b2c43286",
   "tokenId": "22120",
   "name": "Matrix Avatar #22120",
-  "image": "https://media.niftys.com/nfts/matrix/media/ckw732xct92272f9737qsllpqi.png",
+  "image": "https://media.niftys.com/nfts/matrix/media/ckx9mohbb165610zw73f1f6wt2o.png",
   "attributes": [
     {
-      "value": "White",
-      "trait_type": "Background"
+      "value": "Yes",
+      "trait_type": "Headjack"
     },
     {
-      "value": "",
-      "trait_type": "Hair Style"
+      "value": "Black Wayfarer with Black Lens",
+      "trait_type": "Glasses"
     },
     {
-      "value": "Light Grey",
-      "trait_type": "Hair Color"
+      "value": "Native Arrows",
+      "trait_type": "Bicep Tattoo"
     },
     {
-      "value": "",
-      "trait_type": "Facial Hair"
+      "value": "None",
+      "trait_type": "Name"
     },
     {
-      "value": "Olive Oxford with Tie",
+      "value": "Black Leather Tank",
       "trait_type": "Top"
     },
     {
-      "value": "Dark-Wash Denim",
+      "value": "Intersecting Squares",
+      "trait_type": "Forearm Tattoo"
+    },
+    {
+      "value": "Short Sideswept Fringe",
+      "trait_type": "Hair Style"
+    },
+    {
+      "value": "Pretty light on your feet",
+      "trait_type": "Movement"
+    },
+    {
+      "value": "White Cotton Martial Arts Pants",
       "trait_type": "Bottom"
     },
     {
-      "value": "White Leather Sneaker with Grey Sole",
+      "value": "Maintains status quo",
+      "trait_type": "Persuasion"
+    },
+    {
+      "value": "Laughing at your mistakes",
+      "trait_type": "Awareness"
+    },
+    {
+      "value": "Katana with Black Handle and Silver Blade",
+      "trait_type": "Left Hand Accessory"
+    },
+    {
+      "value": "Incredible moral fiber",
+      "trait_type": "Will"
+    },
+    {
+      "value": "Black Gun",
+      "trait_type": "Right Hand Accessory"
+    },
+    {
+      "value": "Excellent at reading people",
+      "trait_type": "Perception"
+    },
+    {
+      "value": "Patent Black Leather Combat Cuff Boot",
       "trait_type": "Footwear"
     },
     {
-      "value": "Two Rings",
-      "trait_type": "Ring"
+      "value": "Can take a punch",
+      "trait_type": "Power"
+    },
+    {
+      "value": "5",
+      "trait_type": "Charisma"
+    },
+    {
+      "value": "10",
+      "trait_type": "Wisdom"
+    },
+    {
+      "value": "8",
+      "trait_type": "Intelligence"
+    },
+    {
+      "value": "6",
+      "trait_type": "Dexterity"
+    },
+    {
+      "value": "11",
+      "trait_type": "Constitution"
+    },
+    {
+      "value": "3",
+      "trait_type": "Strength"
+    },
+    {
+      "value": "1",
+      "trait_type": "Votes"
+    },
+    {
+      "value": "1",
+      "trait_type": "Generation"
     },
     {
       "value": "",
-      "trait_type": "Glasses"
+      "trait_type": "Front Neck Tattoo"
+    },
+    {
+      "value": "",
+      "trait_type": "Side Neck Tattoo"
     },
     {
       "value": "",
       "trait_type": "Piercings"
     },
     {
-      "value": "",
-      "trait_type": "Accessories"
+      "value": "Leather Cuff",
+      "trait_type": "Neckwear"
     },
     {
-      "value": "Tan Workers Cap",
-      "trait_type": "Headwear"
+      "value": "",
+      "trait_type": "Facial Expression"
+    },
+    {
+      "value": "",
+      "trait_type": "Facial Hair"
+    },
+    {
+      "value": "Natural",
+      "trait_type": "Hair Dye"
+    },
+    {
+      "value": "Light Grey",
+      "trait_type": "Hair Color"
+    },
+    {
+      "value": "Medium Rain",
+      "trait_type": "Background"
+    },
+    {
+      "value": "Studded Leather",
+      "trait_type": "Wristwear"
     }
   ]
 }

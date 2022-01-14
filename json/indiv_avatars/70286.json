@@ -1,46 +1,106 @@
 {
   "owners": 0,
   "likes": 0,
-  "contractAddress": "0x39ceaa47306381b6d79ad46af0f36bc5332386f2",
+  "contractAddress": "0x28e4b03bc88b59d25f3467b2252b66d4b2c43286",
   "tokenId": "70286",
   "name": "Matrix Avatar #70286",
-  "image": "https://media.niftys.com/nfts/matrix/media/ckw7celmo306173f773rmh0t81j.png",
+  "image": "https://media.niftys.com/nfts/matrix/media/ckx9xse6l543556zu73t4y1cjpt.png",
   "attributes": [
     {
-      "value": "White",
-      "trait_type": "Background"
+      "value": "Moon Patterns",
+      "trait_type": "Bicep Tattoo"
     },
     {
-      "value": "Straight Sideswept Fringe",
-      "trait_type": "Hair Style"
-    },
-    {
-      "value": "Blonde",
-      "trait_type": "Hair Color"
-    },
-    {
-      "value": "Stubble",
-      "trait_type": "Facial Hair"
-    },
-    {
-      "value": "Navy Blazer with Striped Shirt and Navy Tie",
-      "trait_type": "Top"
-    },
-    {
-      "value": "Khaki",
+      "value": "Black Cotton Wool Slacks with Buckles",
       "trait_type": "Bottom"
     },
     {
-      "value": "White Canvas Sneaker with White Sole",
-      "trait_type": "Footwear"
+      "value": "Glossophobia",
+      "trait_type": "Persuasion"
     },
     {
-      "value": "Two Rings",
-      "trait_type": "Ring"
+      "value": "4",
+      "trait_type": "Charisma"
+    },
+    {
+      "value": "Learning to regulate emotions",
+      "trait_type": "Awareness"
+    },
+    {
+      "value": "9",
+      "trait_type": "Wisdom"
+    },
+    {
+      "value": "You\u0027ve got a bad feeling about this",
+      "trait_type": "Perception"
+    },
+    {
+      "value": "9",
+      "trait_type": "Intelligence"
+    },
+    {
+      "value": "Two left feet",
+      "trait_type": "Movement"
+    },
+    {
+      "value": "3",
+      "trait_type": "Dexterity"
+    },
+    {
+      "value": "Incredible moral fiber",
+      "trait_type": "Will"
+    },
+    {
+      "value": "11",
+      "trait_type": "Constitution"
+    },
+    {
+      "value": "Can take a punch",
+      "trait_type": "Power"
+    },
+    {
+      "value": "3",
+      "trait_type": "Strength"
+    },
+    {
+      "value": "TBD",
+      "trait_type": "Name"
+    },
+    {
+      "value": "1",
+      "trait_type": "Votes"
+    },
+    {
+      "value": "1",
+      "trait_type": "Generation"
+    },
+    {
+      "value": "Yes",
+      "trait_type": "Headjack"
     },
     {
       "value": "",
-      "trait_type": "Headwear"
+      "trait_type": "Right Hand Accessory"
+    },
+    {
+      "value": "Phone",
+      "trait_type": "Left Hand Accessory"
+    },
+    {
+      "value": "",
+      "trait_type": "Front Neck Tattoo"
+    },
+    {
+      "value": "Shaded Circle",
+      "trait_type": "Side Neck Tattoo"
+    },
+    {
+      "value": "Shaded Circle",
+      "trait_type": "Forearm Tattoo"
+    },
+    {
+      "value": "Black Earrings",
+      "trait_type": "Piercings"
     },
     {
       "value": "",
@@ -48,11 +108,43 @@
     },
     {
       "value": "",
-      "trait_type": "Piercings"
+      "trait_type": "Neckwear"
+    },
+    {
+      "value": "Studded Leather",
+      "trait_type": "Wristwear"
+    },
+    {
+      "value": "Green Leather Neo Combat Boot",
+      "trait_type": "Footwear"
+    },
+    {
+      "value": "Black Cotton Tank",
+      "trait_type": "Top"
+    },
+    {
+      "value": "Scowl",
+      "trait_type": "Facial Expression"
     },
     {
       "value": "",
-      "trait_type": "Accessories"
+      "trait_type": "Facial Hair"
+    },
+    {
+      "value": "Pink",
+      "trait_type": "Hair Dye"
+    },
+    {
+      "value": "Blonde",
+      "trait_type": "Hair Color"
+    },
+    {
+      "value": "Short Messy",
+      "trait_type": "Hair Style"
+    },
+    {
+      "value": "Light Rain",
+      "trait_type": "Background"
     }
   ]
 }

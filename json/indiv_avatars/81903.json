@@ -7,36 +7,40 @@
   "image": "https://media.niftys.com/nfts/matrix/media/ckw7070db27515f873jsh1qh39.png",
   "attributes": [
     {
-      "value": "White",
-      "trait_type": "Background"
-    },
-    {
-      "value": "Short Messy",
-      "trait_type": "Hair Style"
-    },
-    {
-      "value": "Light Grey",
-      "trait_type": "Hair Color"
-    },
-    {
-      "value": "",
-      "trait_type": "Facial Hair"
+      "value": "Khaki Slacks",
+      "trait_type": "Bottom"
     },
     {
       "value": "Dark Gray Cardigan with Light Gray Longsleeve Shirt",
       "trait_type": "Top"
     },
     {
-      "value": "Khaki Slacks",
-      "trait_type": "Bottom"
+      "value": "",
+      "trait_type": "Facial Hair"
     },
     {
-      "value": "Black Leather Shoes with Laces",
-      "trait_type": "Footwear"
+      "value": "Light Grey",
+      "trait_type": "Hair Color"
+    },
+    {
+      "value": "Short Messy",
+      "trait_type": "Hair Style"
+    },
+    {
+      "value": "White",
+      "trait_type": "Background"
+    },
+    {
+      "value": "Black Smartphone",
+      "trait_type": "Accessories"
+    },
+    {
+      "value": "Stud Earring",
+      "trait_type": "Piercings"
     },
     {
       "value": "",
-      "trait_type": "Ring"
+      "trait_type": "Glasses"
     },
     {
       "value": "",
@@ -44,15 +48,11 @@
     },
     {
       "value": "",
-      "trait_type": "Glasses"
+      "trait_type": "Ring"
     },
     {
-      "value": "Stud Earring",
-      "trait_type": "Piercings"
-    },
-    {
-      "value": "Black Smartphone",
-      "trait_type": "Accessories"
+      "value": "Black Leather Shoes with Laces",
+      "trait_type": "Footwear"
     }
   ]
 }

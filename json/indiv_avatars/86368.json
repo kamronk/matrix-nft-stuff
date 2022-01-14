@@ -1,46 +1,82 @@
 {
   "owners": 0,
   "likes": 0,
-  "contractAddress": "0x39ceaa47306381b6d79ad46af0f36bc5332386f2",
+  "contractAddress": "0x423e540cb46db0e4df1ac96bcbddf78a804647d8",
   "tokenId": "86368",
   "name": "Matrix Avatar #86368",
-  "image": "https://media.niftys.com/nfts/matrix/media/ckw75id7m146325f173wcfex4yt.png",
+  "image": "https://media.niftys.com/nfts/matrix/media/ckxa9bxwh2420107o73g7flxu9o.png",
   "attributes": [
     {
-      "value": "White",
-      "trait_type": "Background"
+      "value": "TBD",
+      "trait_type": "Name"
     },
     {
-      "value": "Short Coil",
-      "trait_type": "Hair Style"
+      "value": "Disciple",
+      "trait_type": "Zen"
     },
     {
-      "value": "Dark Brown",
-      "trait_type": "Hair Color"
+      "value": "10",
+      "trait_type": "Wisdom"
+    },
+    {
+      "value": "Unemployed",
+      "trait_type": "Occupation"
+    },
+    {
+      "value": "Know your way around a spreadsheet",
+      "trait_type": "Hacking"
+    },
+    {
+      "value": "6",
+      "trait_type": "Intelligence"
+    },
+    {
+      "value": "4981",
+      "trait_type": "Social Media Followers"
+    },
+    {
+      "value": "8",
+      "trait_type": "Charisma"
+    },
+    {
+      "value": "Low Rider",
+      "trait_type": "Transportation"
+    },
+    {
+      "value": "11",
+      "trait_type": "Dexterity"
+    },
+    {
+      "value": "35555",
+      "trait_type": "Salary"
+    },
+    {
+      "value": "7",
+      "trait_type": "Strength"
+    },
+    {
+      "value": "711",
+      "trait_type": "Credit Score"
+    },
+    {
+      "value": "10",
+      "trait_type": "Constitution"
+    },
+    {
+      "value": "1",
+      "trait_type": "Votes"
+    },
+    {
+      "value": "1",
+      "trait_type": "Generation"
+    },
+    {
+      "value": "Lunchbox",
+      "trait_type": "Accessories"
     },
     {
       "value": "",
-      "trait_type": "Facial Hair"
-    },
-    {
-      "value": "Navy Oxford with Buttons",
-      "trait_type": "Top"
-    },
-    {
-      "value": "Dark-Wash Denim",
-      "trait_type": "Bottom"
-    },
-    {
-      "value": "White Leather Sneaker with Grey Sole",
-      "trait_type": "Footwear"
-    },
-    {
-      "value": "",
-      "trait_type": "Ring"
-    },
-    {
-      "value": "",
-      "trait_type": "Headwear"
+      "trait_type": "Piercings"
     },
     {
       "value": "Silver Aviators",
@@ -48,11 +84,39 @@
     },
     {
       "value": "",
-      "trait_type": "Piercings"
+      "trait_type": "Headwear"
     },
     {
-      "value": "Lunchbox",
-      "trait_type": "Accessories"
+      "value": "",
+      "trait_type": "Ring"
+    },
+    {
+      "value": "White Leather Sneaker with Grey Sole",
+      "trait_type": "Footwear"
+    },
+    {
+      "value": "Dark-Wash Denim",
+      "trait_type": "Bottom"
+    },
+    {
+      "value": "Navy Oxford with Buttons",
+      "trait_type": "Top"
+    },
+    {
+      "value": "",
+      "trait_type": "Facial Hair"
+    },
+    {
+      "value": "Dark Brown",
+      "trait_type": "Hair Color"
+    },
+    {
+      "value": "Short Coil",
+      "trait_type": "Hair Style"
+    },
+    {
+      "value": "White Light Rain",
+      "trait_type": "Background"
     }
   ]
 }

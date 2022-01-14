@@ -1,46 +1,82 @@
 {
   "owners": 0,
   "likes": 0,
-  "contractAddress": "0x39ceaa47306381b6d79ad46af0f36bc5332386f2",
+  "contractAddress": "0x423e540cb46db0e4df1ac96bcbddf78a804647d8",
   "tokenId": "75631",
   "name": "Matrix Avatar #75631",
-  "image": "https://media.niftys.com/nfts/matrix/media/ckw7btcnx286586f6733wphi5u8.png",
+  "image": "https://media.niftys.com/nfts/matrix/media/ckxafe24p4499577t73m9ny9f79.png",
   "attributes": [
     {
-      "value": "White",
-      "trait_type": "Background"
+      "value": "None",
+      "trait_type": "Name"
+    },
+    {
+      "value": "Stole a high school computer lab pass",
+      "trait_type": "Hacking"
+    },
+    {
+      "value": "Hooptie on Three Spares",
+      "trait_type": "Transportation"
+    },
+    {
+      "value": "Disciple",
+      "trait_type": "Zen"
+    },
+    {
+      "value": "Blockchain Engineer",
+      "trait_type": "Occupation"
+    },
+    {
+      "value": "10",
+      "trait_type": "Wisdom"
+    },
+    {
+      "value": "12",
+      "trait_type": "Intelligence"
+    },
+    {
+      "value": "355555",
+      "trait_type": "Social Media Followers"
+    },
+    {
+      "value": "12",
+      "trait_type": "Charisma"
+    },
+    {
+      "value": "6",
+      "trait_type": "Dexterity"
+    },
+    {
+      "value": "52968",
+      "trait_type": "Salary"
+    },
+    {
+      "value": "8",
+      "trait_type": "Strength"
+    },
+    {
+      "value": "739",
+      "trait_type": "Credit Score"
+    },
+    {
+      "value": "12",
+      "trait_type": "Constitution"
+    },
+    {
+      "value": "1",
+      "trait_type": "Votes"
+    },
+    {
+      "value": "1",
+      "trait_type": "Generation"
+    },
+    {
+      "value": "Lunchbox",
+      "trait_type": "Accessories"
     },
     {
       "value": "",
-      "trait_type": "Hair Style"
-    },
-    {
-      "value": "Light Grey",
-      "trait_type": "Hair Color"
-    },
-    {
-      "value": "Goatee",
-      "trait_type": "Facial Hair"
-    },
-    {
-      "value": "Olive Oxford with Pocket",
-      "trait_type": "Top"
-    },
-    {
-      "value": "Navy Slacks",
-      "trait_type": "Bottom"
-    },
-    {
-      "value": "Redbrown Leather Workboot with Brown Sole",
-      "trait_type": "Footwear"
-    },
-    {
-      "value": "",
-      "trait_type": "Ring"
-    },
-    {
-      "value": "",
-      "trait_type": "Headwear"
+      "trait_type": "Piercings"
     },
     {
       "value": "",
@@ -48,11 +84,39 @@
     },
     {
       "value": "",
-      "trait_type": "Piercings"
+      "trait_type": "Headwear"
     },
     {
-      "value": "Lunchbox",
-      "trait_type": "Accessories"
+      "value": "",
+      "trait_type": "Ring"
+    },
+    {
+      "value": "Redbrown Leather Workboot with Brown Sole",
+      "trait_type": "Footwear"
+    },
+    {
+      "value": "Navy Slacks",
+      "trait_type": "Bottom"
+    },
+    {
+      "value": "Olive Oxford with Pocket",
+      "trait_type": "Top"
+    },
+    {
+      "value": "Goatee",
+      "trait_type": "Facial Hair"
+    },
+    {
+      "value": "Light Grey",
+      "trait_type": "Hair Color"
+    },
+    {
+      "value": "",
+      "trait_type": "Hair Style"
+    },
+    {
+      "value": "White Heavy Rain",
+      "trait_type": "Background"
     }
   ]
 }

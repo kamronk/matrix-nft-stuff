@@ -1,58 +1,150 @@
 {
   "owners": 0,
   "likes": 0,
-  "contractAddress": "0x39ceaa47306381b6d79ad46af0f36bc5332386f2",
+  "contractAddress": "0x28e4b03bc88b59d25f3467b2252b66d4b2c43286",
   "tokenId": "34610",
   "name": "Matrix Avatar #34610",
-  "image": "https://media.niftys.com/nfts/matrix/media/ckw74a95k121033f873otwx4bvf.png",
+  "image": "https://media.niftys.com/nfts/matrix/media/ckx9o0qbu217805zv73rxavjpil.png",
   "attributes": [
     {
-      "value": "White",
-      "trait_type": "Background"
+      "value": "Yes",
+      "trait_type": "Headjack"
     },
     {
-      "value": "",
-      "trait_type": "Hair Style"
+      "value": "Two left feet",
+      "trait_type": "Movement"
     },
     {
-      "value": "Dark Brown",
-      "trait_type": "Hair Color"
+      "value": "None",
+      "trait_type": "Name"
     },
     {
-      "value": "",
-      "trait_type": "Facial Hair"
-    },
-    {
-      "value": "Blue Longsleeve",
+      "value": "Green Cotton Tank",
       "trait_type": "Top"
     },
     {
-      "value": "Charcoal Slacks",
-      "trait_type": "Bottom"
+      "value": "Silver Staff",
+      "trait_type": "Right Hand Accessory"
     },
     {
-      "value": "White Canvas Sneaker with White Sole",
+      "value": "Borromean Rings",
+      "trait_type": "Bicep Tattoo"
+    },
+    {
+      "value": "Sierpiński Triangle",
+      "trait_type": "Forearm Tattoo"
+    },
+    {
+      "value": "Reality is seen as it is",
+      "trait_type": "Awareness"
+    },
+    {
+      "value": "Quiet confidence",
+      "trait_type": "Will"
+    },
+    {
+      "value": "People smile back at you",
+      "trait_type": "Persuasion"
+    },
+    {
+      "value": "Katana with Black Handle and Silver Blade",
+      "trait_type": "Left Hand Accessory"
+    },
+    {
+      "value": "Round Silver with Mirror Lens",
+      "trait_type": "Glasses"
+    },
+    {
+      "value": "Black Leather Combat Cuff Boot",
       "trait_type": "Footwear"
     },
     {
-      "value": "",
-      "trait_type": "Ring"
+      "value": "Can take a punch",
+      "trait_type": "Power"
+    },
+    {
+      "value": "Can hear a bee\u0027s wings",
+      "trait_type": "Perception"
+    },
+    {
+      "value": "6",
+      "trait_type": "Charisma"
+    },
+    {
+      "value": "15",
+      "trait_type": "Wisdom"
+    },
+    {
+      "value": "10",
+      "trait_type": "Intelligence"
+    },
+    {
+      "value": "3",
+      "trait_type": "Dexterity"
+    },
+    {
+      "value": "10",
+      "trait_type": "Constitution"
+    },
+    {
+      "value": "3",
+      "trait_type": "Strength"
+    },
+    {
+      "value": "1",
+      "trait_type": "Votes"
+    },
+    {
+      "value": "1",
+      "trait_type": "Generation"
     },
     {
       "value": "",
-      "trait_type": "Headwear"
+      "trait_type": "Front Neck Tattoo"
     },
     {
-      "value": "Silver Aviators",
-      "trait_type": "Glasses"
+      "value": "",
+      "trait_type": "Side Neck Tattoo"
     },
     {
       "value": "",
       "trait_type": "Piercings"
     },
     {
-      "value": "Lunchbox",
-      "trait_type": "Accessories"
+      "value": "Leather Cuff",
+      "trait_type": "Neckwear"
+    },
+    {
+      "value": "",
+      "trait_type": "Wristwear"
+    },
+    {
+      "value": "",
+      "trait_type": "Facial Expression"
+    },
+    {
+      "value": "",
+      "trait_type": "Facial Hair"
+    },
+    {
+      "value": "Green",
+      "trait_type": "Hair Dye"
+    },
+    {
+      "value": "Dark Brown",
+      "trait_type": "Hair Color"
+    },
+    {
+      "value": "Short Messy",
+      "trait_type": "Hair Style"
+    },
+    {
+      "value": "Light Rain",
+      "trait_type": "Background"
+    },
+    {
+      "value": "Black Leather Pants with Buckles",
+      "trait_type": "Bottom"
     }
   ]
 }

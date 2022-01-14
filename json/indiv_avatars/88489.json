@@ -1,58 +1,150 @@
 {
   "owners": 0,
   "likes": 0,
-  "contractAddress": "0x39ceaa47306381b6d79ad46af0f36bc5332386f2",
+  "contractAddress": "0x28e4b03bc88b59d25f3467b2252b66d4b2c43286",
   "tokenId": "88489",
   "name": "Matrix Avatar #88489",
-  "image": "https://media.niftys.com/nfts/matrix/media/ckw762pp1162297f7732irq4d6h.png",
+  "image": "https://media.niftys.com/nfts/matrix/media/ckx9py7v5291745zu73mgjxpkb6.png",
   "attributes": [
     {
-      "value": "White",
-      "trait_type": "Background"
+      "value": "Black Cotton Wool Slacks with Buckles",
+      "trait_type": "Bottom"
     },
     {
-      "value": "Short Pixie",
-      "trait_type": "Hair Style"
+      "value": "You\u0027re a bit of a charmer",
+      "trait_type": "Persuasion"
+    },
+    {
+      "value": "7",
+      "trait_type": "Charisma"
+    },
+    {
+      "value": "Laughing at your mistakes",
+      "trait_type": "Awareness"
+    },
+    {
+      "value": "10",
+      "trait_type": "Wisdom"
+    },
+    {
+      "value": "Can hear a bee\u0027s wings",
+      "trait_type": "Perception"
+    },
+    {
+      "value": "10",
+      "trait_type": "Intelligence"
+    },
+    {
+      "value": "Sleep paralysis",
+      "trait_type": "Movement"
+    },
+    {
+      "value": "2",
+      "trait_type": "Dexterity"
+    },
+    {
+      "value": "Unshakable resolve",
+      "trait_type": "Will"
+    },
+    {
+      "value": "12",
+      "trait_type": "Constitution"
+    },
+    {
+      "value": "They wouldn\u0027t like you when you\u0027re angry",
+      "trait_type": "Power"
+    },
+    {
+      "value": "12",
+      "trait_type": "Strength"
+    },
+    {
+      "value": "TBD",
+      "trait_type": "Name"
+    },
+    {
+      "value": "1",
+      "trait_type": "Votes"
+    },
+    {
+      "value": "1",
+      "trait_type": "Generation"
+    },
+    {
+      "value": "Yes",
+      "trait_type": "Headjack"
+    },
+    {
+      "value": "",
+      "trait_type": "Right Hand Accessory"
+    },
+    {
+      "value": "Black Gun",
+      "trait_type": "Left Hand Accessory"
+    },
+    {
+      "value": "",
+      "trait_type": "Front Neck Tattoo"
+    },
+    {
+      "value": "",
+      "trait_type": "Side Neck Tattoo"
+    },
+    {
+      "value": "",
+      "trait_type": "Forearm Tattoo"
+    },
+    {
+      "value": "",
+      "trait_type": "Bicep Tattoo"
+    },
+    {
+      "value": "Black Earrings",
+      "trait_type": "Piercings"
+    },
+    {
+      "value": "White Futurist with Mirror Lens",
+      "trait_type": "Glasses"
+    },
+    {
+      "value": "",
+      "trait_type": "Neckwear"
+    },
+    {
+      "value": "",
+      "trait_type": "Wristwear"
+    },
+    {
+      "value": "Black Leather Combat Cuff Boot",
+      "trait_type": "Footwear"
+    },
+    {
+      "value": "White Cotton Mandarin Tunic",
+      "trait_type": "Top"
+    },
+    {
+      "value": "",
+      "trait_type": "Facial Expression"
+    },
+    {
+      "value": "Thin",
+      "trait_type": "Facial Hair"
+    },
+    {
+      "value": "Natural",
+      "trait_type": "Hair Dye"
     },
     {
       "value": "Dark Brown",
       "trait_type": "Hair Color"
     },
     {
-      "value": "Stubble",
-      "trait_type": "Facial Hair"
+      "value": "Messy Updo Bun",
+      "trait_type": "Hair Style"
     },
     {
-      "value": "Light Gray Longsleeve",
-      "trait_type": "Top"
-    },
-    {
-      "value": "Navy Slacks",
-      "trait_type": "Bottom"
-    },
-    {
-      "value": "Redbrown Leather Workboot with Brown Sole",
-      "trait_type": "Footwear"
-    },
-    {
-      "value": "Two Rings",
-      "trait_type": "Ring"
-    },
-    {
-      "value": "",
-      "trait_type": "Headwear"
-    },
-    {
-      "value": "Rosegold Aviators",
-      "trait_type": "Glasses"
-    },
-    {
-      "value": "",
-      "trait_type": "Piercings"
-    },
-    {
-      "value": "Brown Leather Briefcase",
-      "trait_type": "Accessories"
+      "value": "Light Rain",
+      "trait_type": "Background"
     }
   ]
 }

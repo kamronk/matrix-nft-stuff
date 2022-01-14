@@ -1,46 +1,106 @@
 {
   "owners": 0,
   "likes": 0,
-  "contractAddress": "0x39ceaa47306381b6d79ad46af0f36bc5332386f2",
+  "contractAddress": "0x28e4b03bc88b59d25f3467b2252b66d4b2c43286",
   "tokenId": "53096",
   "name": "Matrix Avatar #53096",
-  "image": "https://media.niftys.com/nfts/matrix/media/ckw787s1d210853f8732m527ubg.png",
+  "image": "https://media.niftys.com/nfts/matrix/media/ckx9sy65x375074zv73oxrhhk8u.png",
   "attributes": [
     {
-      "value": "White",
-      "trait_type": "Background"
+      "value": "Shaded Triangle",
+      "trait_type": "Forearm Tattoo"
     },
     {
-      "value": "Short Pixie",
-      "trait_type": "Hair Style"
+      "value": "Black Shotgun",
+      "trait_type": "Left Hand Accessory"
     },
     {
-      "value": "Light Grey",
-      "trait_type": "Hair Color"
-    },
-    {
-      "value": "Mustache",
-      "trait_type": "Facial Hair"
-    },
-    {
-      "value": "Dark Gray Longsleeve",
-      "trait_type": "Top"
-    },
-    {
-      "value": "Dark-Wash Denim",
+      "value": "Red Leather Pants with Buckles",
       "trait_type": "Bottom"
     },
     {
-      "value": "Black Suede Chelseas with Brown Sole",
-      "trait_type": "Footwear"
+      "value": "Could sell ice to an eskimo",
+      "trait_type": "Persuasion"
+    },
+    {
+      "value": "9",
+      "trait_type": "Charisma"
+    },
+    {
+      "value": "Laughing at your mistakes",
+      "trait_type": "Awareness"
+    },
+    {
+      "value": "10",
+      "trait_type": "Wisdom"
+    },
+    {
+      "value": "Can see over the horizon",
+      "trait_type": "Perception"
+    },
+    {
+      "value": "13",
+      "trait_type": "Intelligence"
+    },
+    {
+      "value": "Sleep paralysis",
+      "trait_type": "Movement"
+    },
+    {
+      "value": "2",
+      "trait_type": "Dexterity"
+    },
+    {
+      "value": "Quiet confidence",
+      "trait_type": "Will"
+    },
+    {
+      "value": "10",
+      "trait_type": "Constitution"
+    },
+    {
+      "value": "Paper hands",
+      "trait_type": "Power"
+    },
+    {
+      "value": "1",
+      "trait_type": "Strength"
+    },
+    {
+      "value": "TBD",
+      "trait_type": "Name"
+    },
+    {
+      "value": "1",
+      "trait_type": "Votes"
+    },
+    {
+      "value": "1",
+      "trait_type": "Generation"
+    },
+    {
+      "value": "Yes",
+      "trait_type": "Headjack"
+    },
+    {
+      "value": "Black Submachine Gun",
+      "trait_type": "Right Hand Accessory"
     },
     {
       "value": "",
-      "trait_type": "Ring"
+      "trait_type": "Front Neck Tattoo"
     },
     {
       "value": "",
-      "trait_type": "Headwear"
+      "trait_type": "Side Neck Tattoo"
+    },
+    {
+      "value": "Valknut",
+      "trait_type": "Bicep Tattoo"
+    },
+    {
+      "value": "",
+      "trait_type": "Piercings"
     },
     {
       "value": "",
@@ -48,11 +108,43 @@
     },
     {
       "value": "",
-      "trait_type": "Piercings"
+      "trait_type": "Neckwear"
     },
     {
-      "value": "Lunchbox",
-      "trait_type": "Accessories"
+      "value": "",
+      "trait_type": "Wristwear"
+    },
+    {
+      "value": "Black Leather Combat Cuff Boot",
+      "trait_type": "Footwear"
+    },
+    {
+      "value": "Black Cotton Tank",
+      "trait_type": "Top"
+    },
+    {
+      "value": "",
+      "trait_type": "Facial Expression"
+    },
+    {
+      "value": "Thin",
+      "trait_type": "Facial Hair"
+    },
+    {
+      "value": "Natural",
+      "trait_type": "Hair Dye"
+    },
+    {
+      "value": "Light Grey",
+      "trait_type": "Hair Color"
+    },
+    {
+      "value": "Buzz Cut",
+      "trait_type": "Hair Style"
+    },
+    {
+      "value": "Heavy Rain",
+      "trait_type": "Background"
     }
   ]
 }

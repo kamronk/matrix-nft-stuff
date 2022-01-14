@@ -1,58 +1,150 @@
 {
   "owners": 0,
   "likes": 0,
-  "contractAddress": "0x39ceaa47306381b6d79ad46af0f36bc5332386f2",
+  "contractAddress": "0x28e4b03bc88b59d25f3467b2252b66d4b2c43286",
   "tokenId": "75625",
   "name": "Matrix Avatar #75625",
-  "image": "https://media.niftys.com/nfts/matrix/media/ckw7dnmtq329495f973oqx9lg7i.png",
+  "image": "https://media.niftys.com/nfts/matrix/media/ckx9yopd9580679zw73uds94w19.png",
   "attributes": [
     {
-      "value": "White",
-      "trait_type": "Background"
+      "value": "Your significant other\u0027s mom loves you",
+      "trait_type": "Persuasion"
     },
     {
-      "value": "Short Coil",
+      "value": "Yes",
+      "trait_type": "Headjack"
+    },
+    {
+      "value": "Two left feet",
+      "trait_type": "Movement"
+    },
+    {
+      "value": "None",
+      "trait_type": "Name"
+    },
+    {
+      "value": "Stiff upper lip",
+      "trait_type": "Will"
+    },
+    {
+      "value": "Dark Wood Staff",
+      "trait_type": "Right Hand Accessory"
+    },
+    {
+      "value": "Triforce",
+      "trait_type": "Side Neck Tattoo"
+    },
+    {
+      "value": "Short Sideswept Fringe",
       "trait_type": "Hair Style"
+    },
+    {
+      "value": "Black Nose, Lip, Forehead",
+      "trait_type": "Piercings"
+    },
+    {
+      "value": "Green Patent Leather Longsleeve Crew",
+      "trait_type": "Top"
+    },
+    {
+      "value": "Laughing at your mistakes",
+      "trait_type": "Awareness"
+    },
+    {
+      "value": "Green Knee High Leather Boots",
+      "trait_type": "Footwear"
+    },
+    {
+      "value": "Katana with Black Handle and Silver Blade",
+      "trait_type": "Left Hand Accessory"
+    },
+    {
+      "value": "Can see around corners",
+      "trait_type": "Perception"
+    },
+    {
+      "value": "Red Cotton Wool Slacks with Buckles",
+      "trait_type": "Bottom"
+    },
+    {
+      "value": "Your grandma beats you at arm-wrestling",
+      "trait_type": "Power"
+    },
+    {
+      "value": "8",
+      "trait_type": "Charisma"
+    },
+    {
+      "value": "10",
+      "trait_type": "Wisdom"
+    },
+    {
+      "value": "11",
+      "trait_type": "Intelligence"
+    },
+    {
+      "value": "3",
+      "trait_type": "Dexterity"
+    },
+    {
+      "value": "7",
+      "trait_type": "Constitution"
+    },
+    {
+      "value": "2",
+      "trait_type": "Strength"
+    },
+    {
+      "value": "1",
+      "trait_type": "Votes"
+    },
+    {
+      "value": "1",
+      "trait_type": "Generation"
+    },
+    {
+      "value": "",
+      "trait_type": "Front Neck Tattoo"
+    },
+    {
+      "value": "",
+      "trait_type": "Forearm Tattoo"
+    },
+    {
+      "value": "",
+      "trait_type": "Bicep Tattoo"
+    },
+    {
+      "value": "",
+      "trait_type": "Glasses"
+    },
+    {
+      "value": "",
+      "trait_type": "Neckwear"
+    },
+    {
+      "value": "Thick Leather",
+      "trait_type": "Wristwear"
+    },
+    {
+      "value": "",
+      "trait_type": "Facial Expression"
+    },
+    {
+      "value": "Goatee",
+      "trait_type": "Facial Hair"
+    },
+    {
+      "value": "Natural",
+      "trait_type": "Hair Dye"
     },
     {
       "value": "Light Grey",
       "trait_type": "Hair Color"
     },
     {
-      "value": "",
-      "trait_type": "Facial Hair"
-    },
-    {
-      "value": "Navy Oxford with Tie and Pocket",
-      "trait_type": "Top"
-    },
-    {
-      "value": "Khaki Slacks",
-      "trait_type": "Bottom"
-    },
-    {
-      "value": "White Canvas Sneaker with White Sole",
-      "trait_type": "Footwear"
-    },
-    {
-      "value": "",
-      "trait_type": "Ring"
-    },
-    {
-      "value": "",
-      "trait_type": "Headwear"
-    },
-    {
-      "value": "Rosegold Aviators",
-      "trait_type": "Glasses"
-    },
-    {
-      "value": "",
-      "trait_type": "Piercings"
-    },
-    {
-      "value": "Black Leather Briefcase",
-      "trait_type": "Accessories"
+      "value": "Heavy Rain",
+      "trait_type": "Background"
     }
   ]
 }

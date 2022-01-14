@@ -7,36 +7,40 @@
   "image": "https://media.niftys.com/nfts/matrix/media/ckw72u53v86913fa731g1jaoby.png",
   "attributes": [
     {
-      "value": "White",
-      "trait_type": "Background"
-    },
-    {
-      "value": "Long Straight Bangs",
-      "trait_type": "Hair Style"
-    },
-    {
-      "value": "Dark Brown",
-      "trait_type": "Hair Color"
-    },
-    {
-      "value": "",
-      "trait_type": "Facial Hair"
-    },
-    {
-      "value": "Khaki Slacks",
-      "trait_type": "Bottom"
+      "value": "Dark Gray Cardigan with Beige Oxford and No Tie",
+      "trait_type": "Top"
     },
     {
       "value": "Tan Suede Workboot with Tan Sole",
       "trait_type": "Footwear"
     },
     {
-      "value": "Two Rings",
-      "trait_type": "Ring"
+      "value": "Khaki Slacks",
+      "trait_type": "Bottom"
     },
     {
       "value": "",
-      "trait_type": "Headwear"
+      "trait_type": "Facial Hair"
+    },
+    {
+      "value": "Dark Brown",
+      "trait_type": "Hair Color"
+    },
+    {
+      "value": "Long Straight Bangs",
+      "trait_type": "Hair Style"
+    },
+    {
+      "value": "White",
+      "trait_type": "Background"
+    },
+    {
+      "value": "Brown Leather Briefcase",
+      "trait_type": "Accessories"
+    },
+    {
+      "value": "",
+      "trait_type": "Piercings"
     },
     {
       "value": "",
@@ -44,15 +48,11 @@
     },
     {
       "value": "",
-      "trait_type": "Piercings"
+      "trait_type": "Headwear"
     },
     {
-      "value": "Brown Leather Briefcase",
-      "trait_type": "Accessories"
-    },
-    {
-      "value": "Dark Gray Cardigan with Beige Oxford Shirt",
-      "trait_type": "Top"
+      "value": "Two Rings",
+      "trait_type": "Ring"
     }
   ]
 }

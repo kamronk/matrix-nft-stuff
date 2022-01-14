@@ -7,36 +7,16 @@
   "image": "https://media.niftys.com/nfts/matrix/media/ckw7bcklp281848f77368d6v50m.png",
   "attributes": [
     {
-      "value": "",
-      "trait_type": "Ring"
+      "value": "Black Leather Briefcase",
+      "trait_type": "Accessories"
     },
     {
       "value": "",
-      "trait_type": "Headwear"
-    },
-    {
-      "value": "White",
-      "trait_type": "Background"
-    },
-    {
-      "value": "Long Messy",
-      "trait_type": "Hair Style"
-    },
-    {
-      "value": "Black",
-      "trait_type": "Hair Color"
+      "trait_type": "Piercings"
     },
     {
       "value": "",
-      "trait_type": "Facial Hair"
-    },
-    {
-      "value": "Denim Jumpsuit",
-      "trait_type": "Top"
-    },
-    {
-      "value": "",
-      "trait_type": "Bottom"
+      "trait_type": "Glasses"
     },
     {
       "value": "Black Suede Chelseas with Brown Sole",
@@ -44,15 +24,35 @@
     },
     {
       "value": "",
-      "trait_type": "Glasses"
+      "trait_type": "Bottom"
+    },
+    {
+      "value": "Denim Jumpsuit",
+      "trait_type": "Top"
     },
     {
       "value": "",
-      "trait_type": "Piercings"
+      "trait_type": "Facial Hair"
     },
     {
-      "value": "Black Leather Briefcase",
-      "trait_type": "Accessories"
+      "value": "Black",
+      "trait_type": "Hair Color"
+    },
+    {
+      "value": "Long Messy",
+      "trait_type": "Hair Style"
+    },
+    {
+      "value": "White",
+      "trait_type": "Background"
+    },
+    {
+      "value": "",
+      "trait_type": "Headwear"
+    },
+    {
+      "value": "",
+      "trait_type": "Ring"
     }
   ]
 }

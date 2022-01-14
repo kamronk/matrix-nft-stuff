@@ -1,58 +1,150 @@
 {
   "owners": 0,
   "likes": 0,
-  "contractAddress": "0x39ceaa47306381b6d79ad46af0f36bc5332386f2",
+  "contractAddress": "0x28e4b03bc88b59d25f3467b2252b66d4b2c43286",
   "tokenId": "90869",
   "name": "Matrix Avatar #90869",
-  "image": "https://media.niftys.com/nfts/matrix/media/ckw79biu4231981f573psd89kdu.png",
+  "image": "https://media.niftys.com/nfts/matrix/media/ckx9u8re1417248zs732siey58k.png",
   "attributes": [
     {
-      "value": "White",
-      "trait_type": "Background"
+      "value": "Katana with White Handle and White Blade",
+      "trait_type": "Left Hand Accessory"
     },
     {
-      "value": "Buzz Cut",
-      "trait_type": "Hair Style"
+      "value": "Could sell ice to an eskimo",
+      "trait_type": "Persuasion"
     },
     {
-      "value": "Blonde",
-      "trait_type": "Hair Color"
+      "value": "9",
+      "trait_type": "Charisma"
     },
     {
-      "value": "Goatee",
-      "trait_type": "Facial Hair"
+      "value": "Appreciation for the complexity of human behavior",
+      "trait_type": "Awareness"
     },
     {
-      "value": "Dark Gray Cardigan with Tan Longsleeve Shirt",
-      "trait_type": "Top"
+      "value": "12",
+      "trait_type": "Wisdom"
     },
     {
-      "value": "Light-Wash Denim",
-      "trait_type": "Bottom"
+      "value": "Can hear a heartbeat a mile away",
+      "trait_type": "Perception"
     },
     {
-      "value": "Redbrown Leather Workboot with Brown Sole",
-      "trait_type": "Footwear"
+      "value": "12",
+      "trait_type": "Intelligence"
+    },
+    {
+      "value": "Can walk and chew gum AT THE SAME TIME (good job!)",
+      "trait_type": "Movement"
+    },
+    {
+      "value": "4",
+      "trait_type": "Dexterity"
+    },
+    {
+      "value": "Incredible moral fiber",
+      "trait_type": "Will"
+    },
+    {
+      "value": "11",
+      "trait_type": "Constitution"
+    },
+    {
+      "value": "Paper hands",
+      "trait_type": "Power"
+    },
+    {
+      "value": "1",
+      "trait_type": "Strength"
+    },
+    {
+      "value": "TBD",
+      "trait_type": "Name"
+    },
+    {
+      "value": "1",
+      "trait_type": "Votes"
+    },
+    {
+      "value": "1",
+      "trait_type": "Generation"
+    },
+    {
+      "value": "Yes",
+      "trait_type": "Headjack"
     },
     {
       "value": "",
-      "trait_type": "Ring"
+      "trait_type": "Right Hand Accessory"
     },
     {
       "value": "",
-      "trait_type": "Glasses"
+      "trait_type": "Front Neck Tattoo"
+    },
+    {
+      "value": "",
+      "trait_type": "Side Neck Tattoo"
+    },
+    {
+      "value": "",
+      "trait_type": "Forearm Tattoo"
+    },
+    {
+      "value": "",
+      "trait_type": "Bicep Tattoo"
     },
     {
       "value": "",
       "trait_type": "Piercings"
     },
     {
-      "value": "Brown Leather Briefcase",
-      "trait_type": "Accessories"
+      "value": "Round Silver with Mirror Lens",
+      "trait_type": "Glasses"
     },
     {
-      "value": "Navy Blue Workers Cap",
-      "trait_type": "Headwear"
+      "value": "",
+      "trait_type": "Neckwear"
+    },
+    {
+      "value": "",
+      "trait_type": "Wristwear"
+    },
+    {
+      "value": "Green Patent Leather Knee High Boots",
+      "trait_type": "Footwear"
+    },
+    {
+      "value": "Black Cotton Leggings",
+      "trait_type": "Bottom"
+    },
+    {
+      "value": "Black Leather Longsleeve Crew",
+      "trait_type": "Top"
+    },
+    {
+      "value": "",
+      "trait_type": "Facial Expression"
+    },
+    {
+      "value": "",
+      "trait_type": "Facial Hair"
+    },
+    {
+      "value": "Pink",
+      "trait_type": "Hair Dye"
+    },
+    {
+      "value": "Blonde",
+      "trait_type": "Hair Color"
+    },
+    {
+      "value": "Medium Curly Bob",
+      "trait_type": "Hair Style"
+    },
+    {
+      "value": "Medium Rain",
+      "trait_type": "Background"
     }
   ]
 }

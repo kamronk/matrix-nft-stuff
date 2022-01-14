@@ -1,38 +1,90 @@
 {
   "owners": 0,
   "likes": 0,
-  "contractAddress": "0x39ceaa47306381b6d79ad46af0f36bc5332386f2",
+  "contractAddress": "0x423e540cb46db0e4df1ac96bcbddf78a804647d8",
   "tokenId": "49110",
   "name": "Matrix Avatar #49110",
-  "image": "https://media.niftys.com/nfts/matrix/media/ckw77ouma195954f173oci9flon.png",
+  "image": "https://media.niftys.com/nfts/matrix/media/ckxabjza63183417o73n84lut2o.png",
   "attributes": [
     {
-      "value": "White",
-      "trait_type": "Background"
+      "value": "Purple Worker\u0027s Cap",
+      "trait_type": "Headwear"
     },
     {
-      "value": "Buzz Cut",
-      "trait_type": "Hair Style"
+      "value": "Unemployed",
+      "trait_type": "Occupation"
     },
     {
-      "value": "Light Brown",
-      "trait_type": "Hair Color"
+      "value": "None",
+      "trait_type": "Name"
     },
     {
-      "value": "Stubble",
-      "trait_type": "Facial Hair"
+      "value": "Subscribed to 2600",
+      "trait_type": "Hacking"
     },
     {
-      "value": "Blue Longsleeve",
-      "trait_type": "Top"
+      "value": "Low Rider",
+      "trait_type": "Transportation"
     },
     {
-      "value": "Light-Wash Denim",
-      "trait_type": "Bottom"
+      "value": "Grandmaster",
+      "trait_type": "Zen"
+    },
+    {
+      "value": "Black Leather Chelsea with Blue Sole",
+      "trait_type": "Footwear"
+    },
+    {
+      "value": "13",
+      "trait_type": "Wisdom"
+    },
+    {
+      "value": "11",
+      "trait_type": "Intelligence"
+    },
+    {
+      "value": "12453",
+      "trait_type": "Social Media Followers"
+    },
+    {
+      "value": "9",
+      "trait_type": "Charisma"
+    },
+    {
+      "value": "11",
+      "trait_type": "Dexterity"
+    },
+    {
+      "value": "35555",
+      "trait_type": "Salary"
+    },
+    {
+      "value": "7",
+      "trait_type": "Strength"
+    },
+    {
+      "value": "753",
+      "trait_type": "Credit Score"
+    },
+    {
+      "value": "13",
+      "trait_type": "Constitution"
+    },
+    {
+      "value": "1",
+      "trait_type": "Votes"
+    },
+    {
+      "value": "1",
+      "trait_type": "Generation"
+    },
+    {
+      "value": "Brown Leather Briefcase",
+      "trait_type": "Accessories"
     },
     {
       "value": "",
-      "trait_type": "Ring"
+      "trait_type": "Piercings"
     },
     {
       "value": "",
@@ -40,19 +92,31 @@
     },
     {
       "value": "",
-      "trait_type": "Piercings"
+      "trait_type": "Ring"
     },
     {
-      "value": "Brown Leather Briefcase",
-      "trait_type": "Accessories"
+      "value": "Light-Wash Denim",
+      "trait_type": "Bottom"
     },
     {
-      "value": "Black Leather Chelsea with Blue Sole",
-      "trait_type": "Footwear"
+      "value": "Blue Longsleeve",
+      "trait_type": "Top"
     },
     {
-      "value": "Purple Workers Cap",
-      "trait_type": "Headwear"
+      "value": "Stubble",
+      "trait_type": "Facial Hair"
+    },
+    {
+      "value": "Light Brown",
+      "trait_type": "Hair Color"
+    },
+    {
+      "value": "Buzz Cut",
+      "trait_type": "Hair Style"
+    },
+    {
+      "value": "White Light Rain",
+      "trait_type": "Background"
     }
   ]
 }

@@ -1,58 +1,150 @@
 {
   "owners": 0,
   "likes": 0,
-  "contractAddress": "0x39ceaa47306381b6d79ad46af0f36bc5332386f2",
+  "contractAddress": "0x28e4b03bc88b59d25f3467b2252b66d4b2c43286",
   "tokenId": "8360",
   "name": "Matrix Avatar #8360",
-  "image": "https://media.niftys.com/nfts/matrix/media/ckw70w3jw43874f773l6iaszhv.png",
+  "image": "https://media.niftys.com/nfts/matrix/media/ckx9kp0in84501zu736kv0rk7r.png",
   "attributes": [
     {
-      "value": "White",
-      "trait_type": "Background"
+      "value": "Black Leather Combat Cuff Boot",
+      "trait_type": "Footwear"
     },
     {
-      "value": "Buzz Cut",
-      "trait_type": "Hair Style"
+      "value": "You\u0027re a bit of a charmer",
+      "trait_type": "Persuasion"
+    },
+    {
+      "value": "7",
+      "trait_type": "Charisma"
+    },
+    {
+      "value": "You have walked the manifold path",
+      "trait_type": "Awareness"
+    },
+    {
+      "value": "14",
+      "trait_type": "Wisdom"
+    },
+    {
+      "value": "You\u0027ve got a bad feeling about this",
+      "trait_type": "Perception"
+    },
+    {
+      "value": "9",
+      "trait_type": "Intelligence"
+    },
+    {
+      "value": "Two left feet",
+      "trait_type": "Movement"
+    },
+    {
+      "value": "3",
+      "trait_type": "Dexterity"
+    },
+    {
+      "value": "Steps forward as others flee",
+      "trait_type": "Will"
+    },
+    {
+      "value": "13",
+      "trait_type": "Constitution"
+    },
+    {
+      "value": "People get out of your way",
+      "trait_type": "Power"
+    },
+    {
+      "value": "7",
+      "trait_type": "Strength"
+    },
+    {
+      "value": "TBD",
+      "trait_type": "Name"
+    },
+    {
+      "value": "1",
+      "trait_type": "Votes"
+    },
+    {
+      "value": "1",
+      "trait_type": "Generation"
+    },
+    {
+      "value": "Yes",
+      "trait_type": "Headjack"
+    },
+    {
+      "value": "Dark Wood Staff",
+      "trait_type": "Right Hand Accessory"
+    },
+    {
+      "value": "Phone",
+      "trait_type": "Left Hand Accessory"
+    },
+    {
+      "value": "",
+      "trait_type": "Front Neck Tattoo"
+    },
+    {
+      "value": "",
+      "trait_type": "Side Neck Tattoo"
+    },
+    {
+      "value": "",
+      "trait_type": "Forearm Tattoo"
+    },
+    {
+      "value": "",
+      "trait_type": "Bicep Tattoo"
+    },
+    {
+      "value": "NOSE-LIP:SILVER ",
+      "trait_type": "Piercings"
+    },
+    {
+      "value": "Black Morpheus with Dark Mirrored Lens",
+      "trait_type": "Glasses"
+    },
+    {
+      "value": "",
+      "trait_type": "Neckwear"
+    },
+    {
+      "value": "Studded Leather",
+      "trait_type": "Wristwear"
+    },
+    {
+      "value": "Green Cotton Martial Arts Pants",
+      "trait_type": "Bottom"
+    },
+    {
+      "value": "White Leather Longsleeve Crew",
+      "trait_type": "Top"
+    },
+    {
+      "value": "",
+      "trait_type": "Facial Expression"
+    },
+    {
+      "value": "Stubble",
+      "trait_type": "Facial Hair"
+    },
+    {
+      "value": "Natural",
+      "trait_type": "Hair Dye"
     },
     {
       "value": "Black",
       "trait_type": "Hair Color"
     },
     {
-      "value": "Mustache",
-      "trait_type": "Facial Hair"
+      "value": "Short Sideswept Fringe",
+      "trait_type": "Hair Style"
     },
     {
-      "value": "Charcoal Blazer with Light Blue Shirt and Black Tie",
-      "trait_type": "Top"
-    },
-    {
-      "value": "Charcoal Slacks",
-      "trait_type": "Bottom"
-    },
-    {
-      "value": "White Canvas Sneaker with White Sole",
-      "trait_type": "Footwear"
-    },
-    {
-      "value": "",
-      "trait_type": "Ring"
-    },
-    {
-      "value": "",
-      "trait_type": "Headwear"
-    },
-    {
-      "value": "",
-      "trait_type": "Glasses"
-    },
-    {
-      "value": "",
-      "trait_type": "Piercings"
-    },
-    {
-      "value": "Lunchbox",
-      "trait_type": "Accessories"
+      "value": "Light Rain",
+      "trait_type": "Background"
     }
   ]
 }

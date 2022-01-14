@@ -1,58 +1,150 @@
 {
   "owners": 0,
   "likes": 0,
-  "contractAddress": "0x39ceaa47306381b6d79ad46af0f36bc5332386f2",
+  "contractAddress": "0x28e4b03bc88b59d25f3467b2252b66d4b2c43286",
   "tokenId": "11489",
   "name": "Matrix Avatar #11489",
-  "image": "https://media.niftys.com/nfts/matrix/media/ckw71hp1057775f97355nivns5.png",
+  "image": "https://media.niftys.com/nfts/matrix/media/ckx9l6ql3105207zw733yvf87ea.png",
   "attributes": [
     {
-      "value": "White",
-      "trait_type": "Background"
+      "value": "Katana with Black Handle and White Blade",
+      "trait_type": "Right Hand Accessory"
     },
     {
-      "value": "Short Updo",
-      "trait_type": "Hair Style"
+      "value": "Silver Submachine Gun",
+      "trait_type": "Left Hand Accessory"
     },
     {
-      "value": "Blonde",
-      "trait_type": "Hair Color"
+      "value": "Maintains status quo",
+      "trait_type": "Persuasion"
     },
     {
-      "value": "Beard",
-      "trait_type": "Facial Hair"
+      "value": "5",
+      "trait_type": "Charisma"
     },
     {
-      "value": "Charcoal Slacks",
-      "trait_type": "Bottom"
+      "value": "Accepting the impermanence of things",
+      "trait_type": "Awareness"
     },
     {
-      "value": "Black Suede Chelseas with Brown Sole",
-      "trait_type": "Footwear"
+      "value": "11",
+      "trait_type": "Wisdom"
+    },
+    {
+      "value": "Can smell fear",
+      "trait_type": "Perception"
+    },
+    {
+      "value": "14",
+      "trait_type": "Intelligence"
+    },
+    {
+      "value": "Sleep paralysis",
+      "trait_type": "Movement"
+    },
+    {
+      "value": "2",
+      "trait_type": "Dexterity"
+    },
+    {
+      "value": "Quiet confidence",
+      "trait_type": "Will"
+    },
+    {
+      "value": "10",
+      "trait_type": "Constitution"
+    },
+    {
+      "value": "I wouldn\u0027t mess with you",
+      "trait_type": "Power"
+    },
+    {
+      "value": "6",
+      "trait_type": "Strength"
+    },
+    {
+      "value": "TBD",
+      "trait_type": "Name"
+    },
+    {
+      "value": "1",
+      "trait_type": "Votes"
+    },
+    {
+      "value": "1",
+      "trait_type": "Generation"
+    },
+    {
+      "value": "Yes",
+      "trait_type": "Headjack"
     },
     {
       "value": "",
-      "trait_type": "Ring"
+      "trait_type": "Front Neck Tattoo"
     },
     {
       "value": "",
-      "trait_type": "Headwear"
+      "trait_type": "Side Neck Tattoo"
     },
     {
-      "value": "Black Books",
-      "trait_type": "Glasses"
+      "value": "",
+      "trait_type": "Forearm Tattoo"
+    },
+    {
+      "value": "",
+      "trait_type": "Bicep Tattoo"
     },
     {
       "value": "",
       "trait_type": "Piercings"
     },
     {
-      "value": "Blue Lunchbox",
-      "trait_type": "Accessories"
+      "value": "Black Neo with Black Lens",
+      "trait_type": "Glasses"
     },
     {
-      "value": "Dark Gray Cardigan with Off-White Oxford Shirt",
+      "value": "Leather Choker",
+      "trait_type": "Neckwear"
+    },
+    {
+      "value": "",
+      "trait_type": "Wristwear"
+    },
+    {
+      "value": "Black Snakeskin Knee High Boots",
+      "trait_type": "Footwear"
+    },
+    {
+      "value": "Green Cotton Leggings",
+      "trait_type": "Bottom"
+    },
+    {
+      "value": "Black Cotton Longsleeve Crew",
       "trait_type": "Top"
+    },
+    {
+      "value": "",
+      "trait_type": "Facial Expression"
+    },
+    {
+      "value": "",
+      "trait_type": "Facial Hair"
+    },
+    {
+      "value": "Natural",
+      "trait_type": "Hair Dye"
+    },
+    {
+      "value": "Blonde",
+      "trait_type": "Hair Color"
+    },
+    {
+      "value": "Buzz Cut",
+      "trait_type": "Hair Style"
+    },
+    {
+      "value": "Light Rain",
+      "trait_type": "Background"
     }
   ]
 }

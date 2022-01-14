@@ -7,40 +7,12 @@
   "image": "https://media.niftys.com/nfts/matrix/media/ckw718q7n52885f873fdqne4ju.png",
   "attributes": [
     {
-      "value": "White",
-      "trait_type": "Background"
-    },
-    {
-      "value": "Long Messy",
-      "trait_type": "Hair Style"
-    },
-    {
-      "value": "Auburn",
-      "trait_type": "Hair Color"
+      "value": "Lunchbox",
+      "trait_type": "Accessories"
     },
     {
       "value": "",
-      "trait_type": "Facial Hair"
-    },
-    {
-      "value": "Navy Blazer with Striped Shirt and No Tie",
-      "trait_type": "Top"
-    },
-    {
-      "value": "Charcoal Slacks",
-      "trait_type": "Bottom"
-    },
-    {
-      "value": "Redbrown Leather Workboot with Brown Sole",
-      "trait_type": "Footwear"
-    },
-    {
-      "value": "",
-      "trait_type": "Ring"
-    },
-    {
-      "value": "",
-      "trait_type": "Headwear"
+      "trait_type": "Piercings"
     },
     {
       "value": "Black Books",
@@ -48,11 +20,39 @@
     },
     {
       "value": "",
-      "trait_type": "Piercings"
+      "trait_type": "Headwear"
     },
     {
-      "value": "Lunchbox",
-      "trait_type": "Accessories"
+      "value": "",
+      "trait_type": "Ring"
+    },
+    {
+      "value": "Redbrown Leather Workboot with Brown Sole",
+      "trait_type": "Footwear"
+    },
+    {
+      "value": "Charcoal Slacks",
+      "trait_type": "Bottom"
+    },
+    {
+      "value": "Navy Blazer with Striped Shirt and No Tie",
+      "trait_type": "Top"
+    },
+    {
+      "value": "",
+      "trait_type": "Facial Hair"
+    },
+    {
+      "value": "Auburn",
+      "trait_type": "Hair Color"
+    },
+    {
+      "value": "Long Messy",
+      "trait_type": "Hair Style"
+    },
+    {
+      "value": "White",
+      "trait_type": "Background"
     }
   ]
 }

@@ -1,18 +1,62 @@
 {
   "owners": 0,
   "likes": 0,
-  "contractAddress": "0x39ceaa47306381b6d79ad46af0f36bc5332386f2",
+  "contractAddress": "0x28e4b03bc88b59d25f3467b2252b66d4b2c43286",
   "tokenId": "44459",
   "name": "Matrix Avatar #44459",
-  "image": "https://media.niftys.com/nfts/matrix/media/ckw7667ol160479f573nyt0oa3z.png",
+  "image": "https://media.niftys.com/nfts/matrix/media/ckx9px45u292165zs739hngs4xu.png",
   "attributes": [
     {
-      "value": "Tan Workers Cap",
-      "trait_type": "Headwear"
+      "value": "Black Submachine Gun",
+      "trait_type": "Left Hand Accessory"
+    },
+    {
+      "value": "Black Leather Neo Combat Boot",
+      "trait_type": "Footwear"
+    },
+    {
+      "value": "Medium Rain",
+      "trait_type": "Background"
+    },
+    {
+      "value": "Short Pixie",
+      "trait_type": "Hair Style"
+    },
+    {
+      "value": "Auburn",
+      "trait_type": "Hair Color"
+    },
+    {
+      "value": "Natural",
+      "trait_type": "Hair Dye"
     },
     {
       "value": "",
-      "trait_type": "Accessories"
+      "trait_type": "Facial Hair"
+    },
+    {
+      "value": "",
+      "trait_type": "Facial Expression"
+    },
+    {
+      "value": "Charcoal Cotton Longsleeve Crew",
+      "trait_type": "Top"
+    },
+    {
+      "value": "Black Cotton Leggings",
+      "trait_type": "Bottom"
+    },
+    {
+      "value": "Studded Leather",
+      "trait_type": "Wristwear"
+    },
+    {
+      "value": "",
+      "trait_type": "Neckwear"
+    },
+    {
+      "value": "Round Silver with Mirror Lens",
+      "trait_type": "Glasses"
     },
     {
       "value": "",
@@ -20,39 +64,87 @@
     },
     {
       "value": "",
-      "trait_type": "Glasses"
+      "trait_type": "Bicep Tattoo"
     },
     {
       "value": "",
-      "trait_type": "Ring"
+      "trait_type": "Forearm Tattoo"
     },
     {
-      "value": "Redbrown Leather Workboot with Brown Sole",
-      "trait_type": "Footwear"
-    },
-    {
-      "value": "Dark-Wash Denim",
-      "trait_type": "Bottom"
-    },
-    {
-      "value": "Olive Oxford with Buttons",
-      "trait_type": "Top"
+      "value": "Intersecting Squares",
+      "trait_type": "Side Neck Tattoo"
     },
     {
       "value": "",
-      "trait_type": "Facial Hair"
+      "trait_type": "Front Neck Tattoo"
     },
     {
-      "value": "Auburn",
-      "trait_type": "Hair Color"
+      "value": "Katana with White Handle and Silver Blade",
+      "trait_type": "Right Hand Accessory"
     },
     {
-      "value": "",
-      "trait_type": "Hair Style"
+      "value": "Yes",
+      "trait_type": "Headjack"
     },
     {
-      "value": "White",
-      "trait_type": "Background"
+      "value": "1",
+      "trait_type": "Generation"
+    },
+    {
+      "value": "1",
+      "trait_type": "Votes"
+    },
+    {
+      "value": "TBD",
+      "trait_type": "Name"
+    },
+    {
+      "value": "1",
+      "trait_type": "Strength"
+    },
+    {
+      "value": "Paper hands",
+      "trait_type": "Power"
+    },
+    {
+      "value": "10",
+      "trait_type": "Constitution"
+    },
+    {
+      "value": "Quiet confidence",
+      "trait_type": "Will"
+    },
+    {
+      "value": "8",
+      "trait_type": "Dexterity"
+    },
+    {
+      "value": "Always picked first",
+      "trait_type": "Movement"
+    },
+    {
+      "value": "11",
+      "trait_type": "Intelligence"
+    },
+    {
+      "value": "Can see around corners",
+      "trait_type": "Perception"
+    },
+    {
+      "value": "9",
+      "trait_type": "Wisdom"
+    },
+    {
+      "value": "Learning to regulate emotions",
+      "trait_type": "Awareness"
+    },
+    {
+      "value": "5",
+      "trait_type": "Charisma"
+    },
+    {
+      "value": "Maintains status quo",
+      "trait_type": "Persuasion"
     }
   ]
 }

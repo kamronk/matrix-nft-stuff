@@ -1,46 +1,82 @@
 {
   "owners": 0,
   "likes": 0,
-  "contractAddress": "0x39ceaa47306381b6d79ad46af0f36bc5332386f2",
+  "contractAddress": "0x423e540cb46db0e4df1ac96bcbddf78a804647d8",
   "tokenId": "1927",
   "name": "Matrix Avatar #1927",
-  "image": "https://media.niftys.com/nfts/matrix/media/ckw6zsgim18905fa73aukjgfbt.png",
+  "image": "https://media.niftys.com/nfts/matrix/media/ckxa1jml1312167x73unv45vf2.png",
   "attributes": [
     {
-      "value": "White",
-      "trait_type": "Background"
+      "value": "Teacher",
+      "trait_type": "Zen"
     },
     {
-      "value": "Short Coil",
-      "trait_type": "Hair Style"
+      "value": "None",
+      "trait_type": "Name"
     },
     {
-      "value": "Black",
-      "trait_type": "Hair Color"
+      "value": "Subscribed to 2600",
+      "trait_type": "Hacking"
+    },
+    {
+      "value": "Receptionist",
+      "trait_type": "Occupation"
+    },
+    {
+      "value": "Low Rider",
+      "trait_type": "Transportation"
+    },
+    {
+      "value": "11",
+      "trait_type": "Wisdom"
+    },
+    {
+      "value": "11",
+      "trait_type": "Intelligence"
+    },
+    {
+      "value": "84059",
+      "trait_type": "Social Media Followers"
+    },
+    {
+      "value": "11",
+      "trait_type": "Charisma"
+    },
+    {
+      "value": "11",
+      "trait_type": "Dexterity"
+    },
+    {
+      "value": "92000",
+      "trait_type": "Salary"
+    },
+    {
+      "value": "10",
+      "trait_type": "Strength"
+    },
+    {
+      "value": "699",
+      "trait_type": "Credit Score"
+    },
+    {
+      "value": "9",
+      "trait_type": "Constitution"
+    },
+    {
+      "value": "1",
+      "trait_type": "Votes"
+    },
+    {
+      "value": "1",
+      "trait_type": "Generation"
     },
     {
       "value": "",
-      "trait_type": "Facial Hair"
-    },
-    {
-      "value": "Gray Blazer with Black Shirt and No Tie",
-      "trait_type": "Top"
-    },
-    {
-      "value": "Navy Slacks",
-      "trait_type": "Bottom"
-    },
-    {
-      "value": "Redbrown Leather Workboot with Brown Sole",
-      "trait_type": "Footwear"
+      "trait_type": "Accessories"
     },
     {
       "value": "",
-      "trait_type": "Ring"
-    },
-    {
-      "value": "",
-      "trait_type": "Headwear"
+      "trait_type": "Piercings"
     },
     {
       "value": "Silver Aviators",
@@ -48,11 +84,39 @@
     },
     {
       "value": "",
-      "trait_type": "Piercings"
+      "trait_type": "Headwear"
     },
     {
       "value": "",
-      "trait_type": "Accessories"
+      "trait_type": "Ring"
+    },
+    {
+      "value": "Redbrown Leather Workboot with Brown Sole",
+      "trait_type": "Footwear"
+    },
+    {
+      "value": "Navy Slacks",
+      "trait_type": "Bottom"
+    },
+    {
+      "value": "Gray Blazer with Black Shirt and No Tie",
+      "trait_type": "Top"
+    },
+    {
+      "value": "",
+      "trait_type": "Facial Hair"
+    },
+    {
+      "value": "Black",
+      "trait_type": "Hair Color"
+    },
+    {
+      "value": "Short Coil",
+      "trait_type": "Hair Style"
+    },
+    {
+      "value": "White Medium Rain",
+      "trait_type": "Background"
     }
   ]
 }

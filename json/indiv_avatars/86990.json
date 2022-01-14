@@ -1,50 +1,102 @@
 {
   "owners": 0,
   "likes": 0,
-  "contractAddress": "0x39ceaa47306381b6d79ad46af0f36bc5332386f2",
+  "contractAddress": "0x28e4b03bc88b59d25f3467b2252b66d4b2c43286",
   "tokenId": "86990",
   "name": "Matrix Avatar #86990",
-  "image": "https://media.niftys.com/nfts/matrix/media/ckw75m2oc149111f67360q42asd.png",
+  "image": "https://media.niftys.com/nfts/matrix/media/ckx9pgf7e270456zt7354r8hkgj.png",
   "attributes": [
     {
-      "value": "White",
-      "trait_type": "Background"
-    },
-    {
-      "value": "Short Afro Fade",
-      "trait_type": "Hair Style"
-    },
-    {
-      "value": "Black",
-      "trait_type": "Hair Color"
-    },
-    {
-      "value": "",
-      "trait_type": "Facial Hair"
-    },
-    {
-      "value": "Light Gray Cardigan with Tan Oxford Shirt",
-      "trait_type": "Top"
-    },
-    {
-      "value": "Navy Slacks",
+      "value": "Black Patent Leather Pants with Buckles",
       "trait_type": "Bottom"
     },
     {
-      "value": "White Canvas Sneaker with White Sole",
-      "trait_type": "Footwear"
+      "value": "People follow you blindly",
+      "trait_type": "Persuasion"
     },
     {
-      "value": "Two Rings",
-      "trait_type": "Ring"
+      "value": "11",
+      "trait_type": "Charisma"
+    },
+    {
+      "value": "Laughing at your mistakes",
+      "trait_type": "Awareness"
+    },
+    {
+      "value": "10",
+      "trait_type": "Wisdom"
+    },
+    {
+      "value": "You\u0027ve got a bad feeling about this",
+      "trait_type": "Perception"
+    },
+    {
+      "value": "9",
+      "trait_type": "Intelligence"
+    },
+    {
+      "value": "Can walk and chew gum AT THE SAME TIME (good job!)",
+      "trait_type": "Movement"
+    },
+    {
+      "value": "4",
+      "trait_type": "Dexterity"
+    },
+    {
+      "value": "Incredible moral fiber",
+      "trait_type": "Will"
+    },
+    {
+      "value": "11",
+      "trait_type": "Constitution"
+    },
+    {
+      "value": "Can take a punch",
+      "trait_type": "Power"
+    },
+    {
+      "value": "3",
+      "trait_type": "Strength"
+    },
+    {
+      "value": "TBD",
+      "trait_type": "Name"
+    },
+    {
+      "value": "1",
+      "trait_type": "Votes"
+    },
+    {
+      "value": "1",
+      "trait_type": "Generation"
+    },
+    {
+      "value": "Yes",
+      "trait_type": "Headjack"
     },
     {
       "value": "",
-      "trait_type": "Headwear"
+      "trait_type": "Right Hand Accessory"
+    },
+    {
+      "value": "Black Arm Pole",
+      "trait_type": "Left Hand Accessory"
     },
     {
       "value": "",
-      "trait_type": "Glasses"
+      "trait_type": "Front Neck Tattoo"
+    },
+    {
+      "value": "Triforce",
+      "trait_type": "Side Neck Tattoo"
+    },
+    {
+      "value": "",
+      "trait_type": "Forearm Tattoo"
+    },
+    {
+      "value": "",
+      "trait_type": "Bicep Tattoo"
     },
     {
       "value": "",
@@ -52,7 +104,47 @@
     },
     {
       "value": "",
-      "trait_type": "Accessories"
+      "trait_type": "Glasses"
+    },
+    {
+      "value": "",
+      "trait_type": "Neckwear"
+    },
+    {
+      "value": "Studded Leather",
+      "trait_type": "Wristwear"
+    },
+    {
+      "value": "Red Snakeskin Neo Combat Boot",
+      "trait_type": "Footwear"
+    },
+    {
+      "value": "Black Leather Longsleeve Crew",
+      "trait_type": "Top"
+    },
+    {
+      "value": "",
+      "trait_type": "Facial Expression"
+    },
+    {
+      "value": "",
+      "trait_type": "Facial Hair"
+    },
+    {
+      "value": "Natural",
+      "trait_type": "Hair Dye"
+    },
+    {
+      "value": "Black",
+      "trait_type": "Hair Color"
+    },
+    {
+      "value": "Long Afro",
+      "trait_type": "Hair Style"
+    },
+    {
+      "value": "Light Rain",
+      "trait_type": "Background"
     }
   ]
 }

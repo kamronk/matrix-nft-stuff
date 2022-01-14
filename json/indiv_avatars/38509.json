@@ -1,46 +1,118 @@
 {
   "owners": 0,
   "likes": 0,
-  "contractAddress": "0x39ceaa47306381b6d79ad46af0f36bc5332386f2",
+  "contractAddress": "0x28e4b03bc88b59d25f3467b2252b66d4b2c43286",
   "tokenId": "38509",
   "name": "Matrix Avatar #38509",
-  "image": "https://media.niftys.com/nfts/matrix/media/ckw75mubh149646f6739alvczde.png",
+  "image": "https://media.niftys.com/nfts/matrix/media/ckx9ph8wc271387zt73x08iqpm2.png",
   "attributes": [
     {
-      "value": "White",
-      "trait_type": "Background"
+      "value": "Your third eye is open",
+      "trait_type": "Perception"
     },
     {
-      "value": "Low Ponytail",
-      "trait_type": "Hair Style"
+      "value": "Your significant other\u0027s mom loves you",
+      "trait_type": "Persuasion"
     },
     {
-      "value": "Blonde",
-      "trait_type": "Hair Color"
+      "value": "Yes",
+      "trait_type": "Headjack"
     },
     {
-      "value": "",
-      "trait_type": "Facial Hair"
+      "value": "True grit",
+      "trait_type": "Will"
     },
     {
-      "value": "Denim Jumpsuit",
+      "value": "None",
+      "trait_type": "Name"
+    },
+    {
+      "value": "Sleep paralysis",
+      "trait_type": "Movement"
+    },
+    {
+      "value": "Black Erl",
+      "trait_type": "Piercings"
+    },
+    {
+      "value": "Meditative",
+      "trait_type": "Facial Expression"
+    },
+    {
+      "value": "Black Cotton Longsleeve Crew",
       "trait_type": "Top"
     },
     {
-      "value": "",
+      "value": "Black Patent Leather Leggins",
       "trait_type": "Bottom"
     },
     {
-      "value": "White Canvas Sneaker with White Sole",
+      "value": "Learning to regulate emotions",
+      "trait_type": "Awareness"
+    },
+    {
+      "value": "Katana with Black Handle and Gold Blade",
+      "trait_type": "Right Hand Accessory"
+    },
+    {
+      "value": "White Leather Combat Cuff Boot",
       "trait_type": "Footwear"
     },
     {
-      "value": "",
-      "trait_type": "Ring"
+      "value": "Your grandma beats you at arm-wrestling",
+      "trait_type": "Power"
+    },
+    {
+      "value": "8",
+      "trait_type": "Charisma"
+    },
+    {
+      "value": "9",
+      "trait_type": "Wisdom"
+    },
+    {
+      "value": "15",
+      "trait_type": "Intelligence"
+    },
+    {
+      "value": "2",
+      "trait_type": "Dexterity"
+    },
+    {
+      "value": "9",
+      "trait_type": "Constitution"
+    },
+    {
+      "value": "2",
+      "trait_type": "Strength"
+    },
+    {
+      "value": "1",
+      "trait_type": "Votes"
+    },
+    {
+      "value": "1",
+      "trait_type": "Generation"
     },
     {
       "value": "",
-      "trait_type": "Headwear"
+      "trait_type": "Left Hand Accessory"
+    },
+    {
+      "value": "",
+      "trait_type": "Front Neck Tattoo"
+    },
+    {
+      "value": "",
+      "trait_type": "Side Neck Tattoo"
+    },
+    {
+      "value": "",
+      "trait_type": "Forearm Tattoo"
+    },
+    {
+      "value": "",
+      "trait_type": "Bicep Tattoo"
     },
     {
       "value": "",
@@ -48,11 +120,31 @@
     },
     {
       "value": "",
-      "trait_type": "Piercings"
+      "trait_type": "Neckwear"
+    },
+    {
+      "value": "Studded Leather",
+      "trait_type": "Wristwear"
     },
     {
       "value": "",
-      "trait_type": "Accessories"
+      "trait_type": "Facial Hair"
+    },
+    {
+      "value": "Natural",
+      "trait_type": "Hair Dye"
+    },
+    {
+      "value": "Blonde",
+      "trait_type": "Hair Color"
+    },
+    {
+      "value": "Messy Updo Bun",
+      "trait_type": "Hair Style"
+    },
+    {
+      "value": "Light Rain",
+      "trait_type": "Background"
     }
   ]
 }

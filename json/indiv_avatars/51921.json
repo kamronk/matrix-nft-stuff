@@ -7,36 +7,16 @@
   "image": "https://media.niftys.com/nfts/matrix/media/ckw77zqel203798f373qe5ydeda.png",
   "attributes": [
     {
-      "value": "White",
-      "trait_type": "Background"
+      "value": "Black Smartphone",
+      "trait_type": "Accessories"
     },
     {
-      "value": "Short Pixie",
-      "trait_type": "Hair Style"
-    },
-    {
-      "value": "Blonde",
-      "trait_type": "Hair Color"
-    },
-    {
-      "value": "Thin",
-      "trait_type": "Facial Hair"
-    },
-    {
-      "value": "Dark Gray Cardigan with Beige Longsleeve Shirt",
-      "trait_type": "Top"
-    },
-    {
-      "value": "Blue Denim",
-      "trait_type": "Bottom"
-    },
-    {
-      "value": "White Leather Sneaker with Grey Sole",
-      "trait_type": "Footwear"
+      "value": "Stud Earring",
+      "trait_type": "Piercings"
     },
     {
       "value": "",
-      "trait_type": "Ring"
+      "trait_type": "Glasses"
     },
     {
       "value": "",
@@ -44,15 +24,35 @@
     },
     {
       "value": "",
-      "trait_type": "Glasses"
+      "trait_type": "Ring"
     },
     {
-      "value": "Stud Earring",
-      "trait_type": "Piercings"
+      "value": "White Leather Sneaker with Grey Sole",
+      "trait_type": "Footwear"
     },
     {
-      "value": "Black Smartphone",
-      "trait_type": "Accessories"
+      "value": "Blue Denim",
+      "trait_type": "Bottom"
+    },
+    {
+      "value": "Dark Gray Cardigan with Beige Longsleeve Shirt",
+      "trait_type": "Top"
+    },
+    {
+      "value": "Thin",
+      "trait_type": "Facial Hair"
+    },
+    {
+      "value": "Blonde",
+      "trait_type": "Hair Color"
+    },
+    {
+      "value": "Short Pixie",
+      "trait_type": "Hair Style"
+    },
+    {
+      "value": "White",
+      "trait_type": "Background"
     }
   ]
 }

@@ -1,46 +1,118 @@
 {
   "owners": 0,
   "likes": 0,
-  "contractAddress": "0x39ceaa47306381b6d79ad46af0f36bc5332386f2",
+  "contractAddress": "0x28e4b03bc88b59d25f3467b2252b66d4b2c43286",
   "tokenId": "12547",
   "name": "Matrix Avatar #12547",
-  "image": "https://media.niftys.com/nfts/matrix/media/ckw71kop859928f373c6cgs3z2.png",
+  "image": "https://media.niftys.com/nfts/matrix/media/ckx9lkowe119712zq732y7jr6jf.png",
   "attributes": [
     {
-      "value": "White",
-      "trait_type": "Background"
+      "value": "You\u0027ve got a bad feeling about this",
+      "trait_type": "Perception"
     },
     {
-      "value": "Updo Bun",
-      "trait_type": "Hair Style"
+      "value": "Yes",
+      "trait_type": "Headjack"
     },
     {
-      "value": "Blonde",
-      "trait_type": "Hair Color"
+      "value": "None",
+      "trait_type": "Name"
     },
     {
-      "value": "Mustache",
-      "trait_type": "Facial Hair"
-    },
-    {
-      "value": "Khaki Oxford with Tie",
+      "value": "Red Patent Leather Tank",
       "trait_type": "Top"
     },
     {
-      "value": "Khaki Slacks",
+      "value": "Intersecting Squares",
+      "trait_type": "Bicep Tattoo"
+    },
+    {
+      "value": "Square",
+      "trait_type": "Forearm Tattoo"
+    },
+    {
+      "value": "Sleep paralysis",
+      "trait_type": "Movement"
+    },
+    {
+      "value": "Quiet confidence",
+      "trait_type": "Will"
+    },
+    {
+      "value": "Meditative",
+      "trait_type": "Facial Expression"
+    },
+    {
+      "value": "Black Cotton Martial Arts Pants",
       "trait_type": "Bottom"
     },
     {
-      "value": "White Canvas Sneaker with White Sole",
+      "value": "Maintains status quo",
+      "trait_type": "Persuasion"
+    },
+    {
+      "value": "Learning to regulate emotions",
+      "trait_type": "Awareness"
+    },
+    {
+      "value": "Black Submachine Gun",
+      "trait_type": "Right Hand Accessory"
+    },
+    {
+      "value": "Silver Gun",
+      "trait_type": "Left Hand Accessory"
+    },
+    {
+      "value": "Black Leather Combat Cuff Boot",
       "trait_type": "Footwear"
     },
     {
-      "value": "",
-      "trait_type": "Ring"
+      "value": "Your grandma beats you at arm-wrestling",
+      "trait_type": "Power"
+    },
+    {
+      "value": "Black Earrings",
+      "trait_type": "Piercings"
+    },
+    {
+      "value": "5",
+      "trait_type": "Charisma"
+    },
+    {
+      "value": "9",
+      "trait_type": "Wisdom"
+    },
+    {
+      "value": "9",
+      "trait_type": "Intelligence"
+    },
+    {
+      "value": "2",
+      "trait_type": "Dexterity"
+    },
+    {
+      "value": "10",
+      "trait_type": "Constitution"
+    },
+    {
+      "value": "2",
+      "trait_type": "Strength"
+    },
+    {
+      "value": "1",
+      "trait_type": "Votes"
+    },
+    {
+      "value": "1",
+      "trait_type": "Generation"
     },
     {
       "value": "",
-      "trait_type": "Headwear"
+      "trait_type": "Front Neck Tattoo"
+    },
+    {
+      "value": "",
+      "trait_type": "Side Neck Tattoo"
     },
     {
       "value": "",
@@ -48,11 +120,31 @@
     },
     {
       "value": "",
-      "trait_type": "Piercings"
+      "trait_type": "Neckwear"
     },
     {
-      "value": "",
-      "trait_type": "Accessories"
+      "value": "Thick Leather",
+      "trait_type": "Wristwear"
+    },
+    {
+      "value": "Stubble",
+      "trait_type": "Facial Hair"
+    },
+    {
+      "value": "Natural",
+      "trait_type": "Hair Dye"
+    },
+    {
+      "value": "Blonde",
+      "trait_type": "Hair Color"
+    },
+    {
+      "value": "Buzz Cut",
+      "trait_type": "Hair Style"
+    },
+    {
+      "value": "Light Rain",
+      "trait_type": "Background"
     }
   ]
 }

@@ -1,50 +1,78 @@
 {
   "owners": 0,
   "likes": 0,
-  "contractAddress": "0x39ceaa47306381b6d79ad46af0f36bc5332386f2",
+  "contractAddress": "0x423e540cb46db0e4df1ac96bcbddf78a804647d8",
   "tokenId": "81061",
   "name": "Matrix Avatar #81061",
-  "image": "https://media.niftys.com/nfts/matrix/media/ckw6zj32x14000f273rieda2r8.png",
+  "image": "https://media.niftys.com/nfts/matrix/media/ckxa1qkp0366777p73gdh78s2l.png",
   "attributes": [
     {
-      "value": "White",
-      "trait_type": "Background"
+      "value": "TBD",
+      "trait_type": "Name"
     },
     {
-      "value": "Long Afro",
-      "trait_type": "Hair Style"
+      "value": "Disciple",
+      "trait_type": "Zen"
     },
     {
-      "value": "Dark Brown",
-      "trait_type": "Hair Color"
+      "value": "10",
+      "trait_type": "Wisdom"
     },
     {
-      "value": "Beard",
-      "trait_type": "Facial Hair"
+      "value": "Day Trader",
+      "trait_type": "Occupation"
     },
     {
-      "value": "Charcoal Blazer with Light Blue Shirt and No Tie",
-      "trait_type": "Top"
+      "value": "Pretty good with GW Basic",
+      "trait_type": "Hacking"
     },
     {
-      "value": "Gray Slacks",
-      "trait_type": "Bottom"
+      "value": "9",
+      "trait_type": "Intelligence"
     },
     {
-      "value": "White Canvas Sneaker with White Sole",
-      "trait_type": "Footwear"
+      "value": "1993",
+      "trait_type": "Social Media Followers"
+    },
+    {
+      "value": "7",
+      "trait_type": "Charisma"
+    },
+    {
+      "value": "Pragmatic Coupe",
+      "trait_type": "Transportation"
+    },
+    {
+      "value": "10",
+      "trait_type": "Dexterity"
+    },
+    {
+      "value": "52968",
+      "trait_type": "Salary"
+    },
+    {
+      "value": "8",
+      "trait_type": "Strength"
+    },
+    {
+      "value": "508",
+      "trait_type": "Credit Score"
+    },
+    {
+      "value": "5",
+      "trait_type": "Constitution"
+    },
+    {
+      "value": "1",
+      "trait_type": "Votes"
+    },
+    {
+      "value": "1",
+      "trait_type": "Generation"
     },
     {
       "value": "",
-      "trait_type": "Ring"
-    },
-    {
-      "value": "",
-      "trait_type": "Headwear"
-    },
-    {
-      "value": "",
-      "trait_type": "Glasses"
+      "trait_type": "Accessories"
     },
     {
       "value": "",
@@ -52,7 +80,43 @@
     },
     {
       "value": "",
-      "trait_type": "Accessories"
+      "trait_type": "Glasses"
+    },
+    {
+      "value": "",
+      "trait_type": "Headwear"
+    },
+    {
+      "value": "",
+      "trait_type": "Ring"
+    },
+    {
+      "value": "White Canvas Sneaker with White Sole",
+      "trait_type": "Footwear"
+    },
+    {
+      "value": "Gray Slacks",
+      "trait_type": "Bottom"
+    },
+    {
+      "value": "Charcoal Blazer with Light Blue Shirt and No Tie",
+      "trait_type": "Top"
+    },
+    {
+      "value": "Beard",
+      "trait_type": "Facial Hair"
+    },
+    {
+      "value": "Dark Brown",
+      "trait_type": "Hair Color"
+    },
+    {
+      "value": "Long Afro",
+      "trait_type": "Hair Style"
+    },
+    {
+      "value": "White Light Rain",
+      "trait_type": "Background"
     }
   ]
 }

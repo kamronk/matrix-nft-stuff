@@ -7,24 +7,12 @@
   "image": "https://media.niftys.com/nfts/matrix/media/ckw76y3w1179285f67394f4f079.png",
   "attributes": [
     {
-      "value": "Tan Workers Cap",
+      "value": "Tan Worker\u0027s Cap",
       "trait_type": "Headwear"
     },
     {
       "value": "Black Leather Briefcase",
       "trait_type": "Accessories"
-    },
-    {
-      "value": "",
-      "trait_type": "Piercings"
-    },
-    {
-      "value": "",
-      "trait_type": "Glasses"
-    },
-    {
-      "value": "",
-      "trait_type": "Ring"
     },
     {
       "value": "White Canvas Sneaker with White Sole",
@@ -53,6 +41,18 @@
     {
       "value": "White",
       "trait_type": "Background"
+    },
+    {
+      "value": "",
+      "trait_type": "Piercings"
+    },
+    {
+      "value": "",
+      "trait_type": "Glasses"
+    },
+    {
+      "value": "",
+      "trait_type": "Ring"
     }
   ]
 }

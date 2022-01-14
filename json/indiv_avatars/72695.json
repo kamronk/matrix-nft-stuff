@@ -1,18 +1,110 @@
 {
   "owners": 0,
   "likes": 0,
-  "contractAddress": "0x39ceaa47306381b6d79ad46af0f36bc5332386f2",
+  "contractAddress": "0x423e540cb46db0e4df1ac96bcbddf78a804647d8",
   "tokenId": "72695",
   "name": "Matrix Avatar #72695",
-  "image": "https://media.niftys.com/nfts/matrix/media/ckw7cif19302766f6731v3s16k1.png",
+  "image": "https://media.niftys.com/nfts/matrix/media/ckxag40md4748567t73ul1lnumx.png",
   "attributes": [
     {
-      "value": "White",
-      "trait_type": "Background"
+      "value": "TBD",
+      "trait_type": "Name"
+    },
+    {
+      "value": "Master",
+      "trait_type": "Zen"
+    },
+    {
+      "value": "12",
+      "trait_type": "Wisdom"
+    },
+    {
+      "value": "Electrician",
+      "trait_type": "Occupation"
+    },
+    {
+      "value": "Read the Bitcoin white paper twice",
+      "trait_type": "Hacking"
+    },
+    {
+      "value": "10",
+      "trait_type": "Intelligence"
+    },
+    {
+      "value": "777",
+      "trait_type": "Social Media Followers"
+    },
+    {
+      "value": "6",
+      "trait_type": "Charisma"
+    },
+    {
+      "value": "Pragmatic Coupe",
+      "trait_type": "Transportation"
+    },
+    {
+      "value": "10",
+      "trait_type": "Dexterity"
+    },
+    {
+      "value": "92000",
+      "trait_type": "Salary"
+    },
+    {
+      "value": "10",
+      "trait_type": "Strength"
+    },
+    {
+      "value": "791",
+      "trait_type": "Credit Score"
+    },
+    {
+      "value": "15",
+      "trait_type": "Constitution"
+    },
+    {
+      "value": "1",
+      "trait_type": "Votes"
+    },
+    {
+      "value": "1",
+      "trait_type": "Generation"
+    },
+    {
+      "value": "Brown Leather Briefcase",
+      "trait_type": "Accessories"
     },
     {
       "value": "",
-      "trait_type": "Hair Style"
+      "trait_type": "Piercings"
+    },
+    {
+      "value": "Black Books",
+      "trait_type": "Glasses"
+    },
+    {
+      "value": "Tan Worker\u0027s Cap",
+      "trait_type": "Headwear"
+    },
+    {
+      "value": "Two Rings",
+      "trait_type": "Ring"
+    },
+    {
+      "value": "Tan Suede Workboot with Tan Sole",
+      "trait_type": "Footwear"
+    },
+    {
+      "value": "Khaki Slacks",
+      "trait_type": "Bottom"
+    },
+    {
+      "value": "Khaki Oxford with Tie",
+      "trait_type": "Top"
+    },
+    {
+      "value": "",
+      "trait_type": "Facial Hair"
     },
     {
       "value": "Dark Brown",
@@ -20,39 +112,11 @@
     },
     {
       "value": "",
-      "trait_type": "Facial Hair"
+      "trait_type": "Hair Style"
     },
     {
-      "value": "Khaki Oxford with Tie",
-      "trait_type": "Top"
-    },
-    {
-      "value": "Khaki Slacks",
-      "trait_type": "Bottom"
-    },
-    {
-      "value": "Tan Suede Workboot with Tan Sole",
-      "trait_type": "Footwear"
-    },
-    {
-      "value": "Two Rings",
-      "trait_type": "Ring"
-    },
-    {
-      "value": "Black Books",
-      "trait_type": "Glasses"
-    },
-    {
-      "value": "",
-      "trait_type": "Piercings"
-    },
-    {
-      "value": "Brown Leather Briefcase",
-      "trait_type": "Accessories"
-    },
-    {
-      "value": "Tan Workers Cap",
-      "trait_type": "Headwear"
+      "value": "White Heavy Rain",
+      "trait_type": "Background"
     }
   ]
 }

@@ -1,46 +1,102 @@
 {
   "owners": 0,
   "likes": 0,
-  "contractAddress": "0x39ceaa47306381b6d79ad46af0f36bc5332386f2",
+  "contractAddress": "0x28e4b03bc88b59d25f3467b2252b66d4b2c43286",
   "tokenId": "52487",
   "name": "Matrix Avatar #52487",
-  "image": "https://media.niftys.com/nfts/matrix/media/ckw785e0c206420fa738spyx55j.png",
+  "image": "https://media.niftys.com/nfts/matrix/media/ckx9so49t363471zx73ilc7vnrj.png",
   "attributes": [
     {
-      "value": "White",
-      "trait_type": "Background"
+      "value": "TBD",
+      "trait_type": "Name"
     },
     {
-      "value": "Medium Curly Bob",
-      "trait_type": "Hair Style"
+      "value": "People follow you blindly",
+      "trait_type": "Persuasion"
     },
     {
-      "value": "Black",
-      "trait_type": "Hair Color"
+      "value": "11",
+      "trait_type": "Charisma"
     },
     {
-      "value": "Stubble",
-      "trait_type": "Facial Hair"
+      "value": "Appreciation for the complexity of human behavior",
+      "trait_type": "Awareness"
     },
     {
-      "value": "Navy Oxford with Tie",
-      "trait_type": "Top"
+      "value": "12",
+      "trait_type": "Wisdom"
     },
     {
-      "value": "Charcoal Slacks",
-      "trait_type": "Bottom"
+      "value": "Can hear a bee\u0027s wings",
+      "trait_type": "Perception"
     },
     {
-      "value": "Tan Suede Workboot with Tan Sole",
-      "trait_type": "Footwear"
+      "value": "10",
+      "trait_type": "Intelligence"
+    },
+    {
+      "value": "Can walk and chew gum AT THE SAME TIME (good job!)",
+      "trait_type": "Movement"
+    },
+    {
+      "value": "4",
+      "trait_type": "Dexterity"
+    },
+    {
+      "value": "Incredible moral fiber",
+      "trait_type": "Will"
+    },
+    {
+      "value": "11",
+      "trait_type": "Constitution"
+    },
+    {
+      "value": "Can take a punch",
+      "trait_type": "Power"
+    },
+    {
+      "value": "3",
+      "trait_type": "Strength"
+    },
+    {
+      "value": "1",
+      "trait_type": "Votes"
+    },
+    {
+      "value": "1",
+      "trait_type": "Generation"
+    },
+    {
+      "value": "Yes",
+      "trait_type": "Headjack"
     },
     {
       "value": "",
-      "trait_type": "Ring"
+      "trait_type": "Right Hand Accessory"
     },
     {
       "value": "",
-      "trait_type": "Headwear"
+      "trait_type": "Left Hand Accessory"
+    },
+    {
+      "value": "",
+      "trait_type": "Front Neck Tattoo"
+    },
+    {
+      "value": "",
+      "trait_type": "Side Neck Tattoo"
+    },
+    {
+      "value": "Interlocking Circles",
+      "trait_type": "Forearm Tattoo"
+    },
+    {
+      "value": "Borromean Rings",
+      "trait_type": "Bicep Tattoo"
+    },
+    {
+      "value": "",
+      "trait_type": "Piercings"
     },
     {
       "value": "",
@@ -48,11 +104,47 @@
     },
     {
       "value": "",
-      "trait_type": "Piercings"
+      "trait_type": "Neckwear"
     },
     {
-      "value": "Black Smartphone",
-      "trait_type": "Accessories"
+      "value": "Studded Leather",
+      "trait_type": "Wristwear"
+    },
+    {
+      "value": "Black Leather Neo Combat Boot",
+      "trait_type": "Footwear"
+    },
+    {
+      "value": "Green Cotton Leggings",
+      "trait_type": "Bottom"
+    },
+    {
+      "value": "Black Cotton Tank",
+      "trait_type": "Top"
+    },
+    {
+      "value": "Scowl",
+      "trait_type": "Facial Expression"
+    },
+    {
+      "value": "",
+      "trait_type": "Facial Hair"
+    },
+    {
+      "value": "Natural",
+      "trait_type": "Hair Dye"
+    },
+    {
+      "value": "Black",
+      "trait_type": "Hair Color"
+    },
+    {
+      "value": "Short Messy",
+      "trait_type": "Hair Style"
+    },
+    {
+      "value": "Medium Rain",
+      "trait_type": "Background"
     }
   ]
 }

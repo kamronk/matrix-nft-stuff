@@ -1,46 +1,106 @@
 {
   "owners": 0,
   "likes": 0,
-  "contractAddress": "0x39ceaa47306381b6d79ad46af0f36bc5332386f2",
+  "contractAddress": "0x28e4b03bc88b59d25f3467b2252b66d4b2c43286",
   "tokenId": "28376",
   "name": "Matrix Avatar #28376",
-  "image": "https://media.niftys.com/nfts/matrix/media/ckw73qhb4106174f173v872ddxe.png",
+  "image": "https://media.niftys.com/nfts/matrix/media/ckx9nmj2d204186zo734622kg5r.png",
   "attributes": [
     {
-      "value": "White",
-      "trait_type": "Background"
+      "value": "Katana with Black Handle and Silver Blade",
+      "trait_type": "Left Hand Accessory"
     },
     {
-      "value": "Short Messy",
-      "trait_type": "Hair Style"
-    },
-    {
-      "value": "Black",
-      "trait_type": "Hair Color"
-    },
-    {
-      "value": "",
-      "trait_type": "Facial Hair"
-    },
-    {
-      "value": "Red Longsleeve",
-      "trait_type": "Top"
-    },
-    {
-      "value": "Gray Slacks",
+      "value": "Black Cotton Wool Slacks with Buckles",
       "trait_type": "Bottom"
     },
     {
-      "value": "Black Suede Chelseas with Brown Sole",
-      "trait_type": "Footwear"
+      "value": "You\u0027re a bit of a charmer",
+      "trait_type": "Persuasion"
+    },
+    {
+      "value": "7",
+      "trait_type": "Charisma"
+    },
+    {
+      "value": "Laughing at your mistakes",
+      "trait_type": "Awareness"
+    },
+    {
+      "value": "10",
+      "trait_type": "Wisdom"
+    },
+    {
+      "value": "The world has come into focus",
+      "trait_type": "Perception"
+    },
+    {
+      "value": "5",
+      "trait_type": "Intelligence"
+    },
+    {
+      "value": "Can walk and chew gum AT THE SAME TIME (good job!)",
+      "trait_type": "Movement"
+    },
+    {
+      "value": "4",
+      "trait_type": "Dexterity"
+    },
+    {
+      "value": "Quiet confidence",
+      "trait_type": "Will"
+    },
+    {
+      "value": "10",
+      "trait_type": "Constitution"
+    },
+    {
+      "value": "Can put up a fight",
+      "trait_type": "Power"
+    },
+    {
+      "value": "4",
+      "trait_type": "Strength"
+    },
+    {
+      "value": "TBD",
+      "trait_type": "Name"
+    },
+    {
+      "value": "1",
+      "trait_type": "Votes"
+    },
+    {
+      "value": "1",
+      "trait_type": "Generation"
+    },
+    {
+      "value": "Yes",
+      "trait_type": "Headjack"
     },
     {
       "value": "",
-      "trait_type": "Ring"
+      "trait_type": "Right Hand Accessory"
     },
     {
       "value": "",
-      "trait_type": "Headwear"
+      "trait_type": "Front Neck Tattoo"
+    },
+    {
+      "value": "Valknut",
+      "trait_type": "Side Neck Tattoo"
+    },
+    {
+      "value": "",
+      "trait_type": "Forearm Tattoo"
+    },
+    {
+      "value": "",
+      "trait_type": "Bicep Tattoo"
+    },
+    {
+      "value": "",
+      "trait_type": "Piercings"
     },
     {
       "value": "",
@@ -48,11 +108,43 @@
     },
     {
       "value": "",
-      "trait_type": "Piercings"
+      "trait_type": "Neckwear"
     },
     {
-      "value": "Brown Leather Briefcase",
-      "trait_type": "Accessories"
+      "value": "",
+      "trait_type": "Wristwear"
+    },
+    {
+      "value": "Green Snakeskin Neo Combat Boot",
+      "trait_type": "Footwear"
+    },
+    {
+      "value": "Black Cotton Tunic with Buttons",
+      "trait_type": "Top"
+    },
+    {
+      "value": "",
+      "trait_type": "Facial Expression"
+    },
+    {
+      "value": "",
+      "trait_type": "Facial Hair"
+    },
+    {
+      "value": "Natural",
+      "trait_type": "Hair Dye"
+    },
+    {
+      "value": "Black",
+      "trait_type": "Hair Color"
+    },
+    {
+      "value": "Short Updo",
+      "trait_type": "Hair Style"
+    },
+    {
+      "value": "Heavy Rain",
+      "trait_type": "Background"
     }
   ]
 }

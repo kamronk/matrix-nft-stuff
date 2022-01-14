@@ -1,50 +1,74 @@
 {
   "owners": 0,
   "likes": 0,
-  "contractAddress": "0x39ceaa47306381b6d79ad46af0f36bc5332386f2",
+  "contractAddress": "0x423e540cb46db0e4df1ac96bcbddf78a804647d8",
   "tokenId": "8523",
   "name": "Matrix Avatar #8523",
-  "image": "https://media.niftys.com/nfts/matrix/media/ckw70xeim45120f873q93o7szb.png",
+  "image": "https://media.niftys.com/nfts/matrix/media/ckxa37t8i748507v73to41qk16.png",
   "attributes": [
     {
-      "value": "White",
-      "trait_type": "Background"
+      "value": "None",
+      "trait_type": "Name"
     },
     {
-      "value": "Straight Sideswept Fringe",
-      "trait_type": "Hair Style"
+      "value": "Read the Bitcoin white paper twice",
+      "trait_type": "Hacking"
     },
     {
-      "value": "Auburn",
-      "trait_type": "Hair Color"
+      "value": "New Apprentice",
+      "trait_type": "Zen"
+    },
+    {
+      "value": "Electrician",
+      "trait_type": "Occupation"
+    },
+    {
+      "value": "6",
+      "trait_type": "Wisdom"
+    },
+    {
+      "value": "10",
+      "trait_type": "Intelligence"
+    },
+    {
+      "value": "777",
+      "trait_type": "Social Media Followers"
+    },
+    {
+      "value": "6",
+      "trait_type": "Charisma"
+    },
+    {
+      "value": "14",
+      "trait_type": "Dexterity"
+    },
+    {
+      "value": "172581",
+      "trait_type": "Salary"
+    },
+    {
+      "value": "12",
+      "trait_type": "Strength"
+    },
+    {
+      "value": "559",
+      "trait_type": "Credit Score"
+    },
+    {
+      "value": "6",
+      "trait_type": "Constitution"
+    },
+    {
+      "value": "1",
+      "trait_type": "Votes"
+    },
+    {
+      "value": "1",
+      "trait_type": "Generation"
     },
     {
       "value": "",
-      "trait_type": "Facial Hair"
-    },
-    {
-      "value": "Gray Jumpsuit",
-      "trait_type": "Top"
-    },
-    {
-      "value": "",
-      "trait_type": "Bottom"
-    },
-    {
-      "value": "White Canvas Sneaker with White Sole",
-      "trait_type": "Footwear"
-    },
-    {
-      "value": "",
-      "trait_type": "Ring"
-    },
-    {
-      "value": "",
-      "trait_type": "Headwear"
-    },
-    {
-      "value": "",
-      "trait_type": "Glasses"
+      "trait_type": "Accessories"
     },
     {
       "value": "",
@@ -52,7 +76,47 @@
     },
     {
       "value": "",
-      "trait_type": "Accessories"
+      "trait_type": "Glasses"
+    },
+    {
+      "value": "",
+      "trait_type": "Headwear"
+    },
+    {
+      "value": "",
+      "trait_type": "Ring"
+    },
+    {
+      "value": "White Canvas Sneaker with White Sole",
+      "trait_type": "Footwear"
+    },
+    {
+      "value": "",
+      "trait_type": "Bottom"
+    },
+    {
+      "value": "Gray Jumpsuit",
+      "trait_type": "Top"
+    },
+    {
+      "value": "",
+      "trait_type": "Facial Hair"
+    },
+    {
+      "value": "Auburn",
+      "trait_type": "Hair Color"
+    },
+    {
+      "value": "Straight Sideswept Fringe",
+      "trait_type": "Hair Style"
+    },
+    {
+      "value": "White Medium Rain",
+      "trait_type": "Background"
+    },
+    {
+      "value": "Brand New Ice Cream Truck",
+      "trait_type": "Transportation"
     }
   ]
 }

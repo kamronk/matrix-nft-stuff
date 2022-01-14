@@ -1,50 +1,114 @@
 {
   "owners": 0,
   "likes": 0,
-  "contractAddress": "0x39ceaa47306381b6d79ad46af0f36bc5332386f2",
+  "contractAddress": "0x28e4b03bc88b59d25f3467b2252b66d4b2c43286",
   "tokenId": "27430",
   "name": "Matrix Avatar #27430",
-  "image": "https://media.niftys.com/nfts/matrix/media/ckw7508s6135579fa73838rbpln.png",
+  "image": "https://media.niftys.com/nfts/matrix/media/ckx9omznv239554zx731i8mihep.png",
   "attributes": [
     {
-      "value": "White",
-      "trait_type": "Background"
+      "value": "Your significant other\u0027s mom loves you",
+      "trait_type": "Persuasion"
     },
     {
-      "value": "Short Afro Fade",
-      "trait_type": "Hair Style"
+      "value": "Yes",
+      "trait_type": "Headjack"
     },
     {
-      "value": "Black",
-      "trait_type": "Hair Color"
-    },
-    {
-      "value": "",
-      "trait_type": "Facial Hair"
-    },
-    {
-      "value": "Khaki Oxford with Buttons",
+      "value": "Red Patent Lather Trench Coat with Black Cotton Oxford and White Tie",
       "trait_type": "Top"
     },
     {
-      "value": "Gray Slacks",
-      "trait_type": "Bottom"
+      "value": "None",
+      "trait_type": "Name"
     },
     {
-      "value": "Black Suede Chelseas with Brown Sole",
+      "value": "Sleep paralysis",
+      "trait_type": "Movement"
+    },
+    {
+      "value": "Laughing at your mistakes",
+      "trait_type": "Awareness"
+    },
+    {
+      "value": "White Knee High Leather Boots",
       "trait_type": "Footwear"
     },
     {
-      "value": "",
-      "trait_type": "Ring"
+      "value": "Incredible moral fiber",
+      "trait_type": "Will"
     },
     {
-      "value": "",
-      "trait_type": "Headwear"
-    },
-    {
-      "value": "Black Books",
+      "value": "Black Futurist with Black Lens",
       "trait_type": "Glasses"
+    },
+    {
+      "value": "Can see around corners",
+      "trait_type": "Perception"
+    },
+    {
+      "value": "Red Cotton Wool Slacks with Buckles",
+      "trait_type": "Bottom"
+    },
+    {
+      "value": "Your grandma beats you at arm-wrestling",
+      "trait_type": "Power"
+    },
+    {
+      "value": "8",
+      "trait_type": "Charisma"
+    },
+    {
+      "value": "10",
+      "trait_type": "Wisdom"
+    },
+    {
+      "value": "11",
+      "trait_type": "Intelligence"
+    },
+    {
+      "value": "2",
+      "trait_type": "Dexterity"
+    },
+    {
+      "value": "11",
+      "trait_type": "Constitution"
+    },
+    {
+      "value": "2",
+      "trait_type": "Strength"
+    },
+    {
+      "value": "1",
+      "trait_type": "Votes"
+    },
+    {
+      "value": "1",
+      "trait_type": "Generation"
+    },
+    {
+      "value": "",
+      "trait_type": "Right Hand Accessory"
+    },
+    {
+      "value": "",
+      "trait_type": "Left Hand Accessory"
+    },
+    {
+      "value": "",
+      "trait_type": "Front Neck Tattoo"
+    },
+    {
+      "value": "",
+      "trait_type": "Side Neck Tattoo"
+    },
+    {
+      "value": "",
+      "trait_type": "Forearm Tattoo"
+    },
+    {
+      "value": "",
+      "trait_type": "Bicep Tattoo"
     },
     {
       "value": "",
@@ -52,7 +116,35 @@
     },
     {
       "value": "",
-      "trait_type": "Accessories"
+      "trait_type": "Neckwear"
+    },
+    {
+      "value": "",
+      "trait_type": "Wristwear"
+    },
+    {
+      "value": "Scowl",
+      "trait_type": "Facial Expression"
+    },
+    {
+      "value": "Mustache",
+      "trait_type": "Facial Hair"
+    },
+    {
+      "value": "Natural",
+      "trait_type": "Hair Dye"
+    },
+    {
+      "value": "Black",
+      "trait_type": "Hair Color"
+    },
+    {
+      "value": "Short Pixie",
+      "trait_type": "Hair Style"
+    },
+    {
+      "value": "Medium Rain",
+      "trait_type": "Background"
     }
   ]
 }

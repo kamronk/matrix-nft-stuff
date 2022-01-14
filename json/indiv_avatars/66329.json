@@ -7,40 +7,12 @@
   "image": "https://media.niftys.com/nfts/matrix/media/ckw7dgwjc330299f773tv3acx07.png",
   "attributes": [
     {
-      "value": "White",
-      "trait_type": "Background"
-    },
-    {
-      "value": "Long Messy",
-      "trait_type": "Hair Style"
-    },
-    {
-      "value": "Dark Brown",
-      "trait_type": "Hair Color"
-    },
-    {
-      "value": "Stubble",
-      "trait_type": "Facial Hair"
-    },
-    {
-      "value": "Olive Cardigan with Light Gray Longsleeve Shirt",
-      "trait_type": "Top"
-    },
-    {
-      "value": "Khaki Slacks",
-      "trait_type": "Bottom"
-    },
-    {
-      "value": "Brown Leather Shoes with Laces",
-      "trait_type": "Footwear"
-    },
-    {
-      "value": "Two Rings",
-      "trait_type": "Ring"
+      "value": "Black Smartphone",
+      "trait_type": "Accessories"
     },
     {
       "value": "",
-      "trait_type": "Headwear"
+      "trait_type": "Piercings"
     },
     {
       "value": "Black Books",
@@ -48,11 +20,39 @@
     },
     {
       "value": "",
-      "trait_type": "Piercings"
+      "trait_type": "Headwear"
     },
     {
-      "value": "Black Smartphone",
-      "trait_type": "Accessories"
+      "value": "Two Rings",
+      "trait_type": "Ring"
+    },
+    {
+      "value": "Brown Leather Shoes with Laces",
+      "trait_type": "Footwear"
+    },
+    {
+      "value": "Khaki Slacks",
+      "trait_type": "Bottom"
+    },
+    {
+      "value": "Olive Cardigan with Light Gray Longsleeve Shirt",
+      "trait_type": "Top"
+    },
+    {
+      "value": "Stubble",
+      "trait_type": "Facial Hair"
+    },
+    {
+      "value": "Dark Brown",
+      "trait_type": "Hair Color"
+    },
+    {
+      "value": "Long Messy",
+      "trait_type": "Hair Style"
+    },
+    {
+      "value": "White",
+      "trait_type": "Background"
     }
   ]
 }

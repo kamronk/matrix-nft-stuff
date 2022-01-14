@@ -1,34 +1,94 @@
 {
   "owners": 0,
   "likes": 0,
-  "contractAddress": "0x39ceaa47306381b6d79ad46af0f36bc5332386f2",
+  "contractAddress": "0x423e540cb46db0e4df1ac96bcbddf78a804647d8",
   "tokenId": "87481",
   "name": "Matrix Avatar #87481",
-  "image": "https://media.niftys.com/nfts/matrix/media/ckw75nihq150013f673lhz3gici.png",
+  "image": "https://media.niftys.com/nfts/matrix/media/ckxa97x7i2396387t734s76ret3.png",
   "attributes": [
     {
-      "value": "White",
-      "trait_type": "Background"
+      "value": "Graduate",
+      "trait_type": "Zen"
+    },
+    {
+      "value": "9",
+      "trait_type": "Wisdom"
+    },
+    {
+      "value": "Legal Assistant",
+      "trait_type": "Occupation"
+    },
+    {
+      "value": "Subscribed to 2600",
+      "trait_type": "Hacking"
+    },
+    {
+      "value": "11",
+      "trait_type": "Intelligence"
+    },
+    {
+      "value": "1993",
+      "trait_type": "Social Media Followers"
+    },
+    {
+      "value": "7",
+      "trait_type": "Charisma"
+    },
+    {
+      "value": "Low Rider",
+      "trait_type": "Transportation"
+    },
+    {
+      "value": "TBD",
+      "trait_type": "Name"
+    },
+    {
+      "value": "11",
+      "trait_type": "Dexterity"
+    },
+    {
+      "value": "172581",
+      "trait_type": "Salary"
+    },
+    {
+      "value": "12",
+      "trait_type": "Strength"
+    },
+    {
+      "value": "739",
+      "trait_type": "Credit Score"
+    },
+    {
+      "value": "12",
+      "trait_type": "Constitution"
+    },
+    {
+      "value": "1",
+      "trait_type": "Votes"
+    },
+    {
+      "value": "1",
+      "trait_type": "Generation"
     },
     {
       "value": "",
-      "trait_type": "Hair Style"
-    },
-    {
-      "value": "Light Grey",
-      "trait_type": "Hair Color"
+      "trait_type": "Accessories"
     },
     {
       "value": "",
-      "trait_type": "Facial Hair"
+      "trait_type": "Piercings"
     },
     {
-      "value": "Navy Jumpsuit",
-      "trait_type": "Top"
+      "value": "Black Books",
+      "trait_type": "Glasses"
+    },
+    {
+      "value": "Purple Worker\u0027s Cap",
+      "trait_type": "Headwear"
     },
     {
       "value": "",
-      "trait_type": "Bottom"
+      "trait_type": "Ring"
     },
     {
       "value": "White Canvas Sneaker with White Sole",
@@ -36,23 +96,27 @@
     },
     {
       "value": "",
-      "trait_type": "Ring"
+      "trait_type": "Bottom"
     },
     {
-      "value": "Black Books",
-      "trait_type": "Glasses"
-    },
-    {
-      "value": "",
-      "trait_type": "Piercings"
+      "value": "Navy Jumpsuit",
+      "trait_type": "Top"
     },
     {
       "value": "",
-      "trait_type": "Accessories"
+      "trait_type": "Facial Hair"
     },
     {
-      "value": "Purple Workers Cap",
-      "trait_type": "Headwear"
+      "value": "Light Grey",
+      "trait_type": "Hair Color"
+    },
+    {
+      "value": "",
+      "trait_type": "Hair Style"
+    },
+    {
+      "value": "White Heavy Rain",
+      "trait_type": "Background"
     }
   ]
 }

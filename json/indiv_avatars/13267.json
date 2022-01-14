@@ -1,58 +1,150 @@
 {
   "owners": 0,
   "likes": 0,
-  "contractAddress": "0x39ceaa47306381b6d79ad46af0f36bc5332386f2",
+  "contractAddress": "0x28e4b03bc88b59d25f3467b2252b66d4b2c43286",
   "tokenId": "13267",
   "name": "Matrix Avatar #13267",
-  "image": "https://media.niftys.com/nfts/matrix/media/ckw71n41i61161f573fdrjv6dj.png",
+  "image": "https://media.niftys.com/nfts/matrix/media/ckx9li83c118413zs736rvmjifj.png",
   "attributes": [
     {
-      "value": "White",
-      "trait_type": "Background"
+      "value": "You\u0027re a bit of a charmer",
+      "trait_type": "Persuasion"
     },
     {
-      "value": "Updo Bun",
-      "trait_type": "Hair Style"
+      "value": "7",
+      "trait_type": "Charisma"
     },
     {
-      "value": "Auburn",
-      "trait_type": "Hair Color"
+      "value": "Learning to regulate emotions",
+      "trait_type": "Awareness"
     },
     {
-      "value": "Thin",
-      "trait_type": "Facial Hair"
+      "value": "9",
+      "trait_type": "Wisdom"
     },
     {
-      "value": "Blue Longsleeve",
-      "trait_type": "Top"
+      "value": "Can hear a bee\u0027s wings",
+      "trait_type": "Perception"
     },
     {
-      "value": "Blue Denim",
-      "trait_type": "Bottom"
+      "value": "10",
+      "trait_type": "Intelligence"
     },
     {
-      "value": "Brown Leather Shoes with Laces",
-      "trait_type": "Footwear"
+      "value": "Getting the hang of it",
+      "trait_type": "Movement"
+    },
+    {
+      "value": "5",
+      "trait_type": "Dexterity"
+    },
+    {
+      "value": "Incredible moral fiber",
+      "trait_type": "Will"
+    },
+    {
+      "value": "11",
+      "trait_type": "Constitution"
+    },
+    {
+      "value": "The gym stops to watch you lift",
+      "trait_type": "Power"
+    },
+    {
+      "value": "8",
+      "trait_type": "Strength"
+    },
+    {
+      "value": "TBD",
+      "trait_type": "Name"
+    },
+    {
+      "value": "1",
+      "trait_type": "Votes"
+    },
+    {
+      "value": "1",
+      "trait_type": "Generation"
+    },
+    {
+      "value": "Yes",
+      "trait_type": "Headjack"
+    },
+    {
+      "value": "Phone",
+      "trait_type": "Right Hand Accessory"
+    },
+    {
+      "value": "Phone",
+      "trait_type": "Left Hand Accessory"
     },
     {
       "value": "",
-      "trait_type": "Ring"
+      "trait_type": "Front Neck Tattoo"
+    },
+    {
+      "value": "Intersecting Squares",
+      "trait_type": "Side Neck Tattoo"
     },
     {
       "value": "",
-      "trait_type": "Headwear"
+      "trait_type": "Forearm Tattoo"
     },
     {
-      "value": "Rosegold Aviators",
-      "trait_type": "Glasses"
+      "value": "",
+      "trait_type": "Bicep Tattoo"
     },
     {
       "value": "",
       "trait_type": "Piercings"
     },
     {
-      "value": "Lunchbox",
-      "trait_type": "Accessories"
+      "value": "Black Morpheus with Dark Mirrored Lens",
+      "trait_type": "Glasses"
+    },
+    {
+      "value": "",
+      "trait_type": "Neckwear"
+    },
+    {
+      "value": "",
+      "trait_type": "Wristwear"
+    },
+    {
+      "value": "Green Leather Combat Cuff Boot",
+      "trait_type": "Footwear"
+    },
+    {
+      "value": "Green Cotton Martial Arts Pants",
+      "trait_type": "Bottom"
+    },
+    {
+      "value": "Green Leather Longsleeve Crew",
+      "trait_type": "Top"
+    },
+    {
+      "value": "",
+      "trait_type": "Facial Expression"
+    },
+    {
+      "value": "",
+      "trait_type": "Facial Hair"
+    },
+    {
+      "value": "Light Blue",
+      "trait_type": "Hair Dye"
+    },
+    {
+      "value": "Auburn",
+      "trait_type": "Hair Color"
+    },
+    {
+      "value": "Short Updo",
+      "trait_type": "Hair Style"
+    },
+    {
+      "value": "Light Rain",
+      "trait_type": "Background"
     }
   ]
 }

@@ -1,50 +1,78 @@
 {
   "owners": 0,
   "likes": 0,
-  "contractAddress": "0x39ceaa47306381b6d79ad46af0f36bc5332386f2",
+  "contractAddress": "0x423e540cb46db0e4df1ac96bcbddf78a804647d8",
   "tokenId": "50203",
   "name": "Matrix Avatar #50203",
-  "image": "https://media.niftys.com/nfts/matrix/media/ckw79hhu8236206f273refm32vg.png",
+  "image": "https://media.niftys.com/nfts/matrix/media/ckxadg1ng3789527p73wvh7tbo6.png",
   "attributes": [
     {
-      "value": "White",
-      "trait_type": "Background"
+      "value": "Three Wheel Roadster",
+      "trait_type": "Transportation"
     },
     {
-      "value": "Short Messy",
-      "trait_type": "Hair Style"
+      "value": "None",
+      "trait_type": "Name"
     },
     {
-      "value": "Blonde",
-      "trait_type": "Hair Color"
+      "value": "Stole a high school computer lab pass",
+      "trait_type": "Hacking"
+    },
+    {
+      "value": "Receptionist",
+      "trait_type": "Occupation"
+    },
+    {
+      "value": "Grandmaster",
+      "trait_type": "Zen"
+    },
+    {
+      "value": "13",
+      "trait_type": "Wisdom"
+    },
+    {
+      "value": "12",
+      "trait_type": "Intelligence"
+    },
+    {
+      "value": "51",
+      "trait_type": "Social Media Followers"
+    },
+    {
+      "value": "3",
+      "trait_type": "Charisma"
+    },
+    {
+      "value": "13",
+      "trait_type": "Dexterity"
+    },
+    {
+      "value": "35555",
+      "trait_type": "Salary"
+    },
+    {
+      "value": "7",
+      "trait_type": "Strength"
+    },
+    {
+      "value": "661",
+      "trait_type": "Credit Score"
+    },
+    {
+      "value": "8",
+      "trait_type": "Constitution"
+    },
+    {
+      "value": "1",
+      "trait_type": "Votes"
+    },
+    {
+      "value": "1",
+      "trait_type": "Generation"
     },
     {
       "value": "",
-      "trait_type": "Facial Hair"
-    },
-    {
-      "value": "Charcoal Blazer with Light Blue Shirt and Black Tie",
-      "trait_type": "Top"
-    },
-    {
-      "value": "Blue Denim",
-      "trait_type": "Bottom"
-    },
-    {
-      "value": "Black Suede Chelseas with Brown Sole",
-      "trait_type": "Footwear"
-    },
-    {
-      "value": "",
-      "trait_type": "Ring"
-    },
-    {
-      "value": "",
-      "trait_type": "Headwear"
-    },
-    {
-      "value": "",
-      "trait_type": "Glasses"
+      "trait_type": "Accessories"
     },
     {
       "value": "",
@@ -52,7 +80,43 @@
     },
     {
       "value": "",
-      "trait_type": "Accessories"
+      "trait_type": "Glasses"
+    },
+    {
+      "value": "",
+      "trait_type": "Headwear"
+    },
+    {
+      "value": "",
+      "trait_type": "Ring"
+    },
+    {
+      "value": "Black Suede Chelseas with Brown Sole",
+      "trait_type": "Footwear"
+    },
+    {
+      "value": "Blue Denim",
+      "trait_type": "Bottom"
+    },
+    {
+      "value": "Charcoal Blazer with Light Blue Shirt and Black Tie",
+      "trait_type": "Top"
+    },
+    {
+      "value": "",
+      "trait_type": "Facial Hair"
+    },
+    {
+      "value": "Blonde",
+      "trait_type": "Hair Color"
+    },
+    {
+      "value": "Short Messy",
+      "trait_type": "Hair Style"
+    },
+    {
+      "value": "White Medium Rain",
+      "trait_type": "Background"
     }
   ]
 }

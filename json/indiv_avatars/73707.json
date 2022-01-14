@@ -1,50 +1,114 @@
 {
   "owners": 0,
   "likes": 0,
-  "contractAddress": "0x39ceaa47306381b6d79ad46af0f36bc5332386f2",
+  "contractAddress": "0x28e4b03bc88b59d25f3467b2252b66d4b2c43286",
   "tokenId": "73707",
   "name": "Matrix Avatar #73707",
-  "image": "https://media.niftys.com/nfts/matrix/media/ckw7ck6y1304027f273f6zvfv2y.png",
+  "image": "https://media.niftys.com/nfts/matrix/media/ckx9xr1bp548654zp738922sao0.png",
   "attributes": [
     {
-      "value": "White",
-      "trait_type": "Background"
+      "value": "You\u0027re a bit of a charmer",
+      "trait_type": "Persuasion"
     },
     {
-      "value": "Long Messy",
+      "value": "Yes",
+      "trait_type": "Headjack"
+    },
+    {
+      "value": "Black Wayfarer with Black Lens",
+      "trait_type": "Glasses"
+    },
+    {
+      "value": "True grit",
+      "trait_type": "Will"
+    },
+    {
+      "value": "None",
+      "trait_type": "Name"
+    },
+    {
+      "value": "Silver Staff",
+      "trait_type": "Left Hand Accessory"
+    },
+    {
+      "value": "Short Sideswept Fringe",
       "trait_type": "Hair Style"
     },
     {
-      "value": "Black",
-      "trait_type": "Hair Color"
-    },
-    {
-      "value": "",
-      "trait_type": "Facial Hair"
-    },
-    {
-      "value": "Red Longsleeve",
+      "value": "Red Cotton Martial Arts Top",
       "trait_type": "Top"
     },
     {
-      "value": "Light-Wash Denim",
-      "trait_type": "Bottom"
+      "value": "Getting the hang of it",
+      "trait_type": "Movement"
     },
     {
-      "value": "Black Suede Chelseas with Brown Sole",
+      "value": "Green Black Patent Leather Neo Combat Boot",
       "trait_type": "Footwear"
     },
     {
-      "value": "",
-      "trait_type": "Ring"
+      "value": "Can take a punch",
+      "trait_type": "Power"
+    },
+    {
+      "value": "Can hear a bee\u0027s wings",
+      "trait_type": "Perception"
+    },
+    {
+      "value": "Appreciation for the complexity of human behavior",
+      "trait_type": "Awareness"
+    },
+    {
+      "value": "7",
+      "trait_type": "Charisma"
+    },
+    {
+      "value": "12",
+      "trait_type": "Wisdom"
+    },
+    {
+      "value": "10",
+      "trait_type": "Intelligence"
+    },
+    {
+      "value": "5",
+      "trait_type": "Dexterity"
+    },
+    {
+      "value": "9",
+      "trait_type": "Constitution"
+    },
+    {
+      "value": "3",
+      "trait_type": "Strength"
+    },
+    {
+      "value": "1",
+      "trait_type": "Votes"
+    },
+    {
+      "value": "1",
+      "trait_type": "Generation"
     },
     {
       "value": "",
-      "trait_type": "Headwear"
+      "trait_type": "Right Hand Accessory"
     },
     {
-      "value": "Silver Aviators",
-      "trait_type": "Glasses"
+      "value": "",
+      "trait_type": "Front Neck Tattoo"
+    },
+    {
+      "value": "",
+      "trait_type": "Side Neck Tattoo"
+    },
+    {
+      "value": "",
+      "trait_type": "Forearm Tattoo"
+    },
+    {
+      "value": "",
+      "trait_type": "Bicep Tattoo"
     },
     {
       "value": "",
@@ -52,7 +116,35 @@
     },
     {
       "value": "",
-      "trait_type": "Accessories"
+      "trait_type": "Neckwear"
+    },
+    {
+      "value": "",
+      "trait_type": "Wristwear"
+    },
+    {
+      "value": "Scowl",
+      "trait_type": "Facial Expression"
+    },
+    {
+      "value": "",
+      "trait_type": "Facial Hair"
+    },
+    {
+      "value": "Natural",
+      "trait_type": "Hair Dye"
+    },
+    {
+      "value": "Black",
+      "trait_type": "Hair Color"
+    },
+    {
+      "value": "Light Rain",
+      "trait_type": "Background"
+    },
+    {
+      "value": "Black Cotton Wool Slacks with Buckles",
+      "trait_type": "Bottom"
     }
   ]
 }

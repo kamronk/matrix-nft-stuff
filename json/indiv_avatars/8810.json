@@ -1,46 +1,82 @@
 {
   "owners": 0,
   "likes": 0,
-  "contractAddress": "0x39ceaa47306381b6d79ad46af0f36bc5332386f2",
+  "contractAddress": "0x423e540cb46db0e4df1ac96bcbddf78a804647d8",
   "tokenId": "8810",
   "name": "Matrix Avatar #8810",
-  "image": "https://media.niftys.com/nfts/matrix/media/ckw70ybey44672f973562ie9et.png",
+  "image": "https://media.niftys.com/nfts/matrix/media/ckxa35h7q724707w73lh8572j6.png",
   "attributes": [
     {
-      "value": "White",
-      "trait_type": "Background"
+      "value": "None",
+      "trait_type": "Name"
     },
     {
-      "value": "Short Coil",
-      "trait_type": "Hair Style"
+      "value": "Subscribed to 2600",
+      "trait_type": "Hacking"
     },
     {
-      "value": "Light Grey",
-      "trait_type": "Hair Color"
+      "value": "Pragmatic Coupe",
+      "trait_type": "Transportation"
     },
     {
-      "value": "Beard",
-      "trait_type": "Facial Hair"
+      "value": "Disciple",
+      "trait_type": "Zen"
     },
     {
-      "value": "Navy Blazer with Striped Shirt and No Tie",
-      "trait_type": "Top"
+      "value": "Bookkeeper",
+      "trait_type": "Occupation"
     },
     {
-      "value": "Navy Slacks",
-      "trait_type": "Bottom"
+      "value": "10",
+      "trait_type": "Wisdom"
     },
     {
-      "value": "Black Suede Chelseas with Brown Sole",
-      "trait_type": "Footwear"
+      "value": "11",
+      "trait_type": "Intelligence"
+    },
+    {
+      "value": "128",
+      "trait_type": "Social Media Followers"
+    },
+    {
+      "value": "4",
+      "trait_type": "Charisma"
+    },
+    {
+      "value": "10",
+      "trait_type": "Dexterity"
+    },
+    {
+      "value": "76302",
+      "trait_type": "Salary"
+    },
+    {
+      "value": "9",
+      "trait_type": "Strength"
+    },
+    {
+      "value": "559",
+      "trait_type": "Credit Score"
+    },
+    {
+      "value": "6",
+      "trait_type": "Constitution"
+    },
+    {
+      "value": "1",
+      "trait_type": "Votes"
+    },
+    {
+      "value": "1",
+      "trait_type": "Generation"
+    },
+    {
+      "value": "Lunchbox",
+      "trait_type": "Accessories"
     },
     {
       "value": "",
-      "trait_type": "Ring"
-    },
-    {
-      "value": "",
-      "trait_type": "Headwear"
+      "trait_type": "Piercings"
     },
     {
       "value": "",
@@ -48,11 +84,39 @@
     },
     {
       "value": "",
-      "trait_type": "Piercings"
+      "trait_type": "Headwear"
     },
     {
-      "value": "Lunchbox",
-      "trait_type": "Accessories"
+      "value": "",
+      "trait_type": "Ring"
+    },
+    {
+      "value": "Black Suede Chelseas with Brown Sole",
+      "trait_type": "Footwear"
+    },
+    {
+      "value": "Navy Slacks",
+      "trait_type": "Bottom"
+    },
+    {
+      "value": "Navy Blazer with Striped Shirt and No Tie",
+      "trait_type": "Top"
+    },
+    {
+      "value": "Beard",
+      "trait_type": "Facial Hair"
+    },
+    {
+      "value": "Light Grey",
+      "trait_type": "Hair Color"
+    },
+    {
+      "value": "Short Coil",
+      "trait_type": "Hair Style"
+    },
+    {
+      "value": "White Heavy Rain",
+      "trait_type": "Background"
     }
   ]
 }

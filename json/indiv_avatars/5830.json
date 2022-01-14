@@ -7,44 +7,8 @@
   "image": "https://media.niftys.com/nfts/matrix/media/ckw70myxp37546f77321zbah04.png",
   "attributes": [
     {
-      "value": "White",
-      "trait_type": "Background"
-    },
-    {
-      "value": "Short Pixie",
-      "trait_type": "Hair Style"
-    },
-    {
-      "value": "Light Brown",
-      "trait_type": "Hair Color"
-    },
-    {
       "value": "",
-      "trait_type": "Facial Hair"
-    },
-    {
-      "value": "Olive Oxford with Buttons",
-      "trait_type": "Top"
-    },
-    {
-      "value": "Light-Wash Denim",
-      "trait_type": "Bottom"
-    },
-    {
-      "value": "Brown Leather Shoes with Laces",
-      "trait_type": "Footwear"
-    },
-    {
-      "value": "",
-      "trait_type": "Ring"
-    },
-    {
-      "value": "",
-      "trait_type": "Headwear"
-    },
-    {
-      "value": "",
-      "trait_type": "Glasses"
+      "trait_type": "Accessories"
     },
     {
       "value": "",
@@ -52,7 +16,43 @@
     },
     {
       "value": "",
-      "trait_type": "Accessories"
+      "trait_type": "Glasses"
+    },
+    {
+      "value": "",
+      "trait_type": "Headwear"
+    },
+    {
+      "value": "",
+      "trait_type": "Ring"
+    },
+    {
+      "value": "Brown Leather Shoes with Laces",
+      "trait_type": "Footwear"
+    },
+    {
+      "value": "Light-Wash Denim",
+      "trait_type": "Bottom"
+    },
+    {
+      "value": "Olive Oxford with Buttons",
+      "trait_type": "Top"
+    },
+    {
+      "value": "",
+      "trait_type": "Facial Hair"
+    },
+    {
+      "value": "Light Brown",
+      "trait_type": "Hair Color"
+    },
+    {
+      "value": "Short Pixie",
+      "trait_type": "Hair Style"
+    },
+    {
+      "value": "White",
+      "trait_type": "Background"
     }
   ]
 }

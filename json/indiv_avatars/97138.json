@@ -1,0 +1,150 @@
+{
+  "owners": 0,
+  "likes": 0,
+  "contractAddress": "0x28e4b03bc88b59d25f3467b2252b66d4b2c43286",
+  "tokenId": "97138",
+  "name": "Matrix Avatar",
+  "image": "https://media.niftys.com/nfts/matrix/media/ckx9xyqyr545889zx73gxg39a6s.png",
+  "attributes": [
+    {
+      "value": "Yes",
+      "trait_type": "Headjack"
+    },
+    {
+      "value": "3D Glasses",
+      "trait_type": "Glasses"
+    },
+    {
+      "value": "Two left feet",
+      "trait_type": "Movement"
+    },
+    {
+      "value": "None",
+      "trait_type": "Name"
+    },
+    {
+      "value": "Green Cotton Tank",
+      "trait_type": "Top"
+    },
+    {
+      "value": "Surprising resilience",
+      "trait_type": "Will"
+    },
+    {
+      "value": "Dark Wood Staff",
+      "trait_type": "Left Hand Accessory"
+    },
+    {
+      "value": "Interlocking Circles",
+      "trait_type": "Forearm Tattoo"
+    },
+    {
+      "value": "Scrappy",
+      "trait_type": "Power"
+    },
+    {
+      "value": "Reality is seen as it is",
+      "trait_type": "Awareness"
+    },
+    {
+      "value": "Natural born leader",
+      "trait_type": "Persuasion"
+    },
+    {
+      "value": "Green Cotton Martial Arts Pants",
+      "trait_type": "Bottom"
+    },
+    {
+      "value": "Red Snakeskin Combat Cuff Boot",
+      "trait_type": "Footwear"
+    },
+    {
+      "value": "Can see around corners",
+      "trait_type": "Perception"
+    },
+    {
+      "value": "Moon Patterns",
+      "trait_type": "Bicep Tattoo"
+    },
+    {
+      "value": "10",
+      "trait_type": "Charisma"
+    },
+    {
+      "value": "15",
+      "trait_type": "Wisdom"
+    },
+    {
+      "value": "11",
+      "trait_type": "Intelligence"
+    },
+    {
+      "value": "3",
+      "trait_type": "Dexterity"
+    },
+    {
+      "value": "8",
+      "trait_type": "Constitution"
+    },
+    {
+      "value": "5",
+      "trait_type": "Strength"
+    },
+    {
+      "value": "1",
+      "trait_type": "Votes"
+    },
+    {
+      "value": "1",
+      "trait_type": "Generation"
+    },
+    {
+      "value": "",
+      "trait_type": "Right Hand Accessory"
+    },
+    {
+      "value": "",
+      "trait_type": "Front Neck Tattoo"
+    },
+    {
+      "value": "",
+      "trait_type": "Side Neck Tattoo"
+    },
+    {
+      "value": "",
+      "trait_type": "Piercings"
+    },
+    {
+      "value": "",
+      "trait_type": "Neckwear"
+    },
+    {
+      "value": "Studded Leather",
+      "trait_type": "Wristwear"
+    },
+    {
+      "value": "",
+      "trait_type": "Facial Expression"
+    },
+    {
+      "value": "Mustache",
+      "trait_type": "Facial Hair"
+    },
+    {
+      "value": "Natural",
+      "trait_type": "Hair Dye"
+    },
+    {
+      "value": "Dark Brown",
+      "trait_type": "Hair Color"
+    },
+    {
+      "value": "",
+      "trait_type": "Hair Style"
+    },
+    {
+      "value": "Light Rain",
+      "trait_type": "Background"
+    }
+  ]
+}

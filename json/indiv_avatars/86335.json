@@ -8,43 +8,7 @@
   "attributes": [
     {
       "value": "",
-      "trait_type": "Glasses"
-    },
-    {
-      "value": "White",
-      "trait_type": "Background"
-    },
-    {
-      "value": "Short Afro Fade",
-      "trait_type": "Hair Style"
-    },
-    {
-      "value": "Blonde",
-      "trait_type": "Hair Color"
-    },
-    {
-      "value": "",
-      "trait_type": "Facial Hair"
-    },
-    {
-      "value": "Charcoal Blazer with Light Blue Shirt and Black Tie",
-      "trait_type": "Top"
-    },
-    {
-      "value": "Charcoal Slacks",
-      "trait_type": "Bottom"
-    },
-    {
-      "value": "Black Suede Chelseas with Brown Sole",
-      "trait_type": "Footwear"
-    },
-    {
-      "value": "Two Rings",
-      "trait_type": "Ring"
-    },
-    {
-      "value": "",
-      "trait_type": "Headwear"
+      "trait_type": "Accessories"
     },
     {
       "value": "",
@@ -52,7 +16,43 @@
     },
     {
       "value": "",
-      "trait_type": "Accessories"
+      "trait_type": "Headwear"
+    },
+    {
+      "value": "Two Rings",
+      "trait_type": "Ring"
+    },
+    {
+      "value": "Black Suede Chelseas with Brown Sole",
+      "trait_type": "Footwear"
+    },
+    {
+      "value": "Charcoal Slacks",
+      "trait_type": "Bottom"
+    },
+    {
+      "value": "Charcoal Blazer with Light Blue Shirt and Black Tie",
+      "trait_type": "Top"
+    },
+    {
+      "value": "",
+      "trait_type": "Facial Hair"
+    },
+    {
+      "value": "Blonde",
+      "trait_type": "Hair Color"
+    },
+    {
+      "value": "Short Afro Fade",
+      "trait_type": "Hair Style"
+    },
+    {
+      "value": "White",
+      "trait_type": "Background"
+    },
+    {
+      "value": "",
+      "trait_type": "Glasses"
     }
   ]
 }

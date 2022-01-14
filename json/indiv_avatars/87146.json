@@ -1,58 +1,150 @@
 {
   "owners": 0,
   "likes": 0,
-  "contractAddress": "0x39ceaa47306381b6d79ad46af0f36bc5332386f2",
+  "contractAddress": "0x28e4b03bc88b59d25f3467b2252b66d4b2c43286",
   "tokenId": "87146",
   "name": "Matrix Avatar #87146",
-  "image": "https://media.niftys.com/nfts/matrix/media/ckw76wjrg178804f373qg3sduv1.png",
+  "image": "https://media.niftys.com/nfts/matrix/media/ckx9raiec327665zq73i5lnvve2.png",
   "attributes": [
     {
-      "value": "White",
-      "trait_type": "Background"
+      "value": "You\u0027re a bit of a charmer",
+      "trait_type": "Persuasion"
     },
     {
-      "value": "Short Coil",
-      "trait_type": "Hair Style"
+      "value": "You have a childlike sense of wonder",
+      "trait_type": "Awareness"
     },
     {
-      "value": "Light Grey",
-      "trait_type": "Hair Color"
+      "value": "Yes",
+      "trait_type": "Headjack"
     },
     {
-      "value": "",
-      "trait_type": "Facial Hair"
+      "value": "Native Arrows",
+      "trait_type": "Bicep Tattoo"
     },
     {
-      "value": "Navy Blazer with Striped Shirt and No Tie",
+      "value": "Two left feet",
+      "trait_type": "Movement"
+    },
+    {
+      "value": "Time slows for you",
+      "trait_type": "Perception"
+    },
+    {
+      "value": "None",
+      "trait_type": "Name"
+    },
+    {
+      "value": "Black Leather Tank",
       "trait_type": "Top"
     },
     {
-      "value": "Blue Denim",
-      "trait_type": "Bottom"
+      "value": "Valknut",
+      "trait_type": "Forearm Tattoo"
     },
     {
-      "value": "Black Suede Chelseas with Brown Sole",
+      "value": "Quiet confidence",
+      "trait_type": "Will"
+    },
+    {
+      "value": "Katana with Black Handle and Silver Blade",
+      "trait_type": "Right Hand Accessory"
+    },
+    {
+      "value": "Black Futurist with Black Lens",
+      "trait_type": "Glasses"
+    },
+    {
+      "value": "Red Leather Combat Cuff Boot",
       "trait_type": "Footwear"
     },
     {
-      "value": "",
-      "trait_type": "Ring"
+      "value": "Can put up a fight",
+      "trait_type": "Power"
+    },
+    {
+      "value": "7",
+      "trait_type": "Charisma"
+    },
+    {
+      "value": "7",
+      "trait_type": "Wisdom"
+    },
+    {
+      "value": "16",
+      "trait_type": "Intelligence"
+    },
+    {
+      "value": "3",
+      "trait_type": "Dexterity"
+    },
+    {
+      "value": "10",
+      "trait_type": "Constitution"
+    },
+    {
+      "value": "4",
+      "trait_type": "Strength"
+    },
+    {
+      "value": "1",
+      "trait_type": "Votes"
+    },
+    {
+      "value": "1",
+      "trait_type": "Generation"
     },
     {
       "value": "",
-      "trait_type": "Headwear"
+      "trait_type": "Left Hand Accessory"
     },
     {
       "value": "",
-      "trait_type": "Glasses"
+      "trait_type": "Front Neck Tattoo"
+    },
+    {
+      "value": "",
+      "trait_type": "Side Neck Tattoo"
     },
     {
       "value": "",
       "trait_type": "Piercings"
     },
     {
-      "value": "Black Smartphone",
-      "trait_type": "Accessories"
+      "value": "Leather Choker",
+      "trait_type": "Neckwear"
+    },
+    {
+      "value": "",
+      "trait_type": "Wristwear"
+    },
+    {
+      "value": "Scowl",
+      "trait_type": "Facial Expression"
+    },
+    {
+      "value": "",
+      "trait_type": "Facial Hair"
+    },
+    {
+      "value": "Light Purple",
+      "trait_type": "Hair Dye"
+    },
+    {
+      "value": "Light Grey",
+      "trait_type": "Hair Color"
+    },
+    {
+      "value": "Short Coil",
+      "trait_type": "Hair Style"
+    },
+    {
+      "value": "Light Rain",
+      "trait_type": "Background"
+    },
+    {
+      "value": "Black Leather Pants with Buckles",
+      "trait_type": "Bottom"
     }
   ]
 }

@@ -7,40 +7,36 @@
   "image": "https://media.niftys.com/nfts/matrix/media/ckw77tqhu198953f673xe39pnre.png",
   "attributes": [
     {
-      "value": "White",
-      "trait_type": "Background"
-    },
-    {
-      "value": "Straight Sideswept Fringe",
-      "trait_type": "Hair Style"
-    },
-    {
-      "value": "Black",
-      "trait_type": "Hair Color"
-    },
-    {
-      "value": "",
-      "trait_type": "Facial Hair"
+      "value": "Light-Wash Denim",
+      "trait_type": "Bottom"
     },
     {
       "value": "Charcoal Blazer with Light Blue Shirt and No Tie",
       "trait_type": "Top"
     },
     {
-      "value": "Light-Wash Denim",
-      "trait_type": "Bottom"
+      "value": "",
+      "trait_type": "Facial Hair"
     },
     {
-      "value": "Brown Leather Shoes with Laces",
-      "trait_type": "Footwear"
+      "value": "Black",
+      "trait_type": "Hair Color"
+    },
+    {
+      "value": "Straight Sideswept Fringe",
+      "trait_type": "Hair Style"
+    },
+    {
+      "value": "White",
+      "trait_type": "Background"
+    },
+    {
+      "value": "Lunchbox",
+      "trait_type": "Accessories"
     },
     {
       "value": "",
-      "trait_type": "Ring"
-    },
-    {
-      "value": "",
-      "trait_type": "Headwear"
+      "trait_type": "Piercings"
     },
     {
       "value": "",
@@ -48,11 +44,15 @@
     },
     {
       "value": "",
-      "trait_type": "Piercings"
+      "trait_type": "Headwear"
     },
     {
-      "value": "Lunchbox",
-      "trait_type": "Accessories"
+      "value": "",
+      "trait_type": "Ring"
+    },
+    {
+      "value": "Brown Leather Shoes with Laces",
+      "trait_type": "Footwear"
     }
   ]
 }

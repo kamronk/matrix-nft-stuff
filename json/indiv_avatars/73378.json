@@ -1,58 +1,150 @@
 {
   "owners": 0,
   "likes": 0,
-  "contractAddress": "0x39ceaa47306381b6d79ad46af0f36bc5332386f2",
+  "contractAddress": "0x28e4b03bc88b59d25f3467b2252b66d4b2c43286",
   "tokenId": "73378",
   "name": "Matrix Avatar #73378",
-  "image": "https://media.niftys.com/nfts/matrix/media/ckw7d1fz5314861f273rqpn69w6.png",
+  "image": "https://media.niftys.com/nfts/matrix/media/ckx9yb4q5567619zp73jxonw3x0.png",
   "attributes": [
     {
-      "value": "White",
-      "trait_type": "Background"
+      "value": "Black Short Sai",
+      "trait_type": "Left Hand Accessory"
     },
     {
-      "value": "Medium Curly Bob",
-      "trait_type": "Hair Style"
+      "value": "Black Earrings",
+      "trait_type": "Piercings"
     },
     {
-      "value": "Dark Brown",
-      "trait_type": "Hair Color"
+      "value": "You\u0027re a bit of a charmer",
+      "trait_type": "Persuasion"
+    },
+    {
+      "value": "7",
+      "trait_type": "Charisma"
+    },
+    {
+      "value": "Laughing at your mistakes",
+      "trait_type": "Awareness"
+    },
+    {
+      "value": "10",
+      "trait_type": "Wisdom"
+    },
+    {
+      "value": "Can see around corners",
+      "trait_type": "Perception"
+    },
+    {
+      "value": "11",
+      "trait_type": "Intelligence"
+    },
+    {
+      "value": "Two left feet",
+      "trait_type": "Movement"
+    },
+    {
+      "value": "3",
+      "trait_type": "Dexterity"
+    },
+    {
+      "value": "Incredible moral fiber",
+      "trait_type": "Will"
+    },
+    {
+      "value": "11",
+      "trait_type": "Constitution"
+    },
+    {
+      "value": "Can take a punch",
+      "trait_type": "Power"
+    },
+    {
+      "value": "3",
+      "trait_type": "Strength"
+    },
+    {
+      "value": "TBD",
+      "trait_type": "Name"
+    },
+    {
+      "value": "1",
+      "trait_type": "Votes"
+    },
+    {
+      "value": "1",
+      "trait_type": "Generation"
+    },
+    {
+      "value": "Yes",
+      "trait_type": "Headjack"
+    },
+    {
+      "value": "",
+      "trait_type": "Right Hand Accessory"
+    },
+    {
+      "value": "",
+      "trait_type": "Front Neck Tattoo"
+    },
+    {
+      "value": "Sierpiński Triangle",
+      "trait_type": "Side Neck Tattoo"
+    },
+    {
+      "value": "",
+      "trait_type": "Forearm Tattoo"
+    },
+    {
+      "value": "",
+      "trait_type": "Bicep Tattoo"
+    },
+    {
+      "value": "Black Futurist with Black Lens",
+      "trait_type": "Glasses"
+    },
+    {
+      "value": "",
+      "trait_type": "Neckwear"
+    },
+    {
+      "value": "",
+      "trait_type": "Wristwear"
+    },
+    {
+      "value": "Green Knee High Leather Boots",
+      "trait_type": "Footwear"
+    },
+    {
+      "value": "Black Leather Leggings",
+      "trait_type": "Bottom"
+    },
+    {
+      "value": "Black Cotton Longsleeve with Zipper",
+      "trait_type": "Top"
+    },
+    {
+      "value": "",
+      "trait_type": "Facial Expression"
     },
     {
       "value": "",
       "trait_type": "Facial Hair"
     },
     {
-      "value": "Navy Blazer with Striped Shirt and No Tie",
-      "trait_type": "Top"
+      "value": "Natural",
+      "trait_type": "Hair Dye"
     },
     {
-      "value": "Navy Slacks",
-      "trait_type": "Bottom"
+      "value": "Dark Brown",
+      "trait_type": "Hair Color"
     },
     {
-      "value": "White Canvas Sneaker with White Sole",
-      "trait_type": "Footwear"
+      "value": "Pulled Back Short",
+      "trait_type": "Hair Style"
     },
     {
-      "value": "Two Rings",
-      "trait_type": "Ring"
-    },
-    {
-      "value": "",
-      "trait_type": "Headwear"
-    },
-    {
-      "value": "",
-      "trait_type": "Glasses"
-    },
-    {
-      "value": "",
-      "trait_type": "Piercings"
-    },
-    {
-      "value": "",
-      "trait_type": "Accessories"
+      "value": "Light Rain",
+      "trait_type": "Background"
     }
   ]
 }

@@ -1,58 +1,150 @@
 {
   "owners": 0,
   "likes": 0,
-  "contractAddress": "0x39ceaa47306381b6d79ad46af0f36bc5332386f2",
+  "contractAddress": "0x28e4b03bc88b59d25f3467b2252b66d4b2c43286",
   "tokenId": "10843",
   "name": "Matrix Avatar #10843",
-  "image": "https://media.niftys.com/nfts/matrix/media/ckw714nj549795f673jsa0n8cd.png",
+  "image": "https://media.niftys.com/nfts/matrix/media/ckx9l0cas96690zt73fvsq82bx.png",
   "attributes": [
     {
-      "value": "White",
-      "trait_type": "Background"
-    },
-    {
-      "value": "Medium Curly Bob",
-      "trait_type": "Hair Style"
-    },
-    {
-      "value": "Dark Brown",
-      "trait_type": "Hair Color"
-    },
-    {
-      "value": "",
-      "trait_type": "Facial Hair"
-    },
-    {
-      "value": "Charcoal Blazer with Light Blue Shirt and No Tie",
-      "trait_type": "Top"
-    },
-    {
-      "value": "Navy Slacks",
+      "value": "Black Leather Pants with Buckles",
       "trait_type": "Bottom"
     },
     {
-      "value": "White Leather Sneaker with Grey Sole",
-      "trait_type": "Footwear"
+      "value": "Nobody\u0027s buying it",
+      "trait_type": "Persuasion"
+    },
+    {
+      "value": "2",
+      "trait_type": "Charisma"
+    },
+    {
+      "value": "Accepting the impermanence of things",
+      "trait_type": "Awareness"
+    },
+    {
+      "value": "11",
+      "trait_type": "Wisdom"
+    },
+    {
+      "value": "Can see over the horizon",
+      "trait_type": "Perception"
+    },
+    {
+      "value": "13",
+      "trait_type": "Intelligence"
+    },
+    {
+      "value": "Two left feet",
+      "trait_type": "Movement"
+    },
+    {
+      "value": "3",
+      "trait_type": "Dexterity"
+    },
+    {
+      "value": "You bend reality to your intent",
+      "trait_type": "Will"
+    },
+    {
+      "value": "18",
+      "trait_type": "Constitution"
+    },
+    {
+      "value": "Paper hands",
+      "trait_type": "Power"
+    },
+    {
+      "value": "1",
+      "trait_type": "Strength"
+    },
+    {
+      "value": "TBD",
+      "trait_type": "Name"
+    },
+    {
+      "value": "1",
+      "trait_type": "Votes"
+    },
+    {
+      "value": "1",
+      "trait_type": "Generation"
+    },
+    {
+      "value": "Yes",
+      "trait_type": "Headjack"
     },
     {
       "value": "",
-      "trait_type": "Ring"
+      "trait_type": "Right Hand Accessory"
+    },
+    {
+      "value": "Silver Staff",
+      "trait_type": "Left Hand Accessory"
     },
     {
       "value": "",
-      "trait_type": "Headwear"
+      "trait_type": "Front Neck Tattoo"
     },
     {
-      "value": "Silver Aviators",
-      "trait_type": "Glasses"
+      "value": "Borromean Rings",
+      "trait_type": "Side Neck Tattoo"
+    },
+    {
+      "value": "",
+      "trait_type": "Forearm Tattoo"
+    },
+    {
+      "value": "",
+      "trait_type": "Bicep Tattoo"
     },
     {
       "value": "",
       "trait_type": "Piercings"
     },
     {
-      "value": "Lunchbox",
-      "trait_type": "Accessories"
+      "value": "Black Neo with Black Lens",
+      "trait_type": "Glasses"
+    },
+    {
+      "value": "",
+      "trait_type": "Neckwear"
+    },
+    {
+      "value": "",
+      "trait_type": "Wristwear"
+    },
+    {
+      "value": "Patent Red Leather Combat Cuff Boot",
+      "trait_type": "Footwear"
+    },
+    {
+      "value": "Black Snakeskin Moto Jacket with Red Leather Crew",
+      "trait_type": "Top"
+    },
+    {
+      "value": "Scowl",
+      "trait_type": "Facial Expression"
+    },
+    {
+      "value": "",
+      "trait_type": "Facial Hair"
+    },
+    {
+      "value": "Natural",
+      "trait_type": "Hair Dye"
+    },
+    {
+      "value": "Dark Brown",
+      "trait_type": "Hair Color"
+    },
+    {
+      "value": "Medium Curly Bob",
+      "trait_type": "Hair Style"
+    },
+    {
+      "value": "Medium Rain",
+      "trait_type": "Background"
     }
   ]
 }

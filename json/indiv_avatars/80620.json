@@ -1,50 +1,114 @@
 {
   "owners": 0,
   "likes": 0,
-  "contractAddress": "0x39ceaa47306381b6d79ad46af0f36bc5332386f2",
+  "contractAddress": "0x28e4b03bc88b59d25f3467b2252b66d4b2c43286",
   "tokenId": "80620",
   "name": "Matrix Avatar #80620",
-  "image": "https://media.niftys.com/nfts/matrix/media/ckw70fijm32357f373uxrvkld0.png",
+  "image": "https://media.niftys.com/nfts/matrix/media/ckx9kdnon71448zq73x0fil1h2.png",
   "attributes": [
     {
-      "value": "White",
-      "trait_type": "Background"
+      "value": "You\u0027re a bit of a charmer",
+      "trait_type": "Persuasion"
     },
     {
-      "value": "Straight Sideswept Fringe",
-      "trait_type": "Hair Style"
+      "value": "Yes",
+      "trait_type": "Headjack"
     },
     {
-      "value": "Auburn",
-      "trait_type": "Hair Color"
+      "value": "None",
+      "trait_type": "Name"
     },
     {
-      "value": "",
-      "trait_type": "Facial Hair"
+      "value": "Silver Staff",
+      "trait_type": "Right Hand Accessory"
     },
     {
-      "value": "Olive Cardigan with Beige Longsleeve Shirt",
+      "value": "Square",
+      "trait_type": "Front Neck Tattoo"
+    },
+    {
+      "value": "Quiet confidence",
+      "trait_type": "Will"
+    },
+    {
+      "value": "Green Leather Moto Jacket with Black Cotton Crew",
       "trait_type": "Top"
     },
     {
-      "value": "Khaki",
+      "value": "Black Cotton Leggings",
       "trait_type": "Bottom"
     },
     {
-      "value": "Brown Leather Shoes with Laces",
+      "value": "Getting the hang of it",
+      "trait_type": "Movement"
+    },
+    {
+      "value": "White Futurist with Mirror Lens",
+      "trait_type": "Glasses"
+    },
+    {
+      "value": "Excellent at reading people",
+      "trait_type": "Perception"
+    },
+    {
+      "value": "Green Leather Neo Combat Boot",
       "trait_type": "Footwear"
     },
     {
-      "value": "",
-      "trait_type": "Ring"
+      "value": "Your grandma beats you at arm-wrestling",
+      "trait_type": "Power"
+    },
+    {
+      "value": "Accepting the impermanence of things",
+      "trait_type": "Awareness"
+    },
+    {
+      "value": "7",
+      "trait_type": "Charisma"
+    },
+    {
+      "value": "11",
+      "trait_type": "Wisdom"
+    },
+    {
+      "value": "8",
+      "trait_type": "Intelligence"
+    },
+    {
+      "value": "5",
+      "trait_type": "Dexterity"
+    },
+    {
+      "value": "10",
+      "trait_type": "Constitution"
+    },
+    {
+      "value": "2",
+      "trait_type": "Strength"
+    },
+    {
+      "value": "1",
+      "trait_type": "Votes"
+    },
+    {
+      "value": "1",
+      "trait_type": "Generation"
     },
     {
       "value": "",
-      "trait_type": "Headwear"
+      "trait_type": "Left Hand Accessory"
     },
     {
       "value": "",
-      "trait_type": "Glasses"
+      "trait_type": "Side Neck Tattoo"
+    },
+    {
+      "value": "",
+      "trait_type": "Forearm Tattoo"
+    },
+    {
+      "value": "",
+      "trait_type": "Bicep Tattoo"
     },
     {
       "value": "",
@@ -52,7 +116,35 @@
     },
     {
       "value": "",
-      "trait_type": "Accessories"
+      "trait_type": "Neckwear"
+    },
+    {
+      "value": "",
+      "trait_type": "Wristwear"
+    },
+    {
+      "value": "",
+      "trait_type": "Facial Expression"
+    },
+    {
+      "value": "",
+      "trait_type": "Facial Hair"
+    },
+    {
+      "value": "Natural",
+      "trait_type": "Hair Dye"
+    },
+    {
+      "value": "Auburn",
+      "trait_type": "Hair Color"
+    },
+    {
+      "value": "Faux Hawk",
+      "trait_type": "Hair Style"
+    },
+    {
+      "value": "Medium Rain",
+      "trait_type": "Background"
     }
   ]
 }

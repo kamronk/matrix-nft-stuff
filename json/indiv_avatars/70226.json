@@ -7,44 +7,8 @@
   "image": "https://media.niftys.com/nfts/matrix/media/ckw7ceh2i300265f673d0mqg33h.png",
   "attributes": [
     {
-      "value": "White",
-      "trait_type": "Background"
-    },
-    {
-      "value": "Straight Sideswept Fringe",
-      "trait_type": "Hair Style"
-    },
-    {
-      "value": "Dark Brown",
-      "trait_type": "Hair Color"
-    },
-    {
-      "value": "Beard",
-      "trait_type": "Facial Hair"
-    },
-    {
-      "value": "Olive Cardigan with Light Gray Longsleeve Shirt",
-      "trait_type": "Top"
-    },
-    {
-      "value": "Gray Slacks",
-      "trait_type": "Bottom"
-    },
-    {
-      "value": "Tan Suede Workboot with Tan Sole",
-      "trait_type": "Footwear"
-    },
-    {
       "value": "",
-      "trait_type": "Ring"
-    },
-    {
-      "value": "",
-      "trait_type": "Headwear"
-    },
-    {
-      "value": "",
-      "trait_type": "Glasses"
+      "trait_type": "Accessories"
     },
     {
       "value": "",
@@ -52,7 +16,43 @@
     },
     {
       "value": "",
-      "trait_type": "Accessories"
+      "trait_type": "Glasses"
+    },
+    {
+      "value": "",
+      "trait_type": "Headwear"
+    },
+    {
+      "value": "",
+      "trait_type": "Ring"
+    },
+    {
+      "value": "Tan Suede Workboot with Tan Sole",
+      "trait_type": "Footwear"
+    },
+    {
+      "value": "Gray Slacks",
+      "trait_type": "Bottom"
+    },
+    {
+      "value": "Olive Cardigan with Light Gray Longsleeve Shirt",
+      "trait_type": "Top"
+    },
+    {
+      "value": "Beard",
+      "trait_type": "Facial Hair"
+    },
+    {
+      "value": "Dark Brown",
+      "trait_type": "Hair Color"
+    },
+    {
+      "value": "Straight Sideswept Fringe",
+      "trait_type": "Hair Style"
+    },
+    {
+      "value": "White",
+      "trait_type": "Background"
     }
   ]
 }

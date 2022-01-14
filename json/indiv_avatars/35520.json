@@ -1,46 +1,82 @@
 {
   "owners": 0,
   "likes": 0,
-  "contractAddress": "0x39ceaa47306381b6d79ad46af0f36bc5332386f2",
+  "contractAddress": "0x423e540cb46db0e4df1ac96bcbddf78a804647d8",
   "tokenId": "35520",
   "name": "Matrix Avatar #35520",
-  "image": "https://media.niftys.com/nfts/matrix/media/ckw7572gc140492f373osfyvt5n.png",
+  "image": "https://media.niftys.com/nfts/matrix/media/ckxa8tpo72297607q73h3lnc0sf.png",
   "attributes": [
     {
-      "value": "White",
-      "trait_type": "Background"
+      "value": "None",
+      "trait_type": "Name"
     },
     {
-      "value": "Long Messy",
-      "trait_type": "Hair Style"
+      "value": "Project Manager",
+      "trait_type": "Occupation"
     },
     {
-      "value": "Blonde",
-      "trait_type": "Hair Color"
+      "value": "New Apprentice",
+      "trait_type": "Zen"
     },
     {
-      "value": "Stubble",
-      "trait_type": "Facial Hair"
+      "value": "Earned an MIT Computer Sciences Diploma",
+      "trait_type": "Hacking"
     },
     {
-      "value": "Navy Blazer with Striped Shirt and No Tie",
-      "trait_type": "Top"
+      "value": "Souped-Up Sedan With Ground Effect Lights",
+      "trait_type": "Transportation"
     },
     {
-      "value": "Blue Denim",
-      "trait_type": "Bottom"
+      "value": "6",
+      "trait_type": "Wisdom"
     },
     {
-      "value": "Brown Leather Shoes with Laces",
-      "trait_type": "Footwear"
+      "value": "14",
+      "trait_type": "Intelligence"
+    },
+    {
+      "value": "4981",
+      "trait_type": "Social Media Followers"
+    },
+    {
+      "value": "8",
+      "trait_type": "Charisma"
+    },
+    {
+      "value": "15",
+      "trait_type": "Dexterity"
+    },
+    {
+      "value": "35555",
+      "trait_type": "Salary"
+    },
+    {
+      "value": "7",
+      "trait_type": "Strength"
+    },
+    {
+      "value": "508",
+      "trait_type": "Credit Score"
+    },
+    {
+      "value": "5",
+      "trait_type": "Constitution"
+    },
+    {
+      "value": "1",
+      "trait_type": "Votes"
+    },
+    {
+      "value": "1",
+      "trait_type": "Generation"
+    },
+    {
+      "value": "Brown Leather Briefcase",
+      "trait_type": "Accessories"
     },
     {
       "value": "",
-      "trait_type": "Ring"
-    },
-    {
-      "value": "",
-      "trait_type": "Headwear"
+      "trait_type": "Piercings"
     },
     {
       "value": "",
@@ -48,11 +84,39 @@
     },
     {
       "value": "",
-      "trait_type": "Piercings"
+      "trait_type": "Headwear"
     },
     {
-      "value": "Brown Leather Briefcase",
-      "trait_type": "Accessories"
+      "value": "",
+      "trait_type": "Ring"
+    },
+    {
+      "value": "Brown Leather Shoes with Laces",
+      "trait_type": "Footwear"
+    },
+    {
+      "value": "Blue Denim",
+      "trait_type": "Bottom"
+    },
+    {
+      "value": "Navy Blazer with Striped Shirt and No Tie",
+      "trait_type": "Top"
+    },
+    {
+      "value": "Stubble",
+      "trait_type": "Facial Hair"
+    },
+    {
+      "value": "Blonde",
+      "trait_type": "Hair Color"
+    },
+    {
+      "value": "Long Messy",
+      "trait_type": "Hair Style"
+    },
+    {
+      "value": "White Light Rain",
+      "trait_type": "Background"
     }
   ]
 }

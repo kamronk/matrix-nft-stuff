@@ -7,6 +7,14 @@
   "image": "https://media.niftys.com/nfts/matrix/media/ckw7bzlz5296508f773trhg9smt.png",
   "attributes": [
     {
+      "value": "Short Coil",
+      "trait_type": "Hair Style"
+    },
+    {
+      "value": "White",
+      "trait_type": "Background"
+    },
+    {
       "value": "Black Smartphone",
       "trait_type": "Accessories"
     },
@@ -45,14 +53,6 @@
     {
       "value": "Black",
       "trait_type": "Hair Color"
-    },
-    {
-      "value": "Short Coil",
-      "trait_type": "Hair Style"
-    },
-    {
-      "value": "White",
-      "trait_type": "Background"
     }
   ]
 }

@@ -1,42 +1,86 @@
 {
   "owners": 0,
   "likes": 0,
-  "contractAddress": "0x39ceaa47306381b6d79ad46af0f36bc5332386f2",
+  "contractAddress": "0x423e540cb46db0e4df1ac96bcbddf78a804647d8",
   "tokenId": "86434",
   "name": "Matrix Avatar #86434",
-  "image": "https://media.niftys.com/nfts/matrix/media/ckw791i8w225440f57310n7a42l.png",
+  "image": "https://media.niftys.com/nfts/matrix/media/ckxacqa1l3574927s73ns3xy3n9.png",
   "attributes": [
     {
-      "value": "White",
-      "trait_type": "Background"
+      "value": "Three Wheel Roadster",
+      "trait_type": "Transportation"
     },
     {
-      "value": "Short Updo",
-      "trait_type": "Hair Style"
+      "value": "None",
+      "trait_type": "Name"
     },
     {
-      "value": "Blonde",
-      "trait_type": "Hair Color"
+      "value": "Pretty good with GW Basic",
+      "trait_type": "Hacking"
     },
     {
-      "value": "Beard",
-      "trait_type": "Facial Hair"
+      "value": "Computer Programmer",
+      "trait_type": "Occupation"
     },
     {
-      "value": "Denim Jumpsuit",
-      "trait_type": "Top"
+      "value": "Budding Scholar",
+      "trait_type": "Zen"
+    },
+    {
+      "value": "8",
+      "trait_type": "Wisdom"
+    },
+    {
+      "value": "9",
+      "trait_type": "Intelligence"
+    },
+    {
+      "value": "1993",
+      "trait_type": "Social Media Followers"
+    },
+    {
+      "value": "7",
+      "trait_type": "Charisma"
+    },
+    {
+      "value": "13",
+      "trait_type": "Dexterity"
+    },
+    {
+      "value": "172581",
+      "trait_type": "Salary"
+    },
+    {
+      "value": "12",
+      "trait_type": "Strength"
+    },
+    {
+      "value": "699",
+      "trait_type": "Credit Score"
+    },
+    {
+      "value": "9",
+      "trait_type": "Constitution"
+    },
+    {
+      "value": "1",
+      "trait_type": "Votes"
+    },
+    {
+      "value": "1",
+      "trait_type": "Generation"
+    },
+    {
+      "value": "Brown Leather Briefcase",
+      "trait_type": "Accessories"
+    },
+    {
+      "value": "Stud Earring",
+      "trait_type": "Piercings"
     },
     {
       "value": "",
-      "trait_type": "Bottom"
-    },
-    {
-      "value": "White Leather Sneaker with Grey Sole",
-      "trait_type": "Footwear"
-    },
-    {
-      "value": "",
-      "trait_type": "Ring"
+      "trait_type": "Glasses"
     },
     {
       "value": "",
@@ -44,15 +88,35 @@
     },
     {
       "value": "",
-      "trait_type": "Glasses"
+      "trait_type": "Ring"
     },
     {
-      "value": "Stud Earring",
-      "trait_type": "Piercings"
+      "value": "White Leather Sneaker with Grey Sole",
+      "trait_type": "Footwear"
     },
     {
-      "value": "Brown Leather Briefcase",
-      "trait_type": "Accessories"
+      "value": "",
+      "trait_type": "Bottom"
+    },
+    {
+      "value": "Denim Jumpsuit",
+      "trait_type": "Top"
+    },
+    {
+      "value": "Beard",
+      "trait_type": "Facial Hair"
+    },
+    {
+      "value": "Blonde",
+      "trait_type": "Hair Color"
+    },
+    {
+      "value": "Short Updo",
+      "trait_type": "Hair Style"
+    },
+    {
+      "value": "White Heavy Rain",
+      "trait_type": "Background"
     }
   ]
 }

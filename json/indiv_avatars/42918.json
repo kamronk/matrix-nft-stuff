@@ -7,44 +7,32 @@
   "image": "https://media.niftys.com/nfts/matrix/media/ckw774kba183800f373tb473d7c.png",
   "attributes": [
     {
-      "value": "White",
-      "trait_type": "Background"
-    },
-    {
-      "value": "Short Pixie",
-      "trait_type": "Hair Style"
-    },
-    {
-      "value": "Light Brown",
-      "trait_type": "Hair Color"
-    },
-    {
-      "value": "Stubble",
-      "trait_type": "Facial Hair"
+      "value": "Gray Slacks",
+      "trait_type": "Bottom"
     },
     {
       "value": "Gray Blazer with Black Shirt and Gray Tie",
       "trait_type": "Top"
     },
     {
-      "value": "Gray Slacks",
-      "trait_type": "Bottom"
+      "value": "Stubble",
+      "trait_type": "Facial Hair"
     },
     {
-      "value": "Redbrown Leather Workboot with Brown Sole",
-      "trait_type": "Footwear"
+      "value": "Light Brown",
+      "trait_type": "Hair Color"
     },
     {
-      "value": "Two Rings",
-      "trait_type": "Ring"
+      "value": "Short Pixie",
+      "trait_type": "Hair Style"
+    },
+    {
+      "value": "White",
+      "trait_type": "Background"
     },
     {
       "value": "",
-      "trait_type": "Headwear"
-    },
-    {
-      "value": "",
-      "trait_type": "Glasses"
+      "trait_type": "Accessories"
     },
     {
       "value": "",
@@ -52,7 +40,19 @@
     },
     {
       "value": "",
-      "trait_type": "Accessories"
+      "trait_type": "Glasses"
+    },
+    {
+      "value": "",
+      "trait_type": "Headwear"
+    },
+    {
+      "value": "Two Rings",
+      "trait_type": "Ring"
+    },
+    {
+      "value": "Redbrown Leather Workboot with Brown Sole",
+      "trait_type": "Footwear"
     }
   ]
 }

@@ -1,58 +1,150 @@
 {
   "owners": 0,
   "likes": 0,
-  "contractAddress": "0x39ceaa47306381b6d79ad46af0f36bc5332386f2",
+  "contractAddress": "0x28e4b03bc88b59d25f3467b2252b66d4b2c43286",
   "tokenId": "617",
   "name": "Matrix Avatar #617",
-  "image": "https://media.niftys.com/nfts/matrix/media/ckw6zhdtr12465f5737k8qasj1.png",
+  "image": "https://media.niftys.com/nfts/matrix/media/ckx9jf1id33208zs739zkp4niu.png",
   "attributes": [
     {
-      "value": "White",
-      "trait_type": "Background"
+      "value": "Yes",
+      "trait_type": "Headjack"
     },
     {
-      "value": "Low Ponytail",
-      "trait_type": "Hair Style"
+      "value": "Black Patent Leather Tunic with Buttons",
+      "trait_type": "Top"
     },
     {
-      "value": "Blonde",
-      "trait_type": "Hair Color"
+      "value": "None",
+      "trait_type": "Name"
+    },
+    {
+      "value": "Alchemy",
+      "trait_type": "Front Neck Tattoo"
+    },
+    {
+      "value": "Quiet confidence",
+      "trait_type": "Will"
+    },
+    {
+      "value": "Black Neo with Black Lens",
+      "trait_type": "Glasses"
+    },
+    {
+      "value": "Learning to regulate emotions",
+      "trait_type": "Awareness"
+    },
+    {
+      "value": "Silver Gun",
+      "trait_type": "Right Hand Accessory"
+    },
+    {
+      "value": "Could probably convince a small child",
+      "trait_type": "Persuasion"
+    },
+    {
+      "value": "Black Snakeskin Combat Cuff Boot",
+      "trait_type": "Footwear"
+    },
+    {
+      "value": "Can walk and chew gum AT THE SAME TIME (good job!)",
+      "trait_type": "Movement"
+    },
+    {
+      "value": "Your grandma beats you at arm-wrestling",
+      "trait_type": "Power"
+    },
+    {
+      "value": "White Cotton Wool Slacks with Buckles",
+      "trait_type": "Bottom"
+    },
+    {
+      "value": "Can hear a bee\u0027s wings",
+      "trait_type": "Perception"
+    },
+    {
+      "value": "3",
+      "trait_type": "Charisma"
+    },
+    {
+      "value": "9",
+      "trait_type": "Wisdom"
+    },
+    {
+      "value": "10",
+      "trait_type": "Intelligence"
+    },
+    {
+      "value": "4",
+      "trait_type": "Dexterity"
+    },
+    {
+      "value": "10",
+      "trait_type": "Constitution"
+    },
+    {
+      "value": "2",
+      "trait_type": "Strength"
+    },
+    {
+      "value": "1",
+      "trait_type": "Votes"
+    },
+    {
+      "value": "1",
+      "trait_type": "Generation"
+    },
+    {
+      "value": "",
+      "trait_type": "Left Hand Accessory"
+    },
+    {
+      "value": "",
+      "trait_type": "Side Neck Tattoo"
+    },
+    {
+      "value": "",
+      "trait_type": "Forearm Tattoo"
+    },
+    {
+      "value": "",
+      "trait_type": "Bicep Tattoo"
+    },
+    {
+      "value": "",
+      "trait_type": "Piercings"
+    },
+    {
+      "value": "",
+      "trait_type": "Neckwear"
+    },
+    {
+      "value": "",
+      "trait_type": "Wristwear"
+    },
+    {
+      "value": "",
+      "trait_type": "Facial Expression"
     },
     {
       "value": "",
       "trait_type": "Facial Hair"
     },
     {
-      "value": "Brown Cardigan with Tan Oxford Shirt",
-      "trait_type": "Top"
+      "value": "Natural",
+      "trait_type": "Hair Dye"
     },
     {
-      "value": "Navy Slacks",
-      "trait_type": "Bottom"
+      "value": "Blonde",
+      "trait_type": "Hair Color"
     },
     {
-      "value": "White Canvas Sneaker with White Sole",
-      "trait_type": "Footwear"
+      "value": "Long Messy",
+      "trait_type": "Hair Style"
     },
     {
-      "value": "",
-      "trait_type": "Ring"
-    },
-    {
-      "value": "",
-      "trait_type": "Headwear"
-    },
-    {
-      "value": "",
-      "trait_type": "Glasses"
-    },
-    {
-      "value": "Stud Earring",
-      "trait_type": "Piercings"
-    },
-    {
-      "value": "",
-      "trait_type": "Accessories"
+      "value": "Medium Rain",
+      "trait_type": "Background"
     }
   ]
 }

@@ -7,36 +7,36 @@
   "image": "https://media.niftys.com/nfts/matrix/media/ckw77bprj190893f7730soxnziw.png",
   "attributes": [
     {
-      "value": "White",
-      "trait_type": "Background"
-    },
-    {
-      "value": "Buzz Cut",
-      "trait_type": "Hair Style"
-    },
-    {
-      "value": "Light Grey",
-      "trait_type": "Hair Color"
-    },
-    {
-      "value": "",
-      "trait_type": "Facial Hair"
+      "value": "Navy Blue Worker\u0027s Cap",
+      "trait_type": "Headwear"
     },
     {
       "value": "Olive Oxford with Pocket",
       "trait_type": "Top"
     },
     {
-      "value": "Blue Denim",
-      "trait_type": "Bottom"
+      "value": "",
+      "trait_type": "Facial Hair"
     },
     {
-      "value": "Brown Leather Shoes with Laces",
-      "trait_type": "Footwear"
+      "value": "Light Grey",
+      "trait_type": "Hair Color"
+    },
+    {
+      "value": "Buzz Cut",
+      "trait_type": "Hair Style"
+    },
+    {
+      "value": "White",
+      "trait_type": "Background"
     },
     {
       "value": "",
-      "trait_type": "Ring"
+      "trait_type": "Accessories"
+    },
+    {
+      "value": "",
+      "trait_type": "Piercings"
     },
     {
       "value": "Black Books",
@@ -44,15 +44,15 @@
     },
     {
       "value": "",
-      "trait_type": "Piercings"
+      "trait_type": "Ring"
     },
     {
-      "value": "",
-      "trait_type": "Accessories"
+      "value": "Brown Leather Shoes with Laces",
+      "trait_type": "Footwear"
     },
     {
-      "value": "Navy Blue Workers Cap",
-      "trait_type": "Headwear"
+      "value": "Blue Denim",
+      "trait_type": "Bottom"
     }
   ]
 }

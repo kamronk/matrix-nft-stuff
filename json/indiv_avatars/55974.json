@@ -1,58 +1,150 @@
 {
   "owners": 0,
   "likes": 0,
-  "contractAddress": "0x39ceaa47306381b6d79ad46af0f36bc5332386f2",
+  "contractAddress": "0x28e4b03bc88b59d25f3467b2252b66d4b2c43286",
   "tokenId": "55974",
   "name": "Matrix Avatar #55974",
-  "image": "https://media.niftys.com/nfts/matrix/media/ckw78ggch216776f7731x91iwut.png",
+  "image": "https://media.niftys.com/nfts/matrix/media/ckx9tgi8o387092zu73lbhru4g0.png",
   "attributes": [
     {
-      "value": "White",
-      "trait_type": "Background"
+      "value": "TBD",
+      "trait_type": "Name"
+    },
+    {
+      "value": "Everything is always an option",
+      "trait_type": "Persuasion"
+    },
+    {
+      "value": "12",
+      "trait_type": "Charisma"
+    },
+    {
+      "value": "Laughing at your mistakes",
+      "trait_type": "Awareness"
+    },
+    {
+      "value": "10",
+      "trait_type": "Wisdom"
+    },
+    {
+      "value": "Can see around corners",
+      "trait_type": "Perception"
+    },
+    {
+      "value": "11",
+      "trait_type": "Intelligence"
+    },
+    {
+      "value": "Sleep paralysis",
+      "trait_type": "Movement"
+    },
+    {
+      "value": "2",
+      "trait_type": "Dexterity"
+    },
+    {
+      "value": "Incredible moral fiber",
+      "trait_type": "Will"
+    },
+    {
+      "value": "11",
+      "trait_type": "Constitution"
+    },
+    {
+      "value": "Scrappy",
+      "trait_type": "Power"
+    },
+    {
+      "value": "5",
+      "trait_type": "Strength"
+    },
+    {
+      "value": "1",
+      "trait_type": "Votes"
+    },
+    {
+      "value": "1",
+      "trait_type": "Generation"
+    },
+    {
+      "value": "Yes",
+      "trait_type": "Headjack"
+    },
+    {
+      "value": "Silver Staff",
+      "trait_type": "Right Hand Accessory"
     },
     {
       "value": "",
-      "trait_type": "Hair Style"
-    },
-    {
-      "value": "Light Brown",
-      "trait_type": "Hair Color"
+      "trait_type": "Left Hand Accessory"
     },
     {
       "value": "",
-      "trait_type": "Facial Hair"
-    },
-    {
-      "value": "Light Gray Longsleeve",
-      "trait_type": "Top"
-    },
-    {
-      "value": "Gray Slacks",
-      "trait_type": "Bottom"
-    },
-    {
-      "value": "White Leather Sneaker with Grey Sole",
-      "trait_type": "Footwear"
+      "trait_type": "Front Neck Tattoo"
     },
     {
       "value": "",
-      "trait_type": "Ring"
+      "trait_type": "Side Neck Tattoo"
     },
     {
-      "value": "",
-      "trait_type": "Headwear"
+      "value": "Valknut",
+      "trait_type": "Forearm Tattoo"
     },
     {
-      "value": "Silver Aviators",
-      "trait_type": "Glasses"
+      "value": "Small Arrows",
+      "trait_type": "Bicep Tattoo"
     },
     {
       "value": "",
       "trait_type": "Piercings"
     },
     {
-      "value": "Black Smartphone",
-      "trait_type": "Accessories"
+      "value": "Black and Gold Wayfarer with Black Lens",
+      "trait_type": "Glasses"
+    },
+    {
+      "value": "",
+      "trait_type": "Neckwear"
+    },
+    {
+      "value": "Thick Leather",
+      "trait_type": "Wristwear"
+    },
+    {
+      "value": "Red Leather Neo Combat Boot",
+      "trait_type": "Footwear"
+    },
+    {
+      "value": "Black Leather Leggings",
+      "trait_type": "Bottom"
+    },
+    {
+      "value": "Black Cotton Tank",
+      "trait_type": "Top"
+    },
+    {
+      "value": "Scowl",
+      "trait_type": "Facial Expression"
+    },
+    {
+      "value": "",
+      "trait_type": "Facial Hair"
+    },
+    {
+      "value": "White",
+      "trait_type": "Hair Dye"
+    },
+    {
+      "value": "Light Brown",
+      "trait_type": "Hair Color"
+    },
+    {
+      "value": "Medium Curly Bob",
+      "trait_type": "Hair Style"
+    },
+    {
+      "value": "Medium Rain",
+      "trait_type": "Background"
     }
   ]
 }

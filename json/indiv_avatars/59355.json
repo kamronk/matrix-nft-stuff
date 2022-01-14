@@ -1,14 +1,62 @@
 {
   "owners": 0,
   "likes": 0,
-  "contractAddress": "0x39ceaa47306381b6d79ad46af0f36bc5332386f2",
+  "contractAddress": "0x28e4b03bc88b59d25f3467b2252b66d4b2c43286",
   "tokenId": "59355",
   "name": "Matrix Avatar #59355",
-  "image": "https://media.niftys.com/nfts/matrix/media/ckw78qhbe219793f6730btwohno.png",
+  "image": "https://media.niftys.com/nfts/matrix/media/ckx9tqzsm394172zt733bs0dsh8.png",
   "attributes": [
     {
-      "value": "Black Smartphone",
-      "trait_type": "Accessories"
+      "value": "Black Short Sai",
+      "trait_type": "Right Hand Accessory"
+    },
+    {
+      "value": "Patent White Leather Combat Cuff Boot",
+      "trait_type": "Footwear"
+    },
+    {
+      "value": "Light Rain",
+      "trait_type": "Background"
+    },
+    {
+      "value": "Faux Hawk",
+      "trait_type": "Hair Style"
+    },
+    {
+      "value": "Blonde",
+      "trait_type": "Hair Color"
+    },
+    {
+      "value": "Neon Red",
+      "trait_type": "Hair Dye"
+    },
+    {
+      "value": "",
+      "trait_type": "Facial Hair"
+    },
+    {
+      "value": "",
+      "trait_type": "Facial Expression"
+    },
+    {
+      "value": "Black Cotton Tunic with Buttons",
+      "trait_type": "Top"
+    },
+    {
+      "value": "Black Patent Leather Leggins",
+      "trait_type": "Bottom"
+    },
+    {
+      "value": "",
+      "trait_type": "Wristwear"
+    },
+    {
+      "value": "",
+      "trait_type": "Neckwear"
+    },
+    {
+      "value": "Black Neo with Black Lens",
+      "trait_type": "Glasses"
     },
     {
       "value": "",
@@ -16,43 +64,87 @@
     },
     {
       "value": "",
-      "trait_type": "Glasses"
+      "trait_type": "Bicep Tattoo"
     },
     {
       "value": "",
-      "trait_type": "Headwear"
+      "trait_type": "Forearm Tattoo"
     },
     {
       "value": "",
-      "trait_type": "Ring"
-    },
-    {
-      "value": "White Canvas Sneaker with White Sole",
-      "trait_type": "Footwear"
-    },
-    {
-      "value": "Light-Wash Denim",
-      "trait_type": "Bottom"
-    },
-    {
-      "value": "Charcoal Blazer with Light Blue Shirt and No Tie",
-      "trait_type": "Top"
+      "trait_type": "Side Neck Tattoo"
     },
     {
       "value": "",
-      "trait_type": "Facial Hair"
+      "trait_type": "Front Neck Tattoo"
     },
     {
-      "value": "Blonde",
-      "trait_type": "Hair Color"
+      "value": "Phone",
+      "trait_type": "Left Hand Accessory"
     },
     {
-      "value": "Short Coil",
-      "trait_type": "Hair Style"
+      "value": "Yes",
+      "trait_type": "Headjack"
     },
     {
-      "value": "White",
-      "trait_type": "Background"
+      "value": "1",
+      "trait_type": "Generation"
+    },
+    {
+      "value": "1",
+      "trait_type": "Votes"
+    },
+    {
+      "value": "TBD",
+      "trait_type": "Name"
+    },
+    {
+      "value": "3",
+      "trait_type": "Strength"
+    },
+    {
+      "value": "Can take a punch",
+      "trait_type": "Power"
+    },
+    {
+      "value": "10",
+      "trait_type": "Constitution"
+    },
+    {
+      "value": "Quiet confidence",
+      "trait_type": "Will"
+    },
+    {
+      "value": "3",
+      "trait_type": "Dexterity"
+    },
+    {
+      "value": "Two left feet",
+      "trait_type": "Movement"
+    },
+    {
+      "value": "11",
+      "trait_type": "Intelligence"
+    },
+    {
+      "value": "Can see around corners",
+      "trait_type": "Perception"
+    },
+    {
+      "value": "10",
+      "trait_type": "Wisdom"
+    },
+    {
+      "value": "Laughing at your mistakes",
+      "trait_type": "Awareness"
+    },
+    {
+      "value": "5",
+      "trait_type": "Charisma"
+    },
+    {
+      "value": "Maintains status quo",
+      "trait_type": "Persuasion"
     }
   ]
 }

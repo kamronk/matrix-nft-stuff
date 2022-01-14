@@ -1,58 +1,150 @@
 {
   "owners": 0,
   "likes": 0,
-  "contractAddress": "0x39ceaa47306381b6d79ad46af0f36bc5332386f2",
+  "contractAddress": "0x28e4b03bc88b59d25f3467b2252b66d4b2c43286",
   "tokenId": "26264",
   "name": "Matrix Avatar #26264",
-  "image": "https://media.niftys.com/nfts/matrix/media/ckw74zd6r136974f8736emel3nq.png",
+  "image": "https://media.niftys.com/nfts/matrix/media/ckx9oqoux245690zv73rwzqb5mg.png",
   "attributes": [
     {
-      "value": "White",
-      "trait_type": "Background"
+      "value": "Katana with White Handle and Silver Blade",
+      "trait_type": "Right Hand Accessory"
     },
     {
-      "value": "Medium Curly Bob",
-      "trait_type": "Hair Style"
+      "value": "Glossophobia",
+      "trait_type": "Persuasion"
     },
     {
-      "value": "Dark Brown",
-      "trait_type": "Hair Color"
+      "value": "4",
+      "trait_type": "Charisma"
+    },
+    {
+      "value": "You have a childlike sense of wonder",
+      "trait_type": "Awareness"
+    },
+    {
+      "value": "7",
+      "trait_type": "Wisdom"
+    },
+    {
+      "value": "Can hear a heartbeat a mile away",
+      "trait_type": "Perception"
+    },
+    {
+      "value": "12",
+      "trait_type": "Intelligence"
+    },
+    {
+      "value": "Pretty light on your feet",
+      "trait_type": "Movement"
+    },
+    {
+      "value": "6",
+      "trait_type": "Dexterity"
+    },
+    {
+      "value": "Quiet confidence",
+      "trait_type": "Will"
+    },
+    {
+      "value": "10",
+      "trait_type": "Constitution"
+    },
+    {
+      "value": "Can put up a fight",
+      "trait_type": "Power"
+    },
+    {
+      "value": "4",
+      "trait_type": "Strength"
+    },
+    {
+      "value": "TBD",
+      "trait_type": "Name"
+    },
+    {
+      "value": "1",
+      "trait_type": "Votes"
+    },
+    {
+      "value": "1",
+      "trait_type": "Generation"
+    },
+    {
+      "value": "Yes",
+      "trait_type": "Headjack"
+    },
+    {
+      "value": "Silver Arm Pole",
+      "trait_type": "Left Hand Accessory"
     },
     {
       "value": "",
-      "trait_type": "Facial Hair"
-    },
-    {
-      "value": "Blue Longsleeve",
-      "trait_type": "Top"
-    },
-    {
-      "value": "Charcoal Slacks",
-      "trait_type": "Bottom"
-    },
-    {
-      "value": "Brown Leather Shoes with Laces",
-      "trait_type": "Footwear"
+      "trait_type": "Front Neck Tattoo"
     },
     {
       "value": "",
-      "trait_type": "Ring"
+      "trait_type": "Side Neck Tattoo"
+    },
+    {
+      "value": "Borromean Rings",
+      "trait_type": "Forearm Tattoo"
     },
     {
       "value": "",
-      "trait_type": "Headwear"
-    },
-    {
-      "value": "",
-      "trait_type": "Glasses"
+      "trait_type": "Bicep Tattoo"
     },
     {
       "value": "",
       "trait_type": "Piercings"
     },
     {
+      "value": "Black and Gold Wayfarer with Black Lens",
+      "trait_type": "Glasses"
+    },
+    {
       "value": "",
-      "trait_type": "Accessories"
+      "trait_type": "Neckwear"
+    },
+    {
+      "value": "",
+      "trait_type": "Wristwear"
+    },
+    {
+      "value": "Patent Black Leather Combat Cuff Boot",
+      "trait_type": "Footwear"
+    },
+    {
+      "value": "Black Cotton Leggings",
+      "trait_type": "Bottom"
+    },
+    {
+      "value": "Green Leather Tank",
+      "trait_type": "Top"
+    },
+    {
+      "value": "",
+      "trait_type": "Facial Expression"
+    },
+    {
+      "value": "Mustache",
+      "trait_type": "Facial Hair"
+    },
+    {
+      "value": "Natural",
+      "trait_type": "Hair Dye"
+    },
+    {
+      "value": "Dark Brown",
+      "trait_type": "Hair Color"
+    },
+    {
+      "value": "Long Messy",
+      "trait_type": "Hair Style"
+    },
+    {
+      "value": "Medium Rain",
+      "trait_type": "Background"
     }
   ]
 }

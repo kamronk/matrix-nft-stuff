@@ -1,46 +1,22 @@
 {
   "owners": 0,
   "likes": 0,
-  "contractAddress": "0x39ceaa47306381b6d79ad46af0f36bc5332386f2",
+  "contractAddress": "0x423e540cb46db0e4df1ac96bcbddf78a804647d8",
   "tokenId": "52695",
   "name": "Matrix Avatar #52695",
-  "image": "https://media.niftys.com/nfts/matrix/media/ckw7879ci210522f873ydlt743x.png",
+  "image": "https://media.niftys.com/nfts/matrix/media/ckxabumd53296537v73vk5d04c8.png",
   "attributes": [
     {
-      "value": "Tan Workers Cap",
-      "trait_type": "Headwear"
+      "value": "TBD",
+      "trait_type": "Name"
     },
     {
-      "value": "Brown Leather Briefcase",
-      "trait_type": "Accessories"
-    },
-    {
-      "value": "",
-      "trait_type": "Piercings"
+      "value": "White Light Rain",
+      "trait_type": "Background"
     },
     {
       "value": "",
-      "trait_type": "Glasses"
-    },
-    {
-      "value": "",
-      "trait_type": "Ring"
-    },
-    {
-      "value": "White Leather Sneaker with Grey Sole",
-      "trait_type": "Footwear"
-    },
-    {
-      "value": "Navy Slacks",
-      "trait_type": "Bottom"
-    },
-    {
-      "value": "Navy Blazer with Striped Shirt and Navy Tie",
-      "trait_type": "Top"
-    },
-    {
-      "value": "",
-      "trait_type": "Facial Hair"
+      "trait_type": "Hair Style"
     },
     {
       "value": "Dark Brown",
@@ -48,11 +24,99 @@
     },
     {
       "value": "",
-      "trait_type": "Hair Style"
+      "trait_type": "Facial Hair"
     },
     {
-      "value": "White",
-      "trait_type": "Background"
+      "value": "Navy Blazer with Striped Shirt and Navy Tie",
+      "trait_type": "Top"
+    },
+    {
+      "value": "Navy Slacks",
+      "trait_type": "Bottom"
+    },
+    {
+      "value": "White Leather Sneaker with Grey Sole",
+      "trait_type": "Footwear"
+    },
+    {
+      "value": "",
+      "trait_type": "Ring"
+    },
+    {
+      "value": "Tan Worker\u0027s Cap",
+      "trait_type": "Headwear"
+    },
+    {
+      "value": "",
+      "trait_type": "Glasses"
+    },
+    {
+      "value": "",
+      "trait_type": "Piercings"
+    },
+    {
+      "value": "Brown Leather Briefcase",
+      "trait_type": "Accessories"
+    },
+    {
+      "value": "1",
+      "trait_type": "Generation"
+    },
+    {
+      "value": "1",
+      "trait_type": "Votes"
+    },
+    {
+      "value": "9",
+      "trait_type": "Constitution"
+    },
+    {
+      "value": "699",
+      "trait_type": "Credit Score"
+    },
+    {
+      "value": "16",
+      "trait_type": "Strength"
+    },
+    {
+      "value": "3040332",
+      "trait_type": "Salary"
+    },
+    {
+      "value": "10",
+      "trait_type": "Dexterity"
+    },
+    {
+      "value": "Pragmatic Coupe",
+      "trait_type": "Transportation"
+    },
+    {
+      "value": "6",
+      "trait_type": "Charisma"
+    },
+    {
+      "value": "777",
+      "trait_type": "Social Media Followers"
+    },
+    {
+      "value": "10",
+      "trait_type": "Intelligence"
+    },
+    {
+      "value": "Read the Bitcoin white paper twice",
+      "trait_type": "Hacking"
+    },
+    {
+      "value": "Sales Associate",
+      "trait_type": "Occupation"
+    },
+    {
+      "value": "10",
+      "trait_type": "Wisdom"
+    },
+    {
+      "value": "Disciple",
+      "trait_type": "Zen"
     }
   ]
 }

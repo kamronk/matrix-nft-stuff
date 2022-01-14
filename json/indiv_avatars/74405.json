@@ -7,28 +7,24 @@
   "image": "https://media.niftys.com/nfts/matrix/media/ckw7borpy283479f573fe7gwpgm.png",
   "attributes": [
     {
-      "value": "White",
-      "trait_type": "Background"
+      "value": "",
+      "trait_type": "Accessories"
+    },
+    {
+      "value": "Stud Earring",
+      "trait_type": "Piercings"
+    },
+    {
+      "value": "Black Books",
+      "trait_type": "Glasses"
     },
     {
       "value": "",
-      "trait_type": "Hair Style"
-    },
-    {
-      "value": "Black",
-      "trait_type": "Hair Color"
+      "trait_type": "Headwear"
     },
     {
       "value": "",
-      "trait_type": "Facial Hair"
-    },
-    {
-      "value": "Navy Jumpsuit",
-      "trait_type": "Top"
-    },
-    {
-      "value": "",
-      "trait_type": "Bottom"
+      "trait_type": "Ring"
     },
     {
       "value": "White Leather Sneaker with Grey Sole",
@@ -36,23 +32,27 @@
     },
     {
       "value": "",
-      "trait_type": "Ring"
+      "trait_type": "Bottom"
+    },
+    {
+      "value": "Navy Jumpsuit",
+      "trait_type": "Top"
     },
     {
       "value": "",
-      "trait_type": "Headwear"
+      "trait_type": "Facial Hair"
     },
     {
-      "value": "Black Books",
-      "trait_type": "Glasses"
-    },
-    {
-      "value": "Stud Earring",
-      "trait_type": "Piercings"
+      "value": "Black",
+      "trait_type": "Hair Color"
     },
     {
       "value": "",
-      "trait_type": "Accessories"
+      "trait_type": "Hair Style"
+    },
+    {
+      "value": "White",
+      "trait_type": "Background"
     }
   ]
 }

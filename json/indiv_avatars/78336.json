@@ -1,58 +1,150 @@
 {
   "owners": 0,
   "likes": 0,
-  "contractAddress": "0x39ceaa47306381b6d79ad46af0f36bc5332386f2",
+  "contractAddress": "0x28e4b03bc88b59d25f3467b2252b66d4b2c43286",
   "tokenId": "78336",
   "name": "Matrix Avatar #78336",
-  "image": "https://media.niftys.com/nfts/matrix/media/ckw6z5psp6367f273s8wd7rmb.png",
+  "image": "https://media.niftys.com/nfts/matrix/media/ckx9ja9yf27776zp73o84lkb36.png",
   "attributes": [
     {
-      "value": "White",
-      "trait_type": "Background"
+      "value": "You\u0027ve got a bad feeling about this",
+      "trait_type": "Perception"
     },
     {
-      "value": "Short Afro Fade",
+      "value": "Yes",
+      "trait_type": "Headjack"
+    },
+    {
+      "value": "Black Wayfarer with Black Lens",
+      "trait_type": "Glasses"
+    },
+    {
+      "value": "Two left feet",
+      "trait_type": "Movement"
+    },
+    {
+      "value": "None",
+      "trait_type": "Name"
+    },
+    {
+      "value": "Alchemy",
+      "trait_type": "Front Neck Tattoo"
+    },
+    {
+      "value": "Short Sideswept Fringe",
       "trait_type": "Hair Style"
     },
     {
-      "value": "Black",
-      "trait_type": "Hair Color"
+      "value": "Quiet confidence",
+      "trait_type": "Will"
+    },
+    {
+      "value": "Black Nose, Lip, Forehead",
+      "trait_type": "Piercings"
+    },
+    {
+      "value": "Red Leather Longsleeve Crew",
+      "trait_type": "Top"
+    },
+    {
+      "value": "Green Patent Leather Leggins",
+      "trait_type": "Bottom"
+    },
+    {
+      "value": "Learning to regulate emotions",
+      "trait_type": "Awareness"
+    },
+    {
+      "value": "Everything is always an option",
+      "trait_type": "Persuasion"
+    },
+    {
+      "value": "Black Leather Neo Combat Boot",
+      "trait_type": "Footwear"
+    },
+    {
+      "value": "Can take a punch",
+      "trait_type": "Power"
+    },
+    {
+      "value": "12",
+      "trait_type": "Charisma"
+    },
+    {
+      "value": "9",
+      "trait_type": "Wisdom"
+    },
+    {
+      "value": "9",
+      "trait_type": "Intelligence"
+    },
+    {
+      "value": "3",
+      "trait_type": "Dexterity"
+    },
+    {
+      "value": "10",
+      "trait_type": "Constitution"
+    },
+    {
+      "value": "3",
+      "trait_type": "Strength"
+    },
+    {
+      "value": "1",
+      "trait_type": "Votes"
+    },
+    {
+      "value": "1",
+      "trait_type": "Generation"
+    },
+    {
+      "value": "",
+      "trait_type": "Right Hand Accessory"
+    },
+    {
+      "value": "",
+      "trait_type": "Left Hand Accessory"
+    },
+    {
+      "value": "",
+      "trait_type": "Side Neck Tattoo"
+    },
+    {
+      "value": "",
+      "trait_type": "Forearm Tattoo"
+    },
+    {
+      "value": "",
+      "trait_type": "Bicep Tattoo"
+    },
+    {
+      "value": "",
+      "trait_type": "Neckwear"
+    },
+    {
+      "value": "",
+      "trait_type": "Wristwear"
+    },
+    {
+      "value": "",
+      "trait_type": "Facial Expression"
     },
     {
       "value": "",
       "trait_type": "Facial Hair"
     },
     {
-      "value": "Tan Blazer with Off-White Shirt and No Tie",
-      "trait_type": "Top"
+      "value": "Pink",
+      "trait_type": "Hair Dye"
     },
     {
-      "value": "Light-Wash Denim",
-      "trait_type": "Bottom"
+      "value": "Black",
+      "trait_type": "Hair Color"
     },
     {
-      "value": "White Canvas Sneaker with White Sole",
-      "trait_type": "Footwear"
-    },
-    {
-      "value": "",
-      "trait_type": "Ring"
-    },
-    {
-      "value": "",
-      "trait_type": "Headwear"
-    },
-    {
-      "value": "",
-      "trait_type": "Glasses"
-    },
-    {
-      "value": "Stud Earring",
-      "trait_type": "Piercings"
-    },
-    {
-      "value": "Black Leather Briefcase",
-      "trait_type": "Accessories"
+      "value": "Medium Rain",
+      "trait_type": "Background"
     }
   ]
 }

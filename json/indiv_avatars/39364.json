@@ -7,12 +7,40 @@
   "image": "https://media.niftys.com/nfts/matrix/media/ckw7bvnmx292701f873by9yijpc.png",
   "attributes": [
     {
-      "value": "White",
-      "trait_type": "Background"
+      "value": "",
+      "trait_type": "Accessories"
+    },
+    {
+      "value": "Stud Earring",
+      "trait_type": "Piercings"
+    },
+    {
+      "value": "Black Books",
+      "trait_type": "Glasses"
     },
     {
       "value": "",
-      "trait_type": "Hair Style"
+      "trait_type": "Headwear"
+    },
+    {
+      "value": "",
+      "trait_type": "Ring"
+    },
+    {
+      "value": "Tan Suede Workboot with Tan Sole",
+      "trait_type": "Footwear"
+    },
+    {
+      "value": "Blue Denim",
+      "trait_type": "Bottom"
+    },
+    {
+      "value": "Charcoal Blazer with Light Blue Shirt and No Tie",
+      "trait_type": "Top"
+    },
+    {
+      "value": "",
+      "trait_type": "Facial Hair"
     },
     {
       "value": "Dark Brown",
@@ -20,39 +48,11 @@
     },
     {
       "value": "",
-      "trait_type": "Facial Hair"
+      "trait_type": "Hair Style"
     },
     {
-      "value": "Charcoal Blazer with Light Blue Shirt and No Tie",
-      "trait_type": "Top"
-    },
-    {
-      "value": "Blue Denim",
-      "trait_type": "Bottom"
-    },
-    {
-      "value": "Tan Suede Workboot with Tan Sole",
-      "trait_type": "Footwear"
-    },
-    {
-      "value": "",
-      "trait_type": "Ring"
-    },
-    {
-      "value": "",
-      "trait_type": "Headwear"
-    },
-    {
-      "value": "Black Books",
-      "trait_type": "Glasses"
-    },
-    {
-      "value": "Stud Earring",
-      "trait_type": "Piercings"
-    },
-    {
-      "value": "",
-      "trait_type": "Accessories"
+      "value": "White",
+      "trait_type": "Background"
     }
   ]
 }

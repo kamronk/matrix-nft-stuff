@@ -1,17 +1,57 @@
 {
   "owners": 0,
   "likes": 0,
-  "contractAddress": "0x39ceaa47306381b6d79ad46af0f36bc5332386f2",
+  "contractAddress": "0x28e4b03bc88b59d25f3467b2252b66d4b2c43286",
   "tokenId": "94911",
   "name": "Matrix Avatar #94911",
-  "image": "https://media.niftys.com/nfts/matrix/media/ckw781zn5204449f2736letgz25.png",
+  "image": "https://media.niftys.com/nfts/matrix/media/ckx9st9uk374393zp73see9r7vc.png",
   "attributes": [
     {
-      "value": "White",
+      "value": "Yes",
+      "trait_type": "Headjack"
+    },
+    {
+      "value": "True grit",
+      "trait_type": "Will"
+    },
+    {
+      "value": "None",
+      "trait_type": "Name"
+    },
+    {
+      "value": "Green Patent Leather Moto Jacket with White Cotton Crew",
+      "trait_type": "Top"
+    },
+    {
+      "value": "Katana with White Handle and Silver Blade",
+      "trait_type": "Right Hand Accessory"
+    },
+    {
+      "value": "I wouldn\u0027t mess with you",
+      "trait_type": "Power"
+    },
+    {
+      "value": "Could sell ice to an eskimo",
+      "trait_type": "Persuasion"
+    },
+    {
+      "value": "Patent Black Leather Combat Cuff Boot",
+      "trait_type": "Footwear"
+    },
+    {
+      "value": "Can see around corners",
+      "trait_type": "Perception"
+    },
+    {
+      "value": "Accepting the impermanence of things",
+      "trait_type": "Awareness"
+    },
+    {
+      "value": "Medium Rain",
       "trait_type": "Background"
     },
     {
-      "value": "Short Messy",
+      "value": "Pulled Back Short",
       "trait_type": "Hair Style"
     },
     {
@@ -19,31 +59,27 @@
       "trait_type": "Hair Color"
     },
     {
+      "value": "Natural",
+      "trait_type": "Hair Dye"
+    },
+    {
       "value": "",
       "trait_type": "Facial Hair"
     },
     {
-      "value": "Navy Oxford with Buttons",
-      "trait_type": "Top"
-    },
-    {
-      "value": "Charcoal Slacks",
-      "trait_type": "Bottom"
-    },
-    {
-      "value": "Tan Suede Workboot with Tan Sole",
-      "trait_type": "Footwear"
-    },
-    {
-      "value": "Two Rings",
-      "trait_type": "Ring"
+      "value": "Scowl",
+      "trait_type": "Facial Expression"
     },
     {
       "value": "",
-      "trait_type": "Headwear"
+      "trait_type": "Wristwear"
     },
     {
-      "value": "Black Books",
+      "value": "",
+      "trait_type": "Neckwear"
+    },
+    {
+      "value": "",
       "trait_type": "Glasses"
     },
     {
@@ -52,7 +88,63 @@
     },
     {
       "value": "",
-      "trait_type": "Accessories"
+      "trait_type": "Bicep Tattoo"
+    },
+    {
+      "value": "",
+      "trait_type": "Forearm Tattoo"
+    },
+    {
+      "value": "",
+      "trait_type": "Side Neck Tattoo"
+    },
+    {
+      "value": "",
+      "trait_type": "Front Neck Tattoo"
+    },
+    {
+      "value": "Phone",
+      "trait_type": "Left Hand Accessory"
+    },
+    {
+      "value": "1",
+      "trait_type": "Generation"
+    },
+    {
+      "value": "1",
+      "trait_type": "Votes"
+    },
+    {
+      "value": "6",
+      "trait_type": "Strength"
+    },
+    {
+      "value": "9",
+      "trait_type": "Constitution"
+    },
+    {
+      "value": "8",
+      "trait_type": "Dexterity"
+    },
+    {
+      "value": "11",
+      "trait_type": "Intelligence"
+    },
+    {
+      "value": "11",
+      "trait_type": "Wisdom"
+    },
+    {
+      "value": "9",
+      "trait_type": "Charisma"
+    },
+    {
+      "value": "Red Cotton Wool Slacks with Buckles",
+      "trait_type": "Bottom"
+    },
+    {
+      "value": "Always picked first",
+      "trait_type": "Movement"
     }
   ]
 }

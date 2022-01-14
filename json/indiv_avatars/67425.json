@@ -7,44 +7,28 @@
   "image": "https://media.niftys.com/nfts/matrix/media/ckw7cb1nh298486f373ivy3ppwd.png",
   "attributes": [
     {
-      "value": "White",
-      "trait_type": "Background"
-    },
-    {
-      "value": "Straight Sideswept Fringe",
-      "trait_type": "Hair Style"
-    },
-    {
-      "value": "Dark Brown",
-      "trait_type": "Hair Color"
+      "value": "Tan Blazer with Off-White Shirt and Tan Tie",
+      "trait_type": "Top"
     },
     {
       "value": "Goatee",
       "trait_type": "Facial Hair"
     },
     {
-      "value": "Tan Blazer with Off-White Shirt and Tan Tie",
-      "trait_type": "Top"
+      "value": "Dark Brown",
+      "trait_type": "Hair Color"
     },
     {
-      "value": "Charcoal Slacks",
-      "trait_type": "Bottom"
+      "value": "Straight Sideswept Fringe",
+      "trait_type": "Hair Style"
     },
     {
-      "value": "Tan Suede Workboot with Tan Sole",
-      "trait_type": "Footwear"
-    },
-    {
-      "value": "Two Rings",
-      "trait_type": "Ring"
+      "value": "White",
+      "trait_type": "Background"
     },
     {
       "value": "",
-      "trait_type": "Headwear"
-    },
-    {
-      "value": "",
-      "trait_type": "Glasses"
+      "trait_type": "Accessories"
     },
     {
       "value": "",
@@ -52,7 +36,23 @@
     },
     {
       "value": "",
-      "trait_type": "Accessories"
+      "trait_type": "Glasses"
+    },
+    {
+      "value": "",
+      "trait_type": "Headwear"
+    },
+    {
+      "value": "Two Rings",
+      "trait_type": "Ring"
+    },
+    {
+      "value": "Tan Suede Workboot with Tan Sole",
+      "trait_type": "Footwear"
+    },
+    {
+      "value": "Charcoal Slacks",
+      "trait_type": "Bottom"
     }
   ]
 }

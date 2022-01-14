@@ -1,58 +1,150 @@
 {
   "owners": 0,
   "likes": 0,
-  "contractAddress": "0x39ceaa47306381b6d79ad46af0f36bc5332386f2",
+  "contractAddress": "0x28e4b03bc88b59d25f3467b2252b66d4b2c43286",
   "tokenId": "20672",
   "name": "Matrix Avatar #20672",
-  "image": "https://media.niftys.com/nfts/matrix/media/ckw72rdev85486f373ekpd9ue5.png",
+  "image": "https://media.niftys.com/nfts/matrix/media/ckx9movs1164465zq73dl3f4hvo.png",
   "attributes": [
     {
-      "value": "White",
-      "trait_type": "Background"
+      "value": "Black Cotton Wool Slacks with Buckles",
+      "trait_type": "Bottom"
+    },
+    {
+      "value": "Your significant other\u0027s mom loves you",
+      "trait_type": "Persuasion"
+    },
+    {
+      "value": "8",
+      "trait_type": "Charisma"
+    },
+    {
+      "value": "Reality is seen as it is",
+      "trait_type": "Awareness"
+    },
+    {
+      "value": "15",
+      "trait_type": "Wisdom"
+    },
+    {
+      "value": "You read the instructions, twice",
+      "trait_type": "Perception"
+    },
+    {
+      "value": "4",
+      "trait_type": "Intelligence"
+    },
+    {
+      "value": "Getting the hang of it",
+      "trait_type": "Movement"
+    },
+    {
+      "value": "5",
+      "trait_type": "Dexterity"
+    },
+    {
+      "value": "Steps forward as others flee",
+      "trait_type": "Will"
+    },
+    {
+      "value": "13",
+      "trait_type": "Constitution"
+    },
+    {
+      "value": "Can take a punch",
+      "trait_type": "Power"
+    },
+    {
+      "value": "3",
+      "trait_type": "Strength"
+    },
+    {
+      "value": "TBD",
+      "trait_type": "Name"
+    },
+    {
+      "value": "1",
+      "trait_type": "Votes"
+    },
+    {
+      "value": "1",
+      "trait_type": "Generation"
+    },
+    {
+      "value": "Yes",
+      "trait_type": "Headjack"
+    },
+    {
+      "value": "Phone",
+      "trait_type": "Right Hand Accessory"
+    },
+    {
+      "value": "Phone",
+      "trait_type": "Left Hand Accessory"
     },
     {
       "value": "",
-      "trait_type": "Hair Style"
+      "trait_type": "Front Neck Tattoo"
     },
     {
-      "value": "Light Grey",
-      "trait_type": "Hair Color"
+      "value": "",
+      "trait_type": "Side Neck Tattoo"
+    },
+    {
+      "value": "",
+      "trait_type": "Forearm Tattoo"
+    },
+    {
+      "value": "",
+      "trait_type": "Bicep Tattoo"
+    },
+    {
+      "value": "NOSE-LIP:SILVER ",
+      "trait_type": "Piercings"
+    },
+    {
+      "value": "Black Neo with Mirror Lens",
+      "trait_type": "Glasses"
+    },
+    {
+      "value": "",
+      "trait_type": "Neckwear"
+    },
+    {
+      "value": "Thick Leather",
+      "trait_type": "Wristwear"
+    },
+    {
+      "value": "Black Leather Neo Combat Boot",
+      "trait_type": "Footwear"
+    },
+    {
+      "value": "Green Cotton Longsleeve Crew",
+      "trait_type": "Top"
+    },
+    {
+      "value": "Scowl",
+      "trait_type": "Facial Expression"
     },
     {
       "value": "",
       "trait_type": "Facial Hair"
     },
     {
-      "value": "Light Gray Cardigan with Tan Oxford Shirt",
-      "trait_type": "Top"
+      "value": "Natural",
+      "trait_type": "Hair Dye"
     },
     {
-      "value": "Navy Slacks",
-      "trait_type": "Bottom"
+      "value": "Light Grey",
+      "trait_type": "Hair Color"
     },
     {
-      "value": "White Leather Sneaker with Grey Sole",
-      "trait_type": "Footwear"
+      "value": "Medium Curly Bob",
+      "trait_type": "Hair Style"
     },
     {
-      "value": "",
-      "trait_type": "Ring"
-    },
-    {
-      "value": "",
-      "trait_type": "Glasses"
-    },
-    {
-      "value": "",
-      "trait_type": "Piercings"
-    },
-    {
-      "value": "",
-      "trait_type": "Accessories"
-    },
-    {
-      "value": "Purple Workers Cap",
-      "trait_type": "Headwear"
+      "value": "Light Rain",
+      "trait_type": "Background"
     }
   ]
 }

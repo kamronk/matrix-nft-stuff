@@ -7,36 +7,16 @@
   "image": "https://media.niftys.com/nfts/matrix/media/ckw77zlnl202580fa730tu5exqm.png",
   "attributes": [
     {
-      "value": "White",
-      "trait_type": "Background"
+      "value": "Navy Blue Worker\u0027s Cap",
+      "trait_type": "Headwear"
     },
     {
-      "value": "Buzz Cut",
-      "trait_type": "Hair Style"
-    },
-    {
-      "value": "Dark Brown",
-      "trait_type": "Hair Color"
-    },
-    {
-      "value": "Mustache",
-      "trait_type": "Facial Hair"
-    },
-    {
-      "value": "Charcoal Blazer with Light Blue Shirt and No Tie",
-      "trait_type": "Top"
-    },
-    {
-      "value": "Khaki",
-      "trait_type": "Bottom"
-    },
-    {
-      "value": "White Leather Sneaker with Grey Sole",
-      "trait_type": "Footwear"
+      "value": "Lunchbox",
+      "trait_type": "Accessories"
     },
     {
       "value": "",
-      "trait_type": "Ring"
+      "trait_type": "Piercings"
     },
     {
       "value": "",
@@ -44,15 +24,35 @@
     },
     {
       "value": "",
-      "trait_type": "Piercings"
+      "trait_type": "Ring"
     },
     {
-      "value": "Lunchbox",
-      "trait_type": "Accessories"
+      "value": "White Leather Sneaker with Grey Sole",
+      "trait_type": "Footwear"
     },
     {
-      "value": "Navy Blue Workers Cap",
-      "trait_type": "Headwear"
+      "value": "Khaki",
+      "trait_type": "Bottom"
+    },
+    {
+      "value": "Charcoal Blazer with Light Blue Shirt and No Tie",
+      "trait_type": "Top"
+    },
+    {
+      "value": "Mustache",
+      "trait_type": "Facial Hair"
+    },
+    {
+      "value": "Dark Brown",
+      "trait_type": "Hair Color"
+    },
+    {
+      "value": "Buzz Cut",
+      "trait_type": "Hair Style"
+    },
+    {
+      "value": "White",
+      "trait_type": "Background"
     }
   ]
 }

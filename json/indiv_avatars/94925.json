@@ -1,58 +1,150 @@
 {
   "owners": 0,
   "likes": 0,
-  "contractAddress": "0x39ceaa47306381b6d79ad46af0f36bc5332386f2",
+  "contractAddress": "0x28e4b03bc88b59d25f3467b2252b66d4b2c43286",
   "tokenId": "94925",
   "name": "Matrix Avatar #94925",
-  "image": "https://media.niftys.com/nfts/matrix/media/ckw7824np204521f673zd6m4ttd.png",
+  "image": "https://media.niftys.com/nfts/matrix/media/ckx9ssw20367425zt731zk28lvd.png",
   "attributes": [
     {
-      "value": "White",
-      "trait_type": "Background"
+      "value": "You know the sound of one hand clapping",
+      "trait_type": "Awareness"
     },
     {
-      "value": "Updo Bun",
-      "trait_type": "Hair Style"
+      "value": "Yes",
+      "trait_type": "Headjack"
+    },
+    {
+      "value": "Two left feet",
+      "trait_type": "Movement"
+    },
+    {
+      "value": "None",
+      "trait_type": "Name"
+    },
+    {
+      "value": "Black Cotton Tank",
+      "trait_type": "Top"
+    },
+    {
+      "value": "Intersecting Triangles",
+      "trait_type": "Bicep Tattoo"
+    },
+    {
+      "value": "Borromean Rings",
+      "trait_type": "Forearm Tattoo"
+    },
+    {
+      "value": "Black Long Sai",
+      "trait_type": "Left Hand Accessory"
+    },
+    {
+      "value": "Round Black with Black Lens",
+      "trait_type": "Glasses"
+    },
+    {
+      "value": "Excellent at reading people",
+      "trait_type": "Perception"
+    },
+    {
+      "value": "Everything is always an option",
+      "trait_type": "Persuasion"
+    },
+    {
+      "value": "Gold Earrings",
+      "trait_type": "Piercings"
+    },
+    {
+      "value": "Black Leather Neo Combat Boot",
+      "trait_type": "Footwear"
+    },
+    {
+      "value": "Can take a punch",
+      "trait_type": "Power"
+    },
+    {
+      "value": "Black Cotton Wool Slacks with Buckles",
+      "trait_type": "Bottom"
+    },
+    {
+      "value": "12",
+      "trait_type": "Charisma"
+    },
+    {
+      "value": "13",
+      "trait_type": "Wisdom"
+    },
+    {
+      "value": "8",
+      "trait_type": "Intelligence"
+    },
+    {
+      "value": "3",
+      "trait_type": "Dexterity"
+    },
+    {
+      "value": "11",
+      "trait_type": "Constitution"
+    },
+    {
+      "value": "3",
+      "trait_type": "Strength"
+    },
+    {
+      "value": "1",
+      "trait_type": "Votes"
+    },
+    {
+      "value": "1",
+      "trait_type": "Generation"
+    },
+    {
+      "value": "",
+      "trait_type": "Right Hand Accessory"
+    },
+    {
+      "value": "",
+      "trait_type": "Front Neck Tattoo"
+    },
+    {
+      "value": "",
+      "trait_type": "Side Neck Tattoo"
+    },
+    {
+      "value": "",
+      "trait_type": "Neckwear"
+    },
+    {
+      "value": "Thick Leather",
+      "trait_type": "Wristwear"
+    },
+    {
+      "value": "",
+      "trait_type": "Facial Expression"
+    },
+    {
+      "value": "",
+      "trait_type": "Facial Hair"
+    },
+    {
+      "value": "Light Purple",
+      "trait_type": "Hair Dye"
     },
     {
       "value": "Blonde",
       "trait_type": "Hair Color"
     },
     {
-      "value": "Stubble",
-      "trait_type": "Facial Hair"
+      "value": "Pulled Back Short",
+      "trait_type": "Hair Style"
     },
     {
-      "value": "Red Longsleeve",
-      "trait_type": "Top"
+      "value": "Medium Rain",
+      "trait_type": "Background"
     },
     {
-      "value": "Charcoal Slacks",
-      "trait_type": "Bottom"
-    },
-    {
-      "value": "Redbrown Leather Workboot with Brown Sole",
-      "trait_type": "Footwear"
-    },
-    {
-      "value": "",
-      "trait_type": "Ring"
-    },
-    {
-      "value": "",
-      "trait_type": "Headwear"
-    },
-    {
-      "value": "",
-      "trait_type": "Glasses"
-    },
-    {
-      "value": "",
-      "trait_type": "Piercings"
-    },
-    {
-      "value": "Lunchbox",
-      "trait_type": "Accessories"
+      "value": "Incredible moral fiber",
+      "trait_type": "Will"
     }
   ]
 }

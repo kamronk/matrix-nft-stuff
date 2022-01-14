@@ -1,58 +1,150 @@
 {
   "owners": 0,
   "likes": 0,
-  "contractAddress": "0x39ceaa47306381b6d79ad46af0f36bc5332386f2",
+  "contractAddress": "0x28e4b03bc88b59d25f3467b2252b66d4b2c43286",
   "tokenId": "86970",
   "name": "Matrix Avatar #86970",
-  "image": "https://media.niftys.com/nfts/matrix/media/ckw75l9zg149492f373o4t9hsl3.png",
+  "image": "https://media.niftys.com/nfts/matrix/media/ckx9pmaoh276419zq73j1lzncgd.png",
   "attributes": [
     {
-      "value": "White",
-      "trait_type": "Background"
+      "value": "You know the sound of one hand clapping",
+      "trait_type": "Awareness"
     },
     {
-      "value": "Medium Curly Bob",
-      "trait_type": "Hair Style"
+      "value": "Yes",
+      "trait_type": "Headjack"
     },
     {
-      "value": "Dark Brown",
-      "trait_type": "Hair Color"
-    },
-    {
-      "value": "",
-      "trait_type": "Facial Hair"
-    },
-    {
-      "value": "Light Gray Longsleeve",
+      "value": "Green Cotton Tunic with Buttons",
       "trait_type": "Top"
     },
     {
-      "value": "Navy Slacks",
+      "value": "None",
+      "trait_type": "Name"
+    },
+    {
+      "value": "Valknut",
+      "trait_type": "Front Neck Tattoo"
+    },
+    {
+      "value": "Black Patent Leather Leggins",
       "trait_type": "Bottom"
     },
     {
-      "value": "White Canvas Sneaker with White Sole",
+      "value": "Incredible moral fiber",
+      "trait_type": "Will"
+    },
+    {
+      "value": "Black Hex with Purple Polarized Lens",
+      "trait_type": "Glasses"
+    },
+    {
+      "value": "Black Submachine Gun",
+      "trait_type": "Left Hand Accessory"
+    },
+    {
+      "value": "Glossophobia",
+      "trait_type": "Persuasion"
+    },
+    {
+      "value": "Black Leather Neo Combat Boot",
       "trait_type": "Footwear"
     },
     {
-      "value": "",
-      "trait_type": "Ring"
+      "value": "Can walk and chew gum AT THE SAME TIME (good job!)",
+      "trait_type": "Movement"
+    },
+    {
+      "value": "Can hear a bee\u0027s wings",
+      "trait_type": "Perception"
+    },
+    {
+      "value": "Equality Sign",
+      "trait_type": "Side Neck Tattoo"
+    },
+    {
+      "value": "Your grandma beats you at arm-wrestling",
+      "trait_type": "Power"
+    },
+    {
+      "value": "4",
+      "trait_type": "Charisma"
+    },
+    {
+      "value": "13",
+      "trait_type": "Wisdom"
+    },
+    {
+      "value": "4",
+      "trait_type": "Dexterity"
+    },
+    {
+      "value": "11",
+      "trait_type": "Constitution"
+    },
+    {
+      "value": "2",
+      "trait_type": "Strength"
+    },
+    {
+      "value": "1",
+      "trait_type": "Votes"
+    },
+    {
+      "value": "1",
+      "trait_type": "Generation"
+    },
+    {
+      "value": "Phone",
+      "trait_type": "Right Hand Accessory"
     },
     {
       "value": "",
-      "trait_type": "Headwear"
+      "trait_type": "Forearm Tattoo"
     },
     {
       "value": "",
-      "trait_type": "Glasses"
+      "trait_type": "Bicep Tattoo"
     },
     {
       "value": "",
       "trait_type": "Piercings"
     },
     {
-      "value": "Brown Leather Briefcase",
-      "trait_type": "Accessories"
+      "value": "",
+      "trait_type": "Neckwear"
+    },
+    {
+      "value": "",
+      "trait_type": "Wristwear"
+    },
+    {
+      "value": "",
+      "trait_type": "Facial Expression"
+    },
+    {
+      "value": "Stubble",
+      "trait_type": "Facial Hair"
+    },
+    {
+      "value": "Natural",
+      "trait_type": "Hair Dye"
+    },
+    {
+      "value": "Dark Brown",
+      "trait_type": "Hair Color"
+    },
+    {
+      "value": "Short Afro Fade",
+      "trait_type": "Hair Style"
+    },
+    {
+      "value": "Light Rain",
+      "trait_type": "Background"
+    },
+    {
+      "value": "10",
+      "trait_type": "Intelligence"
     }
   ]
 }

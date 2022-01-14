@@ -1,18 +1,138 @@
 {
   "owners": 0,
   "likes": 0,
-  "contractAddress": "0x39ceaa47306381b6d79ad46af0f36bc5332386f2",
+  "contractAddress": "0x28e4b03bc88b59d25f3467b2252b66d4b2c43286",
   "tokenId": "80783",
   "name": "Matrix Avatar #80783",
-  "image": "https://media.niftys.com/nfts/matrix/media/ckw70i2vo34848f873pg9sw7ii.png",
+  "image": "https://media.niftys.com/nfts/matrix/media/ckx9k9nm466923zv73sacx5zto.png",
   "attributes": [
     {
-      "value": "White",
-      "trait_type": "Background"
+      "value": "Green Leather Trench Coat with White Cotton Oxford and Black Tie",
+      "trait_type": "Top"
     },
     {
-      "value": "Updo Bun",
-      "trait_type": "Hair Style"
+      "value": "Katana with White Handle and Gold Blade",
+      "trait_type": "Right Hand Accessory"
+    },
+    {
+      "value": "Your significant other\u0027s mom loves you",
+      "trait_type": "Persuasion"
+    },
+    {
+      "value": "8",
+      "trait_type": "Charisma"
+    },
+    {
+      "value": "Accepting the impermanence of things",
+      "trait_type": "Awareness"
+    },
+    {
+      "value": "11",
+      "trait_type": "Wisdom"
+    },
+    {
+      "value": "Can see around corners",
+      "trait_type": "Perception"
+    },
+    {
+      "value": "11",
+      "trait_type": "Intelligence"
+    },
+    {
+      "value": "A gelatinous blob",
+      "trait_type": "Movement"
+    },
+    {
+      "value": "1",
+      "trait_type": "Dexterity"
+    },
+    {
+      "value": "Incredible moral fiber",
+      "trait_type": "Will"
+    },
+    {
+      "value": "11",
+      "trait_type": "Constitution"
+    },
+    {
+      "value": "People get out of your way",
+      "trait_type": "Power"
+    },
+    {
+      "value": "7",
+      "trait_type": "Strength"
+    },
+    {
+      "value": "TBD",
+      "trait_type": "Name"
+    },
+    {
+      "value": "1",
+      "trait_type": "Votes"
+    },
+    {
+      "value": "1",
+      "trait_type": "Generation"
+    },
+    {
+      "value": "Yes",
+      "trait_type": "Headjack"
+    },
+    {
+      "value": "",
+      "trait_type": "Left Hand Accessory"
+    },
+    {
+      "value": "",
+      "trait_type": "Front Neck Tattoo"
+    },
+    {
+      "value": "",
+      "trait_type": "Side Neck Tattoo"
+    },
+    {
+      "value": "",
+      "trait_type": "Forearm Tattoo"
+    },
+    {
+      "value": "",
+      "trait_type": "Bicep Tattoo"
+    },
+    {
+      "value": "",
+      "trait_type": "Piercings"
+    },
+    {
+      "value": "",
+      "trait_type": "Glasses"
+    },
+    {
+      "value": "",
+      "trait_type": "Neckwear"
+    },
+    {
+      "value": "",
+      "trait_type": "Wristwear"
+    },
+    {
+      "value": "Black Snakeskin Combat Cuff Boot",
+      "trait_type": "Footwear"
+    },
+    {
+      "value": "Green Cotton Leggings",
+      "trait_type": "Bottom"
+    },
+    {
+      "value": "",
+      "trait_type": "Facial Expression"
+    },
+    {
+      "value": "",
+      "trait_type": "Facial Hair"
+    },
+    {
+      "value": "Natural",
+      "trait_type": "Hair Dye"
     },
     {
       "value": "Light Grey",
@@ -20,39 +140,11 @@
     },
     {
       "value": "",
-      "trait_type": "Facial Hair"
+      "trait_type": "Hair Style"
     },
     {
-      "value": "Khaki Oxford with Buttons",
-      "trait_type": "Top"
-    },
-    {
-      "value": "Gray Slacks",
-      "trait_type": "Bottom"
-    },
-    {
-      "value": "White Canvas Sneaker with White Sole",
-      "trait_type": "Footwear"
-    },
-    {
-      "value": "",
-      "trait_type": "Ring"
-    },
-    {
-      "value": "",
-      "trait_type": "Headwear"
-    },
-    {
-      "value": "",
-      "trait_type": "Glasses"
-    },
-    {
-      "value": "Stud Earring",
-      "trait_type": "Piercings"
-    },
-    {
-      "value": "",
-      "trait_type": "Accessories"
+      "value": "Light Rain",
+      "trait_type": "Background"
     }
   ]
 }

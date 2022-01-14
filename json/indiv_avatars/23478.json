@@ -1,58 +1,150 @@
 {
   "owners": 0,
   "likes": 0,
-  "contractAddress": "0x39ceaa47306381b6d79ad46af0f36bc5332386f2",
+  "contractAddress": "0x28e4b03bc88b59d25f3467b2252b66d4b2c43286",
   "tokenId": "23478",
   "name": "Matrix Avatar #23478",
-  "image": "https://media.niftys.com/nfts/matrix/media/ckw74e2w6121740f973vpj8n8bn.png",
+  "image": "https://media.niftys.com/nfts/matrix/media/ckx9nzwoh217170zw73duunvinj.png",
   "attributes": [
     {
-      "value": "White",
-      "trait_type": "Background"
-    },
-    {
-      "value": "Long Messy",
-      "trait_type": "Hair Style"
-    },
-    {
-      "value": "Light Grey",
-      "trait_type": "Hair Color"
-    },
-    {
-      "value": "",
-      "trait_type": "Facial Hair"
-    },
-    {
-      "value": "Navy Blazer with Striped Shirt and Navy Tie",
-      "trait_type": "Top"
-    },
-    {
-      "value": "Charcoal Slacks",
+      "value": "Green Cotton Wool Slacks with Buckles",
       "trait_type": "Bottom"
     },
     {
-      "value": "Black Suede Chelseas with Brown Sole",
-      "trait_type": "Footwear"
+      "value": "Self-induced illusions fade",
+      "trait_type": "Awareness"
+    },
+    {
+      "value": "Could sell ice to an eskimo",
+      "trait_type": "Persuasion"
+    },
+    {
+      "value": "9",
+      "trait_type": "Charisma"
+    },
+    {
+      "value": "8",
+      "trait_type": "Wisdom"
+    },
+    {
+      "value": "Excellent at reading people",
+      "trait_type": "Perception"
+    },
+    {
+      "value": "8",
+      "trait_type": "Intelligence"
+    },
+    {
+      "value": "Always picked first",
+      "trait_type": "Movement"
+    },
+    {
+      "value": "8",
+      "trait_type": "Dexterity"
+    },
+    {
+      "value": "True grit",
+      "trait_type": "Will"
+    },
+    {
+      "value": "9",
+      "trait_type": "Constitution"
+    },
+    {
+      "value": "Can put up a fight",
+      "trait_type": "Power"
+    },
+    {
+      "value": "4",
+      "trait_type": "Strength"
+    },
+    {
+      "value": "TBD",
+      "trait_type": "Name"
+    },
+    {
+      "value": "1",
+      "trait_type": "Votes"
+    },
+    {
+      "value": "1",
+      "trait_type": "Generation"
+    },
+    {
+      "value": "Yes",
+      "trait_type": "Headjack"
     },
     {
       "value": "",
-      "trait_type": "Ring"
+      "trait_type": "Right Hand Accessory"
     },
     {
       "value": "",
-      "trait_type": "Headwear"
+      "trait_type": "Left Hand Accessory"
     },
     {
-      "value": "Black Books",
-      "trait_type": "Glasses"
+      "value": "",
+      "trait_type": "Front Neck Tattoo"
+    },
+    {
+      "value": "",
+      "trait_type": "Side Neck Tattoo"
+    },
+    {
+      "value": "",
+      "trait_type": "Forearm Tattoo"
+    },
+    {
+      "value": "",
+      "trait_type": "Bicep Tattoo"
     },
     {
       "value": "",
       "trait_type": "Piercings"
     },
     {
-      "value": "Brown Leather Briefcase",
-      "trait_type": "Accessories"
+      "value": "",
+      "trait_type": "Glasses"
+    },
+    {
+      "value": "",
+      "trait_type": "Neckwear"
+    },
+    {
+      "value": "",
+      "trait_type": "Wristwear"
+    },
+    {
+      "value": "Black Patent Leather Knee High Boots",
+      "trait_type": "Footwear"
+    },
+    {
+      "value": "Green Wool Mandarin Trench Coat",
+      "trait_type": "Top"
+    },
+    {
+      "value": "Scowl",
+      "trait_type": "Facial Expression"
+    },
+    {
+      "value": "Stubble",
+      "trait_type": "Facial Hair"
+    },
+    {
+      "value": "Natural",
+      "trait_type": "Hair Dye"
+    },
+    {
+      "value": "Light Grey",
+      "trait_type": "Hair Color"
+    },
+    {
+      "value": "Buzz Cut",
+      "trait_type": "Hair Style"
+    },
+    {
+      "value": "Light Rain",
+      "trait_type": "Background"
     }
   ]
 }

@@ -1,50 +1,114 @@
 {
   "owners": 0,
   "likes": 0,
-  "contractAddress": "0x39ceaa47306381b6d79ad46af0f36bc5332386f2",
+  "contractAddress": "0x28e4b03bc88b59d25f3467b2252b66d4b2c43286",
   "tokenId": "13325",
   "name": "Matrix Avatar #13325",
-  "image": "https://media.niftys.com/nfts/matrix/media/ckw71mugw61322f2739fd0pswr.png",
+  "image": "https://media.niftys.com/nfts/matrix/media/ckx9lmvvq123934zp73bp4b8o6c.png",
   "attributes": [
     {
-      "value": "White",
-      "trait_type": "Background"
+      "value": "You know the sound of one hand clapping",
+      "trait_type": "Awareness"
     },
     {
-      "value": "",
-      "trait_type": "Hair Style"
+      "value": "Yes",
+      "trait_type": "Headjack"
     },
     {
-      "value": "Light Brown",
-      "trait_type": "Hair Color"
+      "value": "Black Wayfarer with Black Lens",
+      "trait_type": "Glasses"
     },
     {
-      "value": "",
-      "trait_type": "Facial Hair"
+      "value": "None",
+      "trait_type": "Name"
     },
     {
-      "value": "Blue Longsleeve",
+      "value": "Pretty light on your feet",
+      "trait_type": "Movement"
+    },
+    {
+      "value": "Nobody\u0027s buying it",
+      "trait_type": "Persuasion"
+    },
+    {
+      "value": "Black Leather Moto Jacket with Charcoal Cotton Crew",
       "trait_type": "Top"
     },
     {
-      "value": "Navy Slacks",
-      "trait_type": "Bottom"
+      "value": "Last one standing",
+      "trait_type": "Will"
     },
     {
-      "value": "Brown Leather Shoes with Laces",
+      "value": "Black Gun",
+      "trait_type": "Left Hand Accessory"
+    },
+    {
+      "value": "Black Leather Combat Cuff Boot",
       "trait_type": "Footwear"
     },
     {
-      "value": "Two Rings",
-      "trait_type": "Ring"
+      "value": "Can see over the horizon",
+      "trait_type": "Perception"
+    },
+    {
+      "value": "Your grandma beats you at arm-wrestling",
+      "trait_type": "Power"
+    },
+    {
+      "value": "2",
+      "trait_type": "Charisma"
+    },
+    {
+      "value": "13",
+      "trait_type": "Wisdom"
+    },
+    {
+      "value": "13",
+      "trait_type": "Intelligence"
+    },
+    {
+      "value": "6",
+      "trait_type": "Dexterity"
+    },
+    {
+      "value": "Black Leather Pants with Buckles",
+      "trait_type": "Bottom"
+    },
+    {
+      "value": "14",
+      "trait_type": "Constitution"
+    },
+    {
+      "value": "2",
+      "trait_type": "Strength"
+    },
+    {
+      "value": "1",
+      "trait_type": "Votes"
+    },
+    {
+      "value": "1",
+      "trait_type": "Generation"
     },
     {
       "value": "",
-      "trait_type": "Headwear"
+      "trait_type": "Right Hand Accessory"
     },
     {
       "value": "",
-      "trait_type": "Glasses"
+      "trait_type": "Front Neck Tattoo"
+    },
+    {
+      "value": "",
+      "trait_type": "Side Neck Tattoo"
+    },
+    {
+      "value": "",
+      "trait_type": "Forearm Tattoo"
+    },
+    {
+      "value": "",
+      "trait_type": "Bicep Tattoo"
     },
     {
       "value": "",
@@ -52,7 +116,35 @@
     },
     {
       "value": "",
-      "trait_type": "Accessories"
+      "trait_type": "Neckwear"
+    },
+    {
+      "value": "",
+      "trait_type": "Wristwear"
+    },
+    {
+      "value": "",
+      "trait_type": "Facial Expression"
+    },
+    {
+      "value": "",
+      "trait_type": "Facial Hair"
+    },
+    {
+      "value": "Natural",
+      "trait_type": "Hair Dye"
+    },
+    {
+      "value": "Light Brown",
+      "trait_type": "Hair Color"
+    },
+    {
+      "value": "Low Ponytail",
+      "trait_type": "Hair Style"
+    },
+    {
+      "value": "Heavy Rain",
+      "trait_type": "Background"
     }
   ]
 }

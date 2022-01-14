@@ -7,28 +7,16 @@
   "image": "https://media.niftys.com/nfts/matrix/media/ckw73d2ep98352f273zz5bljf4.png",
   "attributes": [
     {
-      "value": "White",
-      "trait_type": "Background"
+      "value": "Silver Aviators",
+      "trait_type": "Glasses"
     },
     {
       "value": "",
-      "trait_type": "Hair Style"
-    },
-    {
-      "value": "Black",
-      "trait_type": "Hair Color"
+      "trait_type": "Headwear"
     },
     {
       "value": "",
-      "trait_type": "Facial Hair"
-    },
-    {
-      "value": "Navy Jumpsuit",
-      "trait_type": "Top"
-    },
-    {
-      "value": "",
-      "trait_type": "Bottom"
+      "trait_type": "Ring"
     },
     {
       "value": "Black Suede Chelseas with Brown Sole",
@@ -36,23 +24,35 @@
     },
     {
       "value": "",
-      "trait_type": "Ring"
+      "trait_type": "Bottom"
+    },
+    {
+      "value": "Navy Jumpsuit",
+      "trait_type": "Top"
     },
     {
       "value": "",
-      "trait_type": "Headwear"
+      "trait_type": "Facial Hair"
     },
     {
-      "value": "Silver Aviators",
-      "trait_type": "Glasses"
+      "value": "Black",
+      "trait_type": "Hair Color"
     },
     {
       "value": "",
-      "trait_type": "Piercings"
+      "trait_type": "Hair Style"
+    },
+    {
+      "value": "White",
+      "trait_type": "Background"
     },
     {
       "value": "Lunchbox",
       "trait_type": "Accessories"
+    },
+    {
+      "value": "",
+      "trait_type": "Piercings"
     }
   ]
 }

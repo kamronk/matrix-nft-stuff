@@ -1,46 +1,114 @@
 {
   "owners": 0,
   "likes": 0,
-  "contractAddress": "0x39ceaa47306381b6d79ad46af0f36bc5332386f2",
+  "contractAddress": "0x28e4b03bc88b59d25f3467b2252b66d4b2c43286",
   "tokenId": "18348",
   "name": "Matrix Avatar #18348",
-  "image": "https://media.niftys.com/nfts/matrix/media/ckw72wor589190f473krhsql03.png",
+  "image": "https://media.niftys.com/nfts/matrix/media/ckx9mtvhk169029zr738u8xe46v.png",
   "attributes": [
     {
-      "value": "White",
-      "trait_type": "Background"
+      "value": "Yes",
+      "trait_type": "Headjack"
     },
     {
-      "value": "Medium Curly Bob",
-      "trait_type": "Hair Style"
+      "value": "The gym stops to watch you lift",
+      "trait_type": "Power"
     },
     {
-      "value": "Blonde",
-      "trait_type": "Hair Color"
+      "value": "None",
+      "trait_type": "Name"
     },
     {
-      "value": "Stubble",
-      "trait_type": "Facial Hair"
+      "value": "Gold Staff",
+      "trait_type": "Right Hand Accessory"
     },
     {
-      "value": "Navy Oxford with Tie and Pocket",
+      "value": "Black Arm Pole",
+      "trait_type": "Left Hand Accessory"
+    },
+    {
+      "value": "Pocket dial 911",
+      "trait_type": "Will"
+    },
+    {
+      "value": "Natural born leader",
+      "trait_type": "Persuasion"
+    },
+    {
+      "value": "Meditative",
+      "trait_type": "Facial Expression"
+    },
+    {
+      "value": "Green Patent Leather Mandarin Trench Coat",
       "trait_type": "Top"
     },
     {
-      "value": "Light-Wash Denim",
-      "trait_type": "Bottom"
+      "value": "Laughing at your mistakes",
+      "trait_type": "Awareness"
     },
     {
-      "value": "Brown Leather Shoes with Laces",
+      "value": "Black Earrings",
+      "trait_type": "Piercings"
+    },
+    {
+      "value": "Red Patent Leather Neo Combat Boot",
       "trait_type": "Footwear"
     },
     {
-      "value": "Two Rings",
-      "trait_type": "Ring"
+      "value": "Can walk and chew gum AT THE SAME TIME (good job!)",
+      "trait_type": "Movement"
+    },
+    {
+      "value": "Can hear a bee\u0027s wings",
+      "trait_type": "Perception"
+    },
+    {
+      "value": "10",
+      "trait_type": "Charisma"
+    },
+    {
+      "value": "10",
+      "trait_type": "Wisdom"
+    },
+    {
+      "value": "10",
+      "trait_type": "Intelligence"
+    },
+    {
+      "value": "4",
+      "trait_type": "Dexterity"
+    },
+    {
+      "value": "3",
+      "trait_type": "Constitution"
+    },
+    {
+      "value": "8",
+      "trait_type": "Strength"
+    },
+    {
+      "value": "1",
+      "trait_type": "Votes"
+    },
+    {
+      "value": "1",
+      "trait_type": "Generation"
     },
     {
       "value": "",
-      "trait_type": "Headwear"
+      "trait_type": "Front Neck Tattoo"
+    },
+    {
+      "value": "",
+      "trait_type": "Side Neck Tattoo"
+    },
+    {
+      "value": "",
+      "trait_type": "Forearm Tattoo"
+    },
+    {
+      "value": "",
+      "trait_type": "Bicep Tattoo"
     },
     {
       "value": "",
@@ -48,11 +116,35 @@
     },
     {
       "value": "",
-      "trait_type": "Piercings"
+      "trait_type": "Neckwear"
     },
     {
-      "value": "Brown Leather Briefcase",
-      "trait_type": "Accessories"
+      "value": "",
+      "trait_type": "Wristwear"
+    },
+    {
+      "value": "Beard",
+      "trait_type": "Facial Hair"
+    },
+    {
+      "value": "Natural",
+      "trait_type": "Hair Dye"
+    },
+    {
+      "value": "Blonde",
+      "trait_type": "Hair Color"
+    },
+    {
+      "value": "Faux Hawk",
+      "trait_type": "Hair Style"
+    },
+    {
+      "value": "Medium Rain",
+      "trait_type": "Background"
+    },
+    {
+      "value": "Black Cotton Wool Slacks with Buckles",
+      "trait_type": "Bottom"
     }
   ]
 }

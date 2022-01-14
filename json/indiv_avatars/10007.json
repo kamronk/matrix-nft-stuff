@@ -1,50 +1,78 @@
 {
   "owners": 0,
   "likes": 0,
-  "contractAddress": "0x39ceaa47306381b6d79ad46af0f36bc5332386f2",
+  "contractAddress": "0x423e540cb46db0e4df1ac96bcbddf78a804647d8",
   "tokenId": "10007",
   "name": "Matrix Avatar #10007",
-  "image": "https://media.niftys.com/nfts/matrix/media/ckw71a55953534f4736pi6l5t5.png",
+  "image": "https://media.niftys.com/nfts/matrix/media/ckxa3wuop942217r73zjhsohxk.png",
   "attributes": [
     {
-      "value": "White",
-      "trait_type": "Background"
+      "value": "Teacher",
+      "trait_type": "Zen"
     },
     {
-      "value": "Low Ponytail",
-      "trait_type": "Hair Style"
+      "value": "None",
+      "trait_type": "Name"
     },
     {
-      "value": "Auburn",
-      "trait_type": "Hair Color"
+      "value": "Stole a high school computer lab pass",
+      "trait_type": "Hacking"
     },
     {
-      "value": "Thin",
-      "trait_type": "Facial Hair"
+      "value": "NFT Collector",
+      "trait_type": "Occupation"
     },
     {
-      "value": "Tan Blazer with Off-White Shirt and Tan Tie",
-      "trait_type": "Top"
+      "value": "Souped-Up Sedan With Ground Effect Lights",
+      "trait_type": "Transportation"
     },
     {
-      "value": "Charcoal Slacks",
-      "trait_type": "Bottom"
+      "value": "11",
+      "trait_type": "Wisdom"
     },
     {
-      "value": "Black Leather Shoes with Laces",
-      "trait_type": "Footwear"
+      "value": "12",
+      "trait_type": "Intelligence"
     },
     {
-      "value": "Two Rings",
-      "trait_type": "Ring"
+      "value": "516",
+      "trait_type": "Social Media Followers"
+    },
+    {
+      "value": "5",
+      "trait_type": "Charisma"
+    },
+    {
+      "value": "15",
+      "trait_type": "Dexterity"
+    },
+    {
+      "value": "52968",
+      "trait_type": "Salary"
+    },
+    {
+      "value": "8",
+      "trait_type": "Strength"
+    },
+    {
+      "value": "610",
+      "trait_type": "Credit Score"
+    },
+    {
+      "value": "7",
+      "trait_type": "Constitution"
+    },
+    {
+      "value": "1",
+      "trait_type": "Votes"
+    },
+    {
+      "value": "1",
+      "trait_type": "Generation"
     },
     {
       "value": "",
-      "trait_type": "Headwear"
-    },
-    {
-      "value": "",
-      "trait_type": "Glasses"
+      "trait_type": "Accessories"
     },
     {
       "value": "Stud Earring",
@@ -52,7 +80,43 @@
     },
     {
       "value": "",
-      "trait_type": "Accessories"
+      "trait_type": "Glasses"
+    },
+    {
+      "value": "",
+      "trait_type": "Headwear"
+    },
+    {
+      "value": "Two Rings",
+      "trait_type": "Ring"
+    },
+    {
+      "value": "Black Leather Shoes with Laces",
+      "trait_type": "Footwear"
+    },
+    {
+      "value": "Charcoal Slacks",
+      "trait_type": "Bottom"
+    },
+    {
+      "value": "Tan Blazer with Off-White Shirt and Tan Tie",
+      "trait_type": "Top"
+    },
+    {
+      "value": "Thin",
+      "trait_type": "Facial Hair"
+    },
+    {
+      "value": "Auburn",
+      "trait_type": "Hair Color"
+    },
+    {
+      "value": "Low Ponytail",
+      "trait_type": "Hair Style"
+    },
+    {
+      "value": "White Heavy Rain",
+      "trait_type": "Background"
     }
   ]
 }

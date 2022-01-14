@@ -7,6 +7,10 @@
   "image": "https://media.niftys.com/nfts/matrix/media/ckw6zq3hu17326f173367drd7n.png",
   "attributes": [
     {
+      "value": "Tan Worker\u0027s Cap",
+      "trait_type": "Headwear"
+    },
+    {
       "value": "White",
       "trait_type": "Background"
     },
@@ -49,10 +53,6 @@
     {
       "value": "Black Smartphone",
       "trait_type": "Accessories"
-    },
-    {
-      "value": "Tan Workers Cap",
-      "trait_type": "Headwear"
     }
   ]
 }

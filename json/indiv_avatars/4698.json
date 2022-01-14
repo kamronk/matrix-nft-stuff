@@ -1,58 +1,150 @@
 {
   "owners": 0,
   "likes": 0,
-  "contractAddress": "0x39ceaa47306381b6d79ad46af0f36bc5332386f2",
+  "contractAddress": "0x28e4b03bc88b59d25f3467b2252b66d4b2c43286",
   "tokenId": "4698",
   "name": "Matrix Avatar #4698",
-  "image": "https://media.niftys.com/nfts/matrix/media/ckw716g1o50422f373lk859gw6.png",
+  "image": "https://media.niftys.com/nfts/matrix/media/ckx9l64x2103080zq73q9nttphj.png",
   "attributes": [
     {
-      "value": "White",
-      "trait_type": "Background"
+      "value": "Black Shotgun",
+      "trait_type": "Left Hand Accessory"
     },
     {
-      "value": "Short Coil",
-      "trait_type": "Hair Style"
+      "value": "Self-induced illusions fade",
+      "trait_type": "Awareness"
     },
     {
-      "value": "Light Grey",
-      "trait_type": "Hair Color"
+      "value": "Maintains status quo",
+      "trait_type": "Persuasion"
     },
     {
-      "value": "Stubble",
-      "trait_type": "Facial Hair"
+      "value": "5",
+      "trait_type": "Charisma"
     },
     {
-      "value": "Navy Oxford with Pocket",
-      "trait_type": "Top"
+      "value": "8",
+      "trait_type": "Wisdom"
     },
     {
-      "value": "Light-Wash Denim",
-      "trait_type": "Bottom"
+      "value": "Can see over the horizon",
+      "trait_type": "Perception"
     },
     {
-      "value": "Black Suede Chelseas with Brown Sole",
-      "trait_type": "Footwear"
+      "value": "13",
+      "trait_type": "Intelligence"
+    },
+    {
+      "value": "Two left feet",
+      "trait_type": "Movement"
+    },
+    {
+      "value": "3",
+      "trait_type": "Dexterity"
+    },
+    {
+      "value": "Unshakable resolve",
+      "trait_type": "Will"
+    },
+    {
+      "value": "12",
+      "trait_type": "Constitution"
+    },
+    {
+      "value": "Can put up a fight",
+      "trait_type": "Power"
+    },
+    {
+      "value": "4",
+      "trait_type": "Strength"
+    },
+    {
+      "value": "TBD",
+      "trait_type": "Name"
+    },
+    {
+      "value": "1",
+      "trait_type": "Votes"
+    },
+    {
+      "value": "1",
+      "trait_type": "Generation"
+    },
+    {
+      "value": "Yes",
+      "trait_type": "Headjack"
     },
     {
       "value": "",
-      "trait_type": "Ring"
+      "trait_type": "Right Hand Accessory"
     },
     {
       "value": "",
-      "trait_type": "Headwear"
+      "trait_type": "Front Neck Tattoo"
     },
     {
-      "value": "Black Books",
-      "trait_type": "Glasses"
+      "value": "",
+      "trait_type": "Side Neck Tattoo"
+    },
+    {
+      "value": "",
+      "trait_type": "Forearm Tattoo"
+    },
+    {
+      "value": "Triforce",
+      "trait_type": "Bicep Tattoo"
     },
     {
       "value": "",
       "trait_type": "Piercings"
     },
     {
-      "value": "Black Smartphone",
-      "trait_type": "Accessories"
+      "value": "Black Wayfarer with Black Lens",
+      "trait_type": "Glasses"
+    },
+    {
+      "value": "",
+      "trait_type": "Neckwear"
+    },
+    {
+      "value": "Thick Leather",
+      "trait_type": "Wristwear"
+    },
+    {
+      "value": "Green Black Patent Leather Neo Combat Boot",
+      "trait_type": "Footwear"
+    },
+    {
+      "value": "Red Leather Pants with Buckles",
+      "trait_type": "Bottom"
+    },
+    {
+      "value": "Red Cotton Tank",
+      "trait_type": "Top"
+    },
+    {
+      "value": "",
+      "trait_type": "Facial Expression"
+    },
+    {
+      "value": "Stubble",
+      "trait_type": "Facial Hair"
+    },
+    {
+      "value": "Neon Red",
+      "trait_type": "Hair Dye"
+    },
+    {
+      "value": "Light Grey",
+      "trait_type": "Hair Color"
+    },
+    {
+      "value": "Short Afro Fade",
+      "trait_type": "Hair Style"
+    },
+    {
+      "value": "Heavy Rain",
+      "trait_type": "Background"
     }
   ]
 }

@@ -1,18 +1,54 @@
 {
   "owners": 0,
   "likes": 0,
-  "contractAddress": "0x39ceaa47306381b6d79ad46af0f36bc5332386f2",
+  "contractAddress": "0x28e4b03bc88b59d25f3467b2252b66d4b2c43286",
   "tokenId": "89170",
   "name": "Matrix Avatar #89170",
-  "image": "https://media.niftys.com/nfts/matrix/media/ckw796kp5233443f773nvsuwvfk.png",
+  "image": "https://media.niftys.com/nfts/matrix/media/ckx9ubvex416269zu73dzt4l8dv.png",
   "attributes": [
     {
-      "value": "Brown Leather Briefcase",
-      "trait_type": "Accessories"
+      "value": "Black Snakeskin Combat Cuff Boot",
+      "trait_type": "Footwear"
+    },
+    {
+      "value": "Light Rain",
+      "trait_type": "Background"
+    },
+    {
+      "value": "Short Messy",
+      "trait_type": "Hair Style"
+    },
+    {
+      "value": "Black",
+      "trait_type": "Hair Color"
+    },
+    {
+      "value": "Natural",
+      "trait_type": "Hair Dye"
     },
     {
       "value": "",
-      "trait_type": "Piercings"
+      "trait_type": "Facial Hair"
+    },
+    {
+      "value": "Meditative",
+      "trait_type": "Facial Expression"
+    },
+    {
+      "value": "Black Wool Mandarin Trench Coat",
+      "trait_type": "Top"
+    },
+    {
+      "value": "Green Leather Leggings",
+      "trait_type": "Bottom"
+    },
+    {
+      "value": "",
+      "trait_type": "Wristwear"
+    },
+    {
+      "value": "",
+      "trait_type": "Neckwear"
     },
     {
       "value": "",
@@ -20,39 +56,95 @@
     },
     {
       "value": "",
-      "trait_type": "Headwear"
+      "trait_type": "Piercings"
     },
     {
       "value": "",
-      "trait_type": "Ring"
+      "trait_type": "Bicep Tattoo"
     },
     {
-      "value": "Tan Suede Workboot with Tan Sole",
-      "trait_type": "Footwear"
+      "value": "",
+      "trait_type": "Forearm Tattoo"
     },
     {
-      "value": "Charcoal Slacks",
-      "trait_type": "Bottom"
+      "value": "",
+      "trait_type": "Side Neck Tattoo"
     },
     {
-      "value": "Khaki Oxford with Buttons",
-      "trait_type": "Top"
+      "value": "",
+      "trait_type": "Front Neck Tattoo"
     },
     {
-      "value": "Thin",
-      "trait_type": "Facial Hair"
+      "value": "Phone",
+      "trait_type": "Left Hand Accessory"
     },
     {
-      "value": "Black",
-      "trait_type": "Hair Color"
+      "value": "Silver Staff",
+      "trait_type": "Right Hand Accessory"
     },
     {
-      "value": "Short Messy",
-      "trait_type": "Hair Style"
+      "value": "Yes",
+      "trait_type": "Headjack"
     },
     {
-      "value": "White",
-      "trait_type": "Background"
+      "value": "1",
+      "trait_type": "Generation"
+    },
+    {
+      "value": "1",
+      "trait_type": "Votes"
+    },
+    {
+      "value": "TBD",
+      "trait_type": "Name"
+    },
+    {
+      "value": "4",
+      "trait_type": "Strength"
+    },
+    {
+      "value": "Can put up a fight",
+      "trait_type": "Power"
+    },
+    {
+      "value": "7",
+      "trait_type": "Constitution"
+    },
+    {
+      "value": "Stiff upper lip",
+      "trait_type": "Will"
+    },
+    {
+      "value": "3",
+      "trait_type": "Dexterity"
+    },
+    {
+      "value": "Two left feet",
+      "trait_type": "Movement"
+    },
+    {
+      "value": "10",
+      "trait_type": "Intelligence"
+    },
+    {
+      "value": "Can hear a bee\u0027s wings",
+      "trait_type": "Perception"
+    },
+    {
+      "value": "13",
+      "trait_type": "Wisdom"
+    },
+    {
+      "value": "You know the sound of one hand clapping",
+      "trait_type": "Awareness"
+    },
+    {
+      "value": "6",
+      "trait_type": "Charisma"
+    },
+    {
+      "value": "People smile back at you",
+      "trait_type": "Persuasion"
     }
   ]
 }

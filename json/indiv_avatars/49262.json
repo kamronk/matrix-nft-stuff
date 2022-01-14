@@ -1,46 +1,82 @@
 {
   "owners": 0,
   "likes": 0,
-  "contractAddress": "0x39ceaa47306381b6d79ad46af0f36bc5332386f2",
+  "contractAddress": "0x423e540cb46db0e4df1ac96bcbddf78a804647d8",
   "tokenId": "49262",
   "name": "Matrix Avatar #49262",
-  "image": "https://media.niftys.com/nfts/matrix/media/ckw77p6tc195132f573d8ju8mt4.png",
+  "image": "https://media.niftys.com/nfts/matrix/media/ckxabdxzh3108117s73zgf2no5e.png",
   "attributes": [
     {
-      "value": "White",
-      "trait_type": "Background"
+      "value": "TBD",
+      "trait_type": "Name"
     },
     {
-      "value": "Long Afro",
-      "trait_type": "Hair Style"
+      "value": "Disciple",
+      "trait_type": "Zen"
     },
     {
-      "value": "Black",
-      "trait_type": "Hair Color"
+      "value": "10",
+      "trait_type": "Wisdom"
     },
     {
-      "value": "Goatee",
-      "trait_type": "Facial Hair"
+      "value": "Sales Associate",
+      "trait_type": "Occupation"
     },
     {
-      "value": "Navy Oxford with Tie",
-      "trait_type": "Top"
+      "value": "Pretty good with GW Basic",
+      "trait_type": "Hacking"
     },
     {
-      "value": "Gray Slacks",
-      "trait_type": "Bottom"
+      "value": "9",
+      "trait_type": "Intelligence"
     },
     {
-      "value": "Brown Leather Shoes with Laces",
-      "trait_type": "Footwear"
+      "value": "1993",
+      "trait_type": "Social Media Followers"
+    },
+    {
+      "value": "7",
+      "trait_type": "Charisma"
+    },
+    {
+      "value": "Pragmatic Coupe",
+      "trait_type": "Transportation"
+    },
+    {
+      "value": "10",
+      "trait_type": "Dexterity"
+    },
+    {
+      "value": "303303",
+      "trait_type": "Salary"
+    },
+    {
+      "value": "13",
+      "trait_type": "Strength"
+    },
+    {
+      "value": "739",
+      "trait_type": "Credit Score"
+    },
+    {
+      "value": "12",
+      "trait_type": "Constitution"
+    },
+    {
+      "value": "1",
+      "trait_type": "Votes"
+    },
+    {
+      "value": "1",
+      "trait_type": "Generation"
+    },
+    {
+      "value": "Black Smartphone",
+      "trait_type": "Accessories"
     },
     {
       "value": "",
-      "trait_type": "Ring"
-    },
-    {
-      "value": "",
-      "trait_type": "Headwear"
+      "trait_type": "Piercings"
     },
     {
       "value": "",
@@ -48,11 +84,39 @@
     },
     {
       "value": "",
-      "trait_type": "Piercings"
+      "trait_type": "Headwear"
     },
     {
-      "value": "Black Smartphone",
-      "trait_type": "Accessories"
+      "value": "",
+      "trait_type": "Ring"
+    },
+    {
+      "value": "Brown Leather Shoes with Laces",
+      "trait_type": "Footwear"
+    },
+    {
+      "value": "Gray Slacks",
+      "trait_type": "Bottom"
+    },
+    {
+      "value": "Navy Oxford with Tie",
+      "trait_type": "Top"
+    },
+    {
+      "value": "Goatee",
+      "trait_type": "Facial Hair"
+    },
+    {
+      "value": "Black",
+      "trait_type": "Hair Color"
+    },
+    {
+      "value": "Long Afro",
+      "trait_type": "Hair Style"
+    },
+    {
+      "value": "White Medium Rain",
+      "trait_type": "Background"
     }
   ]
 }

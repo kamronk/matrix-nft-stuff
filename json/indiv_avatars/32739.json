@@ -7,12 +7,40 @@
   "image": "https://media.niftys.com/nfts/matrix/media/ckw7450zd115014f57307dnr15u.png",
   "attributes": [
     {
-      "value": "White",
-      "trait_type": "Background"
+      "value": "Tan Worker\u0027s Cap",
+      "trait_type": "Headwear"
+    },
+    {
+      "value": "Black Leather Briefcase",
+      "trait_type": "Accessories"
+    },
+    {
+      "value": "Stud Earring",
+      "trait_type": "Piercings"
     },
     {
       "value": "",
-      "trait_type": "Hair Style"
+      "trait_type": "Glasses"
+    },
+    {
+      "value": "",
+      "trait_type": "Ring"
+    },
+    {
+      "value": "White Leather Sneaker with Grey Sole",
+      "trait_type": "Footwear"
+    },
+    {
+      "value": "Charcoal Slacks",
+      "trait_type": "Bottom"
+    },
+    {
+      "value": "Light Gray Cardigan with Beige Longsleeve Shirt",
+      "trait_type": "Top"
+    },
+    {
+      "value": "",
+      "trait_type": "Facial Hair"
     },
     {
       "value": "Black",
@@ -20,39 +48,11 @@
     },
     {
       "value": "",
-      "trait_type": "Facial Hair"
+      "trait_type": "Hair Style"
     },
     {
-      "value": "Light Gray Cardigan with Beige Longsleeve Shirt",
-      "trait_type": "Top"
-    },
-    {
-      "value": "Charcoal Slacks",
-      "trait_type": "Bottom"
-    },
-    {
-      "value": "White Leather Sneaker with Grey Sole",
-      "trait_type": "Footwear"
-    },
-    {
-      "value": "",
-      "trait_type": "Ring"
-    },
-    {
-      "value": "",
-      "trait_type": "Glasses"
-    },
-    {
-      "value": "Stud Earring",
-      "trait_type": "Piercings"
-    },
-    {
-      "value": "Black Leather Briefcase",
-      "trait_type": "Accessories"
-    },
-    {
-      "value": "Tan Workers Cap",
-      "trait_type": "Headwear"
+      "value": "White",
+      "trait_type": "Background"
     }
   ]
 }

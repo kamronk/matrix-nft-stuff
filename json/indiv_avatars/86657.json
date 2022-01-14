@@ -1,46 +1,82 @@
 {
   "owners": 0,
   "likes": 0,
-  "contractAddress": "0x39ceaa47306381b6d79ad46af0f36bc5332386f2",
+  "contractAddress": "0x423e540cb46db0e4df1ac96bcbddf78a804647d8",
   "tokenId": "86657",
   "name": "Matrix Avatar #86657",
-  "image": "https://media.niftys.com/nfts/matrix/media/ckw75itmd146592f173b3es0uv7.png",
+  "image": "https://media.niftys.com/nfts/matrix/media/ckxa9cdcn2424227o731fho85qj.png",
   "attributes": [
     {
-      "value": "White",
-      "trait_type": "Background"
+      "value": "TBD",
+      "trait_type": "Name"
     },
     {
-      "value": "Low Ponytail",
-      "trait_type": "Hair Style"
+      "value": "Teacher",
+      "trait_type": "Zen"
     },
     {
-      "value": "Light Brown",
-      "trait_type": "Hair Color"
+      "value": "11",
+      "trait_type": "Wisdom"
     },
     {
-      "value": "Mustache",
-      "trait_type": "Facial Hair"
+      "value": "Pineapple Farmer",
+      "trait_type": "Occupation"
     },
     {
-      "value": "Charcoal Blazer with Light Blue Shirt and No Tie",
-      "trait_type": "Top"
+      "value": "Watched a hacking tutorial video by a 13 year old",
+      "trait_type": "Hacking"
     },
     {
-      "value": "Light-Wash Denim",
-      "trait_type": "Bottom"
+      "value": "8",
+      "trait_type": "Intelligence"
     },
     {
-      "value": "Brown Leather Shoes with Laces",
-      "trait_type": "Footwear"
+      "value": "4981",
+      "trait_type": "Social Media Followers"
     },
     {
-      "value": "Two Rings",
-      "trait_type": "Ring"
+      "value": "8",
+      "trait_type": "Charisma"
+    },
+    {
+      "value": "Stretch Limo With a Stocked Bar",
+      "trait_type": "Transportation"
+    },
+    {
+      "value": "17",
+      "trait_type": "Dexterity"
+    },
+    {
+      "value": "52968",
+      "trait_type": "Salary"
+    },
+    {
+      "value": "8",
+      "trait_type": "Strength"
+    },
+    {
+      "value": "725",
+      "trait_type": "Credit Score"
+    },
+    {
+      "value": "11",
+      "trait_type": "Constitution"
+    },
+    {
+      "value": "1",
+      "trait_type": "Votes"
+    },
+    {
+      "value": "1",
+      "trait_type": "Generation"
+    },
+    {
+      "value": "Black Leather Briefcase",
+      "trait_type": "Accessories"
     },
     {
       "value": "",
-      "trait_type": "Headwear"
+      "trait_type": "Piercings"
     },
     {
       "value": "",
@@ -48,11 +84,39 @@
     },
     {
       "value": "",
-      "trait_type": "Piercings"
+      "trait_type": "Headwear"
     },
     {
-      "value": "Black Leather Briefcase",
-      "trait_type": "Accessories"
+      "value": "Two Rings",
+      "trait_type": "Ring"
+    },
+    {
+      "value": "Brown Leather Shoes with Laces",
+      "trait_type": "Footwear"
+    },
+    {
+      "value": "Light-Wash Denim",
+      "trait_type": "Bottom"
+    },
+    {
+      "value": "Charcoal Blazer with Light Blue Shirt and No Tie",
+      "trait_type": "Top"
+    },
+    {
+      "value": "Mustache",
+      "trait_type": "Facial Hair"
+    },
+    {
+      "value": "Light Brown",
+      "trait_type": "Hair Color"
+    },
+    {
+      "value": "Low Ponytail",
+      "trait_type": "Hair Style"
+    },
+    {
+      "value": "White Light Rain",
+      "trait_type": "Background"
     }
   ]
 }

@@ -7,28 +7,24 @@
   "image": "https://media.niftys.com/nfts/matrix/media/ckw740a1r113176f973giiylc64.png",
   "attributes": [
     {
-      "value": "White",
-      "trait_type": "Background"
+      "value": "Black Leather Briefcase",
+      "trait_type": "Accessories"
     },
     {
-      "value": "Short Coil",
-      "trait_type": "Hair Style"
+      "value": "Stud Earring",
+      "trait_type": "Piercings"
     },
     {
-      "value": "Light Grey",
-      "trait_type": "Hair Color"
-    },
-    {
-      "value": "",
-      "trait_type": "Facial Hair"
-    },
-    {
-      "value": "Gray Jumpsuit",
-      "trait_type": "Top"
+      "value": "Black Books",
+      "trait_type": "Glasses"
     },
     {
       "value": "",
-      "trait_type": "Bottom"
+      "trait_type": "Headwear"
+    },
+    {
+      "value": "",
+      "trait_type": "Ring"
     },
     {
       "value": "Tan Suede Workboot with Tan Sole",
@@ -36,23 +32,27 @@
     },
     {
       "value": "",
-      "trait_type": "Ring"
+      "trait_type": "Bottom"
+    },
+    {
+      "value": "Gray Jumpsuit",
+      "trait_type": "Top"
     },
     {
       "value": "",
-      "trait_type": "Headwear"
+      "trait_type": "Facial Hair"
     },
     {
-      "value": "Black Books",
-      "trait_type": "Glasses"
+      "value": "Light Grey",
+      "trait_type": "Hair Color"
     },
     {
-      "value": "Stud Earring",
-      "trait_type": "Piercings"
+      "value": "Short Coil",
+      "trait_type": "Hair Style"
     },
     {
-      "value": "Black Leather Briefcase",
-      "trait_type": "Accessories"
+      "value": "White",
+      "trait_type": "Background"
     }
   ]
 }

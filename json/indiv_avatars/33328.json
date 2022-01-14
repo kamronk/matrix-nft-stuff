@@ -1,46 +1,110 @@
 {
   "owners": 0,
   "likes": 0,
-  "contractAddress": "0x39ceaa47306381b6d79ad46af0f36bc5332386f2",
+  "contractAddress": "0x28e4b03bc88b59d25f3467b2252b66d4b2c43286",
   "tokenId": "33328",
   "name": "Matrix Avatar #33328",
-  "image": "https://media.niftys.com/nfts/matrix/media/ckw74s27p130335f273awd42n13.png",
+  "image": "https://media.niftys.com/nfts/matrix/media/ckx9ooecl244640zp73kqh6ly1p.png",
   "attributes": [
     {
-      "value": "White",
-      "trait_type": "Background"
+      "value": "You\u0027ve got a bad feeling about this",
+      "trait_type": "Perception"
     },
     {
-      "value": "Short Pixie",
-      "trait_type": "Hair Style"
+      "value": "You\u0027re a bit of a charmer",
+      "trait_type": "Persuasion"
     },
     {
-      "value": "Blonde",
-      "trait_type": "Hair Color"
+      "value": "Yes",
+      "trait_type": "Headjack"
     },
     {
-      "value": "",
-      "trait_type": "Facial Hair"
+      "value": "None",
+      "trait_type": "Name"
     },
     {
-      "value": "Charcoal Blazer with Light Blue Shirt and Black Tie",
+      "value": "Black Leather Trench Coat with Black Leather Tank",
       "trait_type": "Top"
     },
     {
-      "value": "Navy Slacks",
-      "trait_type": "Bottom"
+      "value": "Laughing at your mistakes",
+      "trait_type": "Awareness"
     },
     {
-      "value": "Black Leather Shoes with Laces",
+      "value": "Incredible moral fiber",
+      "trait_type": "Will"
+    },
+    {
+      "value": "Black Earrings",
+      "trait_type": "Piercings"
+    },
+    {
+      "value": "Black Patent Leather Neo Combat Boot",
       "trait_type": "Footwear"
     },
     {
-      "value": "Two Rings",
-      "trait_type": "Ring"
+      "value": "Can walk and chew gum AT THE SAME TIME (good job!)",
+      "trait_type": "Movement"
+    },
+    {
+      "value": "Can stop a helicopter from taking off",
+      "trait_type": "Power"
+    },
+    {
+      "value": "7",
+      "trait_type": "Charisma"
+    },
+    {
+      "value": "10",
+      "trait_type": "Wisdom"
+    },
+    {
+      "value": "9",
+      "trait_type": "Intelligence"
+    },
+    {
+      "value": "4",
+      "trait_type": "Dexterity"
+    },
+    {
+      "value": "11",
+      "trait_type": "Constitution"
+    },
+    {
+      "value": "13",
+      "trait_type": "Strength"
+    },
+    {
+      "value": "1",
+      "trait_type": "Votes"
+    },
+    {
+      "value": "1",
+      "trait_type": "Generation"
     },
     {
       "value": "",
-      "trait_type": "Headwear"
+      "trait_type": "Right Hand Accessory"
+    },
+    {
+      "value": "Phone",
+      "trait_type": "Left Hand Accessory"
+    },
+    {
+      "value": "",
+      "trait_type": "Front Neck Tattoo"
+    },
+    {
+      "value": "",
+      "trait_type": "Side Neck Tattoo"
+    },
+    {
+      "value": "",
+      "trait_type": "Forearm Tattoo"
+    },
+    {
+      "value": "",
+      "trait_type": "Bicep Tattoo"
     },
     {
       "value": "",
@@ -48,11 +112,39 @@
     },
     {
       "value": "",
-      "trait_type": "Piercings"
+      "trait_type": "Neckwear"
     },
     {
-      "value": "Brown Leather Briefcase",
-      "trait_type": "Accessories"
+      "value": "",
+      "trait_type": "Wristwear"
+    },
+    {
+      "value": "Smirk",
+      "trait_type": "Facial Expression"
+    },
+    {
+      "value": "",
+      "trait_type": "Facial Hair"
+    },
+    {
+      "value": "Natural",
+      "trait_type": "Hair Dye"
+    },
+    {
+      "value": "Blonde",
+      "trait_type": "Hair Color"
+    },
+    {
+      "value": "Short Pixie",
+      "trait_type": "Hair Style"
+    },
+    {
+      "value": "Light Rain",
+      "trait_type": "Background"
+    },
+    {
+      "value": "Green Cotton Wool Slacks with Buckles",
+      "trait_type": "Bottom"
     }
   ]
 }

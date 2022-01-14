@@ -7,36 +7,36 @@
   "image": "https://media.niftys.com/nfts/matrix/media/ckw79xxil246075f573ozlb3ykg.png",
   "attributes": [
     {
-      "value": "White",
-      "trait_type": "Background"
-    },
-    {
-      "value": "Buzz Cut",
-      "trait_type": "Hair Style"
-    },
-    {
-      "value": "Black",
-      "trait_type": "Hair Color"
-    },
-    {
-      "value": "Stubble",
-      "trait_type": "Facial Hair"
+      "value": "Purple Worker\u0027s Cap",
+      "trait_type": "Headwear"
     },
     {
       "value": "Olive Cardigan with Beige Longsleeve Shirt",
       "trait_type": "Top"
     },
     {
-      "value": "Charcoal Slacks",
-      "trait_type": "Bottom"
+      "value": "Stubble",
+      "trait_type": "Facial Hair"
     },
     {
-      "value": "White Leather Sneaker with Grey Sole",
-      "trait_type": "Footwear"
+      "value": "Black",
+      "trait_type": "Hair Color"
+    },
+    {
+      "value": "Buzz Cut",
+      "trait_type": "Hair Style"
+    },
+    {
+      "value": "White",
+      "trait_type": "Background"
+    },
+    {
+      "value": "Black Smartphone",
+      "trait_type": "Accessories"
     },
     {
       "value": "",
-      "trait_type": "Ring"
+      "trait_type": "Piercings"
     },
     {
       "value": "",
@@ -44,15 +44,15 @@
     },
     {
       "value": "",
-      "trait_type": "Piercings"
+      "trait_type": "Ring"
     },
     {
-      "value": "Black Smartphone",
-      "trait_type": "Accessories"
+      "value": "White Leather Sneaker with Grey Sole",
+      "trait_type": "Footwear"
     },
     {
-      "value": "Purple Workers Cap",
-      "trait_type": "Headwear"
+      "value": "Charcoal Slacks",
+      "trait_type": "Bottom"
     }
   ]
 }

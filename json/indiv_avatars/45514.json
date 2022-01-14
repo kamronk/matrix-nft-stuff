@@ -1,46 +1,118 @@
 {
   "owners": 0,
   "likes": 0,
-  "contractAddress": "0x39ceaa47306381b6d79ad46af0f36bc5332386f2",
+  "contractAddress": "0x28e4b03bc88b59d25f3467b2252b66d4b2c43286",
   "tokenId": "45514",
   "name": "Matrix Avatar #45514",
-  "image": "https://media.niftys.com/nfts/matrix/media/ckw76b2a1164913f273n7fk1ukv.png",
+  "image": "https://media.niftys.com/nfts/matrix/media/ckx9qb8x0305126zp73j4mxx0x3.png",
   "attributes": [
     {
-      "value": "White",
-      "trait_type": "Background"
+      "value": "You know the sound of one hand clapping",
+      "trait_type": "Awareness"
     },
     {
-      "value": "Low Ponytail",
-      "trait_type": "Hair Style"
+      "value": "Yes",
+      "trait_type": "Headjack"
     },
     {
-      "value": "Light Brown",
-      "trait_type": "Hair Color"
+      "value": "Unshakable resolve",
+      "trait_type": "Will"
     },
     {
-      "value": "",
-      "trait_type": "Facial Hair"
+      "value": "None",
+      "trait_type": "Name"
     },
     {
-      "value": "Navy Oxford with Tie and Pocket",
+      "value": "Black Cotton Tank",
       "trait_type": "Top"
     },
     {
-      "value": "Navy Slacks",
+      "value": "Shaded Triangle",
+      "trait_type": "Forearm Tattoo"
+    },
+    {
+      "value": "Interlocking Circles",
+      "trait_type": "Front Neck Tattoo"
+    },
+    {
+      "value": "Square",
+      "trait_type": "Bicep Tattoo"
+    },
+    {
+      "value": "Silver Erl",
+      "trait_type": "Piercings"
+    },
+    {
+      "value": "Meditative",
+      "trait_type": "Facial Expression"
+    },
+    {
+      "value": "Maintains status quo",
+      "trait_type": "Persuasion"
+    },
+    {
+      "value": "Green Patent Leather Leggins",
       "trait_type": "Bottom"
     },
     {
-      "value": "Black Leather Shoes with Laces",
+      "value": "Green Leather Combat Cuff Boot",
       "trait_type": "Footwear"
     },
     {
-      "value": "",
-      "trait_type": "Ring"
+      "value": "Can walk and chew gum AT THE SAME TIME (good job!)",
+      "trait_type": "Movement"
+    },
+    {
+      "value": "Can see around corners",
+      "trait_type": "Perception"
+    },
+    {
+      "value": "Your grandma beats you at arm-wrestling",
+      "trait_type": "Power"
+    },
+    {
+      "value": "5",
+      "trait_type": "Charisma"
+    },
+    {
+      "value": "13",
+      "trait_type": "Wisdom"
+    },
+    {
+      "value": "11",
+      "trait_type": "Intelligence"
+    },
+    {
+      "value": "4",
+      "trait_type": "Dexterity"
+    },
+    {
+      "value": "12",
+      "trait_type": "Constitution"
+    },
+    {
+      "value": "2",
+      "trait_type": "Strength"
+    },
+    {
+      "value": "1",
+      "trait_type": "Votes"
+    },
+    {
+      "value": "1",
+      "trait_type": "Generation"
     },
     {
       "value": "",
-      "trait_type": "Headwear"
+      "trait_type": "Right Hand Accessory"
+    },
+    {
+      "value": "Phone",
+      "trait_type": "Left Hand Accessory"
+    },
+    {
+      "value": "",
+      "trait_type": "Side Neck Tattoo"
     },
     {
       "value": "",
@@ -48,11 +120,31 @@
     },
     {
       "value": "",
-      "trait_type": "Piercings"
+      "trait_type": "Neckwear"
     },
     {
-      "value": "Black Leather Briefcase",
-      "trait_type": "Accessories"
+      "value": "Studded Leather",
+      "trait_type": "Wristwear"
+    },
+    {
+      "value": "Stubble",
+      "trait_type": "Facial Hair"
+    },
+    {
+      "value": "Neon Red",
+      "trait_type": "Hair Dye"
+    },
+    {
+      "value": "Light Brown",
+      "trait_type": "Hair Color"
+    },
+    {
+      "value": "Short Curly Fade",
+      "trait_type": "Hair Style"
+    },
+    {
+      "value": "Heavy Rain",
+      "trait_type": "Background"
     }
   ]
 }

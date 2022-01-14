@@ -7,6 +7,30 @@
   "image": "https://media.niftys.com/nfts/matrix/media/ckw78s4lq222092f4737mgwvoec.png",
   "attributes": [
     {
+      "value": "Navy Jumpsuit",
+      "trait_type": "Top"
+    },
+    {
+      "value": "",
+      "trait_type": "Facial Hair"
+    },
+    {
+      "value": "Light Brown",
+      "trait_type": "Hair Color"
+    },
+    {
+      "value": "",
+      "trait_type": "Hair Style"
+    },
+    {
+      "value": "White",
+      "trait_type": "Background"
+    },
+    {
+      "value": "",
+      "trait_type": "Bottom"
+    },
+    {
       "value": "Blue Lunchbox",
       "trait_type": "Accessories"
     },
@@ -29,30 +53,6 @@
     {
       "value": "Black Suede Chelseas with Brown Sole",
       "trait_type": "Footwear"
-    },
-    {
-      "value": "",
-      "trait_type": "Bottom"
-    },
-    {
-      "value": "Navy Jumpsuit",
-      "trait_type": "Top"
-    },
-    {
-      "value": "",
-      "trait_type": "Facial Hair"
-    },
-    {
-      "value": "Light Brown",
-      "trait_type": "Hair Color"
-    },
-    {
-      "value": "",
-      "trait_type": "Hair Style"
-    },
-    {
-      "value": "White",
-      "trait_type": "Background"
     }
   ]
 }

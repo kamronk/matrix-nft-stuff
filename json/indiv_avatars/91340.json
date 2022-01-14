@@ -1,46 +1,82 @@
 {
   "owners": 0,
   "likes": 0,
-  "contractAddress": "0x39ceaa47306381b6d79ad46af0f36bc5332386f2",
+  "contractAddress": "0x423e540cb46db0e4df1ac96bcbddf78a804647d8",
   "tokenId": "91340",
   "name": "Matrix Avatar #91340",
-  "image": "https://media.niftys.com/nfts/matrix/media/ckw77gb0u193829f773v00pi53l.png",
+  "image": "https://media.niftys.com/nfts/matrix/media/ckxab6gsb3055377u732f5cobql.png",
   "attributes": [
     {
-      "value": "White",
-      "trait_type": "Background"
+      "value": "Tan Worker\u0027s Cap",
+      "trait_type": "Headwear"
+    },
+    {
+      "value": "Teacher",
+      "trait_type": "Zen"
+    },
+    {
+      "value": "None",
+      "trait_type": "Name"
+    },
+    {
+      "value": "Read the Bitcoin white paper twice",
+      "trait_type": "Hacking"
+    },
+    {
+      "value": "Pragmatic Coupe",
+      "trait_type": "Transportation"
+    },
+    {
+      "value": "Money Printing Machine Operator",
+      "trait_type": "Occupation"
+    },
+    {
+      "value": "11",
+      "trait_type": "Wisdom"
+    },
+    {
+      "value": "10",
+      "trait_type": "Intelligence"
+    },
+    {
+      "value": "516",
+      "trait_type": "Social Media Followers"
+    },
+    {
+      "value": "5",
+      "trait_type": "Charisma"
+    },
+    {
+      "value": "10",
+      "trait_type": "Dexterity"
+    },
+    {
+      "value": "35555",
+      "trait_type": "Salary"
+    },
+    {
+      "value": "7",
+      "trait_type": "Strength"
+    },
+    {
+      "value": "559",
+      "trait_type": "Credit Score"
+    },
+    {
+      "value": "6",
+      "trait_type": "Constitution"
+    },
+    {
+      "value": "1",
+      "trait_type": "Votes"
+    },
+    {
+      "value": "1",
+      "trait_type": "Generation"
     },
     {
       "value": "",
-      "trait_type": "Hair Style"
-    },
-    {
-      "value": "Light Brown",
-      "trait_type": "Hair Color"
-    },
-    {
-      "value": "Thin",
-      "trait_type": "Facial Hair"
-    },
-    {
-      "value": "Khaki Oxford with Tie and Pocket",
-      "trait_type": "Top"
-    },
-    {
-      "value": "Light-Wash Denim",
-      "trait_type": "Bottom"
-    },
-    {
-      "value": "White Canvas Sneaker with White Sole",
-      "trait_type": "Footwear"
-    },
-    {
-      "value": "",
-      "trait_type": "Ring"
-    },
-    {
-      "value": "",
-      "trait_type": "Glasses"
+      "trait_type": "Accessories"
     },
     {
       "value": "",
@@ -48,11 +84,39 @@
     },
     {
       "value": "",
-      "trait_type": "Accessories"
+      "trait_type": "Glasses"
     },
     {
-      "value": "Tan Workers Cap",
-      "trait_type": "Headwear"
+      "value": "",
+      "trait_type": "Ring"
+    },
+    {
+      "value": "White Canvas Sneaker with White Sole",
+      "trait_type": "Footwear"
+    },
+    {
+      "value": "Light-Wash Denim",
+      "trait_type": "Bottom"
+    },
+    {
+      "value": "Khaki Oxford with Tie and Pocket",
+      "trait_type": "Top"
+    },
+    {
+      "value": "Thin",
+      "trait_type": "Facial Hair"
+    },
+    {
+      "value": "Light Brown",
+      "trait_type": "Hair Color"
+    },
+    {
+      "value": "",
+      "trait_type": "Hair Style"
+    },
+    {
+      "value": "White Light Rain",
+      "trait_type": "Background"
     }
   ]
 }

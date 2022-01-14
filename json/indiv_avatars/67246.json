@@ -1,46 +1,82 @@
 {
   "owners": 0,
   "likes": 0,
-  "contractAddress": "0x39ceaa47306381b6d79ad46af0f36bc5332386f2",
+  "contractAddress": "0x423e540cb46db0e4df1ac96bcbddf78a804647d8",
   "tokenId": "67246",
   "name": "Matrix Avatar #67246",
-  "image": "https://media.niftys.com/nfts/matrix/media/ckw7ca8yf299420f173cyae3i7t.png",
+  "image": "https://media.niftys.com/nfts/matrix/media/ckxag6ple4777157o73ztgm6i6q.png",
   "attributes": [
     {
-      "value": "White",
-      "trait_type": "Background"
+      "value": "None",
+      "trait_type": "Name"
     },
     {
-      "value": "Short Afro Fade",
-      "trait_type": "Hair Style"
+      "value": "Read the Bitcoin white paper twice",
+      "trait_type": "Hacking"
     },
     {
-      "value": "Dark Brown",
-      "trait_type": "Hair Color"
+      "value": "Promising Pupil",
+      "trait_type": "Zen"
     },
     {
-      "value": "Thin",
-      "trait_type": "Facial Hair"
+      "value": "Electrician",
+      "trait_type": "Occupation"
     },
     {
-      "value": "Tan Blazer with Off-White Shirt and No Tie",
-      "trait_type": "Top"
+      "value": "Back of Rusty Pickup Truck",
+      "trait_type": "Transportation"
     },
     {
-      "value": "Blue Denim",
-      "trait_type": "Bottom"
+      "value": "7",
+      "trait_type": "Wisdom"
     },
     {
-      "value": "White Canvas Sneaker with White Sole",
-      "trait_type": "Footwear"
+      "value": "10",
+      "trait_type": "Intelligence"
+    },
+    {
+      "value": "20",
+      "trait_type": "Social Media Followers"
+    },
+    {
+      "value": "2",
+      "trait_type": "Charisma"
+    },
+    {
+      "value": "3",
+      "trait_type": "Dexterity"
+    },
+    {
+      "value": "52968",
+      "trait_type": "Salary"
+    },
+    {
+      "value": "8",
+      "trait_type": "Strength"
+    },
+    {
+      "value": "777",
+      "trait_type": "Credit Score"
+    },
+    {
+      "value": "14",
+      "trait_type": "Constitution"
+    },
+    {
+      "value": "1",
+      "trait_type": "Votes"
+    },
+    {
+      "value": "1",
+      "trait_type": "Generation"
+    },
+    {
+      "value": "Brown Leather Briefcase",
+      "trait_type": "Accessories"
     },
     {
       "value": "",
-      "trait_type": "Ring"
-    },
-    {
-      "value": "",
-      "trait_type": "Headwear"
+      "trait_type": "Piercings"
     },
     {
       "value": "",
@@ -48,11 +84,39 @@
     },
     {
       "value": "",
-      "trait_type": "Piercings"
+      "trait_type": "Headwear"
     },
     {
-      "value": "Brown Leather Briefcase",
-      "trait_type": "Accessories"
+      "value": "",
+      "trait_type": "Ring"
+    },
+    {
+      "value": "White Canvas Sneaker with White Sole",
+      "trait_type": "Footwear"
+    },
+    {
+      "value": "Blue Denim",
+      "trait_type": "Bottom"
+    },
+    {
+      "value": "Tan Blazer with Off-White Shirt and No Tie",
+      "trait_type": "Top"
+    },
+    {
+      "value": "Thin",
+      "trait_type": "Facial Hair"
+    },
+    {
+      "value": "Dark Brown",
+      "trait_type": "Hair Color"
+    },
+    {
+      "value": "Short Afro Fade",
+      "trait_type": "Hair Style"
+    },
+    {
+      "value": "White Light Rain",
+      "trait_type": "Background"
     }
   ]
 }

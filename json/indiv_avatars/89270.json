@@ -1,58 +1,150 @@
 {
   "owners": 0,
   "likes": 0,
-  "contractAddress": "0x39ceaa47306381b6d79ad46af0f36bc5332386f2",
+  "contractAddress": "0x28e4b03bc88b59d25f3467b2252b66d4b2c43286",
   "tokenId": "89270",
   "name": "Matrix Avatar #89270",
-  "image": "https://media.niftys.com/nfts/matrix/media/ckw779amc187984f473fdwsdygb.png",
+  "image": "https://media.niftys.com/nfts/matrix/media/ckx9rtq68341826zr73mjww0uhj.png",
   "attributes": [
     {
-      "value": "White",
-      "trait_type": "Background"
+      "value": "Others are helpless to deny you",
+      "trait_type": "Persuasion"
     },
     {
-      "value": "Short Messy",
-      "trait_type": "Hair Style"
+      "value": "13",
+      "trait_type": "Charisma"
+    },
+    {
+      "value": "You have a childlike sense of wonder",
+      "trait_type": "Awareness"
+    },
+    {
+      "value": "7",
+      "trait_type": "Wisdom"
+    },
+    {
+      "value": "You read the instructions, twice",
+      "trait_type": "Perception"
+    },
+    {
+      "value": "4",
+      "trait_type": "Intelligence"
+    },
+    {
+      "value": "Sleep paralysis",
+      "trait_type": "Movement"
+    },
+    {
+      "value": "2",
+      "trait_type": "Dexterity"
+    },
+    {
+      "value": "Unshakable resolve",
+      "trait_type": "Will"
+    },
+    {
+      "value": "12",
+      "trait_type": "Constitution"
+    },
+    {
+      "value": "Can take a punch",
+      "trait_type": "Power"
+    },
+    {
+      "value": "3",
+      "trait_type": "Strength"
+    },
+    {
+      "value": "TBD",
+      "trait_type": "Name"
+    },
+    {
+      "value": "1",
+      "trait_type": "Votes"
+    },
+    {
+      "value": "1",
+      "trait_type": "Generation"
+    },
+    {
+      "value": "Yes",
+      "trait_type": "Headjack"
+    },
+    {
+      "value": "",
+      "trait_type": "Right Hand Accessory"
+    },
+    {
+      "value": "",
+      "trait_type": "Left Hand Accessory"
+    },
+    {
+      "value": "",
+      "trait_type": "Front Neck Tattoo"
+    },
+    {
+      "value": "",
+      "trait_type": "Side Neck Tattoo"
+    },
+    {
+      "value": "",
+      "trait_type": "Forearm Tattoo"
+    },
+    {
+      "value": "",
+      "trait_type": "Bicep Tattoo"
+    },
+    {
+      "value": "Black Eyebrow Ring",
+      "trait_type": "Piercings"
+    },
+    {
+      "value": "Black Neo with Mirror Lens",
+      "trait_type": "Glasses"
+    },
+    {
+      "value": "",
+      "trait_type": "Neckwear"
+    },
+    {
+      "value": "",
+      "trait_type": "Wristwear"
+    },
+    {
+      "value": "Patent Green Leather Combat Cuff Boot",
+      "trait_type": "Footwear"
+    },
+    {
+      "value": "Black Cotton Leggings",
+      "trait_type": "Bottom"
+    },
+    {
+      "value": "Black Leather Longsleeve Crew",
+      "trait_type": "Top"
+    },
+    {
+      "value": "Scowl",
+      "trait_type": "Facial Expression"
+    },
+    {
+      "value": "",
+      "trait_type": "Facial Hair"
+    },
+    {
+      "value": "Natural",
+      "trait_type": "Hair Dye"
     },
     {
       "value": "Blonde",
       "trait_type": "Hair Color"
     },
     {
-      "value": "Stubble",
-      "trait_type": "Facial Hair"
+      "value": "Short Messy",
+      "trait_type": "Hair Style"
     },
     {
-      "value": "Brown Cardigan with Beige Longsleeve Shirt",
-      "trait_type": "Top"
-    },
-    {
-      "value": "Dark-Wash Denim",
-      "trait_type": "Bottom"
-    },
-    {
-      "value": "Tan Suede Workboot with Tan Sole",
-      "trait_type": "Footwear"
-    },
-    {
-      "value": "",
-      "trait_type": "Ring"
-    },
-    {
-      "value": "",
-      "trait_type": "Headwear"
-    },
-    {
-      "value": "",
-      "trait_type": "Glasses"
-    },
-    {
-      "value": "",
-      "trait_type": "Piercings"
-    },
-    {
-      "value": "Black Smartphone",
-      "trait_type": "Accessories"
+      "value": "Heavy Rain",
+      "trait_type": "Background"
     }
   ]
 }

@@ -7,52 +7,52 @@
   "image": "https://media.niftys.com/nfts/matrix/media/ckw7ccmkp301437f473qoruxvp5.png",
   "attributes": [
     {
-      "value": "White",
-      "trait_type": "Background"
-    },
-    {
-      "value": "Buzz Cut",
-      "trait_type": "Hair Style"
-    },
-    {
-      "value": "Dark Brown",
-      "trait_type": "Hair Color"
-    },
-    {
-      "value": "",
-      "trait_type": "Facial Hair"
-    },
-    {
-      "value": "Olive Oxford with Pocket",
-      "trait_type": "Top"
-    },
-    {
-      "value": "Navy Slacks",
-      "trait_type": "Bottom"
-    },
-    {
-      "value": "Tan Suede Workboot with Tan Sole",
-      "trait_type": "Footwear"
-    },
-    {
-      "value": "Two Rings",
-      "trait_type": "Ring"
-    },
-    {
-      "value": "Black Books",
-      "trait_type": "Glasses"
-    },
-    {
-      "value": "",
-      "trait_type": "Piercings"
+      "value": "Navy Blue Worker\u0027s Cap",
+      "trait_type": "Headwear"
     },
     {
       "value": "Black Smartphone",
       "trait_type": "Accessories"
     },
     {
-      "value": "Navy Blue Workers Cap",
-      "trait_type": "Headwear"
+      "value": "",
+      "trait_type": "Piercings"
+    },
+    {
+      "value": "Black Books",
+      "trait_type": "Glasses"
+    },
+    {
+      "value": "Two Rings",
+      "trait_type": "Ring"
+    },
+    {
+      "value": "Tan Suede Workboot with Tan Sole",
+      "trait_type": "Footwear"
+    },
+    {
+      "value": "Navy Slacks",
+      "trait_type": "Bottom"
+    },
+    {
+      "value": "Olive Oxford with Pocket",
+      "trait_type": "Top"
+    },
+    {
+      "value": "",
+      "trait_type": "Facial Hair"
+    },
+    {
+      "value": "Dark Brown",
+      "trait_type": "Hair Color"
+    },
+    {
+      "value": "Buzz Cut",
+      "trait_type": "Hair Style"
+    },
+    {
+      "value": "White",
+      "trait_type": "Background"
     }
   ]
 }

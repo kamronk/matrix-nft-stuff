@@ -1,58 +1,150 @@
 {
   "owners": 0,
   "likes": 0,
-  "contractAddress": "0x39ceaa47306381b6d79ad46af0f36bc5332386f2",
+  "contractAddress": "0x28e4b03bc88b59d25f3467b2252b66d4b2c43286",
   "tokenId": "94361",
   "name": "Matrix Avatar #94361",
-  "image": "https://media.niftys.com/nfts/matrix/media/ckw780hnz206052f873mfk1xb2m.png",
+  "image": "https://media.niftys.com/nfts/matrix/media/ckx9sl0n7366670zv73b6eoak6l.png",
   "attributes": [
     {
-      "value": "White",
-      "trait_type": "Background"
+      "value": "Gold Long Sai",
+      "trait_type": "Left Hand Accessory"
     },
     {
-      "value": "Buzz Cut",
-      "trait_type": "Hair Style"
+      "value": "People smile back at you",
+      "trait_type": "Persuasion"
+    },
+    {
+      "value": "6",
+      "trait_type": "Charisma"
+    },
+    {
+      "value": "Appreciation for the complexity of human behavior",
+      "trait_type": "Awareness"
+    },
+    {
+      "value": "12",
+      "trait_type": "Wisdom"
+    },
+    {
+      "value": "Excellent at reading people",
+      "trait_type": "Perception"
+    },
+    {
+      "value": "8",
+      "trait_type": "Intelligence"
+    },
+    {
+      "value": "Pretty light on your feet",
+      "trait_type": "Movement"
+    },
+    {
+      "value": "6",
+      "trait_type": "Dexterity"
+    },
+    {
+      "value": "True grit",
+      "trait_type": "Will"
+    },
+    {
+      "value": "9",
+      "trait_type": "Constitution"
+    },
+    {
+      "value": "Can take a punch",
+      "trait_type": "Power"
+    },
+    {
+      "value": "3",
+      "trait_type": "Strength"
+    },
+    {
+      "value": "TBD",
+      "trait_type": "Name"
+    },
+    {
+      "value": "1",
+      "trait_type": "Votes"
+    },
+    {
+      "value": "1",
+      "trait_type": "Generation"
+    },
+    {
+      "value": "Yes",
+      "trait_type": "Headjack"
+    },
+    {
+      "value": "Silver Staff",
+      "trait_type": "Right Hand Accessory"
+    },
+    {
+      "value": "",
+      "trait_type": "Front Neck Tattoo"
+    },
+    {
+      "value": "",
+      "trait_type": "Side Neck Tattoo"
+    },
+    {
+      "value": "",
+      "trait_type": "Forearm Tattoo"
+    },
+    {
+      "value": "",
+      "trait_type": "Bicep Tattoo"
+    },
+    {
+      "value": "Black Earrings",
+      "trait_type": "Piercings"
+    },
+    {
+      "value": "Translucent Hex with Red Polarized Lens",
+      "trait_type": "Glasses"
+    },
+    {
+      "value": "",
+      "trait_type": "Neckwear"
+    },
+    {
+      "value": "",
+      "trait_type": "Wristwear"
+    },
+    {
+      "value": "Patent Black Leather Combat Cuff Boot",
+      "trait_type": "Footwear"
+    },
+    {
+      "value": "Black Leather Leggings",
+      "trait_type": "Bottom"
+    },
+    {
+      "value": "Red Patent Lather Trench Coat with White Cotton Oxford and Black Tie",
+      "trait_type": "Top"
+    },
+    {
+      "value": "",
+      "trait_type": "Facial Expression"
+    },
+    {
+      "value": "Stubble",
+      "trait_type": "Facial Hair"
+    },
+    {
+      "value": "Pink",
+      "trait_type": "Hair Dye"
     },
     {
       "value": "Black",
       "trait_type": "Hair Color"
     },
     {
-      "value": "Mustache",
-      "trait_type": "Facial Hair"
+      "value": "Short Curly Fade",
+      "trait_type": "Hair Style"
     },
     {
-      "value": "Charcoal Blazer with Light Blue Shirt and No Tie",
-      "trait_type": "Top"
-    },
-    {
-      "value": "Charcoal Slacks",
-      "trait_type": "Bottom"
-    },
-    {
-      "value": "White Canvas Sneaker with White Sole",
-      "trait_type": "Footwear"
-    },
-    {
-      "value": "",
-      "trait_type": "Ring"
-    },
-    {
-      "value": "",
-      "trait_type": "Glasses"
-    },
-    {
-      "value": "",
-      "trait_type": "Piercings"
-    },
-    {
-      "value": "",
-      "trait_type": "Accessories"
-    },
-    {
-      "value": "Tan Workers Cap",
-      "trait_type": "Headwear"
+      "value": "Light Rain",
+      "trait_type": "Background"
     }
   ]
 }

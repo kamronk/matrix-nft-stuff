@@ -7,52 +7,52 @@
   "image": "https://media.niftys.com/nfts/matrix/media/ckw76kivh170682fa73petwo2g4.png",
   "attributes": [
     {
-      "value": "White",
-      "trait_type": "Background"
-    },
-    {
-      "value": "Short Pixie",
-      "trait_type": "Hair Style"
-    },
-    {
-      "value": "Light Brown",
-      "trait_type": "Hair Color"
-    },
-    {
-      "value": "Goatee",
-      "trait_type": "Facial Hair"
-    },
-    {
-      "value": "Light-Wash Denim",
-      "trait_type": "Bottom"
-    },
-    {
-      "value": "Brown Leather Shoes with Laces",
-      "trait_type": "Footwear"
-    },
-    {
-      "value": "Two Rings",
-      "trait_type": "Ring"
-    },
-    {
-      "value": "",
-      "trait_type": "Headwear"
-    },
-    {
-      "value": "",
-      "trait_type": "Glasses"
-    },
-    {
-      "value": "Stud Earring",
-      "trait_type": "Piercings"
+      "value": "Brown Cardigan with Off-White Oxford and No Tie",
+      "trait_type": "Top"
     },
     {
       "value": "Black Smartphone",
       "trait_type": "Accessories"
     },
     {
-      "value": "Brown Cardigan with Off-White Oxford Shirt",
-      "trait_type": "Top"
+      "value": "Stud Earring",
+      "trait_type": "Piercings"
+    },
+    {
+      "value": "",
+      "trait_type": "Glasses"
+    },
+    {
+      "value": "",
+      "trait_type": "Headwear"
+    },
+    {
+      "value": "Two Rings",
+      "trait_type": "Ring"
+    },
+    {
+      "value": "Brown Leather Shoes with Laces",
+      "trait_type": "Footwear"
+    },
+    {
+      "value": "Light-Wash Denim",
+      "trait_type": "Bottom"
+    },
+    {
+      "value": "Goatee",
+      "trait_type": "Facial Hair"
+    },
+    {
+      "value": "Light Brown",
+      "trait_type": "Hair Color"
+    },
+    {
+      "value": "Short Pixie",
+      "trait_type": "Hair Style"
+    },
+    {
+      "value": "White",
+      "trait_type": "Background"
     }
   ]
 }

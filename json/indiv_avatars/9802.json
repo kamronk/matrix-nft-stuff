@@ -1,46 +1,114 @@
 {
   "owners": 0,
   "likes": 0,
-  "contractAddress": "0x39ceaa47306381b6d79ad46af0f36bc5332386f2",
+  "contractAddress": "0x28e4b03bc88b59d25f3467b2252b66d4b2c43286",
   "tokenId": "9802",
   "name": "Matrix Avatar #9802",
-  "image": "https://media.niftys.com/nfts/matrix/media/ckw710xxp46680f2734ohyhs4i.png",
+  "image": "https://media.niftys.com/nfts/matrix/media/ckx9l0g2l98311zp73crg1m63q.png",
   "attributes": [
     {
-      "value": "White",
-      "trait_type": "Background"
+      "value": "Yes",
+      "trait_type": "Headjack"
     },
     {
-      "value": "Short Coil",
-      "trait_type": "Hair Style"
+      "value": "None",
+      "trait_type": "Name"
     },
     {
-      "value": "Light Brown",
-      "trait_type": "Hair Color"
-    },
-    {
-      "value": "",
-      "trait_type": "Facial Hair"
-    },
-    {
-      "value": "Denim Jumpsuit",
+      "value": "Green Leather Tank",
       "trait_type": "Top"
     },
     {
-      "value": "",
+      "value": "Intersecting Squares",
+      "trait_type": "Forearm Tattoo"
+    },
+    {
+      "value": "Sleep paralysis",
+      "trait_type": "Movement"
+    },
+    {
+      "value": "People think of you in their time of need",
+      "trait_type": "Will"
+    },
+    {
+      "value": "Others are helpless to deny you",
+      "trait_type": "Persuasion"
+    },
+    {
+      "value": "Red Cotton Leggings",
       "trait_type": "Bottom"
     },
     {
-      "value": "White Canvas Sneaker with White Sole",
+      "value": "Katana with Black Handle and Silver Blade",
+      "trait_type": "Right Hand Accessory"
+    },
+    {
+      "value": "Katana with Black Handle and Silver Blade",
+      "trait_type": "Left Hand Accessory"
+    },
+    {
+      "value": "Heightened senses",
+      "trait_type": "Perception"
+    },
+    {
+      "value": "Black Leather Combat Cuff Boot",
       "trait_type": "Footwear"
     },
     {
-      "value": "",
-      "trait_type": "Ring"
+      "value": "Can put up a fight",
+      "trait_type": "Power"
+    },
+    {
+      "value": "Triple Shaded Squares",
+      "trait_type": "Bicep Tattoo"
+    },
+    {
+      "value": "Self-induced illusions fade",
+      "trait_type": "Awareness"
+    },
+    {
+      "value": "13",
+      "trait_type": "Charisma"
+    },
+    {
+      "value": "8",
+      "trait_type": "Wisdom"
+    },
+    {
+      "value": "7",
+      "trait_type": "Intelligence"
+    },
+    {
+      "value": "2",
+      "trait_type": "Dexterity"
+    },
+    {
+      "value": "17",
+      "trait_type": "Constitution"
+    },
+    {
+      "value": "4",
+      "trait_type": "Strength"
+    },
+    {
+      "value": "1",
+      "trait_type": "Votes"
+    },
+    {
+      "value": "1",
+      "trait_type": "Generation"
     },
     {
       "value": "",
-      "trait_type": "Headwear"
+      "trait_type": "Front Neck Tattoo"
+    },
+    {
+      "value": "",
+      "trait_type": "Side Neck Tattoo"
+    },
+    {
+      "value": "",
+      "trait_type": "Piercings"
     },
     {
       "value": "",
@@ -48,11 +116,35 @@
     },
     {
       "value": "",
-      "trait_type": "Piercings"
+      "trait_type": "Neckwear"
     },
     {
-      "value": "Black Smartphone",
-      "trait_type": "Accessories"
+      "value": "Studded Leather",
+      "trait_type": "Wristwear"
+    },
+    {
+      "value": "",
+      "trait_type": "Facial Expression"
+    },
+    {
+      "value": "",
+      "trait_type": "Facial Hair"
+    },
+    {
+      "value": "Natural",
+      "trait_type": "Hair Dye"
+    },
+    {
+      "value": "Light Brown",
+      "trait_type": "Hair Color"
+    },
+    {
+      "value": "Long Messy",
+      "trait_type": "Hair Style"
+    },
+    {
+      "value": "Light Rain",
+      "trait_type": "Background"
     }
   ]
 }

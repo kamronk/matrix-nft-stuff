@@ -7,6 +7,10 @@
   "image": "https://media.niftys.com/nfts/matrix/media/ckw75zueh157914f173kvtbze3h.png",
   "attributes": [
     {
+      "value": "Navy Blue Worker\u0027s Cap",
+      "trait_type": "Headwear"
+    },
+    {
       "value": "White",
       "trait_type": "Background"
     },
@@ -49,10 +53,6 @@
     {
       "value": "Brown Cardigan with Off-White Longsleeve Shirt",
       "trait_type": "Top"
-    },
-    {
-      "value": "Navy Blue Workers Cap",
-      "trait_type": "Headwear"
     }
   ]
 }

@@ -1,46 +1,82 @@
 {
   "owners": 0,
   "likes": 0,
-  "contractAddress": "0x39ceaa47306381b6d79ad46af0f36bc5332386f2",
+  "contractAddress": "0x423e540cb46db0e4df1ac96bcbddf78a804647d8",
   "tokenId": "67245",
   "name": "Matrix Avatar #67245",
-  "image": "https://media.niftys.com/nfts/matrix/media/ckw7ca7fz299386f173qbjiaxz2.png",
+  "image": "https://media.niftys.com/nfts/matrix/media/ckxag6nxw4776637o7317uizpbe.png",
   "attributes": [
     {
-      "value": "White",
-      "trait_type": "Background"
+      "value": "None",
+      "trait_type": "Name"
     },
     {
-      "value": "Short Messy",
-      "trait_type": "Hair Style"
+      "value": "Pretty good with GW Basic",
+      "trait_type": "Hacking"
     },
     {
-      "value": "Black",
-      "trait_type": "Hair Color"
+      "value": "Low Rider",
+      "trait_type": "Transportation"
     },
     {
-      "value": "Thin",
-      "trait_type": "Facial Hair"
+      "value": "Graduate",
+      "trait_type": "Zen"
     },
     {
-      "value": "Navy Jumpsuit",
-      "trait_type": "Top"
+      "value": "Computer Programmer",
+      "trait_type": "Occupation"
+    },
+    {
+      "value": "9",
+      "trait_type": "Wisdom"
+    },
+    {
+      "value": "9",
+      "trait_type": "Intelligence"
+    },
+    {
+      "value": "0",
+      "trait_type": "Social Media Followers"
+    },
+    {
+      "value": "1",
+      "trait_type": "Charisma"
+    },
+    {
+      "value": "11",
+      "trait_type": "Dexterity"
+    },
+    {
+      "value": "35555",
+      "trait_type": "Salary"
+    },
+    {
+      "value": "7",
+      "trait_type": "Strength"
+    },
+    {
+      "value": "711",
+      "trait_type": "Credit Score"
+    },
+    {
+      "value": "10",
+      "trait_type": "Constitution"
+    },
+    {
+      "value": "1",
+      "trait_type": "Votes"
+    },
+    {
+      "value": "1",
+      "trait_type": "Generation"
+    },
+    {
+      "value": "Lunchbox",
+      "trait_type": "Accessories"
     },
     {
       "value": "",
-      "trait_type": "Bottom"
-    },
-    {
-      "value": "Tan Suede Workboot with Tan Sole",
-      "trait_type": "Footwear"
-    },
-    {
-      "value": "Two Rings",
-      "trait_type": "Ring"
-    },
-    {
-      "value": "",
-      "trait_type": "Headwear"
+      "trait_type": "Piercings"
     },
     {
       "value": "Silver Aviators",
@@ -48,11 +84,39 @@
     },
     {
       "value": "",
-      "trait_type": "Piercings"
+      "trait_type": "Headwear"
     },
     {
-      "value": "Lunchbox",
-      "trait_type": "Accessories"
+      "value": "Two Rings",
+      "trait_type": "Ring"
+    },
+    {
+      "value": "Tan Suede Workboot with Tan Sole",
+      "trait_type": "Footwear"
+    },
+    {
+      "value": "",
+      "trait_type": "Bottom"
+    },
+    {
+      "value": "Navy Jumpsuit",
+      "trait_type": "Top"
+    },
+    {
+      "value": "Thin",
+      "trait_type": "Facial Hair"
+    },
+    {
+      "value": "Black",
+      "trait_type": "Hair Color"
+    },
+    {
+      "value": "Short Messy",
+      "trait_type": "Hair Style"
+    },
+    {
+      "value": "White Light Rain",
+      "trait_type": "Background"
     }
   ]
 }

@@ -7,20 +7,32 @@
   "image": "https://media.niftys.com/nfts/matrix/media/ckw7bdx4e277517fa73ik9nv48a.png",
   "attributes": [
     {
-      "value": "White",
-      "trait_type": "Background"
+      "value": "Navy Blue Worker\u0027s Cap",
+      "trait_type": "Headwear"
+    },
+    {
+      "value": "Brown Leather Briefcase",
+      "trait_type": "Accessories"
     },
     {
       "value": "",
-      "trait_type": "Hair Style"
-    },
-    {
-      "value": "Auburn",
-      "trait_type": "Hair Color"
+      "trait_type": "Piercings"
     },
     {
       "value": "",
-      "trait_type": "Facial Hair"
+      "trait_type": "Glasses"
+    },
+    {
+      "value": "Ring One Blue",
+      "trait_type": "Ring"
+    },
+    {
+      "value": "White Canvas Sneaker with White Sole",
+      "trait_type": "Footwear"
+    },
+    {
+      "value": "",
+      "trait_type": "Bottom"
     },
     {
       "value": "Denim Jumpsuit",
@@ -28,31 +40,19 @@
     },
     {
       "value": "",
-      "trait_type": "Bottom"
+      "trait_type": "Facial Hair"
     },
     {
-      "value": "White Canvas Sneaker with White Sole",
-      "trait_type": "Footwear"
-    },
-    {
-      "value": "Ring One Blue",
-      "trait_type": "Ring"
+      "value": "Auburn",
+      "trait_type": "Hair Color"
     },
     {
       "value": "",
-      "trait_type": "Glasses"
+      "trait_type": "Hair Style"
     },
     {
-      "value": "",
-      "trait_type": "Piercings"
-    },
-    {
-      "value": "Brown Leather Briefcase",
-      "trait_type": "Accessories"
-    },
-    {
-      "value": "Navy Blue Workers Cap",
-      "trait_type": "Headwear"
+      "value": "White",
+      "trait_type": "Background"
     }
   ]
 }

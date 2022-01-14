@@ -7,44 +7,32 @@
   "image": "https://media.niftys.com/nfts/matrix/media/ckw6zmi7n15613fa73nhyvadgx.png",
   "attributes": [
     {
-      "value": "White",
-      "trait_type": "Background"
-    },
-    {
-      "value": "Short Afro Fade",
-      "trait_type": "Hair Style"
-    },
-    {
-      "value": "Black",
-      "trait_type": "Hair Color"
-    },
-    {
-      "value": "Goatee",
-      "trait_type": "Facial Hair"
+      "value": "Dark-Wash Denim",
+      "trait_type": "Bottom"
     },
     {
       "value": "Blue Longsleeve",
       "trait_type": "Top"
     },
     {
-      "value": "Dark-Wash Denim",
-      "trait_type": "Bottom"
+      "value": "Goatee",
+      "trait_type": "Facial Hair"
     },
     {
-      "value": "White Canvas Sneaker with White Sole",
-      "trait_type": "Footwear"
+      "value": "Black",
+      "trait_type": "Hair Color"
+    },
+    {
+      "value": "Short Afro Fade",
+      "trait_type": "Hair Style"
+    },
+    {
+      "value": "White",
+      "trait_type": "Background"
     },
     {
       "value": "",
-      "trait_type": "Ring"
-    },
-    {
-      "value": "",
-      "trait_type": "Headwear"
-    },
-    {
-      "value": "",
-      "trait_type": "Glasses"
+      "trait_type": "Accessories"
     },
     {
       "value": "",
@@ -52,7 +40,19 @@
     },
     {
       "value": "",
-      "trait_type": "Accessories"
+      "trait_type": "Glasses"
+    },
+    {
+      "value": "",
+      "trait_type": "Headwear"
+    },
+    {
+      "value": "",
+      "trait_type": "Ring"
+    },
+    {
+      "value": "White Canvas Sneaker with White Sole",
+      "trait_type": "Footwear"
     }
   ]
 }

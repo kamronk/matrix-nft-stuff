@@ -1,58 +1,150 @@
 {
   "owners": 0,
   "likes": 0,
-  "contractAddress": "0x39ceaa47306381b6d79ad46af0f36bc5332386f2",
+  "contractAddress": "0x28e4b03bc88b59d25f3467b2252b66d4b2c43286",
   "tokenId": "74927",
   "name": "Matrix Avatar #74927",
-  "image": "https://media.niftys.com/nfts/matrix/media/ckw7brxpv290169f8737xoujbi3.png",
+  "image": "https://media.niftys.com/nfts/matrix/media/ckx9wt0sb513832zv73jibj5c1a.png",
   "attributes": [
     {
-      "value": "White",
-      "trait_type": "Background"
+      "value": "Yes",
+      "trait_type": "Headjack"
     },
     {
-      "value": "Updo Bun",
-      "trait_type": "Hair Style"
+      "value": "Black Leather Trench Coat with White Cotton Oxford and Black Tie",
+      "trait_type": "Top"
     },
     {
-      "value": "Light Grey",
-      "trait_type": "Hair Color"
+      "value": "None",
+      "trait_type": "Name"
+    },
+    {
+      "value": "Silver Staff",
+      "trait_type": "Left Hand Accessory"
+    },
+    {
+      "value": "Quiet confidence",
+      "trait_type": "Will"
+    },
+    {
+      "value": "Maintains status quo",
+      "trait_type": "Persuasion"
+    },
+    {
+      "value": "Black Leather Leggings",
+      "trait_type": "Bottom"
+    },
+    {
+      "value": "Laughing at your mistakes",
+      "trait_type": "Awareness"
+    },
+    {
+      "value": "Black Patent Leather Knee High Boots",
+      "trait_type": "Footwear"
+    },
+    {
+      "value": "Heightened senses",
+      "trait_type": "Perception"
+    },
+    {
+      "value": "Round Black with Black Lens",
+      "trait_type": "Glasses"
+    },
+    {
+      "value": "Silver Eyebrow Ring",
+      "trait_type": "Piercings"
+    },
+    {
+      "value": "Can walk and chew gum AT THE SAME TIME (good job!)",
+      "trait_type": "Movement"
+    },
+    {
+      "value": "Can take a punch",
+      "trait_type": "Power"
+    },
+    {
+      "value": "5",
+      "trait_type": "Charisma"
+    },
+    {
+      "value": "10",
+      "trait_type": "Wisdom"
+    },
+    {
+      "value": "7",
+      "trait_type": "Intelligence"
+    },
+    {
+      "value": "4",
+      "trait_type": "Dexterity"
+    },
+    {
+      "value": "10",
+      "trait_type": "Constitution"
+    },
+    {
+      "value": "3",
+      "trait_type": "Strength"
+    },
+    {
+      "value": "1",
+      "trait_type": "Votes"
+    },
+    {
+      "value": "1",
+      "trait_type": "Generation"
+    },
+    {
+      "value": "",
+      "trait_type": "Right Hand Accessory"
+    },
+    {
+      "value": "",
+      "trait_type": "Front Neck Tattoo"
+    },
+    {
+      "value": "",
+      "trait_type": "Side Neck Tattoo"
+    },
+    {
+      "value": "",
+      "trait_type": "Forearm Tattoo"
+    },
+    {
+      "value": "",
+      "trait_type": "Bicep Tattoo"
+    },
+    {
+      "value": "",
+      "trait_type": "Neckwear"
+    },
+    {
+      "value": "",
+      "trait_type": "Wristwear"
+    },
+    {
+      "value": "",
+      "trait_type": "Facial Expression"
     },
     {
       "value": "",
       "trait_type": "Facial Hair"
     },
     {
-      "value": "Navy Blazer with Striped Shirt and No Tie",
-      "trait_type": "Top"
+      "value": "Natural",
+      "trait_type": "Hair Dye"
     },
     {
-      "value": "Khaki",
-      "trait_type": "Bottom"
+      "value": "Light Grey",
+      "trait_type": "Hair Color"
     },
     {
-      "value": "Tan Suede Workboot with Tan Sole",
-      "trait_type": "Footwear"
+      "value": "Medium Curly Bob",
+      "trait_type": "Hair Style"
     },
     {
-      "value": "Two Rings",
-      "trait_type": "Ring"
-    },
-    {
-      "value": "",
-      "trait_type": "Headwear"
-    },
-    {
-      "value": "Black Books",
-      "trait_type": "Glasses"
-    },
-    {
-      "value": "",
-      "trait_type": "Piercings"
-    },
-    {
-      "value": "",
-      "trait_type": "Accessories"
+      "value": "Heavy Rain",
+      "trait_type": "Background"
     }
   ]
 }

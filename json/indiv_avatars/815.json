@@ -1,34 +1,94 @@
 {
   "owners": 0,
   "likes": 0,
-  "contractAddress": "0x39ceaa47306381b6d79ad46af0f36bc5332386f2",
+  "contractAddress": "0x423e540cb46db0e4df1ac96bcbddf78a804647d8",
   "tokenId": "815",
   "name": "Matrix Avatar #815",
-  "image": "https://media.niftys.com/nfts/matrix/media/ckw6zo2hn16577f673g8oazw4o.png",
+  "image": "https://media.niftys.com/nfts/matrix/media/ckxa1nqx3341927t73oqo7ge27.png",
   "attributes": [
     {
-      "value": "White",
-      "trait_type": "Background"
+      "value": "Zen Master",
+      "trait_type": "Zen"
     },
     {
-      "value": "Long Afro",
-      "trait_type": "Hair Style"
+      "value": "None",
+      "trait_type": "Name"
     },
     {
-      "value": "Dark Brown",
-      "trait_type": "Hair Color"
+      "value": "Read the Bitcoin white paper twice",
+      "trait_type": "Hacking"
     },
     {
-      "value": "Thin",
-      "trait_type": "Facial Hair"
+      "value": "Night Shift Supervisor",
+      "trait_type": "Occupation"
     },
     {
-      "value": "Denim Jumpsuit",
-      "trait_type": "Top"
+      "value": "Dusty Kicks Hand-me-downs",
+      "trait_type": "Transportation"
+    },
+    {
+      "value": "14",
+      "trait_type": "Wisdom"
+    },
+    {
+      "value": "10",
+      "trait_type": "Intelligence"
+    },
+    {
+      "value": "1993",
+      "trait_type": "Social Media Followers"
+    },
+    {
+      "value": "7",
+      "trait_type": "Charisma"
+    },
+    {
+      "value": "1",
+      "trait_type": "Dexterity"
+    },
+    {
+      "value": "35555",
+      "trait_type": "Salary"
+    },
+    {
+      "value": "7",
+      "trait_type": "Strength"
+    },
+    {
+      "value": "610",
+      "trait_type": "Credit Score"
+    },
+    {
+      "value": "7",
+      "trait_type": "Constitution"
+    },
+    {
+      "value": "1",
+      "trait_type": "Votes"
+    },
+    {
+      "value": "1",
+      "trait_type": "Generation"
     },
     {
       "value": "",
-      "trait_type": "Bottom"
+      "trait_type": "Accessories"
+    },
+    {
+      "value": "Stud Earring",
+      "trait_type": "Piercings"
+    },
+    {
+      "value": "Black Books",
+      "trait_type": "Glasses"
+    },
+    {
+      "value": "",
+      "trait_type": "Headwear"
+    },
+    {
+      "value": "",
+      "trait_type": "Ring"
     },
     {
       "value": "Black Leather Shoes with Laces",
@@ -36,23 +96,27 @@
     },
     {
       "value": "",
-      "trait_type": "Ring"
+      "trait_type": "Bottom"
     },
     {
-      "value": "",
-      "trait_type": "Headwear"
+      "value": "Denim Jumpsuit",
+      "trait_type": "Top"
     },
     {
-      "value": "Black Books",
-      "trait_type": "Glasses"
+      "value": "Thin",
+      "trait_type": "Facial Hair"
     },
     {
-      "value": "Stud Earring",
-      "trait_type": "Piercings"
+      "value": "Dark Brown",
+      "trait_type": "Hair Color"
     },
     {
-      "value": "",
-      "trait_type": "Accessories"
+      "value": "Long Afro",
+      "trait_type": "Hair Style"
+    },
+    {
+      "value": "White Light Rain",
+      "trait_type": "Background"
     }
   ]
 }

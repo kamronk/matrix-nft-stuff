@@ -1,58 +1,150 @@
 {
   "owners": 0,
   "likes": 0,
-  "contractAddress": "0x39ceaa47306381b6d79ad46af0f36bc5332386f2",
+  "contractAddress": "0x28e4b03bc88b59d25f3467b2252b66d4b2c43286",
   "tokenId": "47604",
   "name": "Matrix Avatar #47604",
-  "image": "https://media.niftys.com/nfts/matrix/media/ckw7a1ngg250250f473tutvgzp9.png",
+  "image": "https://media.niftys.com/nfts/matrix/media/ckx9vakql450732zr73i4qn31s1.png",
   "attributes": [
     {
-      "value": "White",
-      "trait_type": "Background"
+      "value": "You have a childlike sense of wonder",
+      "trait_type": "Awareness"
     },
     {
-      "value": "Long Messy",
-      "trait_type": "Hair Style"
+      "value": "Yes",
+      "trait_type": "Headjack"
+    },
+    {
+      "value": "Two left feet",
+      "trait_type": "Movement"
+    },
+    {
+      "value": "None",
+      "trait_type": "Name"
+    },
+    {
+      "value": "Black Leather Tank",
+      "trait_type": "Top"
+    },
+    {
+      "value": "Valknut",
+      "trait_type": "Bicep Tattoo"
+    },
+    {
+      "value": "Intersecting Squares",
+      "trait_type": "Side Neck Tattoo"
+    },
+    {
+      "value": "Intersecting Squares",
+      "trait_type": "Forearm Tattoo"
+    },
+    {
+      "value": "Quiet confidence",
+      "trait_type": "Will"
+    },
+    {
+      "value": "Nobody\u0027s buying it",
+      "trait_type": "Persuasion"
+    },
+    {
+      "value": "Black Neo with Black Lens",
+      "trait_type": "Glasses"
+    },
+    {
+      "value": "Green Cotton Leggings",
+      "trait_type": "Bottom"
+    },
+    {
+      "value": "Black Knee High Leather Boots",
+      "trait_type": "Footwear"
+    },
+    {
+      "value": "Katana with White Handle and Silver Blade",
+      "trait_type": "Left Hand Accessory"
+    },
+    {
+      "value": "Katana with Black Handle and Silver Blade",
+      "trait_type": "Right Hand Accessory"
+    },
+    {
+      "value": "Can take a punch",
+      "trait_type": "Power"
+    },
+    {
+      "value": "Can hear a bee\u0027s wings",
+      "trait_type": "Perception"
+    },
+    {
+      "value": "2",
+      "trait_type": "Charisma"
+    },
+    {
+      "value": "7",
+      "trait_type": "Wisdom"
+    },
+    {
+      "value": "10",
+      "trait_type": "Intelligence"
+    },
+    {
+      "value": "3",
+      "trait_type": "Dexterity"
+    },
+    {
+      "value": "10",
+      "trait_type": "Constitution"
+    },
+    {
+      "value": "3",
+      "trait_type": "Strength"
+    },
+    {
+      "value": "1",
+      "trait_type": "Votes"
+    },
+    {
+      "value": "1",
+      "trait_type": "Generation"
+    },
+    {
+      "value": "",
+      "trait_type": "Front Neck Tattoo"
+    },
+    {
+      "value": "",
+      "trait_type": "Neckwear"
+    },
+    {
+      "value": "Thick Leather",
+      "trait_type": "Wristwear"
+    },
+    {
+      "value": "",
+      "trait_type": "Facial Expression"
+    },
+    {
+      "value": "Goatee",
+      "trait_type": "Facial Hair"
+    },
+    {
+      "value": "Natural",
+      "trait_type": "Hair Dye"
     },
     {
       "value": "Blonde",
       "trait_type": "Hair Color"
     },
     {
-      "value": "Stubble",
-      "trait_type": "Facial Hair"
+      "value": "Faux Hawk",
+      "trait_type": "Hair Style"
     },
     {
-      "value": "Khaki Oxford with Pocket",
-      "trait_type": "Top"
-    },
-    {
-      "value": "Light-Wash Denim",
-      "trait_type": "Bottom"
-    },
-    {
-      "value": "Brown Leather Shoes with Laces",
-      "trait_type": "Footwear"
-    },
-    {
-      "value": "",
-      "trait_type": "Ring"
-    },
-    {
-      "value": "",
-      "trait_type": "Headwear"
-    },
-    {
-      "value": "Rosegold Aviators",
-      "trait_type": "Glasses"
+      "value": "Heavy Rain",
+      "trait_type": "Background"
     },
     {
       "value": "",
       "trait_type": "Piercings"
-    },
-    {
-      "value": "Black Leather Briefcase",
-      "trait_type": "Accessories"
     }
   ]
 }

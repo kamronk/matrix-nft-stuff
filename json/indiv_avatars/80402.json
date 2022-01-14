@@ -7,20 +7,32 @@
   "image": "https://media.niftys.com/nfts/matrix/media/ckw704xrj25377f973mcu9xor8.png",
   "attributes": [
     {
-      "value": "White",
-      "trait_type": "Background"
+      "value": "Lunchbox",
+      "trait_type": "Accessories"
     },
     {
-      "value": "Short Pixie",
-      "trait_type": "Hair Style"
+      "value": "Stud Earring",
+      "trait_type": "Piercings"
     },
     {
-      "value": "Blonde",
-      "trait_type": "Hair Color"
+      "value": "Silver Aviators",
+      "trait_type": "Glasses"
     },
     {
       "value": "",
-      "trait_type": "Facial Hair"
+      "trait_type": "Headwear"
+    },
+    {
+      "value": "Two Rings",
+      "trait_type": "Ring"
+    },
+    {
+      "value": "White Canvas Sneaker with White Sole",
+      "trait_type": "Footwear"
+    },
+    {
+      "value": "",
+      "trait_type": "Bottom"
     },
     {
       "value": "Denim Jumpsuit",
@@ -28,31 +40,19 @@
     },
     {
       "value": "",
-      "trait_type": "Bottom"
+      "trait_type": "Facial Hair"
     },
     {
-      "value": "White Canvas Sneaker with White Sole",
-      "trait_type": "Footwear"
+      "value": "Blonde",
+      "trait_type": "Hair Color"
     },
     {
-      "value": "Two Rings",
-      "trait_type": "Ring"
+      "value": "Short Pixie",
+      "trait_type": "Hair Style"
     },
     {
-      "value": "",
-      "trait_type": "Headwear"
-    },
-    {
-      "value": "Silver Aviators",
-      "trait_type": "Glasses"
-    },
-    {
-      "value": "Stud Earring",
-      "trait_type": "Piercings"
-    },
-    {
-      "value": "Lunchbox",
-      "trait_type": "Accessories"
+      "value": "White",
+      "trait_type": "Background"
     }
   ]
 }

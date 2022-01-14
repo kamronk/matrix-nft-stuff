@@ -1,0 +1,150 @@
+{
+  "owners": 0,
+  "likes": 0,
+  "contractAddress": "0x28e4b03bc88b59d25f3467b2252b66d4b2c43286",
+  "tokenId": "97155",
+  "name": "Matrix Avatar",
+  "image": "https://media.niftys.com/nfts/matrix/media/ckx9y5kfu552386zt73b27tzpy1.png",
+  "attributes": [
+    {
+      "value": "You\u0027ve got a bad feeling about this",
+      "trait_type": "Perception"
+    },
+    {
+      "value": "You\u0027re a bit of a charmer",
+      "trait_type": "Persuasion"
+    },
+    {
+      "value": "Yes",
+      "trait_type": "Headjack"
+    },
+    {
+      "value": "Unshakable resolve",
+      "trait_type": "Will"
+    },
+    {
+      "value": "Two left feet",
+      "trait_type": "Movement"
+    },
+    {
+      "value": "None",
+      "trait_type": "Name"
+    },
+    {
+      "value": "Green Cotton Tank",
+      "trait_type": "Top"
+    },
+    {
+      "value": "Intersecting Triangles",
+      "trait_type": "Bicep Tattoo"
+    },
+    {
+      "value": "Borromean Rings",
+      "trait_type": "Forearm Tattoo"
+    },
+    {
+      "value": "Black Arm Pole",
+      "trait_type": "Left Hand Accessory"
+    },
+    {
+      "value": "Black Nose, Lip",
+      "trait_type": "Piercings"
+    },
+    {
+      "value": "Black Morpheus with Dark Mirrored Lens",
+      "trait_type": "Glasses"
+    },
+    {
+      "value": "Black Cotton Martial Arts Pants",
+      "trait_type": "Bottom"
+    },
+    {
+      "value": "Laughing at your mistakes",
+      "trait_type": "Awareness"
+    },
+    {
+      "value": "Patent Green Leather Combat Cuff Boot",
+      "trait_type": "Footwear"
+    },
+    {
+      "value": "Can take a punch",
+      "trait_type": "Power"
+    },
+    {
+      "value": "7",
+      "trait_type": "Charisma"
+    },
+    {
+      "value": "10",
+      "trait_type": "Wisdom"
+    },
+    {
+      "value": "9",
+      "trait_type": "Intelligence"
+    },
+    {
+      "value": "3",
+      "trait_type": "Dexterity"
+    },
+    {
+      "value": "12",
+      "trait_type": "Constitution"
+    },
+    {
+      "value": "3",
+      "trait_type": "Strength"
+    },
+    {
+      "value": "1",
+      "trait_type": "Votes"
+    },
+    {
+      "value": "1",
+      "trait_type": "Generation"
+    },
+    {
+      "value": "",
+      "trait_type": "Right Hand Accessory"
+    },
+    {
+      "value": "",
+      "trait_type": "Front Neck Tattoo"
+    },
+    {
+      "value": "",
+      "trait_type": "Side Neck Tattoo"
+    },
+    {
+      "value": "",
+      "trait_type": "Neckwear"
+    },
+    {
+      "value": "Studded Leather",
+      "trait_type": "Wristwear"
+    },
+    {
+      "value": "Smirk",
+      "trait_type": "Facial Expression"
+    },
+    {
+      "value": "",
+      "trait_type": "Facial Hair"
+    },
+    {
+      "value": "Natural",
+      "trait_type": "Hair Dye"
+    },
+    {
+      "value": "Light Brown",
+      "trait_type": "Hair Color"
+    },
+    {
+      "value": "Long Straight Bangs",
+      "trait_type": "Hair Style"
+    },
+    {
+      "value": "Heavy Rain",
+      "trait_type": "Background"
+    }
+  ]
+}

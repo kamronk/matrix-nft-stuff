@@ -7,40 +7,32 @@
   "image": "https://media.niftys.com/nfts/matrix/media/ckw6zchok9902f57314qjz8rc.png",
   "attributes": [
     {
-      "value": "White",
-      "trait_type": "Background"
-    },
-    {
-      "value": "Short Coil",
-      "trait_type": "Hair Style"
-    },
-    {
-      "value": "Light Brown",
-      "trait_type": "Hair Color"
+      "value": "Gray Oxford with Tie",
+      "trait_type": "Top"
     },
     {
       "value": "",
       "trait_type": "Facial Hair"
     },
     {
-      "value": "Gray Oxford with Tie",
-      "trait_type": "Top"
+      "value": "Light Brown",
+      "trait_type": "Hair Color"
     },
     {
-      "value": "Dark-Wash Denim",
-      "trait_type": "Bottom"
+      "value": "Short Coil",
+      "trait_type": "Hair Style"
     },
     {
-      "value": "Brown Leather Shoes with Laces",
-      "trait_type": "Footwear"
+      "value": "White",
+      "trait_type": "Background"
+    },
+    {
+      "value": "Brown Leather Briefcase",
+      "trait_type": "Accessories"
     },
     {
       "value": "",
-      "trait_type": "Ring"
-    },
-    {
-      "value": "",
-      "trait_type": "Headwear"
+      "trait_type": "Piercings"
     },
     {
       "value": "",
@@ -48,11 +40,19 @@
     },
     {
       "value": "",
-      "trait_type": "Piercings"
+      "trait_type": "Headwear"
     },
     {
-      "value": "Brown Leather Briefcase",
-      "trait_type": "Accessories"
+      "value": "",
+      "trait_type": "Ring"
+    },
+    {
+      "value": "Brown Leather Shoes with Laces",
+      "trait_type": "Footwear"
+    },
+    {
+      "value": "Dark-Wash Denim",
+      "trait_type": "Bottom"
     }
   ]
 }

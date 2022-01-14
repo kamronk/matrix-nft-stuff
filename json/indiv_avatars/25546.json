@@ -1,46 +1,78 @@
 {
   "owners": 0,
   "likes": 0,
-  "contractAddress": "0x39ceaa47306381b6d79ad46af0f36bc5332386f2",
+  "contractAddress": "0x423e540cb46db0e4df1ac96bcbddf78a804647d8",
   "tokenId": "25546",
   "name": "Matrix Avatar #25546",
-  "image": "https://media.niftys.com/nfts/matrix/media/ckw74gmgt123848f373i8pd73om.png",
+  "image": "https://media.niftys.com/nfts/matrix/media/ckxa7ykl72041417q73o7k7fp6v.png",
   "attributes": [
     {
-      "value": "White",
-      "trait_type": "Background"
+      "value": "TBD",
+      "trait_type": "Name"
+    },
+    {
+      "value": "Master",
+      "trait_type": "Zen"
+    },
+    {
+      "value": "12",
+      "trait_type": "Wisdom"
+    },
+    {
+      "value": "Custodian",
+      "trait_type": "Occupation"
+    },
+    {
+      "value": "Subscribed to 2600",
+      "trait_type": "Hacking"
+    },
+    {
+      "value": "11",
+      "trait_type": "Intelligence"
+    },
+    {
+      "value": "51",
+      "trait_type": "Social Media Followers"
+    },
+    {
+      "value": "3",
+      "trait_type": "Charisma"
+    },
+    {
+      "value": "Three Wheel Roadster",
+      "trait_type": "Transportation"
+    },
+    {
+      "value": "13",
+      "trait_type": "Dexterity"
+    },
+    {
+      "value": "22576",
+      "trait_type": "Salary"
+    },
+    {
+      "value": "6",
+      "trait_type": "Strength"
+    },
+    {
+      "value": "457",
+      "trait_type": "Credit Score"
+    },
+    {
+      "value": "4",
+      "trait_type": "Constitution"
+    },
+    {
+      "value": "1",
+      "trait_type": "Votes"
+    },
+    {
+      "value": "1",
+      "trait_type": "Generation"
     },
     {
       "value": "",
-      "trait_type": "Hair Style"
-    },
-    {
-      "value": "Light Brown",
-      "trait_type": "Hair Color"
-    },
-    {
-      "value": "Stubble",
-      "trait_type": "Facial Hair"
-    },
-    {
-      "value": "Charcoal Blazer with Light Blue Shirt and Black Tie",
-      "trait_type": "Top"
-    },
-    {
-      "value": "Light-Wash Denim",
-      "trait_type": "Bottom"
-    },
-    {
-      "value": "Brown Leather Shoes with Laces",
-      "trait_type": "Footwear"
-    },
-    {
-      "value": "",
-      "trait_type": "Ring"
-    },
-    {
-      "value": "",
-      "trait_type": "Glasses"
+      "trait_type": "Accessories"
     },
     {
       "value": "",
@@ -48,11 +80,43 @@
     },
     {
       "value": "",
-      "trait_type": "Accessories"
+      "trait_type": "Glasses"
     },
     {
-      "value": "Tan Workers Cap",
+      "value": "Tan Worker\u0027s Cap",
       "trait_type": "Headwear"
+    },
+    {
+      "value": "",
+      "trait_type": "Ring"
+    },
+    {
+      "value": "Brown Leather Shoes with Laces",
+      "trait_type": "Footwear"
+    },
+    {
+      "value": "Light-Wash Denim",
+      "trait_type": "Bottom"
+    },
+    {
+      "value": "Charcoal Blazer with Light Blue Shirt and Black Tie",
+      "trait_type": "Top"
+    },
+    {
+      "value": "Stubble",
+      "trait_type": "Facial Hair"
+    },
+    {
+      "value": "Light Brown",
+      "trait_type": "Hair Color"
+    },
+    {
+      "value": "",
+      "trait_type": "Hair Style"
+    },
+    {
+      "value": "White Heavy Rain",
+      "trait_type": "Background"
     }
   ]
 }

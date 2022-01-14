@@ -1,46 +1,82 @@
 {
   "owners": 0,
   "likes": 0,
-  "contractAddress": "0x39ceaa47306381b6d79ad46af0f36bc5332386f2",
+  "contractAddress": "0x423e540cb46db0e4df1ac96bcbddf78a804647d8",
   "tokenId": "30735",
   "name": "Matrix Avatar #30735",
-  "image": "https://media.niftys.com/nfts/matrix/media/ckw73xlxc111940f373wiebgn2b.png",
+  "image": "https://media.niftys.com/nfts/matrix/media/ckxa7ar2c1858127q739w94xb16.png",
   "attributes": [
     {
-      "value": "White",
-      "trait_type": "Background"
+      "value": "Navy Blue Worker\u0027s Cap",
+      "trait_type": "Headwear"
+    },
+    {
+      "value": "Teacher",
+      "trait_type": "Zen"
+    },
+    {
+      "value": "None",
+      "trait_type": "Name"
+    },
+    {
+      "value": "Retired Mail Truck",
+      "trait_type": "Transportation"
+    },
+    {
+      "value": "Got caught hacking your grades",
+      "trait_type": "Hacking"
+    },
+    {
+      "value": "Customer Service Representative",
+      "trait_type": "Occupation"
+    },
+    {
+      "value": "11",
+      "trait_type": "Wisdom"
+    },
+    {
+      "value": "13",
+      "trait_type": "Intelligence"
+    },
+    {
+      "value": "12453",
+      "trait_type": "Social Media Followers"
+    },
+    {
+      "value": "9",
+      "trait_type": "Charisma"
+    },
+    {
+      "value": "7",
+      "trait_type": "Dexterity"
+    },
+    {
+      "value": "52968",
+      "trait_type": "Salary"
+    },
+    {
+      "value": "8",
+      "trait_type": "Strength"
+    },
+    {
+      "value": "699",
+      "trait_type": "Credit Score"
+    },
+    {
+      "value": "9",
+      "trait_type": "Constitution"
+    },
+    {
+      "value": "1",
+      "trait_type": "Votes"
+    },
+    {
+      "value": "1",
+      "trait_type": "Generation"
     },
     {
       "value": "",
-      "trait_type": "Hair Style"
-    },
-    {
-      "value": "Auburn",
-      "trait_type": "Hair Color"
-    },
-    {
-      "value": "Goatee",
-      "trait_type": "Facial Hair"
-    },
-    {
-      "value": "Khaki Oxford with Buttons",
-      "trait_type": "Top"
-    },
-    {
-      "value": "Navy Slacks",
-      "trait_type": "Bottom"
-    },
-    {
-      "value": "Tan Suede Workboot with Tan Sole",
-      "trait_type": "Footwear"
-    },
-    {
-      "value": "",
-      "trait_type": "Ring"
-    },
-    {
-      "value": "",
-      "trait_type": "Glasses"
+      "trait_type": "Accessories"
     },
     {
       "value": "",
@@ -48,11 +84,39 @@
     },
     {
       "value": "",
-      "trait_type": "Accessories"
+      "trait_type": "Glasses"
     },
     {
-      "value": "Navy Blue Workers Cap",
-      "trait_type": "Headwear"
+      "value": "",
+      "trait_type": "Ring"
+    },
+    {
+      "value": "Tan Suede Workboot with Tan Sole",
+      "trait_type": "Footwear"
+    },
+    {
+      "value": "Navy Slacks",
+      "trait_type": "Bottom"
+    },
+    {
+      "value": "Khaki Oxford with Buttons",
+      "trait_type": "Top"
+    },
+    {
+      "value": "Goatee",
+      "trait_type": "Facial Hair"
+    },
+    {
+      "value": "Auburn",
+      "trait_type": "Hair Color"
+    },
+    {
+      "value": "",
+      "trait_type": "Hair Style"
+    },
+    {
+      "value": "White Medium Rain",
+      "trait_type": "Background"
     }
   ]
 }

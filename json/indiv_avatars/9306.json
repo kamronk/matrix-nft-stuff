@@ -7,40 +7,40 @@
   "image": "https://media.niftys.com/nfts/matrix/media/ckw71d66b54777f973mikaao6y.png",
   "attributes": [
     {
-      "value": "White",
-      "trait_type": "Background"
-    },
-    {
-      "value": "Short Afro Fade",
-      "trait_type": "Hair Style"
-    },
-    {
-      "value": "Black",
-      "trait_type": "Hair Color"
-    },
-    {
-      "value": "Beard",
-      "trait_type": "Facial Hair"
-    },
-    {
-      "value": "Navy Oxford with Pocket",
-      "trait_type": "Top"
+      "value": "Brown Leather Shoes with Laces",
+      "trait_type": "Footwear"
     },
     {
       "value": "Blue Denim",
       "trait_type": "Bottom"
     },
     {
-      "value": "Brown Leather Shoes with Laces",
-      "trait_type": "Footwear"
+      "value": "Navy Oxford with Pocket",
+      "trait_type": "Top"
+    },
+    {
+      "value": "Beard",
+      "trait_type": "Facial Hair"
+    },
+    {
+      "value": "Black",
+      "trait_type": "Hair Color"
+    },
+    {
+      "value": "Short Afro Fade",
+      "trait_type": "Hair Style"
+    },
+    {
+      "value": "White",
+      "trait_type": "Background"
+    },
+    {
+      "value": "Brown Leather Briefcase",
+      "trait_type": "Accessories"
     },
     {
       "value": "",
-      "trait_type": "Ring"
-    },
-    {
-      "value": "",
-      "trait_type": "Headwear"
+      "trait_type": "Piercings"
     },
     {
       "value": "Rosegold Aviators",
@@ -48,11 +48,11 @@
     },
     {
       "value": "",
-      "trait_type": "Piercings"
+      "trait_type": "Headwear"
     },
     {
-      "value": "Brown Leather Briefcase",
-      "trait_type": "Accessories"
+      "value": "",
+      "trait_type": "Ring"
     }
   ]
 }

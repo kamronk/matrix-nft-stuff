@@ -7,6 +7,18 @@
   "image": "https://media.niftys.com/nfts/matrix/media/ckw7abc0s255187f1736rmy1s2j.png",
   "attributes": [
     {
+      "value": "Light Brown",
+      "trait_type": "Hair Color"
+    },
+    {
+      "value": "Updo Bun",
+      "trait_type": "Hair Style"
+    },
+    {
+      "value": "White",
+      "trait_type": "Background"
+    },
+    {
       "value": "Black Smartphone",
       "trait_type": "Accessories"
     },
@@ -41,18 +53,6 @@
     {
       "value": "",
       "trait_type": "Facial Hair"
-    },
-    {
-      "value": "Light Brown",
-      "trait_type": "Hair Color"
-    },
-    {
-      "value": "Updo Bun",
-      "trait_type": "Hair Style"
-    },
-    {
-      "value": "White",
-      "trait_type": "Background"
     }
   ]
 }

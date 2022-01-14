@@ -1,18 +1,54 @@
 {
   "owners": 0,
   "likes": 0,
-  "contractAddress": "0x39ceaa47306381b6d79ad46af0f36bc5332386f2",
+  "contractAddress": "0x28e4b03bc88b59d25f3467b2252b66d4b2c43286",
   "tokenId": "36355",
   "name": "Matrix Avatar #36355",
-  "image": "https://media.niftys.com/nfts/matrix/media/ckw75bk9i141363f57322oc32zi.png",
+  "image": "https://media.niftys.com/nfts/matrix/media/ckx9p2xbh258737zs73cinza74v.png",
   "attributes": [
     {
-      "value": "",
-      "trait_type": "Accessories"
+      "value": "Black Cotton Wool Slacks with Buckles",
+      "trait_type": "Bottom"
+    },
+    {
+      "value": "Heavy Rain",
+      "trait_type": "Background"
+    },
+    {
+      "value": "Short Afro Fade",
+      "trait_type": "Hair Style"
+    },
+    {
+      "value": "Blonde",
+      "trait_type": "Hair Color"
+    },
+    {
+      "value": "Natural",
+      "trait_type": "Hair Dye"
     },
     {
       "value": "",
-      "trait_type": "Piercings"
+      "trait_type": "Facial Hair"
+    },
+    {
+      "value": "Scowl",
+      "trait_type": "Facial Expression"
+    },
+    {
+      "value": "Red Cotton Martial Arts Top",
+      "trait_type": "Top"
+    },
+    {
+      "value": "Patent Green Leather Combat Cuff Boot",
+      "trait_type": "Footwear"
+    },
+    {
+      "value": "",
+      "trait_type": "Wristwear"
+    },
+    {
+      "value": "",
+      "trait_type": "Neckwear"
     },
     {
       "value": "",
@@ -20,39 +56,95 @@
     },
     {
       "value": "",
-      "trait_type": "Headwear"
+      "trait_type": "Piercings"
     },
     {
       "value": "",
-      "trait_type": "Ring"
-    },
-    {
-      "value": "Brown Leather Shoes with Laces",
-      "trait_type": "Footwear"
-    },
-    {
-      "value": "Gray Slacks",
-      "trait_type": "Bottom"
-    },
-    {
-      "value": "Light Gray Longsleeve",
-      "trait_type": "Top"
+      "trait_type": "Bicep Tattoo"
     },
     {
       "value": "",
-      "trait_type": "Facial Hair"
+      "trait_type": "Forearm Tattoo"
     },
     {
-      "value": "Blonde",
-      "trait_type": "Hair Color"
+      "value": "",
+      "trait_type": "Side Neck Tattoo"
     },
     {
-      "value": "Long Messy",
-      "trait_type": "Hair Style"
+      "value": "",
+      "trait_type": "Front Neck Tattoo"
     },
     {
-      "value": "White",
-      "trait_type": "Background"
+      "value": "Phone",
+      "trait_type": "Left Hand Accessory"
+    },
+    {
+      "value": "",
+      "trait_type": "Right Hand Accessory"
+    },
+    {
+      "value": "Yes",
+      "trait_type": "Headjack"
+    },
+    {
+      "value": "1",
+      "trait_type": "Generation"
+    },
+    {
+      "value": "1",
+      "trait_type": "Votes"
+    },
+    {
+      "value": "TBD",
+      "trait_type": "Name"
+    },
+    {
+      "value": "4",
+      "trait_type": "Strength"
+    },
+    {
+      "value": "Can put up a fight",
+      "trait_type": "Power"
+    },
+    {
+      "value": "10",
+      "trait_type": "Constitution"
+    },
+    {
+      "value": "Quiet confidence",
+      "trait_type": "Will"
+    },
+    {
+      "value": "6",
+      "trait_type": "Dexterity"
+    },
+    {
+      "value": "Pretty light on your feet",
+      "trait_type": "Movement"
+    },
+    {
+      "value": "8",
+      "trait_type": "Intelligence"
+    },
+    {
+      "value": "Excellent at reading people",
+      "trait_type": "Perception"
+    },
+    {
+      "value": "11",
+      "trait_type": "Wisdom"
+    },
+    {
+      "value": "Accepting the impermanence of things",
+      "trait_type": "Awareness"
+    },
+    {
+      "value": "12",
+      "trait_type": "Charisma"
+    },
+    {
+      "value": "Everything is always an option",
+      "trait_type": "Persuasion"
     }
   ]
 }

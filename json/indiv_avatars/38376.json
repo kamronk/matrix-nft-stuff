@@ -1,46 +1,82 @@
 {
   "owners": 0,
   "likes": 0,
-  "contractAddress": "0x39ceaa47306381b6d79ad46af0f36bc5332386f2",
+  "contractAddress": "0x423e540cb46db0e4df1ac96bcbddf78a804647d8",
   "tokenId": "38376",
   "name": "Matrix Avatar #38376",
-  "image": "https://media.niftys.com/nfts/matrix/media/ckw75kpwn148319fa73a94i76ov.png",
+  "image": "https://media.niftys.com/nfts/matrix/media/ckxa8x9152304157x7343ex9928.png",
   "attributes": [
     {
-      "value": "White",
-      "trait_type": "Background"
+      "value": "TBD",
+      "trait_type": "Name"
     },
     {
-      "value": "Long Messy",
-      "trait_type": "Hair Style"
+      "value": "Graduate",
+      "trait_type": "Zen"
     },
     {
-      "value": "Light Brown",
-      "trait_type": "Hair Color"
+      "value": "9",
+      "trait_type": "Wisdom"
     },
     {
-      "value": "Goatee",
-      "trait_type": "Facial Hair"
+      "value": "Sales Associate",
+      "trait_type": "Occupation"
     },
     {
-      "value": "Navy Blazer with Striped Shirt and No Tie",
-      "trait_type": "Top"
+      "value": "Watched a hacking tutorial video by a 13 year old",
+      "trait_type": "Hacking"
     },
     {
-      "value": "Blue Denim",
-      "trait_type": "Bottom"
+      "value": "8",
+      "trait_type": "Intelligence"
     },
     {
-      "value": "Tan Suede Workboot with Tan Sole",
-      "trait_type": "Footwear"
+      "value": "4981",
+      "trait_type": "Social Media Followers"
+    },
+    {
+      "value": "8",
+      "trait_type": "Charisma"
+    },
+    {
+      "value": "Bicycle With Its Seat Missing",
+      "trait_type": "Transportation"
+    },
+    {
+      "value": "2",
+      "trait_type": "Dexterity"
+    },
+    {
+      "value": "22576",
+      "trait_type": "Salary"
+    },
+    {
+      "value": "6",
+      "trait_type": "Strength"
+    },
+    {
+      "value": "739",
+      "trait_type": "Credit Score"
+    },
+    {
+      "value": "12",
+      "trait_type": "Constitution"
+    },
+    {
+      "value": "1",
+      "trait_type": "Votes"
+    },
+    {
+      "value": "1",
+      "trait_type": "Generation"
     },
     {
       "value": "",
-      "trait_type": "Ring"
+      "trait_type": "Accessories"
     },
     {
       "value": "",
-      "trait_type": "Headwear"
+      "trait_type": "Piercings"
     },
     {
       "value": "Rosegold Aviators",
@@ -48,11 +84,39 @@
     },
     {
       "value": "",
-      "trait_type": "Piercings"
+      "trait_type": "Headwear"
     },
     {
       "value": "",
-      "trait_type": "Accessories"
+      "trait_type": "Ring"
+    },
+    {
+      "value": "Tan Suede Workboot with Tan Sole",
+      "trait_type": "Footwear"
+    },
+    {
+      "value": "Blue Denim",
+      "trait_type": "Bottom"
+    },
+    {
+      "value": "Navy Blazer with Striped Shirt and No Tie",
+      "trait_type": "Top"
+    },
+    {
+      "value": "Goatee",
+      "trait_type": "Facial Hair"
+    },
+    {
+      "value": "Light Brown",
+      "trait_type": "Hair Color"
+    },
+    {
+      "value": "Long Messy",
+      "trait_type": "Hair Style"
+    },
+    {
+      "value": "White Light Rain",
+      "trait_type": "Background"
     }
   ]
 }

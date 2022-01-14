@@ -1,58 +1,150 @@
 {
   "owners": 0,
   "likes": 0,
-  "contractAddress": "0x39ceaa47306381b6d79ad46af0f36bc5332386f2",
+  "contractAddress": "0x28e4b03bc88b59d25f3467b2252b66d4b2c43286",
   "tokenId": "1628",
   "name": "Matrix Avatar #1628",
-  "image": "https://media.niftys.com/nfts/matrix/media/ckw6zra4m18273fa739n1t9mgd.png",
+  "image": "https://media.niftys.com/nfts/matrix/media/ckx9jfwzw34328zx73dcbeisyp.png",
   "attributes": [
     {
-      "value": "White",
-      "trait_type": "Background"
+      "value": "Yes",
+      "trait_type": "Headjack"
     },
     {
-      "value": "Long Afro",
-      "trait_type": "Hair Style"
+      "value": "Small Arrows",
+      "trait_type": "Bicep Tattoo"
     },
     {
-      "value": "Black",
-      "trait_type": "Hair Color"
+      "value": "None",
+      "trait_type": "Name"
     },
     {
-      "value": "",
-      "trait_type": "Facial Hair"
-    },
-    {
-      "value": "Olive Oxford with Tie",
+      "value": "Black Cotton Tank",
       "trait_type": "Top"
     },
     {
-      "value": "Khaki Slacks",
+      "value": "Sierpiński Triangle",
+      "trait_type": "Forearm Tattoo"
+    },
+    {
+      "value": "Black Short Sai",
+      "trait_type": "Left Hand Accessory"
+    },
+    {
+      "value": "People smile back at you",
+      "trait_type": "Persuasion"
+    },
+    {
+      "value": "Black Cotton Leggings",
       "trait_type": "Bottom"
     },
     {
-      "value": "Tan Suede Workboot with Tan Sole",
+      "value": "Leads when no one else will",
+      "trait_type": "Will"
+    },
+    {
+      "value": "Black Knee High Leather Boots",
       "trait_type": "Footwear"
     },
     {
-      "value": "",
-      "trait_type": "Ring"
-    },
-    {
-      "value": "",
-      "trait_type": "Headwear"
-    },
-    {
-      "value": "",
+      "value": "Black Futurist with Black Lens",
       "trait_type": "Glasses"
+    },
+    {
+      "value": "Can walk and chew gum AT THE SAME TIME (good job!)",
+      "trait_type": "Movement"
+    },
+    {
+      "value": "Can see around corners",
+      "trait_type": "Perception"
+    },
+    {
+      "value": "Paper hands",
+      "trait_type": "Power"
+    },
+    {
+      "value": "Accepting the impermanence of things",
+      "trait_type": "Awareness"
+    },
+    {
+      "value": "6",
+      "trait_type": "Charisma"
+    },
+    {
+      "value": "11",
+      "trait_type": "Wisdom"
+    },
+    {
+      "value": "11",
+      "trait_type": "Intelligence"
+    },
+    {
+      "value": "4",
+      "trait_type": "Dexterity"
+    },
+    {
+      "value": "16",
+      "trait_type": "Constitution"
+    },
+    {
+      "value": "1",
+      "trait_type": "Strength"
+    },
+    {
+      "value": "1",
+      "trait_type": "Votes"
+    },
+    {
+      "value": "1",
+      "trait_type": "Generation"
+    },
+    {
+      "value": "",
+      "trait_type": "Right Hand Accessory"
+    },
+    {
+      "value": "",
+      "trait_type": "Front Neck Tattoo"
+    },
+    {
+      "value": "",
+      "trait_type": "Side Neck Tattoo"
     },
     {
       "value": "",
       "trait_type": "Piercings"
     },
     {
-      "value": "Black Smartphone",
-      "trait_type": "Accessories"
+      "value": "",
+      "trait_type": "Neckwear"
+    },
+    {
+      "value": "",
+      "trait_type": "Wristwear"
+    },
+    {
+      "value": "Scowl",
+      "trait_type": "Facial Expression"
+    },
+    {
+      "value": "",
+      "trait_type": "Facial Hair"
+    },
+    {
+      "value": "Neon Red",
+      "trait_type": "Hair Dye"
+    },
+    {
+      "value": "Black",
+      "trait_type": "Hair Color"
+    },
+    {
+      "value": "Long Afro",
+      "trait_type": "Hair Style"
+    },
+    {
+      "value": "Light Rain",
+      "trait_type": "Background"
     }
   ]
 }

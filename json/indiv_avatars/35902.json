@@ -1,58 +1,122 @@
 {
   "owners": 0,
   "likes": 0,
-  "contractAddress": "0x39ceaa47306381b6d79ad46af0f36bc5332386f2",
+  "contractAddress": "0x423e540cb46db0e4df1ac96bcbddf78a804647d8",
   "tokenId": "35902",
   "name": "Matrix Avatar #35902",
-  "image": "https://media.niftys.com/nfts/matrix/media/ckw759xe5143739f873l2x5fjv0.png",
+  "image": "https://media.niftys.com/nfts/matrix/media/ckxa8tf8g2267997v73oivte0j9.png",
   "attributes": [
     {
-      "value": "Tan Workers Cap",
+      "value": "Tan Worker\u0027s Cap",
       "trait_type": "Headwear"
     },
     {
-      "value": "Lunchbox",
-      "trait_type": "Accessories"
+      "value": "Teacher",
+      "trait_type": "Zen"
     },
     {
-      "value": "Stud Earring",
-      "trait_type": "Piercings"
+      "value": "None",
+      "trait_type": "Name"
     },
     {
-      "value": "",
-      "trait_type": "Glasses"
+      "value": "Stole a high school computer lab pass",
+      "trait_type": "Hacking"
     },
     {
-      "value": "",
-      "trait_type": "Ring"
+      "value": "Pragmatic Coupe",
+      "trait_type": "Transportation"
     },
     {
-      "value": "Tan Suede Workboot with Tan Sole",
-      "trait_type": "Footwear"
+      "value": "Blockchain Engineer",
+      "trait_type": "Occupation"
     },
     {
-      "value": "Dark-Wash Denim",
-      "trait_type": "Bottom"
-    },
-    {
-      "value": "Red Longsleeve",
-      "trait_type": "Top"
-    },
-    {
-      "value": "Goatee",
-      "trait_type": "Facial Hair"
-    },
-    {
-      "value": "Light Grey",
-      "trait_type": "Hair Color"
+      "value": "White Heavy Rain",
+      "trait_type": "Background"
     },
     {
       "value": "",
       "trait_type": "Hair Style"
     },
     {
-      "value": "White",
-      "trait_type": "Background"
+      "value": "Light Grey",
+      "trait_type": "Hair Color"
+    },
+    {
+      "value": "Goatee",
+      "trait_type": "Facial Hair"
+    },
+    {
+      "value": "Red Longsleeve",
+      "trait_type": "Top"
+    },
+    {
+      "value": "Dark-Wash Denim",
+      "trait_type": "Bottom"
+    },
+    {
+      "value": "Tan Suede Workboot with Tan Sole",
+      "trait_type": "Footwear"
+    },
+    {
+      "value": "",
+      "trait_type": "Ring"
+    },
+    {
+      "value": "",
+      "trait_type": "Glasses"
+    },
+    {
+      "value": "Stud Earring",
+      "trait_type": "Piercings"
+    },
+    {
+      "value": "Lunchbox",
+      "trait_type": "Accessories"
+    },
+    {
+      "value": "1",
+      "trait_type": "Generation"
+    },
+    {
+      "value": "1",
+      "trait_type": "Votes"
+    },
+    {
+      "value": "9",
+      "trait_type": "Constitution"
+    },
+    {
+      "value": "699",
+      "trait_type": "Credit Score"
+    },
+    {
+      "value": "6",
+      "trait_type": "Strength"
+    },
+    {
+      "value": "22576",
+      "trait_type": "Salary"
+    },
+    {
+      "value": "10",
+      "trait_type": "Dexterity"
+    },
+    {
+      "value": "3",
+      "trait_type": "Charisma"
+    },
+    {
+      "value": "51",
+      "trait_type": "Social Media Followers"
+    },
+    {
+      "value": "12",
+      "trait_type": "Intelligence"
+    },
+    {
+      "value": "11",
+      "trait_type": "Wisdom"
     }
   ]
 }

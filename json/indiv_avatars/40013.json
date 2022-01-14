@@ -7,32 +7,20 @@
   "image": "https://media.niftys.com/nfts/matrix/media/ckw793i4h230805f873dgq9itpx.png",
   "attributes": [
     {
-      "value": "White",
-      "trait_type": "Background"
+      "value": "Dark Gray Cardigan with Beige Oxford and No Tie",
+      "trait_type": "Top"
     },
     {
-      "value": "Long Afro",
-      "trait_type": "Hair Style"
+      "value": "Lunchbox",
+      "trait_type": "Accessories"
     },
     {
-      "value": "Dark Brown",
-      "trait_type": "Hair Color"
-    },
-    {
-      "value": "",
-      "trait_type": "Facial Hair"
-    },
-    {
-      "value": "Charcoal Slacks",
-      "trait_type": "Bottom"
-    },
-    {
-      "value": "White Leather Sneaker with Grey Sole",
-      "trait_type": "Footwear"
+      "value": "Stud Earring",
+      "trait_type": "Piercings"
     },
     {
       "value": "",
-      "trait_type": "Ring"
+      "trait_type": "Glasses"
     },
     {
       "value": "",
@@ -40,19 +28,31 @@
     },
     {
       "value": "",
-      "trait_type": "Glasses"
+      "trait_type": "Ring"
     },
     {
-      "value": "Stud Earring",
-      "trait_type": "Piercings"
+      "value": "White Leather Sneaker with Grey Sole",
+      "trait_type": "Footwear"
     },
     {
-      "value": "Lunchbox",
-      "trait_type": "Accessories"
+      "value": "Charcoal Slacks",
+      "trait_type": "Bottom"
     },
     {
-      "value": "Dark Gray Cardigan with Beige Oxford Shirt",
-      "trait_type": "Top"
+      "value": "",
+      "trait_type": "Facial Hair"
+    },
+    {
+      "value": "Dark Brown",
+      "trait_type": "Hair Color"
+    },
+    {
+      "value": "Long Afro",
+      "trait_type": "Hair Style"
+    },
+    {
+      "value": "White",
+      "trait_type": "Background"
     }
   ]
 }

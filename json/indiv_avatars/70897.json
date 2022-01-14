@@ -1,46 +1,102 @@
 {
   "owners": 0,
   "likes": 0,
-  "contractAddress": "0x39ceaa47306381b6d79ad46af0f36bc5332386f2",
+  "contractAddress": "0x28e4b03bc88b59d25f3467b2252b66d4b2c43286",
   "tokenId": "70897",
   "name": "Matrix Avatar #70897",
-  "image": "https://media.niftys.com/nfts/matrix/media/ckw7cfqpn303365f473jat4w60q.png",
+  "image": "https://media.niftys.com/nfts/matrix/media/ckx9xw867543628zr73ehfi37p9.png",
   "attributes": [
     {
-      "value": "White",
-      "trait_type": "Background"
+      "value": "Katana with Black Handle and White Blade",
+      "trait_type": "Left Hand Accessory"
     },
     {
-      "value": "Short Pixie",
-      "trait_type": "Hair Style"
+      "value": "Self-induced illusions fade",
+      "trait_type": "Awareness"
     },
     {
-      "value": "Black",
-      "trait_type": "Hair Color"
+      "value": "Glossophobia",
+      "trait_type": "Persuasion"
     },
     {
-      "value": "Stubble",
-      "trait_type": "Facial Hair"
+      "value": "4",
+      "trait_type": "Charisma"
     },
     {
-      "value": "Khaki Oxford with Buttons",
-      "trait_type": "Top"
+      "value": "8",
+      "trait_type": "Wisdom"
     },
     {
-      "value": "Dark-Wash Denim",
-      "trait_type": "Bottom"
+      "value": "You\u0027ve got a bad feeling about this",
+      "trait_type": "Perception"
     },
     {
-      "value": "White Leather Sneaker with Grey Sole",
-      "trait_type": "Footwear"
+      "value": "9",
+      "trait_type": "Intelligence"
+    },
+    {
+      "value": "Can walk and chew gum AT THE SAME TIME (good job!)",
+      "trait_type": "Movement"
+    },
+    {
+      "value": "4",
+      "trait_type": "Dexterity"
+    },
+    {
+      "value": "Steps forward as others flee",
+      "trait_type": "Will"
+    },
+    {
+      "value": "13",
+      "trait_type": "Constitution"
+    },
+    {
+      "value": "Scrappy",
+      "trait_type": "Power"
+    },
+    {
+      "value": "5",
+      "trait_type": "Strength"
+    },
+    {
+      "value": "TBD",
+      "trait_type": "Name"
+    },
+    {
+      "value": "1",
+      "trait_type": "Votes"
+    },
+    {
+      "value": "1",
+      "trait_type": "Generation"
+    },
+    {
+      "value": "Yes",
+      "trait_type": "Headjack"
     },
     {
       "value": "",
-      "trait_type": "Ring"
+      "trait_type": "Right Hand Accessory"
     },
     {
       "value": "",
-      "trait_type": "Headwear"
+      "trait_type": "Front Neck Tattoo"
+    },
+    {
+      "value": "",
+      "trait_type": "Side Neck Tattoo"
+    },
+    {
+      "value": "",
+      "trait_type": "Forearm Tattoo"
+    },
+    {
+      "value": "",
+      "trait_type": "Bicep Tattoo"
+    },
+    {
+      "value": "",
+      "trait_type": "Piercings"
     },
     {
       "value": "",
@@ -48,11 +104,47 @@
     },
     {
       "value": "",
-      "trait_type": "Piercings"
+      "trait_type": "Neckwear"
     },
     {
-      "value": "Black Smartphone",
-      "trait_type": "Accessories"
+      "value": "",
+      "trait_type": "Wristwear"
+    },
+    {
+      "value": "Black Patent Leather Neo Combat Boot",
+      "trait_type": "Footwear"
+    },
+    {
+      "value": "White Cotton Wool Slacks with Buckles",
+      "trait_type": "Bottom"
+    },
+    {
+      "value": "Black Leather Trench Coat with White Cotton Oxford and Black Tie",
+      "trait_type": "Top"
+    },
+    {
+      "value": "Meditative",
+      "trait_type": "Facial Expression"
+    },
+    {
+      "value": "",
+      "trait_type": "Facial Hair"
+    },
+    {
+      "value": "Natural",
+      "trait_type": "Hair Dye"
+    },
+    {
+      "value": "Black",
+      "trait_type": "Hair Color"
+    },
+    {
+      "value": "Low Ponytail",
+      "trait_type": "Hair Style"
+    },
+    {
+      "value": "Heavy Rain",
+      "trait_type": "Background"
     }
   ]
 }

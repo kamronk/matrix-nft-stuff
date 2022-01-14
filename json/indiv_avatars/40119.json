@@ -1,14 +1,94 @@
 {
   "owners": 0,
   "likes": 0,
-  "contractAddress": "0x39ceaa47306381b6d79ad46af0f36bc5332386f2",
+  "contractAddress": "0x28e4b03bc88b59d25f3467b2252b66d4b2c43286",
   "tokenId": "40119",
   "name": "Matrix Avatar #40119",
-  "image": "https://media.niftys.com/nfts/matrix/media/ckw75s9xd154500f473sq4l3bdz.png",
+  "image": "https://media.niftys.com/nfts/matrix/media/ckx9psqij283280zr73gt1x7wz8.png",
   "attributes": [
     {
-      "value": "Black Smartphone",
-      "trait_type": "Accessories"
+      "value": "Your significant other\u0027s mom loves you",
+      "trait_type": "Persuasion"
+    },
+    {
+      "value": "Yes",
+      "trait_type": "Headjack"
+    },
+    {
+      "value": "Black Wayfarer with Black Lens",
+      "trait_type": "Glasses"
+    },
+    {
+      "value": "None",
+      "trait_type": "Name"
+    },
+    {
+      "value": "Black Leather Tank",
+      "trait_type": "Top"
+    },
+    {
+      "value": "Stuck in your own head",
+      "trait_type": "Awareness"
+    },
+    {
+      "value": "Quiet confidence",
+      "trait_type": "Will"
+    },
+    {
+      "value": "Green Patent Leather Leggins",
+      "trait_type": "Bottom"
+    },
+    {
+      "value": "Katana with White Handle and Silver Blade",
+      "trait_type": "Right Hand Accessory"
+    },
+    {
+      "value": "Getting the hang of it",
+      "trait_type": "Movement"
+    },
+    {
+      "value": "Excellent at reading people",
+      "trait_type": "Perception"
+    },
+    {
+      "value": "Red Leather Combat Cuff Boot",
+      "trait_type": "Footwear"
+    },
+    {
+      "value": "Can take a punch",
+      "trait_type": "Power"
+    },
+    {
+      "value": "Medium Rain",
+      "trait_type": "Background"
+    },
+    {
+      "value": "Short Afro Fade",
+      "trait_type": "Hair Style"
+    },
+    {
+      "value": "Blonde",
+      "trait_type": "Hair Color"
+    },
+    {
+      "value": "Green",
+      "trait_type": "Hair Dye"
+    },
+    {
+      "value": "",
+      "trait_type": "Facial Hair"
+    },
+    {
+      "value": "",
+      "trait_type": "Facial Expression"
+    },
+    {
+      "value": "Thick Leather",
+      "trait_type": "Wristwear"
+    },
+    {
+      "value": "",
+      "trait_type": "Neckwear"
     },
     {
       "value": "",
@@ -16,43 +96,55 @@
     },
     {
       "value": "",
-      "trait_type": "Glasses"
+      "trait_type": "Bicep Tattoo"
     },
     {
       "value": "",
-      "trait_type": "Headwear"
+      "trait_type": "Forearm Tattoo"
     },
     {
       "value": "",
-      "trait_type": "Ring"
-    },
-    {
-      "value": "Redbrown Leather Workboot with Brown Sole",
-      "trait_type": "Footwear"
-    },
-    {
-      "value": "Light-Wash Denim",
-      "trait_type": "Bottom"
-    },
-    {
-      "value": "Olive Oxford with Buttons",
-      "trait_type": "Top"
+      "trait_type": "Side Neck Tattoo"
     },
     {
       "value": "",
-      "trait_type": "Facial Hair"
+      "trait_type": "Front Neck Tattoo"
     },
     {
-      "value": "Blonde",
-      "trait_type": "Hair Color"
+      "value": "Phone",
+      "trait_type": "Left Hand Accessory"
     },
     {
-      "value": "Straight Sideswept Fringe",
-      "trait_type": "Hair Style"
+      "value": "1",
+      "trait_type": "Generation"
     },
     {
-      "value": "White",
-      "trait_type": "Background"
+      "value": "1",
+      "trait_type": "Votes"
+    },
+    {
+      "value": "3",
+      "trait_type": "Strength"
+    },
+    {
+      "value": "10",
+      "trait_type": "Constitution"
+    },
+    {
+      "value": "5",
+      "trait_type": "Dexterity"
+    },
+    {
+      "value": "8",
+      "trait_type": "Intelligence"
+    },
+    {
+      "value": "3",
+      "trait_type": "Wisdom"
+    },
+    {
+      "value": "8",
+      "trait_type": "Charisma"
     }
   ]
 }

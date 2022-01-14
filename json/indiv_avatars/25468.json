@@ -1,58 +1,122 @@
 {
   "owners": 0,
   "likes": 0,
-  "contractAddress": "0x39ceaa47306381b6d79ad46af0f36bc5332386f2",
+  "contractAddress": "0x423e540cb46db0e4df1ac96bcbddf78a804647d8",
   "tokenId": "25468",
   "name": "Matrix Avatar #25468",
-  "image": "https://media.niftys.com/nfts/matrix/media/ckw74gos1124369f47376572tn8.png",
+  "image": "https://media.niftys.com/nfts/matrix/media/ckxa7ytxs2032897r73uqa27r6m.png",
   "attributes": [
     {
-      "value": "White",
-      "trait_type": "Background"
+      "value": "TBD",
+      "trait_type": "Name"
     },
     {
-      "value": "Buzz Cut",
-      "trait_type": "Hair Style"
+      "value": "Guru",
+      "trait_type": "Zen"
     },
     {
-      "value": "Black",
-      "trait_type": "Hair Color"
+      "value": "15",
+      "trait_type": "Wisdom"
     },
     {
-      "value": "",
-      "trait_type": "Facial Hair"
+      "value": "Utility Worker",
+      "trait_type": "Occupation"
     },
     {
-      "value": "Khaki Oxford with Pocket",
-      "trait_type": "Top"
+      "value": "Stole a high school computer lab pass",
+      "trait_type": "Hacking"
     },
     {
-      "value": "Gray Slacks",
-      "trait_type": "Bottom"
+      "value": "12",
+      "trait_type": "Intelligence"
     },
     {
-      "value": "Brown Leather Shoes with Laces",
-      "trait_type": "Footwear"
+      "value": "1654535",
+      "trait_type": "Social Media Followers"
     },
     {
-      "value": "",
-      "trait_type": "Ring"
+      "value": "14",
+      "trait_type": "Charisma"
     },
     {
-      "value": "Black Books",
-      "trait_type": "Glasses"
+      "value": "Pragmatic Coupe",
+      "trait_type": "Transportation"
     },
     {
-      "value": "",
-      "trait_type": "Piercings"
+      "value": "10",
+      "trait_type": "Dexterity"
+    },
+    {
+      "value": "52968",
+      "trait_type": "Salary"
+    },
+    {
+      "value": "8",
+      "trait_type": "Strength"
+    },
+    {
+      "value": "355",
+      "trait_type": "Credit Score"
+    },
+    {
+      "value": "2",
+      "trait_type": "Constitution"
+    },
+    {
+      "value": "1",
+      "trait_type": "Votes"
+    },
+    {
+      "value": "1",
+      "trait_type": "Generation"
     },
     {
       "value": "Black Smartphone",
       "trait_type": "Accessories"
     },
     {
-      "value": "Navy Blue Workers Cap",
+      "value": "",
+      "trait_type": "Piercings"
+    },
+    {
+      "value": "Black Books",
+      "trait_type": "Glasses"
+    },
+    {
+      "value": "Navy Blue Worker\u0027s Cap",
       "trait_type": "Headwear"
+    },
+    {
+      "value": "",
+      "trait_type": "Ring"
+    },
+    {
+      "value": "Brown Leather Shoes with Laces",
+      "trait_type": "Footwear"
+    },
+    {
+      "value": "Gray Slacks",
+      "trait_type": "Bottom"
+    },
+    {
+      "value": "Khaki Oxford with Pocket",
+      "trait_type": "Top"
+    },
+    {
+      "value": "",
+      "trait_type": "Facial Hair"
+    },
+    {
+      "value": "Black",
+      "trait_type": "Hair Color"
+    },
+    {
+      "value": "Buzz Cut",
+      "trait_type": "Hair Style"
+    },
+    {
+      "value": "White Medium Rain",
+      "trait_type": "Background"
     }
   ]
 }

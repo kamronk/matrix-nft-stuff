@@ -1,46 +1,82 @@
 {
   "owners": 0,
   "likes": 0,
-  "contractAddress": "0x39ceaa47306381b6d79ad46af0f36bc5332386f2",
+  "contractAddress": "0x423e540cb46db0e4df1ac96bcbddf78a804647d8",
   "tokenId": "57549",
   "name": "Matrix Avatar #57549",
-  "image": "https://media.niftys.com/nfts/matrix/media/ckw79vfx9244643fa73jj2uqry8.png",
+  "image": "https://media.niftys.com/nfts/matrix/media/ckxad7uab3787287x73iytchjy0.png",
   "attributes": [
     {
-      "value": "White",
-      "trait_type": "Background"
+      "value": "None",
+      "trait_type": "Name"
     },
     {
-      "value": "Short Coil",
-      "trait_type": "Hair Style"
+      "value": "Stretch Limo With a Stocked Bar",
+      "trait_type": "Transportation"
     },
     {
-      "value": "Light Grey",
-      "trait_type": "Hair Color"
+      "value": "Sales Associate",
+      "trait_type": "Occupation"
     },
     {
-      "value": "Stubble",
-      "trait_type": "Facial Hair"
+      "value": "Read the Bitcoin white paper twice",
+      "trait_type": "Hacking"
     },
     {
-      "value": "Khaki Oxford with Tie and Pocket",
-      "trait_type": "Top"
+      "value": "Disciple",
+      "trait_type": "Zen"
     },
     {
-      "value": "Gray Slacks",
-      "trait_type": "Bottom"
+      "value": "10",
+      "trait_type": "Wisdom"
     },
     {
-      "value": "Black Suede Chelseas with Brown Sole",
-      "trait_type": "Footwear"
+      "value": "10",
+      "trait_type": "Intelligence"
+    },
+    {
+      "value": "51",
+      "trait_type": "Social Media Followers"
+    },
+    {
+      "value": "3",
+      "trait_type": "Charisma"
+    },
+    {
+      "value": "17",
+      "trait_type": "Dexterity"
+    },
+    {
+      "value": "303303",
+      "trait_type": "Salary"
+    },
+    {
+      "value": "13",
+      "trait_type": "Strength"
+    },
+    {
+      "value": "610",
+      "trait_type": "Credit Score"
+    },
+    {
+      "value": "7",
+      "trait_type": "Constitution"
+    },
+    {
+      "value": "1",
+      "trait_type": "Votes"
+    },
+    {
+      "value": "1",
+      "trait_type": "Generation"
+    },
+    {
+      "value": "Brown Leather Briefcase",
+      "trait_type": "Accessories"
     },
     {
       "value": "",
-      "trait_type": "Ring"
-    },
-    {
-      "value": "",
-      "trait_type": "Headwear"
+      "trait_type": "Piercings"
     },
     {
       "value": "",
@@ -48,11 +84,39 @@
     },
     {
       "value": "",
-      "trait_type": "Piercings"
+      "trait_type": "Headwear"
     },
     {
-      "value": "Brown Leather Briefcase",
-      "trait_type": "Accessories"
+      "value": "",
+      "trait_type": "Ring"
+    },
+    {
+      "value": "Black Suede Chelseas with Brown Sole",
+      "trait_type": "Footwear"
+    },
+    {
+      "value": "Gray Slacks",
+      "trait_type": "Bottom"
+    },
+    {
+      "value": "Khaki Oxford with Tie and Pocket",
+      "trait_type": "Top"
+    },
+    {
+      "value": "Stubble",
+      "trait_type": "Facial Hair"
+    },
+    {
+      "value": "Light Grey",
+      "trait_type": "Hair Color"
+    },
+    {
+      "value": "Short Coil",
+      "trait_type": "Hair Style"
+    },
+    {
+      "value": "White Light Rain",
+      "trait_type": "Background"
     }
   ]
 }

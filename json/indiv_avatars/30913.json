@@ -1,58 +1,150 @@
 {
   "owners": 0,
   "likes": 0,
-  "contractAddress": "0x39ceaa47306381b6d79ad46af0f36bc5332386f2",
+  "contractAddress": "0x28e4b03bc88b59d25f3467b2252b66d4b2c43286",
   "tokenId": "30913",
   "name": "Matrix Avatar #30913",
-  "image": "https://media.niftys.com/nfts/matrix/media/ckw74ot6o128987f373iou44cdx.png",
+  "image": "https://media.niftys.com/nfts/matrix/media/ckx9onp2v240538zq731go2lxn1.png",
   "attributes": [
     {
-      "value": "White",
-      "trait_type": "Background"
+      "value": "You\u0027re a bit of a charmer",
+      "trait_type": "Persuasion"
     },
     {
-      "value": "Short Updo",
-      "trait_type": "Hair Style"
+      "value": "Yes",
+      "trait_type": "Headjack"
     },
     {
-      "value": "Black",
-      "trait_type": "Hair Color"
-    },
-    {
-      "value": "Stubble",
-      "trait_type": "Facial Hair"
-    },
-    {
-      "value": "Navy Jumpsuit",
+      "value": "Red Cotton Mandarin Tunic",
       "trait_type": "Top"
     },
     {
-      "value": "",
+      "value": "True grit",
+      "trait_type": "Will"
+    },
+    {
+      "value": "None",
+      "trait_type": "Name"
+    },
+    {
+      "value": "Black Arm Pole",
+      "trait_type": "Left Hand Accessory"
+    },
+    {
+      "value": "Black Leather Leggings",
       "trait_type": "Bottom"
     },
     {
-      "value": "Redbrown Leather Workboot with Brown Sole",
+      "value": "Black Earrings",
+      "trait_type": "Piercings"
+    },
+    {
+      "value": "Green Leather Combat Cuff Boot",
       "trait_type": "Footwear"
     },
     {
-      "value": "",
-      "trait_type": "Ring"
+      "value": "Can see around corners",
+      "trait_type": "Perception"
+    },
+    {
+      "value": "A gelatinous blob",
+      "trait_type": "Movement"
+    },
+    {
+      "value": "Equality Sign",
+      "trait_type": "Side Neck Tattoo"
+    },
+    {
+      "value": "Your grandma beats you at arm-wrestling",
+      "trait_type": "Power"
+    },
+    {
+      "value": "Self-induced illusions fade",
+      "trait_type": "Awareness"
+    },
+    {
+      "value": "7",
+      "trait_type": "Charisma"
+    },
+    {
+      "value": "8",
+      "trait_type": "Wisdom"
+    },
+    {
+      "value": "11",
+      "trait_type": "Intelligence"
+    },
+    {
+      "value": "1",
+      "trait_type": "Dexterity"
+    },
+    {
+      "value": "9",
+      "trait_type": "Constitution"
+    },
+    {
+      "value": "2",
+      "trait_type": "Strength"
+    },
+    {
+      "value": "1",
+      "trait_type": "Votes"
+    },
+    {
+      "value": "1",
+      "trait_type": "Generation"
     },
     {
       "value": "",
-      "trait_type": "Headwear"
+      "trait_type": "Right Hand Accessory"
+    },
+    {
+      "value": "",
+      "trait_type": "Front Neck Tattoo"
+    },
+    {
+      "value": "",
+      "trait_type": "Forearm Tattoo"
+    },
+    {
+      "value": "",
+      "trait_type": "Bicep Tattoo"
     },
     {
       "value": "",
       "trait_type": "Glasses"
     },
     {
-      "value": "Stud Earring",
-      "trait_type": "Piercings"
+      "value": "",
+      "trait_type": "Neckwear"
     },
     {
       "value": "",
-      "trait_type": "Accessories"
+      "trait_type": "Wristwear"
+    },
+    {
+      "value": "Scowl",
+      "trait_type": "Facial Expression"
+    },
+    {
+      "value": "",
+      "trait_type": "Facial Hair"
+    },
+    {
+      "value": "Natural",
+      "trait_type": "Hair Dye"
+    },
+    {
+      "value": "Black",
+      "trait_type": "Hair Color"
+    },
+    {
+      "value": "Short Pixie",
+      "trait_type": "Hair Style"
+    },
+    {
+      "value": "Medium Rain",
+      "trait_type": "Background"
     }
   ]
 }

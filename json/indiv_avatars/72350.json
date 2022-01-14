@@ -1,58 +1,150 @@
 {
   "owners": 0,
   "likes": 0,
-  "contractAddress": "0x39ceaa47306381b6d79ad46af0f36bc5332386f2",
+  "contractAddress": "0x28e4b03bc88b59d25f3467b2252b66d4b2c43286",
   "tokenId": "72350",
   "name": "Matrix Avatar #72350",
-  "image": "https://media.niftys.com/nfts/matrix/media/ckw7bj8vg281565f1731q3rog5w.png",
+  "image": "https://media.niftys.com/nfts/matrix/media/ckx9wo6u3510972zo73f4q7dvwl.png",
   "attributes": [
     {
-      "value": "White",
-      "trait_type": "Background"
+      "value": "You come in like a wrecking ball",
+      "trait_type": "Power"
     },
     {
-      "value": "Short Afro Fade",
-      "trait_type": "Hair Style"
+      "value": "Yes",
+      "trait_type": "Headjack"
     },
     {
-      "value": "Light Brown",
-      "trait_type": "Hair Color"
+      "value": "None",
+      "trait_type": "Name"
     },
     {
-      "value": "",
-      "trait_type": "Facial Hair"
-    },
-    {
-      "value": "Tan Blazer with Off-White Shirt and No Tie",
+      "value": "Charcoal Leather Longsleeve Crew",
       "trait_type": "Top"
     },
     {
-      "value": "Light-Wash Denim",
-      "trait_type": "Bottom"
+      "value": "Learning to regulate emotions",
+      "trait_type": "Awareness"
     },
     {
-      "value": "Black Suede Chelseas with Brown Sole",
+      "value": "Last one standing",
+      "trait_type": "Will"
+    },
+    {
+      "value": "Black Knee High Leather Boots",
       "trait_type": "Footwear"
     },
     {
-      "value": "",
-      "trait_type": "Ring"
+      "value": "Katana with Black Handle and Silver Blade",
+      "trait_type": "Left Hand Accessory"
     },
     {
-      "value": "",
-      "trait_type": "Headwear"
+      "value": "Glossophobia",
+      "trait_type": "Persuasion"
     },
     {
-      "value": "",
+      "value": "Round Black with Black Lens",
       "trait_type": "Glasses"
+    },
+    {
+      "value": "Can smell fear",
+      "trait_type": "Perception"
+    },
+    {
+      "value": "Red Leather Pants with Buckles",
+      "trait_type": "Bottom"
+    },
+    {
+      "value": "Always picked first",
+      "trait_type": "Movement"
+    },
+    {
+      "value": "4",
+      "trait_type": "Charisma"
+    },
+    {
+      "value": "9",
+      "trait_type": "Wisdom"
+    },
+    {
+      "value": "14",
+      "trait_type": "Intelligence"
+    },
+    {
+      "value": "8",
+      "trait_type": "Dexterity"
+    },
+    {
+      "value": "14",
+      "trait_type": "Constitution"
+    },
+    {
+      "value": "11",
+      "trait_type": "Strength"
+    },
+    {
+      "value": "1",
+      "trait_type": "Votes"
+    },
+    {
+      "value": "1",
+      "trait_type": "Generation"
+    },
+    {
+      "value": "",
+      "trait_type": "Right Hand Accessory"
+    },
+    {
+      "value": "",
+      "trait_type": "Front Neck Tattoo"
+    },
+    {
+      "value": "",
+      "trait_type": "Side Neck Tattoo"
+    },
+    {
+      "value": "",
+      "trait_type": "Forearm Tattoo"
+    },
+    {
+      "value": "",
+      "trait_type": "Bicep Tattoo"
     },
     {
       "value": "",
       "trait_type": "Piercings"
     },
     {
-      "value": "Brown Leather Briefcase",
-      "trait_type": "Accessories"
+      "value": "Leather Choker",
+      "trait_type": "Neckwear"
+    },
+    {
+      "value": "Studded Leather",
+      "trait_type": "Wristwear"
+    },
+    {
+      "value": "Smirk",
+      "trait_type": "Facial Expression"
+    },
+    {
+      "value": "Thin",
+      "trait_type": "Facial Hair"
+    },
+    {
+      "value": "Natural",
+      "trait_type": "Hair Dye"
+    },
+    {
+      "value": "Light Brown",
+      "trait_type": "Hair Color"
+    },
+    {
+      "value": "Medium Curly Bob",
+      "trait_type": "Hair Style"
+    },
+    {
+      "value": "Light Rain",
+      "trait_type": "Background"
     }
   ]
 }

@@ -1,46 +1,82 @@
 {
   "owners": 0,
   "likes": 0,
-  "contractAddress": "0x39ceaa47306381b6d79ad46af0f36bc5332386f2",
+  "contractAddress": "0x423e540cb46db0e4df1ac96bcbddf78a804647d8",
   "tokenId": "27686",
   "name": "Matrix Avatar #27686",
-  "image": "https://media.niftys.com/nfts/matrix/media/ckw73pjli108208f873l8ti88s1.png",
+  "image": "https://media.niftys.com/nfts/matrix/media/ckxa6vnwk1720407v73ow8cwvyr.png",
   "attributes": [
     {
-      "value": "White",
-      "trait_type": "Background"
+      "value": "Teacher",
+      "trait_type": "Zen"
     },
     {
-      "value": "Long Messy",
-      "trait_type": "Hair Style"
+      "value": "11",
+      "trait_type": "Wisdom"
     },
     {
-      "value": "Light Brown",
-      "trait_type": "Hair Color"
+      "value": "NFT Collector",
+      "trait_type": "Occupation"
     },
     {
-      "value": "Stubble",
-      "trait_type": "Facial Hair"
+      "value": "Subscribed to 2600",
+      "trait_type": "Hacking"
     },
     {
-      "value": "Olive Cardigan with Off-White Oxford Shirt",
-      "trait_type": "Top"
+      "value": "11",
+      "trait_type": "Intelligence"
     },
     {
-      "value": "Navy Slacks",
-      "trait_type": "Bottom"
+      "value": "777",
+      "trait_type": "Social Media Followers"
     },
     {
-      "value": "Black Leather Shoes with Laces",
-      "trait_type": "Footwear"
+      "value": "6",
+      "trait_type": "Charisma"
+    },
+    {
+      "value": "Pragmatic Coupe",
+      "trait_type": "Transportation"
+    },
+    {
+      "value": "10",
+      "trait_type": "Dexterity"
+    },
+    {
+      "value": "52968",
+      "trait_type": "Salary"
+    },
+    {
+      "value": "8",
+      "trait_type": "Strength"
+    },
+    {
+      "value": "457",
+      "trait_type": "Credit Score"
+    },
+    {
+      "value": "4",
+      "trait_type": "Constitution"
+    },
+    {
+      "value": "TBD",
+      "trait_type": "Name"
+    },
+    {
+      "value": "1",
+      "trait_type": "Votes"
+    },
+    {
+      "value": "1",
+      "trait_type": "Generation"
+    },
+    {
+      "value": "Lunchbox",
+      "trait_type": "Accessories"
     },
     {
       "value": "",
-      "trait_type": "Ring"
-    },
-    {
-      "value": "",
-      "trait_type": "Headwear"
+      "trait_type": "Piercings"
     },
     {
       "value": "",
@@ -48,11 +84,39 @@
     },
     {
       "value": "",
-      "trait_type": "Piercings"
+      "trait_type": "Headwear"
     },
     {
-      "value": "Lunchbox",
-      "trait_type": "Accessories"
+      "value": "",
+      "trait_type": "Ring"
+    },
+    {
+      "value": "Black Leather Shoes with Laces",
+      "trait_type": "Footwear"
+    },
+    {
+      "value": "Navy Slacks",
+      "trait_type": "Bottom"
+    },
+    {
+      "value": "Olive Cardigan with Off-White Oxford Shirt",
+      "trait_type": "Top"
+    },
+    {
+      "value": "Stubble",
+      "trait_type": "Facial Hair"
+    },
+    {
+      "value": "Light Brown",
+      "trait_type": "Hair Color"
+    },
+    {
+      "value": "Long Messy",
+      "trait_type": "Hair Style"
+    },
+    {
+      "value": "White Light Rain",
+      "trait_type": "Background"
     }
   ]
 }

@@ -7,20 +7,32 @@
   "image": "https://media.niftys.com/nfts/matrix/media/ckw70jsw834765f5735mxkb5qu.png",
   "attributes": [
     {
-      "value": "White",
-      "trait_type": "Background"
+      "value": "Brown Leather Briefcase",
+      "trait_type": "Accessories"
     },
     {
-      "value": "Short Afro Fade",
-      "trait_type": "Hair Style"
+      "value": "Stud Earring",
+      "trait_type": "Piercings"
     },
     {
-      "value": "Auburn",
-      "trait_type": "Hair Color"
+      "value": "Black Books",
+      "trait_type": "Glasses"
     },
     {
       "value": "",
-      "trait_type": "Facial Hair"
+      "trait_type": "Headwear"
+    },
+    {
+      "value": "Two Rings",
+      "trait_type": "Ring"
+    },
+    {
+      "value": "Brown Leather Shoes with Laces",
+      "trait_type": "Footwear"
+    },
+    {
+      "value": "",
+      "trait_type": "Bottom"
     },
     {
       "value": "Gray Jumpsuit",
@@ -28,31 +40,19 @@
     },
     {
       "value": "",
-      "trait_type": "Bottom"
+      "trait_type": "Facial Hair"
     },
     {
-      "value": "Brown Leather Shoes with Laces",
-      "trait_type": "Footwear"
+      "value": "Auburn",
+      "trait_type": "Hair Color"
     },
     {
-      "value": "Two Rings",
-      "trait_type": "Ring"
+      "value": "Short Afro Fade",
+      "trait_type": "Hair Style"
     },
     {
-      "value": "",
-      "trait_type": "Headwear"
-    },
-    {
-      "value": "Black Books",
-      "trait_type": "Glasses"
-    },
-    {
-      "value": "Stud Earring",
-      "trait_type": "Piercings"
-    },
-    {
-      "value": "Brown Leather Briefcase",
-      "trait_type": "Accessories"
+      "value": "White",
+      "trait_type": "Background"
     }
   ]
 }

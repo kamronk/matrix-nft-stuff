@@ -7,40 +7,28 @@
   "image": "https://media.niftys.com/nfts/matrix/media/ckw79y2v5247118f673zbhp29jx.png",
   "attributes": [
     {
-      "value": "White",
-      "trait_type": "Background"
-    },
-    {
-      "value": "Short Afro Fade",
-      "trait_type": "Hair Style"
+      "value": "",
+      "trait_type": "Facial Hair"
     },
     {
       "value": "Black",
       "trait_type": "Hair Color"
     },
     {
-      "value": "",
-      "trait_type": "Facial Hair"
+      "value": "Short Afro Fade",
+      "trait_type": "Hair Style"
     },
     {
-      "value": "Tan Blazer with Off-White Shirt and No Tie",
-      "trait_type": "Top"
+      "value": "White",
+      "trait_type": "Background"
     },
     {
-      "value": "Charcoal Slacks",
-      "trait_type": "Bottom"
-    },
-    {
-      "value": "Redbrown Leather Workboot with Brown Sole",
-      "trait_type": "Footwear"
+      "value": "Brown Leather Briefcase",
+      "trait_type": "Accessories"
     },
     {
       "value": "",
-      "trait_type": "Ring"
-    },
-    {
-      "value": "",
-      "trait_type": "Headwear"
+      "trait_type": "Piercings"
     },
     {
       "value": "Black Books",
@@ -48,11 +36,23 @@
     },
     {
       "value": "",
-      "trait_type": "Piercings"
+      "trait_type": "Headwear"
     },
     {
-      "value": "Brown Leather Briefcase",
-      "trait_type": "Accessories"
+      "value": "",
+      "trait_type": "Ring"
+    },
+    {
+      "value": "Redbrown Leather Workboot with Brown Sole",
+      "trait_type": "Footwear"
+    },
+    {
+      "value": "Charcoal Slacks",
+      "trait_type": "Bottom"
+    },
+    {
+      "value": "Tan Blazer with Off-White Shirt and No Tie",
+      "trait_type": "Top"
     }
   ]
 }

@@ -7,6 +7,18 @@
   "image": "https://media.niftys.com/nfts/matrix/media/ckw78mix8218457f473prj1m347.png",
   "attributes": [
     {
+      "value": "Light Brown",
+      "trait_type": "Hair Color"
+    },
+    {
+      "value": "Short Updo",
+      "trait_type": "Hair Style"
+    },
+    {
+      "value": "White",
+      "trait_type": "Background"
+    },
+    {
       "value": "Brown Leather Briefcase",
       "trait_type": "Accessories"
     },
@@ -41,18 +53,6 @@
     {
       "value": "",
       "trait_type": "Facial Hair"
-    },
-    {
-      "value": "Light Brown",
-      "trait_type": "Hair Color"
-    },
-    {
-      "value": "Short Updo",
-      "trait_type": "Hair Style"
-    },
-    {
-      "value": "White",
-      "trait_type": "Background"
     }
   ]
 }

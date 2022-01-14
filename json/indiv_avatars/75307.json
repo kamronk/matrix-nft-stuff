@@ -1,58 +1,150 @@
 {
   "owners": 0,
   "likes": 0,
-  "contractAddress": "0x39ceaa47306381b6d79ad46af0f36bc5332386f2",
+  "contractAddress": "0x28e4b03bc88b59d25f3467b2252b66d4b2c43286",
   "tokenId": "75307",
   "name": "Matrix Avatar #75307",
-  "image": "https://media.niftys.com/nfts/matrix/media/ckw7bs3ft291548f773jkhas3r7.png",
+  "image": "https://media.niftys.com/nfts/matrix/media/ckx9x136u517940zu73r7nl50kt.png",
   "attributes": [
     {
-      "value": "White",
-      "trait_type": "Background"
+      "value": "You\u0027ve got a bad feeling about this",
+      "trait_type": "Perception"
     },
     {
-      "value": "Short Afro Fade",
-      "trait_type": "Hair Style"
+      "value": "You forgot your mantra",
+      "trait_type": "Awareness"
     },
     {
-      "value": "Black",
-      "trait_type": "Hair Color"
+      "value": "Yes",
+      "trait_type": "Headjack"
     },
     {
-      "value": "",
-      "trait_type": "Facial Hair"
+      "value": "Two left feet",
+      "trait_type": "Movement"
     },
     {
-      "value": "Olive Oxford with Pocket",
+      "value": "Black Cotton Mandarin Tunic",
       "trait_type": "Top"
     },
     {
-      "value": "Navy Slacks",
+      "value": "None",
+      "trait_type": "Name"
+    },
+    {
+      "value": "Surprising resilience",
+      "trait_type": "Will"
+    },
+    {
+      "value": "Dark Wood Staff",
+      "trait_type": "Left Hand Accessory"
+    },
+    {
+      "value": "Square",
+      "trait_type": "Front Neck Tattoo"
+    },
+    {
+      "value": "Red Cotton Leggings",
       "trait_type": "Bottom"
     },
     {
-      "value": "Brown Leather Shoes with Laces",
+      "value": "Black Patent Leather Knee High Boots",
       "trait_type": "Footwear"
     },
     {
-      "value": "",
-      "trait_type": "Ring"
-    },
-    {
-      "value": "",
-      "trait_type": "Headwear"
-    },
-    {
-      "value": "Black Books",
+      "value": "Black Hex with Purple Polarized Lens",
       "trait_type": "Glasses"
+    },
+    {
+      "value": "Everything is always an option",
+      "trait_type": "Persuasion"
+    },
+    {
+      "value": "Can take a punch",
+      "trait_type": "Power"
+    },
+    {
+      "value": "12",
+      "trait_type": "Charisma"
+    },
+    {
+      "value": "5",
+      "trait_type": "Wisdom"
+    },
+    {
+      "value": "9",
+      "trait_type": "Intelligence"
+    },
+    {
+      "value": "3",
+      "trait_type": "Dexterity"
+    },
+    {
+      "value": "8",
+      "trait_type": "Constitution"
+    },
+    {
+      "value": "3",
+      "trait_type": "Strength"
+    },
+    {
+      "value": "1",
+      "trait_type": "Votes"
+    },
+    {
+      "value": "1",
+      "trait_type": "Generation"
+    },
+    {
+      "value": "",
+      "trait_type": "Right Hand Accessory"
+    },
+    {
+      "value": "",
+      "trait_type": "Side Neck Tattoo"
+    },
+    {
+      "value": "",
+      "trait_type": "Forearm Tattoo"
+    },
+    {
+      "value": "",
+      "trait_type": "Bicep Tattoo"
     },
     {
       "value": "",
       "trait_type": "Piercings"
     },
     {
-      "value": "Brown Leather Briefcase",
-      "trait_type": "Accessories"
+      "value": "",
+      "trait_type": "Neckwear"
+    },
+    {
+      "value": "",
+      "trait_type": "Wristwear"
+    },
+    {
+      "value": "",
+      "trait_type": "Facial Expression"
+    },
+    {
+      "value": "Stubble",
+      "trait_type": "Facial Hair"
+    },
+    {
+      "value": "Natural",
+      "trait_type": "Hair Dye"
+    },
+    {
+      "value": "Black",
+      "trait_type": "Hair Color"
+    },
+    {
+      "value": "Short Afro Fade",
+      "trait_type": "Hair Style"
+    },
+    {
+      "value": "Heavy Rain",
+      "trait_type": "Background"
     }
   ]
 }

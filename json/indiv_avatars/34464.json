@@ -1,58 +1,150 @@
 {
   "owners": 0,
   "likes": 0,
-  "contractAddress": "0x39ceaa47306381b6d79ad46af0f36bc5332386f2",
+  "contractAddress": "0x28e4b03bc88b59d25f3467b2252b66d4b2c43286",
   "tokenId": "34464",
   "name": "Matrix Avatar #34464",
-  "image": "https://media.niftys.com/nfts/matrix/media/ckw76ob7w174541f473eht6u7z0.png",
+  "image": "https://media.niftys.com/nfts/matrix/media/ckx9qzc7c318321zr739e9chaq9.png",
   "attributes": [
     {
-      "value": "",
-      "trait_type": "Accessories"
-    },
-    {
-      "value": "Stud Earring",
-      "trait_type": "Piercings"
-    },
-    {
-      "value": "",
+      "value": "Round Silver with Mirror Lens",
       "trait_type": "Glasses"
     },
     {
-      "value": "",
-      "trait_type": "Headwear"
+      "value": "Black Submachine Gun",
+      "trait_type": "Left Hand Accessory"
     },
     {
-      "value": "",
-      "trait_type": "Ring"
-    },
-    {
-      "value": "Black Suede Chelseas with Brown Sole",
+      "value": "Green Leather Combat Cuff Boot",
       "trait_type": "Footwear"
     },
     {
-      "value": "",
-      "trait_type": "Bottom"
-    },
-    {
-      "value": "Denim Jumpsuit",
-      "trait_type": "Top"
-    },
-    {
-      "value": "",
-      "trait_type": "Facial Hair"
-    },
-    {
-      "value": "Dark Brown",
-      "trait_type": "Hair Color"
+      "value": "Light Rain",
+      "trait_type": "Background"
     },
     {
       "value": "Buzz Cut",
       "trait_type": "Hair Style"
     },
     {
-      "value": "White",
-      "trait_type": "Background"
+      "value": "Dark Brown",
+      "trait_type": "Hair Color"
+    },
+    {
+      "value": "Natural",
+      "trait_type": "Hair Dye"
+    },
+    {
+      "value": "Goatee",
+      "trait_type": "Facial Hair"
+    },
+    {
+      "value": "",
+      "trait_type": "Facial Expression"
+    },
+    {
+      "value": "Green Cotton Tank",
+      "trait_type": "Top"
+    },
+    {
+      "value": "Green Cotton Leggings",
+      "trait_type": "Bottom"
+    },
+    {
+      "value": "",
+      "trait_type": "Wristwear"
+    },
+    {
+      "value": "",
+      "trait_type": "Neckwear"
+    },
+    {
+      "value": "",
+      "trait_type": "Piercings"
+    },
+    {
+      "value": "Intersecting Triangles",
+      "trait_type": "Bicep Tattoo"
+    },
+    {
+      "value": "Triforce",
+      "trait_type": "Forearm Tattoo"
+    },
+    {
+      "value": "",
+      "trait_type": "Side Neck Tattoo"
+    },
+    {
+      "value": "",
+      "trait_type": "Front Neck Tattoo"
+    },
+    {
+      "value": "Katana with Black Handle and Silver Blade",
+      "trait_type": "Right Hand Accessory"
+    },
+    {
+      "value": "Yes",
+      "trait_type": "Headjack"
+    },
+    {
+      "value": "1",
+      "trait_type": "Generation"
+    },
+    {
+      "value": "1",
+      "trait_type": "Votes"
+    },
+    {
+      "value": "TBD",
+      "trait_type": "Name"
+    },
+    {
+      "value": "5",
+      "trait_type": "Strength"
+    },
+    {
+      "value": "Scrappy",
+      "trait_type": "Power"
+    },
+    {
+      "value": "8",
+      "trait_type": "Constitution"
+    },
+    {
+      "value": "Surprising resilience",
+      "trait_type": "Will"
+    },
+    {
+      "value": "7",
+      "trait_type": "Dexterity"
+    },
+    {
+      "value": "Running circles around enemies",
+      "trait_type": "Movement"
+    },
+    {
+      "value": "10",
+      "trait_type": "Intelligence"
+    },
+    {
+      "value": "Can hear a bee\u0027s wings",
+      "trait_type": "Perception"
+    },
+    {
+      "value": "9",
+      "trait_type": "Wisdom"
+    },
+    {
+      "value": "Learning to regulate emotions",
+      "trait_type": "Awareness"
+    },
+    {
+      "value": "6",
+      "trait_type": "Charisma"
+    },
+    {
+      "value": "People smile back at you",
+      "trait_type": "Persuasion"
     }
   ]
 }

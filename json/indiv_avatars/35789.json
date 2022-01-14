@@ -1,58 +1,150 @@
 {
   "owners": 0,
   "likes": 0,
-  "contractAddress": "0x39ceaa47306381b6d79ad46af0f36bc5332386f2",
+  "contractAddress": "0x28e4b03bc88b59d25f3467b2252b66d4b2c43286",
   "tokenId": "35789",
   "name": "Matrix Avatar #35789",
-  "image": "https://media.niftys.com/nfts/matrix/media/ckw76puxz174019f173surc941p.png",
+  "image": "https://media.niftys.com/nfts/matrix/media/ckx9qvu8d322854zo73683yhsoj.png",
   "attributes": [
     {
-      "value": "",
-      "trait_type": "Accessories"
+      "value": "Triangle",
+      "trait_type": "Forearm Tattoo"
     },
     {
-      "value": "",
-      "trait_type": "Piercings"
-    },
-    {
-      "value": "Black Books",
-      "trait_type": "Glasses"
-    },
-    {
-      "value": "",
-      "trait_type": "Headwear"
-    },
-    {
-      "value": "",
-      "trait_type": "Ring"
-    },
-    {
-      "value": "Brown Leather Shoes with Laces",
+      "value": "Patent Red Leather Combat Cuff Boot",
       "trait_type": "Footwear"
     },
     {
-      "value": "Dark-Wash Denim",
-      "trait_type": "Bottom"
+      "value": "Light Rain",
+      "trait_type": "Background"
     },
     {
-      "value": "Red Longsleeve",
-      "trait_type": "Top"
-    },
-    {
-      "value": "",
-      "trait_type": "Facial Hair"
+      "value": "Short Afro Fade",
+      "trait_type": "Hair Style"
     },
     {
       "value": "Black",
       "trait_type": "Hair Color"
     },
     {
-      "value": "Short Coil",
-      "trait_type": "Hair Style"
+      "value": "Natural",
+      "trait_type": "Hair Dye"
     },
     {
-      "value": "White",
-      "trait_type": "Background"
+      "value": "",
+      "trait_type": "Facial Hair"
+    },
+    {
+      "value": "",
+      "trait_type": "Facial Expression"
+    },
+    {
+      "value": "Black Cotton Tank",
+      "trait_type": "Top"
+    },
+    {
+      "value": "Black Snakeskin Leggings",
+      "trait_type": "Bottom"
+    },
+    {
+      "value": "",
+      "trait_type": "Wristwear"
+    },
+    {
+      "value": "",
+      "trait_type": "Neckwear"
+    },
+    {
+      "value": "",
+      "trait_type": "Glasses"
+    },
+    {
+      "value": "Gold Nosebridge",
+      "trait_type": "Piercings"
+    },
+    {
+      "value": "Intersecting Triangles",
+      "trait_type": "Bicep Tattoo"
+    },
+    {
+      "value": "Intersecting Squares",
+      "trait_type": "Side Neck Tattoo"
+    },
+    {
+      "value": "",
+      "trait_type": "Front Neck Tattoo"
+    },
+    {
+      "value": "",
+      "trait_type": "Left Hand Accessory"
+    },
+    {
+      "value": "",
+      "trait_type": "Right Hand Accessory"
+    },
+    {
+      "value": "Yes",
+      "trait_type": "Headjack"
+    },
+    {
+      "value": "1",
+      "trait_type": "Generation"
+    },
+    {
+      "value": "1",
+      "trait_type": "Votes"
+    },
+    {
+      "value": "TBD",
+      "trait_type": "Name"
+    },
+    {
+      "value": "6",
+      "trait_type": "Strength"
+    },
+    {
+      "value": "I wouldn\u0027t mess with you",
+      "trait_type": "Power"
+    },
+    {
+      "value": "10",
+      "trait_type": "Constitution"
+    },
+    {
+      "value": "Quiet confidence",
+      "trait_type": "Will"
+    },
+    {
+      "value": "5",
+      "trait_type": "Dexterity"
+    },
+    {
+      "value": "Getting the hang of it",
+      "trait_type": "Movement"
+    },
+    {
+      "value": "11",
+      "trait_type": "Intelligence"
+    },
+    {
+      "value": "Can see around corners",
+      "trait_type": "Perception"
+    },
+    {
+      "value": "12",
+      "trait_type": "Wisdom"
+    },
+    {
+      "value": "Appreciation for the complexity of human behavior",
+      "trait_type": "Awareness"
+    },
+    {
+      "value": "5",
+      "trait_type": "Charisma"
+    },
+    {
+      "value": "Maintains status quo",
+      "trait_type": "Persuasion"
     }
   ]
 }

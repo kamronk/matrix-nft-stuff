@@ -7,36 +7,28 @@
   "image": "https://media.niftys.com/nfts/matrix/media/ckw78q859219427f273zdgh24s4.png",
   "attributes": [
     {
-      "value": "White",
-      "trait_type": "Background"
+      "value": "Black",
+      "trait_type": "Hair Color"
     },
     {
       "value": "Short Messy",
       "trait_type": "Hair Style"
     },
     {
-      "value": "Black",
-      "trait_type": "Hair Color"
+      "value": "White",
+      "trait_type": "Background"
     },
     {
-      "value": "Beard",
-      "trait_type": "Facial Hair"
+      "value": "Black Smartphone",
+      "trait_type": "Accessories"
     },
     {
-      "value": "Khaki Oxford with Tie",
-      "trait_type": "Top"
-    },
-    {
-      "value": "Blue Denim",
-      "trait_type": "Bottom"
-    },
-    {
-      "value": "Brown Leather Shoes with Laces",
-      "trait_type": "Footwear"
+      "value": "Stud Earring",
+      "trait_type": "Piercings"
     },
     {
       "value": "",
-      "trait_type": "Ring"
+      "trait_type": "Glasses"
     },
     {
       "value": "",
@@ -44,15 +36,23 @@
     },
     {
       "value": "",
-      "trait_type": "Glasses"
+      "trait_type": "Ring"
     },
     {
-      "value": "Stud Earring",
-      "trait_type": "Piercings"
+      "value": "Brown Leather Shoes with Laces",
+      "trait_type": "Footwear"
     },
     {
-      "value": "Black Smartphone",
-      "trait_type": "Accessories"
+      "value": "Blue Denim",
+      "trait_type": "Bottom"
+    },
+    {
+      "value": "Khaki Oxford with Tie",
+      "trait_type": "Top"
+    },
+    {
+      "value": "Beard",
+      "trait_type": "Facial Hair"
     }
   ]
 }

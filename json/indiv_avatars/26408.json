@@ -39,6 +39,10 @@
       "trait_type": "Top"
     },
     {
+      "value": "White",
+      "trait_type": "Background"
+    },
+    {
       "value": "",
       "trait_type": "Facial Hair"
     },
@@ -49,10 +53,6 @@
     {
       "value": "",
       "trait_type": "Hair Style"
-    },
-    {
-      "value": "White",
-      "trait_type": "Background"
     }
   ]
 }

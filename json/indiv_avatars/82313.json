@@ -1,14 +1,106 @@
 {
   "owners": 0,
   "likes": 0,
-  "contractAddress": "0x39ceaa47306381b6d79ad46af0f36bc5332386f2",
+  "contractAddress": "0x28e4b03bc88b59d25f3467b2252b66d4b2c43286",
   "tokenId": "82313",
   "name": "Matrix Avatar #82313",
-  "image": "https://media.niftys.com/nfts/matrix/media/ckw6zn48a15537f973qr520vwe.png",
+  "image": "https://media.niftys.com/nfts/matrix/media/ckx9jdahx31329zw73fx1pzlgv.png",
   "attributes": [
     {
-      "value": "Black Smartphone",
-      "trait_type": "Accessories"
+      "value": "Yes",
+      "trait_type": "Headjack"
+    },
+    {
+      "value": "Two left feet",
+      "trait_type": "Movement"
+    },
+    {
+      "value": "None",
+      "trait_type": "Name"
+    },
+    {
+      "value": "Green Cotton Tank",
+      "trait_type": "Top"
+    },
+    {
+      "value": "Dark Wood Staff",
+      "trait_type": "Left Hand Accessory"
+    },
+    {
+      "value": "Interlocking Circles",
+      "trait_type": "Bicep Tattoo"
+    },
+    {
+      "value": "Square",
+      "trait_type": "Forearm Tattoo"
+    },
+    {
+      "value": "Quiet confidence",
+      "trait_type": "Will"
+    },
+    {
+      "value": "Black Cotton Leggings",
+      "trait_type": "Bottom"
+    },
+    {
+      "value": "Silver Gun",
+      "trait_type": "Right Hand Accessory"
+    },
+    {
+      "value": "Glossophobia",
+      "trait_type": "Persuasion"
+    },
+    {
+      "value": "White Futurist with Mirror Lens",
+      "trait_type": "Glasses"
+    },
+    {
+      "value": "Black Snakeskin Combat Cuff Boot",
+      "trait_type": "Footwear"
+    },
+    {
+      "value": "Can see around corners",
+      "trait_type": "Perception"
+    },
+    {
+      "value": "Can put up a fight",
+      "trait_type": "Power"
+    },
+    {
+      "value": "Appreciation for the complexity of human behavior",
+      "trait_type": "Awareness"
+    },
+    {
+      "value": "Medium Rain",
+      "trait_type": "Background"
+    },
+    {
+      "value": "Short Afro Fade",
+      "trait_type": "Hair Style"
+    },
+    {
+      "value": "Black",
+      "trait_type": "Hair Color"
+    },
+    {
+      "value": "Natural",
+      "trait_type": "Hair Dye"
+    },
+    {
+      "value": "",
+      "trait_type": "Facial Hair"
+    },
+    {
+      "value": "Smirk",
+      "trait_type": "Facial Expression"
+    },
+    {
+      "value": "Studded Leather",
+      "trait_type": "Wristwear"
+    },
+    {
+      "value": "",
+      "trait_type": "Neckwear"
     },
     {
       "value": "",
@@ -16,43 +108,43 @@
     },
     {
       "value": "",
-      "trait_type": "Glasses"
+      "trait_type": "Side Neck Tattoo"
     },
     {
       "value": "",
-      "trait_type": "Headwear"
+      "trait_type": "Front Neck Tattoo"
     },
     {
-      "value": "",
-      "trait_type": "Ring"
+      "value": "1",
+      "trait_type": "Generation"
     },
     {
-      "value": "Black Leather Shoes with Laces",
-      "trait_type": "Footwear"
+      "value": "1",
+      "trait_type": "Votes"
     },
     {
-      "value": "Charcoal Slacks",
-      "trait_type": "Bottom"
+      "value": "4",
+      "trait_type": "Strength"
     },
     {
-      "value": "Olive Oxford with Tie",
-      "trait_type": "Top"
+      "value": "10",
+      "trait_type": "Constitution"
     },
     {
-      "value": "",
-      "trait_type": "Facial Hair"
+      "value": "3",
+      "trait_type": "Dexterity"
     },
     {
-      "value": "Black",
-      "trait_type": "Hair Color"
+      "value": "11",
+      "trait_type": "Intelligence"
     },
     {
-      "value": "Short Coil",
-      "trait_type": "Hair Style"
+      "value": "12",
+      "trait_type": "Wisdom"
     },
     {
-      "value": "White",
-      "trait_type": "Background"
+      "value": "4",
+      "trait_type": "Charisma"
     }
   ]
 }

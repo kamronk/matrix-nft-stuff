@@ -1,58 +1,122 @@
 {
   "owners": 0,
   "likes": 0,
-  "contractAddress": "0x39ceaa47306381b6d79ad46af0f36bc5332386f2",
+  "contractAddress": "0x423e540cb46db0e4df1ac96bcbddf78a804647d8",
   "tokenId": "17744",
   "name": "Matrix Avatar #17744",
-  "image": "https://media.niftys.com/nfts/matrix/media/ckw725rih72888f2735q4gjz14.png",
+  "image": "https://media.niftys.com/nfts/matrix/media/ckxa5adrr1274017p73ayav9p0g.png",
   "attributes": [
     {
-      "value": "White",
-      "trait_type": "Background"
+      "value": "None",
+      "trait_type": "Name"
     },
     {
-      "value": "Low Ponytail",
-      "trait_type": "Hair Style"
+      "value": "Pragmatic Coupe",
+      "trait_type": "Transportation"
     },
     {
-      "value": "Dark Brown",
-      "trait_type": "Hair Color"
+      "value": "Disciple",
+      "trait_type": "Zen"
     },
     {
-      "value": "Stubble",
-      "trait_type": "Facial Hair"
+      "value": "Compliance Officer",
+      "trait_type": "Occupation"
     },
     {
-      "value": "Navy Oxford with Pocket",
-      "trait_type": "Top"
+      "value": "Read beginner’s guide to hacking - Y2K edition",
+      "trait_type": "Hacking"
     },
     {
-      "value": "Charcoal Slacks",
-      "trait_type": "Bottom"
+      "value": "10",
+      "trait_type": "Wisdom"
     },
     {
-      "value": "Brown Leather Shoes with Laces",
-      "trait_type": "Footwear"
+      "value": "7",
+      "trait_type": "Intelligence"
     },
     {
-      "value": "",
-      "trait_type": "Ring"
+      "value": "31133",
+      "trait_type": "Social Media Followers"
     },
     {
-      "value": "",
-      "trait_type": "Headwear"
+      "value": "10",
+      "trait_type": "Charisma"
     },
     {
-      "value": "Black Books",
-      "trait_type": "Glasses"
+      "value": "10",
+      "trait_type": "Dexterity"
+    },
+    {
+      "value": "172581",
+      "trait_type": "Salary"
+    },
+    {
+      "value": "12",
+      "trait_type": "Strength"
+    },
+    {
+      "value": "739",
+      "trait_type": "Credit Score"
+    },
+    {
+      "value": "12",
+      "trait_type": "Constitution"
+    },
+    {
+      "value": "1",
+      "trait_type": "Votes"
+    },
+    {
+      "value": "1",
+      "trait_type": "Generation"
+    },
+    {
+      "value": "Blue Lunchbox",
+      "trait_type": "Accessories"
     },
     {
       "value": "Stud Earring",
       "trait_type": "Piercings"
     },
     {
-      "value": "Blue Lunchbox",
-      "trait_type": "Accessories"
+      "value": "Black Books",
+      "trait_type": "Glasses"
+    },
+    {
+      "value": "",
+      "trait_type": "Headwear"
+    },
+    {
+      "value": "",
+      "trait_type": "Ring"
+    },
+    {
+      "value": "Brown Leather Shoes with Laces",
+      "trait_type": "Footwear"
+    },
+    {
+      "value": "Charcoal Slacks",
+      "trait_type": "Bottom"
+    },
+    {
+      "value": "Navy Oxford with Pocket",
+      "trait_type": "Top"
+    },
+    {
+      "value": "Stubble",
+      "trait_type": "Facial Hair"
+    },
+    {
+      "value": "Dark Brown",
+      "trait_type": "Hair Color"
+    },
+    {
+      "value": "Low Ponytail",
+      "trait_type": "Hair Style"
+    },
+    {
+      "value": "White Heavy Rain",
+      "trait_type": "Background"
     }
   ]
 }

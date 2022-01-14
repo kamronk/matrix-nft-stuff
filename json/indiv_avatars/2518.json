@@ -7,40 +7,36 @@
   "image": "https://media.niftys.com/nfts/matrix/media/ckw6zuwd919893f1730zeaz3eb.png",
   "attributes": [
     {
-      "value": "White",
-      "trait_type": "Background"
-    },
-    {
-      "value": "Buzz Cut",
-      "trait_type": "Hair Style"
-    },
-    {
-      "value": "Light Brown",
-      "trait_type": "Hair Color"
-    },
-    {
-      "value": "",
-      "trait_type": "Facial Hair"
+      "value": "Khaki Slacks",
+      "trait_type": "Bottom"
     },
     {
       "value": "Navy Blazer with Striped Shirt and Navy Tie",
       "trait_type": "Top"
     },
     {
-      "value": "Khaki Slacks",
-      "trait_type": "Bottom"
+      "value": "",
+      "trait_type": "Facial Hair"
     },
     {
-      "value": "White Canvas Sneaker with White Sole",
-      "trait_type": "Footwear"
+      "value": "Light Brown",
+      "trait_type": "Hair Color"
+    },
+    {
+      "value": "Buzz Cut",
+      "trait_type": "Hair Style"
+    },
+    {
+      "value": "White",
+      "trait_type": "Background"
     },
     {
       "value": "",
-      "trait_type": "Ring"
+      "trait_type": "Accessories"
     },
     {
       "value": "",
-      "trait_type": "Headwear"
+      "trait_type": "Piercings"
     },
     {
       "value": "Black Books",
@@ -48,11 +44,15 @@
     },
     {
       "value": "",
-      "trait_type": "Piercings"
+      "trait_type": "Headwear"
     },
     {
       "value": "",
-      "trait_type": "Accessories"
+      "trait_type": "Ring"
+    },
+    {
+      "value": "White Canvas Sneaker with White Sole",
+      "trait_type": "Footwear"
     }
   ]
 }

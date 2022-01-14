@@ -7,20 +7,32 @@
   "image": "https://media.niftys.com/nfts/matrix/media/ckw76mmct171849f173hn1di8kr.png",
   "attributes": [
     {
-      "value": "",
-      "trait_type": "Piercings"
+      "value": "Tan Worker\u0027s Cap",
+      "trait_type": "Headwear"
+    },
+    {
+      "value": "Black Books",
+      "trait_type": "Glasses"
+    },
+    {
+      "value": "Two Rings",
+      "trait_type": "Ring"
+    },
+    {
+      "value": "Redbrown Leather Workboot with Brown Sole",
+      "trait_type": "Footwear"
+    },
+    {
+      "value": "Khaki Slacks",
+      "trait_type": "Bottom"
+    },
+    {
+      "value": "Light Gray Longsleeve",
+      "trait_type": "Top"
     },
     {
       "value": "",
-      "trait_type": "Accessories"
-    },
-    {
-      "value": "White",
-      "trait_type": "Background"
-    },
-    {
-      "value": "",
-      "trait_type": "Hair Style"
+      "trait_type": "Facial Hair"
     },
     {
       "value": "Light Brown",
@@ -28,31 +40,19 @@
     },
     {
       "value": "",
-      "trait_type": "Facial Hair"
+      "trait_type": "Hair Style"
     },
     {
-      "value": "Light Gray Longsleeve",
-      "trait_type": "Top"
+      "value": "White",
+      "trait_type": "Background"
     },
     {
-      "value": "Khaki Slacks",
-      "trait_type": "Bottom"
+      "value": "",
+      "trait_type": "Accessories"
     },
     {
-      "value": "Redbrown Leather Workboot with Brown Sole",
-      "trait_type": "Footwear"
-    },
-    {
-      "value": "Two Rings",
-      "trait_type": "Ring"
-    },
-    {
-      "value": "Black Books",
-      "trait_type": "Glasses"
-    },
-    {
-      "value": "Tan Workers Cap",
-      "trait_type": "Headwear"
+      "value": "",
+      "trait_type": "Piercings"
     }
   ]
 }

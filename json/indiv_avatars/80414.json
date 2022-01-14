@@ -7,20 +7,32 @@
   "image": "https://media.niftys.com/nfts/matrix/media/ckw704ohk25209f973rufyeh5g.png",
   "attributes": [
     {
-      "value": "White",
-      "trait_type": "Background"
+      "value": "Purple Worker\u0027s Cap",
+      "trait_type": "Headwear"
+    },
+    {
+      "value": "Brown Leather Briefcase",
+      "trait_type": "Accessories"
+    },
+    {
+      "value": "Stud Earring",
+      "trait_type": "Piercings"
+    },
+    {
+      "value": "Black Books",
+      "trait_type": "Glasses"
+    },
+    {
+      "value": "Two Rings",
+      "trait_type": "Ring"
+    },
+    {
+      "value": "Brown Leather Shoes with Laces",
+      "trait_type": "Footwear"
     },
     {
       "value": "",
-      "trait_type": "Hair Style"
-    },
-    {
-      "value": "Light Brown",
-      "trait_type": "Hair Color"
-    },
-    {
-      "value": "",
-      "trait_type": "Facial Hair"
+      "trait_type": "Bottom"
     },
     {
       "value": "Khaki Jumpsuit",
@@ -28,31 +40,19 @@
     },
     {
       "value": "",
-      "trait_type": "Bottom"
+      "trait_type": "Facial Hair"
     },
     {
-      "value": "Brown Leather Shoes with Laces",
-      "trait_type": "Footwear"
+      "value": "Light Brown",
+      "trait_type": "Hair Color"
     },
     {
-      "value": "Two Rings",
-      "trait_type": "Ring"
+      "value": "",
+      "trait_type": "Hair Style"
     },
     {
-      "value": "Black Books",
-      "trait_type": "Glasses"
-    },
-    {
-      "value": "Stud Earring",
-      "trait_type": "Piercings"
-    },
-    {
-      "value": "Brown Leather Briefcase",
-      "trait_type": "Accessories"
-    },
-    {
-      "value": "Purple Workers Cap",
-      "trait_type": "Headwear"
+      "value": "White",
+      "trait_type": "Background"
     }
   ]
 }

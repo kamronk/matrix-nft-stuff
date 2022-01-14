@@ -1,17 +1,33 @@
 {
   "owners": 0,
   "likes": 0,
-  "contractAddress": "0x39ceaa47306381b6d79ad46af0f36bc5332386f2",
+  "contractAddress": "0x28e4b03bc88b59d25f3467b2252b66d4b2c43286",
   "tokenId": "34769",
   "name": "Matrix Avatar #34769",
-  "image": "https://media.niftys.com/nfts/matrix/media/ckw74s5cb130402f273v8v3h0d0.png",
+  "image": "https://media.niftys.com/nfts/matrix/media/ckx9oohqe244756zp73volhnk2c.png",
   "attributes": [
     {
-      "value": "White",
+      "value": "Small Arrows",
+      "trait_type": "Bicep Tattoo"
+    },
+    {
+      "value": "You pull your friend forward and say \"hold me back\"",
+      "trait_type": "Will"
+    },
+    {
+      "value": "TBD",
+      "trait_type": "Name"
+    },
+    {
+      "value": "Katana with Black Handle and Silver Blade",
+      "trait_type": "Left Hand Accessory"
+    },
+    {
+      "value": "Heavy Rain",
       "trait_type": "Background"
     },
     {
-      "value": "Short Messy",
+      "value": "Medium Curly Bob",
       "trait_type": "Hair Style"
     },
     {
@@ -19,31 +35,39 @@
       "trait_type": "Hair Color"
     },
     {
+      "value": "Light Purple",
+      "trait_type": "Hair Dye"
+    },
+    {
       "value": "",
       "trait_type": "Facial Hair"
     },
     {
-      "value": "Light Gray Longsleeve",
+      "value": "Scowl",
+      "trait_type": "Facial Expression"
+    },
+    {
+      "value": "Black Cotton Tank",
       "trait_type": "Top"
     },
     {
-      "value": "Charcoal Slacks",
+      "value": "Green Cotton Leggings",
       "trait_type": "Bottom"
     },
     {
-      "value": "Black Suede Chelseas with Brown Sole",
+      "value": "Black Knee High Leather Boots",
       "trait_type": "Footwear"
     },
     {
-      "value": "",
-      "trait_type": "Ring"
+      "value": "Studded Leather",
+      "trait_type": "Wristwear"
     },
     {
       "value": "",
-      "trait_type": "Headwear"
+      "trait_type": "Neckwear"
     },
     {
-      "value": "",
+      "value": "Black Wayfarer with Black Lens",
       "trait_type": "Glasses"
     },
     {
@@ -51,8 +75,76 @@
       "trait_type": "Piercings"
     },
     {
+      "value": "Triangle",
+      "trait_type": "Forearm Tattoo"
+    },
+    {
       "value": "",
-      "trait_type": "Accessories"
+      "trait_type": "Side Neck Tattoo"
+    },
+    {
+      "value": "",
+      "trait_type": "Front Neck Tattoo"
+    },
+    {
+      "value": "",
+      "trait_type": "Right Hand Accessory"
+    },
+    {
+      "value": "Yes",
+      "trait_type": "Headjack"
+    },
+    {
+      "value": "1",
+      "trait_type": "Generation"
+    },
+    {
+      "value": "1",
+      "trait_type": "Votes"
+    },
+    {
+      "value": "1",
+      "trait_type": "Strength"
+    },
+    {
+      "value": "Paper hands",
+      "trait_type": "Power"
+    },
+    {
+      "value": "4",
+      "trait_type": "Constitution"
+    },
+    {
+      "value": "2",
+      "trait_type": "Dexterity"
+    },
+    {
+      "value": "Sleep paralysis",
+      "trait_type": "Movement"
+    },
+    {
+      "value": "11",
+      "trait_type": "Intelligence"
+    },
+    {
+      "value": "Can see around corners",
+      "trait_type": "Perception"
+    },
+    {
+      "value": "9",
+      "trait_type": "Wisdom"
+    },
+    {
+      "value": "Learning to regulate emotions",
+      "trait_type": "Awareness"
+    },
+    {
+      "value": "8",
+      "trait_type": "Charisma"
+    },
+    {
+      "value": "Your significant other\u0027s mom loves you",
+      "trait_type": "Persuasion"
     }
   ]
 }

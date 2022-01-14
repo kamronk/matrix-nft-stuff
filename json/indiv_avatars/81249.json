@@ -1,58 +1,150 @@
 {
   "owners": 0,
   "likes": 0,
-  "contractAddress": "0x39ceaa47306381b6d79ad46af0f36bc5332386f2",
+  "contractAddress": "0x28e4b03bc88b59d25f3467b2252b66d4b2c43286",
   "tokenId": "81249",
   "name": "Matrix Avatar #81249",
-  "image": "https://media.niftys.com/nfts/matrix/media/ckw705fto25960f3732ue1k1rk.png",
+  "image": "https://media.niftys.com/nfts/matrix/media/ckx9k3q0j60252zq73ux4l7hd8.png",
   "attributes": [
     {
-      "value": "White",
-      "trait_type": "Background"
+      "value": "Round Black with Black Lens",
+      "trait_type": "Glasses"
     },
     {
-      "value": "Short Coil",
-      "trait_type": "Hair Style"
+      "value": "Others are helpless to deny you",
+      "trait_type": "Persuasion"
     },
     {
-      "value": "Blonde",
-      "trait_type": "Hair Color"
+      "value": "13",
+      "trait_type": "Charisma"
+    },
+    {
+      "value": "Stuck in your own head",
+      "trait_type": "Awareness"
+    },
+    {
+      "value": "3",
+      "trait_type": "Wisdom"
+    },
+    {
+      "value": "The world has come into focus",
+      "trait_type": "Perception"
+    },
+    {
+      "value": "5",
+      "trait_type": "Intelligence"
+    },
+    {
+      "value": "Always picked first",
+      "trait_type": "Movement"
+    },
+    {
+      "value": "8",
+      "trait_type": "Dexterity"
+    },
+    {
+      "value": "People think of you in their time of need",
+      "trait_type": "Will"
+    },
+    {
+      "value": "17",
+      "trait_type": "Constitution"
+    },
+    {
+      "value": "Can put up a fight",
+      "trait_type": "Power"
+    },
+    {
+      "value": "4",
+      "trait_type": "Strength"
+    },
+    {
+      "value": "TBD",
+      "trait_type": "Name"
+    },
+    {
+      "value": "1",
+      "trait_type": "Votes"
+    },
+    {
+      "value": "1",
+      "trait_type": "Generation"
+    },
+    {
+      "value": "Yes",
+      "trait_type": "Headjack"
+    },
+    {
+      "value": "",
+      "trait_type": "Right Hand Accessory"
+    },
+    {
+      "value": "",
+      "trait_type": "Left Hand Accessory"
+    },
+    {
+      "value": "",
+      "trait_type": "Front Neck Tattoo"
+    },
+    {
+      "value": "",
+      "trait_type": "Side Neck Tattoo"
+    },
+    {
+      "value": "",
+      "trait_type": "Forearm Tattoo"
+    },
+    {
+      "value": "Shaded Stacking Triangles",
+      "trait_type": "Bicep Tattoo"
+    },
+    {
+      "value": "",
+      "trait_type": "Piercings"
+    },
+    {
+      "value": "",
+      "trait_type": "Neckwear"
+    },
+    {
+      "value": "",
+      "trait_type": "Wristwear"
+    },
+    {
+      "value": "Patent Black Leather Combat Cuff Boot",
+      "trait_type": "Footwear"
+    },
+    {
+      "value": "Black Cotton Martial Arts Pants",
+      "trait_type": "Bottom"
+    },
+    {
+      "value": "Black Cotton Tank",
+      "trait_type": "Top"
+    },
+    {
+      "value": "",
+      "trait_type": "Facial Expression"
     },
     {
       "value": "Stubble",
       "trait_type": "Facial Hair"
     },
     {
-      "value": "Charcoal Blazer with Light Blue Shirt and Black Tie",
-      "trait_type": "Top"
+      "value": "Yellow",
+      "trait_type": "Hair Dye"
     },
     {
-      "value": "Dark-Wash Denim",
-      "trait_type": "Bottom"
+      "value": "Blonde",
+      "trait_type": "Hair Color"
     },
     {
-      "value": "Redbrown Leather Workboot with Brown Sole",
-      "trait_type": "Footwear"
+      "value": "Medium Curly Bob",
+      "trait_type": "Hair Style"
     },
     {
-      "value": "",
-      "trait_type": "Ring"
-    },
-    {
-      "value": "",
-      "trait_type": "Headwear"
-    },
-    {
-      "value": "Silver Aviators",
-      "trait_type": "Glasses"
-    },
-    {
-      "value": "Stud Earring",
-      "trait_type": "Piercings"
-    },
-    {
-      "value": "",
-      "trait_type": "Accessories"
+      "value": "Light Rain",
+      "trait_type": "Background"
     }
   ]
 }

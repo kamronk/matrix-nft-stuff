@@ -1,46 +1,82 @@
 {
   "owners": 0,
   "likes": 0,
-  "contractAddress": "0x39ceaa47306381b6d79ad46af0f36bc5332386f2",
+  "contractAddress": "0x423e540cb46db0e4df1ac96bcbddf78a804647d8",
   "tokenId": "72523",
   "name": "Matrix Avatar #72523",
-  "image": "https://media.niftys.com/nfts/matrix/media/ckw7bjcqd280146f573cnpx0wta.png",
+  "image": "https://media.niftys.com/nfts/matrix/media/ckxaf7zyd4417047s73hpv0nj60.png",
   "attributes": [
     {
-      "value": "White",
-      "trait_type": "Background"
+      "value": "None",
+      "trait_type": "Name"
     },
     {
-      "value": "Short Messy",
-      "trait_type": "Hair Style"
+      "value": "Customer Service Representative",
+      "trait_type": "Occupation"
     },
     {
-      "value": "Light Brown",
-      "trait_type": "Hair Color"
+      "value": "Budding Scholar",
+      "trait_type": "Zen"
     },
     {
-      "value": "Mustache",
-      "trait_type": "Facial Hair"
+      "value": "70\u0027s Hatchback",
+      "trait_type": "Transportation"
     },
     {
-      "value": "Blue Longsleeve",
-      "trait_type": "Top"
+      "value": "Read beginner’s guide to hacking - Y2K edition",
+      "trait_type": "Hacking"
     },
     {
-      "value": "Dark-Wash Denim",
-      "trait_type": "Bottom"
+      "value": "8",
+      "trait_type": "Wisdom"
     },
     {
-      "value": "Black Suede Chelseas with Brown Sole",
-      "trait_type": "Footwear"
+      "value": "7",
+      "trait_type": "Intelligence"
+    },
+    {
+      "value": "516",
+      "trait_type": "Social Media Followers"
+    },
+    {
+      "value": "5",
+      "trait_type": "Charisma"
+    },
+    {
+      "value": "9",
+      "trait_type": "Dexterity"
+    },
+    {
+      "value": "76302",
+      "trait_type": "Salary"
+    },
+    {
+      "value": "9",
+      "trait_type": "Strength"
+    },
+    {
+      "value": "753",
+      "trait_type": "Credit Score"
+    },
+    {
+      "value": "13",
+      "trait_type": "Constitution"
+    },
+    {
+      "value": "1",
+      "trait_type": "Votes"
+    },
+    {
+      "value": "1",
+      "trait_type": "Generation"
+    },
+    {
+      "value": "Brown Leather Briefcase",
+      "trait_type": "Accessories"
     },
     {
       "value": "",
-      "trait_type": "Ring"
-    },
-    {
-      "value": "",
-      "trait_type": "Headwear"
+      "trait_type": "Piercings"
     },
     {
       "value": "Silver Aviators",
@@ -48,11 +84,39 @@
     },
     {
       "value": "",
-      "trait_type": "Piercings"
+      "trait_type": "Headwear"
     },
     {
-      "value": "Brown Leather Briefcase",
-      "trait_type": "Accessories"
+      "value": "",
+      "trait_type": "Ring"
+    },
+    {
+      "value": "Black Suede Chelseas with Brown Sole",
+      "trait_type": "Footwear"
+    },
+    {
+      "value": "Dark-Wash Denim",
+      "trait_type": "Bottom"
+    },
+    {
+      "value": "Blue Longsleeve",
+      "trait_type": "Top"
+    },
+    {
+      "value": "Mustache",
+      "trait_type": "Facial Hair"
+    },
+    {
+      "value": "Light Brown",
+      "trait_type": "Hair Color"
+    },
+    {
+      "value": "Short Messy",
+      "trait_type": "Hair Style"
+    },
+    {
+      "value": "White Medium Rain",
+      "trait_type": "Background"
     }
   ]
 }

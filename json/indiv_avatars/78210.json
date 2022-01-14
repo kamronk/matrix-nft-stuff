@@ -7,40 +7,28 @@
   "image": "https://media.niftys.com/nfts/matrix/media/ckw6z622m6591f473ohu48kqt.png",
   "attributes": [
     {
-      "value": "White",
-      "trait_type": "Background"
-    },
-    {
-      "value": "Short Updo",
-      "trait_type": "Hair Style"
+      "value": "",
+      "trait_type": "Facial Hair"
     },
     {
       "value": "Black",
       "trait_type": "Hair Color"
     },
     {
-      "value": "",
-      "trait_type": "Facial Hair"
+      "value": "Short Updo",
+      "trait_type": "Hair Style"
     },
     {
-      "value": "Light Gray Longsleeve",
-      "trait_type": "Top"
+      "value": "White",
+      "trait_type": "Background"
     },
     {
-      "value": "Charcoal Slacks",
-      "trait_type": "Bottom"
-    },
-    {
-      "value": "White Canvas Sneaker with White Sole",
-      "trait_type": "Footwear"
+      "value": "Black Smartphone",
+      "trait_type": "Accessories"
     },
     {
       "value": "",
-      "trait_type": "Ring"
-    },
-    {
-      "value": "",
-      "trait_type": "Headwear"
+      "trait_type": "Piercings"
     },
     {
       "value": "Rosegold Aviators",
@@ -48,11 +36,23 @@
     },
     {
       "value": "",
-      "trait_type": "Piercings"
+      "trait_type": "Headwear"
     },
     {
-      "value": "Black Smartphone",
-      "trait_type": "Accessories"
+      "value": "",
+      "trait_type": "Ring"
+    },
+    {
+      "value": "White Canvas Sneaker with White Sole",
+      "trait_type": "Footwear"
+    },
+    {
+      "value": "Charcoal Slacks",
+      "trait_type": "Bottom"
+    },
+    {
+      "value": "Light Gray Longsleeve",
+      "trait_type": "Top"
     }
   ]
 }

@@ -1,50 +1,78 @@
 {
   "owners": 0,
   "likes": 0,
-  "contractAddress": "0x39ceaa47306381b6d79ad46af0f36bc5332386f2",
+  "contractAddress": "0x423e540cb46db0e4df1ac96bcbddf78a804647d8",
   "tokenId": "93779",
   "name": "Matrix Avatar #93779",
-  "image": "https://media.niftys.com/nfts/matrix/media/ckw79jyqx242046f773sj5wfvrm.png",
+  "image": "https://media.niftys.com/nfts/matrix/media/ckxadb6xb3797707u7388khnq5s.png",
   "attributes": [
     {
-      "value": "White",
-      "trait_type": "Background"
+      "value": "Graduate",
+      "trait_type": "Zen"
     },
     {
-      "value": "Short Afro Fade",
-      "trait_type": "Hair Style"
+      "value": "9",
+      "trait_type": "Wisdom"
     },
     {
-      "value": "Light Brown",
-      "trait_type": "Hair Color"
+      "value": "NFT Collector",
+      "trait_type": "Occupation"
     },
     {
-      "value": "Stubble",
-      "trait_type": "Facial Hair"
+      "value": "Pretty good with GW Basic",
+      "trait_type": "Hacking"
     },
     {
-      "value": "Gray Oxford with Buttons",
-      "trait_type": "Top"
+      "value": "9",
+      "trait_type": "Intelligence"
     },
     {
-      "value": "Charcoal Slacks",
-      "trait_type": "Bottom"
+      "value": "355555",
+      "trait_type": "Social Media Followers"
     },
     {
-      "value": "Black Leather Shoes with Laces",
-      "trait_type": "Footwear"
+      "value": "12",
+      "trait_type": "Charisma"
     },
     {
-      "value": "Two Rings",
-      "trait_type": "Ring"
+      "value": "Low Rider",
+      "trait_type": "Transportation"
+    },
+    {
+      "value": "11",
+      "trait_type": "Dexterity"
+    },
+    {
+      "value": "172581",
+      "trait_type": "Salary"
+    },
+    {
+      "value": "12",
+      "trait_type": "Strength"
+    },
+    {
+      "value": "661",
+      "trait_type": "Credit Score"
+    },
+    {
+      "value": "8",
+      "trait_type": "Constitution"
+    },
+    {
+      "value": "1",
+      "trait_type": "Votes"
+    },
+    {
+      "value": "1",
+      "trait_type": "Generation"
     },
     {
       "value": "",
-      "trait_type": "Headwear"
+      "trait_type": "Accessories"
     },
     {
-      "value": "",
-      "trait_type": "Glasses"
+      "value": "TBD",
+      "trait_type": "Name"
     },
     {
       "value": "",
@@ -52,7 +80,43 @@
     },
     {
       "value": "",
-      "trait_type": "Accessories"
+      "trait_type": "Glasses"
+    },
+    {
+      "value": "",
+      "trait_type": "Headwear"
+    },
+    {
+      "value": "Two Rings",
+      "trait_type": "Ring"
+    },
+    {
+      "value": "Black Leather Shoes with Laces",
+      "trait_type": "Footwear"
+    },
+    {
+      "value": "Charcoal Slacks",
+      "trait_type": "Bottom"
+    },
+    {
+      "value": "Gray Oxford with Buttons",
+      "trait_type": "Top"
+    },
+    {
+      "value": "Stubble",
+      "trait_type": "Facial Hair"
+    },
+    {
+      "value": "Light Brown",
+      "trait_type": "Hair Color"
+    },
+    {
+      "value": "Short Afro Fade",
+      "trait_type": "Hair Style"
+    },
+    {
+      "value": "White Medium Rain",
+      "trait_type": "Background"
     }
   ]
 }

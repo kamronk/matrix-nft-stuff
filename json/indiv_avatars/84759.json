@@ -1,58 +1,122 @@
 {
   "owners": 0,
   "likes": 0,
-  "contractAddress": "0x39ceaa47306381b6d79ad46af0f36bc5332386f2",
+  "contractAddress": "0x423e540cb46db0e4df1ac96bcbddf78a804647d8",
   "tokenId": "84759",
   "name": "Matrix Avatar #84759",
-  "image": "https://media.niftys.com/nfts/matrix/media/ckw76pxcg174847f973x644okdz.png",
+  "image": "https://media.niftys.com/nfts/matrix/media/ckxaa90nk2729707w73zr7n2khp.png",
   "attributes": [
     {
-      "value": "White",
-      "trait_type": "Background"
+      "value": "TBD",
+      "trait_type": "Name"
     },
     {
-      "value": "Short Messy",
-      "trait_type": "Hair Style"
+      "value": "Master",
+      "trait_type": "Zen"
     },
     {
-      "value": "Black",
-      "trait_type": "Hair Color"
+      "value": "12",
+      "trait_type": "Wisdom"
     },
     {
-      "value": "Mustache",
-      "trait_type": "Facial Hair"
+      "value": "Project Manager",
+      "trait_type": "Occupation"
     },
     {
-      "value": "Dark Gray Longsleeve",
-      "trait_type": "Top"
+      "value": "Ten monitors, dark room, hoodie",
+      "trait_type": "Hacking"
     },
     {
-      "value": "Charcoal Slacks",
-      "trait_type": "Bottom"
+      "value": "15",
+      "trait_type": "Intelligence"
     },
     {
-      "value": "Black Leather Shoes with Laces",
-      "trait_type": "Footwear"
+      "value": "12453",
+      "trait_type": "Social Media Followers"
     },
     {
-      "value": "Two Rings",
-      "trait_type": "Ring"
+      "value": "9",
+      "trait_type": "Charisma"
+    },
+    {
+      "value": "Back of Rusty Pickup Truck",
+      "trait_type": "Transportation"
+    },
+    {
+      "value": "3",
+      "trait_type": "Dexterity"
+    },
+    {
+      "value": "52968",
+      "trait_type": "Salary"
+    },
+    {
+      "value": "8",
+      "trait_type": "Strength"
+    },
+    {
+      "value": "559",
+      "trait_type": "Credit Score"
+    },
+    {
+      "value": "6",
+      "trait_type": "Constitution"
+    },
+    {
+      "value": "1",
+      "trait_type": "Votes"
+    },
+    {
+      "value": "1",
+      "trait_type": "Generation"
     },
     {
       "value": "",
-      "trait_type": "Headwear"
-    },
-    {
-      "value": "Black Books",
-      "trait_type": "Glasses"
+      "trait_type": "Accessories"
     },
     {
       "value": "Stud Earring",
       "trait_type": "Piercings"
     },
     {
+      "value": "Black Books",
+      "trait_type": "Glasses"
+    },
+    {
       "value": "",
-      "trait_type": "Accessories"
+      "trait_type": "Headwear"
+    },
+    {
+      "value": "Two Rings",
+      "trait_type": "Ring"
+    },
+    {
+      "value": "Black Leather Shoes with Laces",
+      "trait_type": "Footwear"
+    },
+    {
+      "value": "Charcoal Slacks",
+      "trait_type": "Bottom"
+    },
+    {
+      "value": "Dark Gray Longsleeve",
+      "trait_type": "Top"
+    },
+    {
+      "value": "Mustache",
+      "trait_type": "Facial Hair"
+    },
+    {
+      "value": "Black",
+      "trait_type": "Hair Color"
+    },
+    {
+      "value": "Short Messy",
+      "trait_type": "Hair Style"
+    },
+    {
+      "value": "White Heavy Rain",
+      "trait_type": "Background"
     }
   ]
 }

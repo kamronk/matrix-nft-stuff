@@ -7,28 +7,24 @@
   "image": "https://media.niftys.com/nfts/matrix/media/ckw7c87nf300614f873fcakfd07.png",
   "attributes": [
     {
-      "value": "White",
-      "trait_type": "Background"
+      "value": "",
+      "trait_type": "Accessories"
     },
     {
-      "value": "Short Updo",
-      "trait_type": "Hair Style"
+      "value": "Stud Earring",
+      "trait_type": "Piercings"
     },
     {
-      "value": "Light Grey",
-      "trait_type": "Hair Color"
-    },
-    {
-      "value": "Stubble",
-      "trait_type": "Facial Hair"
-    },
-    {
-      "value": "Denim Jumpsuit",
-      "trait_type": "Top"
+      "value": "Black Books",
+      "trait_type": "Glasses"
     },
     {
       "value": "",
-      "trait_type": "Bottom"
+      "trait_type": "Headwear"
+    },
+    {
+      "value": "",
+      "trait_type": "Ring"
     },
     {
       "value": "Brown Leather Shoes with Laces",
@@ -36,23 +32,27 @@
     },
     {
       "value": "",
-      "trait_type": "Ring"
+      "trait_type": "Bottom"
     },
     {
-      "value": "",
-      "trait_type": "Headwear"
+      "value": "Denim Jumpsuit",
+      "trait_type": "Top"
     },
     {
-      "value": "Black Books",
-      "trait_type": "Glasses"
+      "value": "Stubble",
+      "trait_type": "Facial Hair"
     },
     {
-      "value": "Stud Earring",
-      "trait_type": "Piercings"
+      "value": "Light Grey",
+      "trait_type": "Hair Color"
     },
     {
-      "value": "",
-      "trait_type": "Accessories"
+      "value": "Short Updo",
+      "trait_type": "Hair Style"
+    },
+    {
+      "value": "White",
+      "trait_type": "Background"
     }
   ]
 }

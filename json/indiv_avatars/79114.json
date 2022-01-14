@@ -7,28 +7,24 @@
   "image": "https://media.niftys.com/nfts/matrix/media/ckw70242o23938fa73zxpc6ygk.png",
   "attributes": [
     {
-      "value": "White",
-      "trait_type": "Background"
+      "value": "Tan Worker\u0027s Cap",
+      "trait_type": "Headwear"
+    },
+    {
+      "value": "Black Leather Briefcase",
+      "trait_type": "Accessories"
+    },
+    {
+      "value": "Stud Earring",
+      "trait_type": "Piercings"
     },
     {
       "value": "",
-      "trait_type": "Hair Style"
-    },
-    {
-      "value": "Light Brown",
-      "trait_type": "Hair Color"
+      "trait_type": "Glasses"
     },
     {
       "value": "",
-      "trait_type": "Facial Hair"
-    },
-    {
-      "value": "Navy Jumpsuit",
-      "trait_type": "Top"
-    },
-    {
-      "value": "",
-      "trait_type": "Bottom"
+      "trait_type": "Ring"
     },
     {
       "value": "Brown Leather Shoes with Laces",
@@ -36,23 +32,27 @@
     },
     {
       "value": "",
-      "trait_type": "Ring"
+      "trait_type": "Bottom"
+    },
+    {
+      "value": "Navy Jumpsuit",
+      "trait_type": "Top"
     },
     {
       "value": "",
-      "trait_type": "Glasses"
+      "trait_type": "Facial Hair"
     },
     {
-      "value": "Stud Earring",
-      "trait_type": "Piercings"
+      "value": "Light Brown",
+      "trait_type": "Hair Color"
     },
     {
-      "value": "Black Leather Briefcase",
-      "trait_type": "Accessories"
+      "value": "",
+      "trait_type": "Hair Style"
     },
     {
-      "value": "Tan Workers Cap",
-      "trait_type": "Headwear"
+      "value": "White",
+      "trait_type": "Background"
     }
   ]
 }

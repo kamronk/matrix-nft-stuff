@@ -7,6 +7,10 @@
   "image": "https://media.niftys.com/nfts/matrix/media/ckw750s2k136486f373hmq640kw.png",
   "attributes": [
     {
+      "value": "Purple Worker\u0027s Cap",
+      "trait_type": "Headwear"
+    },
+    {
       "value": "",
       "trait_type": "Facial Hair"
     },
@@ -49,10 +53,6 @@
     {
       "value": "Black Leather Briefcase",
       "trait_type": "Accessories"
-    },
-    {
-      "value": "Purple Workers Cap",
-      "trait_type": "Headwear"
     }
   ]
 }

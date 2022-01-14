@@ -1,46 +1,78 @@
 {
   "owners": 0,
   "likes": 0,
-  "contractAddress": "0x39ceaa47306381b6d79ad46af0f36bc5332386f2",
+  "contractAddress": "0x423e540cb46db0e4df1ac96bcbddf78a804647d8",
   "tokenId": "32168",
   "name": "Matrix Avatar #32168",
-  "image": "https://media.niftys.com/nfts/matrix/media/ckw742s6t114598f673o79k92lv.png",
+  "image": "https://media.niftys.com/nfts/matrix/media/ckxa7dnk91851297t73vrffi1d2.png",
   "attributes": [
     {
-      "value": "White",
-      "trait_type": "Background"
+      "value": "TBD",
+      "trait_type": "Name"
     },
     {
-      "value": "Buzz Cut",
-      "trait_type": "Hair Style"
+      "value": "Guru",
+      "trait_type": "Zen"
     },
     {
-      "value": "Light Brown",
-      "trait_type": "Hair Color"
+      "value": "15",
+      "trait_type": "Wisdom"
     },
     {
-      "value": "Stubble",
-      "trait_type": "Facial Hair"
+      "value": "Marketing Intern",
+      "trait_type": "Occupation"
     },
     {
-      "value": "Blue Longsleeve",
-      "trait_type": "Top"
+      "value": "Subscribed to 2600",
+      "trait_type": "Hacking"
     },
     {
-      "value": "Charcoal Slacks",
-      "trait_type": "Bottom"
+      "value": "11",
+      "trait_type": "Intelligence"
     },
     {
-      "value": "Tan Suede Workboot with Tan Sole",
-      "trait_type": "Footwear"
+      "value": "1993",
+      "trait_type": "Social Media Followers"
     },
     {
-      "value": "Two Rings",
-      "trait_type": "Ring"
+      "value": "7",
+      "trait_type": "Charisma"
+    },
+    {
+      "value": "Retired Mail Truck",
+      "trait_type": "Transportation"
+    },
+    {
+      "value": "7",
+      "trait_type": "Dexterity"
+    },
+    {
+      "value": "35555",
+      "trait_type": "Salary"
+    },
+    {
+      "value": "7",
+      "trait_type": "Strength"
+    },
+    {
+      "value": "819",
+      "trait_type": "Credit Score"
+    },
+    {
+      "value": "17",
+      "trait_type": "Constitution"
+    },
+    {
+      "value": "1",
+      "trait_type": "Votes"
+    },
+    {
+      "value": "1",
+      "trait_type": "Generation"
     },
     {
       "value": "",
-      "trait_type": "Glasses"
+      "trait_type": "Accessories"
     },
     {
       "value": "",
@@ -48,11 +80,43 @@
     },
     {
       "value": "",
-      "trait_type": "Accessories"
+      "trait_type": "Glasses"
     },
     {
-      "value": "Navy Blue Workers Cap",
+      "value": "Navy Blue Worker\u0027s Cap",
       "trait_type": "Headwear"
+    },
+    {
+      "value": "Two Rings",
+      "trait_type": "Ring"
+    },
+    {
+      "value": "Tan Suede Workboot with Tan Sole",
+      "trait_type": "Footwear"
+    },
+    {
+      "value": "Charcoal Slacks",
+      "trait_type": "Bottom"
+    },
+    {
+      "value": "Blue Longsleeve",
+      "trait_type": "Top"
+    },
+    {
+      "value": "Stubble",
+      "trait_type": "Facial Hair"
+    },
+    {
+      "value": "Light Brown",
+      "trait_type": "Hair Color"
+    },
+    {
+      "value": "Buzz Cut",
+      "trait_type": "Hair Style"
+    },
+    {
+      "value": "White Light Rain",
+      "trait_type": "Background"
     }
   ]
 }

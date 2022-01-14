@@ -1,18 +1,50 @@
 {
   "owners": 0,
   "likes": 0,
-  "contractAddress": "0x39ceaa47306381b6d79ad46af0f36bc5332386f2",
+  "contractAddress": "0x423e540cb46db0e4df1ac96bcbddf78a804647d8",
   "tokenId": "85098",
   "name": "Matrix Avatar #85098",
-  "image": "https://media.niftys.com/nfts/matrix/media/ckw74uss3131374f1738szx4zzq.png",
+  "image": "https://media.niftys.com/nfts/matrix/media/ckxa8ncg62190037o73nbphzhyr.png",
   "attributes": [
     {
-      "value": "Black Smartphone",
-      "trait_type": "Accessories"
+      "value": "Go-Kart",
+      "trait_type": "Transportation"
+    },
+    {
+      "value": "White Medium Rain",
+      "trait_type": "Background"
+    },
+    {
+      "value": "Short Pixie",
+      "trait_type": "Hair Style"
+    },
+    {
+      "value": "Light Brown",
+      "trait_type": "Hair Color"
     },
     {
       "value": "",
-      "trait_type": "Piercings"
+      "trait_type": "Facial Hair"
+    },
+    {
+      "value": "Navy Oxford with Buttons",
+      "trait_type": "Top"
+    },
+    {
+      "value": "Blue Denim",
+      "trait_type": "Bottom"
+    },
+    {
+      "value": "Black Leather Shoes with Laces",
+      "trait_type": "Footwear"
+    },
+    {
+      "value": "",
+      "trait_type": "Ring"
+    },
+    {
+      "value": "",
+      "trait_type": "Headwear"
     },
     {
       "value": "Black Books",
@@ -20,39 +52,71 @@
     },
     {
       "value": "",
-      "trait_type": "Headwear"
+      "trait_type": "Piercings"
     },
     {
-      "value": "",
-      "trait_type": "Ring"
+      "value": "Black Smartphone",
+      "trait_type": "Accessories"
     },
     {
-      "value": "Black Leather Shoes with Laces",
-      "trait_type": "Footwear"
+      "value": "1",
+      "trait_type": "Generation"
     },
     {
-      "value": "Blue Denim",
-      "trait_type": "Bottom"
+      "value": "1",
+      "trait_type": "Votes"
     },
     {
-      "value": "Navy Oxford with Buttons",
-      "trait_type": "Top"
+      "value": "TBD",
+      "trait_type": "Name"
     },
     {
-      "value": "",
-      "trait_type": "Facial Hair"
+      "value": "10",
+      "trait_type": "Constitution"
     },
     {
-      "value": "Light Brown",
-      "trait_type": "Hair Color"
+      "value": "711",
+      "trait_type": "Credit Score"
     },
     {
-      "value": "Short Pixie",
-      "trait_type": "Hair Style"
+      "value": "7",
+      "trait_type": "Strength"
     },
     {
-      "value": "White",
-      "trait_type": "Background"
+      "value": "35555",
+      "trait_type": "Salary"
+    },
+    {
+      "value": "8",
+      "trait_type": "Dexterity"
+    },
+    {
+      "value": "6",
+      "trait_type": "Charisma"
+    },
+    {
+      "value": "777",
+      "trait_type": "Social Media Followers"
+    },
+    {
+      "value": "10",
+      "trait_type": "Intelligence"
+    },
+    {
+      "value": "Read the Bitcoin white paper twice",
+      "trait_type": "Hacking"
+    },
+    {
+      "value": "Assistant to the Regional Manager",
+      "trait_type": "Occupation"
+    },
+    {
+      "value": "11",
+      "trait_type": "Wisdom"
+    },
+    {
+      "value": "Teacher",
+      "trait_type": "Zen"
     }
   ]
 }

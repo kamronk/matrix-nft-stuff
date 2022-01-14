@@ -1,58 +1,122 @@
 {
   "owners": 0,
   "likes": 0,
-  "contractAddress": "0x39ceaa47306381b6d79ad46af0f36bc5332386f2",
+  "contractAddress": "0x423e540cb46db0e4df1ac96bcbddf78a804647d8",
   "tokenId": "70981",
   "name": "Matrix Avatar #70981",
-  "image": "https://media.niftys.com/nfts/matrix/media/ckw7bep1g283114f7733dsg63te.png",
+  "image": "https://media.niftys.com/nfts/matrix/media/ckxaf72zy4429807u73fwo6ljjt.png",
   "attributes": [
     {
-      "value": "White",
-      "trait_type": "Background"
+      "value": "Disciple",
+      "trait_type": "Zen"
     },
     {
-      "value": "Buzz Cut",
-      "trait_type": "Hair Style"
+      "value": "10",
+      "trait_type": "Wisdom"
     },
     {
-      "value": "Light Brown",
-      "trait_type": "Hair Color"
+      "value": "Money Printing Machine Operator",
+      "trait_type": "Occupation"
     },
     {
-      "value": "",
-      "trait_type": "Facial Hair"
+      "value": "Read the Bitcoin white paper twice",
+      "trait_type": "Hacking"
     },
     {
-      "value": "Gray Blazer with Black Shirt and Gray Tie",
-      "trait_type": "Top"
+      "value": "10",
+      "trait_type": "Intelligence"
     },
     {
-      "value": "Navy Slacks",
-      "trait_type": "Bottom"
+      "value": "1993",
+      "trait_type": "Social Media Followers"
     },
     {
-      "value": "Black Leather Shoes with Laces",
-      "trait_type": "Footwear"
+      "value": "7",
+      "trait_type": "Charisma"
     },
     {
-      "value": "",
-      "trait_type": "Ring"
+      "value": "Low Rider",
+      "trait_type": "Transportation"
     },
     {
-      "value": "",
-      "trait_type": "Glasses"
+      "value": "11",
+      "trait_type": "Dexterity"
     },
     {
-      "value": "",
-      "trait_type": "Piercings"
+      "value": "22576",
+      "trait_type": "Salary"
+    },
+    {
+      "value": "6",
+      "trait_type": "Strength"
+    },
+    {
+      "value": "699",
+      "trait_type": "Credit Score"
+    },
+    {
+      "value": "9",
+      "trait_type": "Constitution"
+    },
+    {
+      "value": "TBD",
+      "trait_type": "Name"
+    },
+    {
+      "value": "1",
+      "trait_type": "Votes"
+    },
+    {
+      "value": "1",
+      "trait_type": "Generation"
     },
     {
       "value": "Black Leather Briefcase",
       "trait_type": "Accessories"
     },
     {
-      "value": "Tan Workers Cap",
+      "value": "",
+      "trait_type": "Piercings"
+    },
+    {
+      "value": "",
+      "trait_type": "Glasses"
+    },
+    {
+      "value": "Tan Worker\u0027s Cap",
       "trait_type": "Headwear"
+    },
+    {
+      "value": "",
+      "trait_type": "Ring"
+    },
+    {
+      "value": "Black Leather Shoes with Laces",
+      "trait_type": "Footwear"
+    },
+    {
+      "value": "Navy Slacks",
+      "trait_type": "Bottom"
+    },
+    {
+      "value": "Gray Blazer with Black Shirt and Gray Tie",
+      "trait_type": "Top"
+    },
+    {
+      "value": "",
+      "trait_type": "Facial Hair"
+    },
+    {
+      "value": "Light Brown",
+      "trait_type": "Hair Color"
+    },
+    {
+      "value": "Buzz Cut",
+      "trait_type": "Hair Style"
+    },
+    {
+      "value": "White Heavy Rain",
+      "trait_type": "Background"
     }
   ]
 }

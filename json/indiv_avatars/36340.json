@@ -7,6 +7,14 @@
   "image": "https://media.niftys.com/nfts/matrix/media/ckw76qywh173814f573bc45q680.png",
   "attributes": [
     {
+      "value": "",
+      "trait_type": "Hair Style"
+    },
+    {
+      "value": "White",
+      "trait_type": "Background"
+    },
+    {
       "value": "Black Smartphone",
       "trait_type": "Accessories"
     },
@@ -45,14 +53,6 @@
     {
       "value": "Blonde",
       "trait_type": "Hair Color"
-    },
-    {
-      "value": "",
-      "trait_type": "Hair Style"
-    },
-    {
-      "value": "White",
-      "trait_type": "Background"
     }
   ]
 }

@@ -1,18 +1,66 @@
 {
   "owners": 0,
   "likes": 0,
-  "contractAddress": "0x39ceaa47306381b6d79ad46af0f36bc5332386f2",
+  "contractAddress": "0x423e540cb46db0e4df1ac96bcbddf78a804647d8",
   "tokenId": "55201",
   "name": "Matrix Avatar #55201",
-  "image": "https://media.niftys.com/nfts/matrix/media/ckw79rzvv242306f573ou3z3cwo.png",
+  "image": "https://media.niftys.com/nfts/matrix/media/ckxadi75r3834207s73mh0fxn04.png",
   "attributes": [
     {
-      "value": "",
-      "trait_type": "Accessories"
+      "value": "None",
+      "trait_type": "Name"
+    },
+    {
+      "value": "Subscribed to 2600",
+      "trait_type": "Hacking"
+    },
+    {
+      "value": "Master",
+      "trait_type": "Zen"
+    },
+    {
+      "value": "Computer Programmer",
+      "trait_type": "Occupation"
+    },
+    {
+      "value": "Go-Kart",
+      "trait_type": "Transportation"
+    },
+    {
+      "value": "White Light Rain",
+      "trait_type": "Background"
+    },
+    {
+      "value": "Short Updo",
+      "trait_type": "Hair Style"
+    },
+    {
+      "value": "Black",
+      "trait_type": "Hair Color"
     },
     {
       "value": "",
-      "trait_type": "Piercings"
+      "trait_type": "Facial Hair"
+    },
+    {
+      "value": "Dark Gray Cardigan with Light Gray Oxford Shirt",
+      "trait_type": "Top"
+    },
+    {
+      "value": "Gray Slacks",
+      "trait_type": "Bottom"
+    },
+    {
+      "value": "Black Leather Shoes with Laces",
+      "trait_type": "Footwear"
+    },
+    {
+      "value": "",
+      "trait_type": "Ring"
+    },
+    {
+      "value": "",
+      "trait_type": "Headwear"
     },
     {
       "value": "Black Books",
@@ -20,39 +68,55 @@
     },
     {
       "value": "",
-      "trait_type": "Headwear"
+      "trait_type": "Piercings"
     },
     {
       "value": "",
-      "trait_type": "Ring"
+      "trait_type": "Accessories"
     },
     {
-      "value": "Black Leather Shoes with Laces",
-      "trait_type": "Footwear"
+      "value": "1",
+      "trait_type": "Generation"
     },
     {
-      "value": "Gray Slacks",
-      "trait_type": "Bottom"
+      "value": "1",
+      "trait_type": "Votes"
     },
     {
-      "value": "Dark Gray Cardigan with Light Gray Oxford Shirt",
-      "trait_type": "Top"
+      "value": "7",
+      "trait_type": "Constitution"
     },
     {
-      "value": "",
-      "trait_type": "Facial Hair"
+      "value": "610",
+      "trait_type": "Credit Score"
     },
     {
-      "value": "Black",
-      "trait_type": "Hair Color"
+      "value": "3",
+      "trait_type": "Strength"
     },
     {
-      "value": "Short Updo",
-      "trait_type": "Hair Style"
+      "value": "1426",
+      "trait_type": "Salary"
     },
     {
-      "value": "White",
-      "trait_type": "Background"
+      "value": "8",
+      "trait_type": "Dexterity"
+    },
+    {
+      "value": "5",
+      "trait_type": "Charisma"
+    },
+    {
+      "value": "516",
+      "trait_type": "Social Media Followers"
+    },
+    {
+      "value": "11",
+      "trait_type": "Intelligence"
+    },
+    {
+      "value": "12",
+      "trait_type": "Wisdom"
     }
   ]
 }

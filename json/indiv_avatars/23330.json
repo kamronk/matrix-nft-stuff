@@ -7,28 +7,16 @@
   "image": "https://media.niftys.com/nfts/matrix/media/ckw74dzog120748f173i12wll9m.png",
   "attributes": [
     {
-      "value": "White",
-      "trait_type": "Background"
-    },
-    {
-      "value": "Long Messy",
-      "trait_type": "Hair Style"
-    },
-    {
-      "value": "Light Brown",
-      "trait_type": "Hair Color"
+      "value": "Black Books",
+      "trait_type": "Glasses"
     },
     {
       "value": "",
-      "trait_type": "Facial Hair"
-    },
-    {
-      "value": "Navy Jumpsuit",
-      "trait_type": "Top"
+      "trait_type": "Headwear"
     },
     {
       "value": "",
-      "trait_type": "Bottom"
+      "trait_type": "Ring"
     },
     {
       "value": "Black Suede Chelseas with Brown Sole",
@@ -36,23 +24,35 @@
     },
     {
       "value": "",
-      "trait_type": "Ring"
+      "trait_type": "Bottom"
+    },
+    {
+      "value": "Navy Jumpsuit",
+      "trait_type": "Top"
     },
     {
       "value": "",
-      "trait_type": "Headwear"
+      "trait_type": "Facial Hair"
     },
     {
-      "value": "Black Books",
-      "trait_type": "Glasses"
+      "value": "Light Brown",
+      "trait_type": "Hair Color"
     },
     {
-      "value": "",
-      "trait_type": "Piercings"
+      "value": "Long Messy",
+      "trait_type": "Hair Style"
+    },
+    {
+      "value": "White",
+      "trait_type": "Background"
     },
     {
       "value": "Black Leather Briefcase",
       "trait_type": "Accessories"
+    },
+    {
+      "value": "",
+      "trait_type": "Piercings"
     }
   ]
 }

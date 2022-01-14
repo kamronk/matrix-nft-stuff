@@ -1,34 +1,94 @@
 {
   "owners": 0,
   "likes": 0,
-  "contractAddress": "0x39ceaa47306381b6d79ad46af0f36bc5332386f2",
+  "contractAddress": "0x423e540cb46db0e4df1ac96bcbddf78a804647d8",
   "tokenId": "46793",
   "name": "Matrix Avatar #46793",
-  "image": "https://media.niftys.com/nfts/matrix/media/ckw77al45190194f773rc11vm41.png",
+  "image": "https://media.niftys.com/nfts/matrix/media/ckxab0c0y2999467u73v17l262j.png",
   "attributes": [
     {
-      "value": "White",
-      "trait_type": "Background"
+      "value": "TBD",
+      "trait_type": "Name"
     },
     {
-      "value": "Buzz Cut",
-      "trait_type": "Hair Style"
+      "value": "Master",
+      "trait_type": "Zen"
     },
     {
-      "value": "Dark Brown",
-      "trait_type": "Hair Color"
+      "value": "12",
+      "trait_type": "Wisdom"
+    },
+    {
+      "value": "Media Executive",
+      "trait_type": "Occupation"
+    },
+    {
+      "value": "Read the Bitcoin white paper twice",
+      "trait_type": "Hacking"
+    },
+    {
+      "value": "10",
+      "trait_type": "Intelligence"
+    },
+    {
+      "value": "777",
+      "trait_type": "Social Media Followers"
+    },
+    {
+      "value": "6",
+      "trait_type": "Charisma"
+    },
+    {
+      "value": "Hot Pink Roller Blades",
+      "trait_type": "Transportation"
+    },
+    {
+      "value": "4",
+      "trait_type": "Dexterity"
+    },
+    {
+      "value": "22576",
+      "trait_type": "Salary"
+    },
+    {
+      "value": "6",
+      "trait_type": "Strength"
+    },
+    {
+      "value": "711",
+      "trait_type": "Credit Score"
+    },
+    {
+      "value": "10",
+      "trait_type": "Constitution"
+    },
+    {
+      "value": "1",
+      "trait_type": "Votes"
+    },
+    {
+      "value": "1",
+      "trait_type": "Generation"
+    },
+    {
+      "value": "Black Smartphone",
+      "trait_type": "Accessories"
     },
     {
       "value": "",
-      "trait_type": "Facial Hair"
-    },
-    {
-      "value": "Gray Jumpsuit",
-      "trait_type": "Top"
+      "trait_type": "Piercings"
     },
     {
       "value": "",
-      "trait_type": "Bottom"
+      "trait_type": "Glasses"
+    },
+    {
+      "value": "Purple Worker\u0027s Cap",
+      "trait_type": "Headwear"
+    },
+    {
+      "value": "",
+      "trait_type": "Ring"
     },
     {
       "value": "Black Leather Shoes with Laces",
@@ -36,23 +96,27 @@
     },
     {
       "value": "",
-      "trait_type": "Ring"
+      "trait_type": "Bottom"
+    },
+    {
+      "value": "Gray Jumpsuit",
+      "trait_type": "Top"
     },
     {
       "value": "",
-      "trait_type": "Glasses"
+      "trait_type": "Facial Hair"
     },
     {
-      "value": "",
-      "trait_type": "Piercings"
+      "value": "Dark Brown",
+      "trait_type": "Hair Color"
     },
     {
-      "value": "Black Smartphone",
-      "trait_type": "Accessories"
+      "value": "Buzz Cut",
+      "trait_type": "Hair Style"
     },
     {
-      "value": "Purple Workers Cap",
-      "trait_type": "Headwear"
+      "value": "White Light Rain",
+      "trait_type": "Background"
     }
   ]
 }

@@ -1,46 +1,82 @@
 {
   "owners": 0,
   "likes": 0,
-  "contractAddress": "0x39ceaa47306381b6d79ad46af0f36bc5332386f2",
+  "contractAddress": "0x423e540cb46db0e4df1ac96bcbddf78a804647d8",
   "tokenId": "3696",
   "name": "Matrix Avatar #3696",
-  "image": "https://media.niftys.com/nfts/matrix/media/ckw6zyl0z21840f973wigq66sq.png",
+  "image": "https://media.niftys.com/nfts/matrix/media/ckxa1r5m8373687w73xjuatprk.png",
   "attributes": [
     {
-      "value": "White",
-      "trait_type": "Background"
+      "value": "Expanding Brain",
+      "trait_type": "Zen"
     },
     {
-      "value": "Long Messy",
-      "trait_type": "Hair Style"
+      "value": "16",
+      "trait_type": "Wisdom"
     },
     {
-      "value": "Auburn",
-      "trait_type": "Hair Color"
+      "value": "Unemployed",
+      "trait_type": "Occupation"
     },
     {
-      "value": "Mustache",
-      "trait_type": "Facial Hair"
+      "value": "Earned an MIT Computer Sciences Diploma",
+      "trait_type": "Hacking"
     },
     {
-      "value": "Navy Oxford with Tie",
-      "trait_type": "Top"
+      "value": "14",
+      "trait_type": "Intelligence"
     },
     {
-      "value": "Navy Slacks",
-      "trait_type": "Bottom"
+      "value": "516",
+      "trait_type": "Social Media Followers"
     },
     {
-      "value": "White Leather Sneaker with Grey Sole",
-      "trait_type": "Footwear"
+      "value": "5",
+      "trait_type": "Charisma"
+    },
+    {
+      "value": "Hooptie on Three Spares",
+      "trait_type": "Transportation"
+    },
+    {
+      "value": "TBD",
+      "trait_type": "Name"
+    },
+    {
+      "value": "6",
+      "trait_type": "Dexterity"
+    },
+    {
+      "value": "35555",
+      "trait_type": "Salary"
+    },
+    {
+      "value": "7",
+      "trait_type": "Strength"
+    },
+    {
+      "value": "699",
+      "trait_type": "Credit Score"
+    },
+    {
+      "value": "9",
+      "trait_type": "Constitution"
+    },
+    {
+      "value": "1",
+      "trait_type": "Votes"
+    },
+    {
+      "value": "1",
+      "trait_type": "Generation"
+    },
+    {
+      "value": "Lunchbox",
+      "trait_type": "Accessories"
     },
     {
       "value": "",
-      "trait_type": "Ring"
-    },
-    {
-      "value": "",
-      "trait_type": "Headwear"
+      "trait_type": "Piercings"
     },
     {
       "value": "",
@@ -48,11 +84,39 @@
     },
     {
       "value": "",
-      "trait_type": "Piercings"
+      "trait_type": "Headwear"
     },
     {
-      "value": "Lunchbox",
-      "trait_type": "Accessories"
+      "value": "",
+      "trait_type": "Ring"
+    },
+    {
+      "value": "White Leather Sneaker with Grey Sole",
+      "trait_type": "Footwear"
+    },
+    {
+      "value": "Navy Slacks",
+      "trait_type": "Bottom"
+    },
+    {
+      "value": "Navy Oxford with Tie",
+      "trait_type": "Top"
+    },
+    {
+      "value": "Mustache",
+      "trait_type": "Facial Hair"
+    },
+    {
+      "value": "Auburn",
+      "trait_type": "Hair Color"
+    },
+    {
+      "value": "Long Messy",
+      "trait_type": "Hair Style"
+    },
+    {
+      "value": "White Medium Rain",
+      "trait_type": "Background"
     }
   ]
 }

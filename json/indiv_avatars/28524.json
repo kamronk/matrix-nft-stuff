@@ -7,12 +7,20 @@
   "image": "https://media.niftys.com/nfts/matrix/media/ckw73r83n106686f573hrfu7j97.png",
   "attributes": [
     {
-      "value": "White",
-      "trait_type": "Background"
+      "value": "Navy Blue Worker\u0027s Cap",
+      "trait_type": "Headwear"
+    },
+    {
+      "value": "Light-Wash Denim",
+      "trait_type": "Bottom"
+    },
+    {
+      "value": "Blue Longsleeve",
+      "trait_type": "Top"
     },
     {
       "value": "",
-      "trait_type": "Hair Style"
+      "trait_type": "Facial Hair"
     },
     {
       "value": "Light Brown",
@@ -20,23 +28,19 @@
     },
     {
       "value": "",
-      "trait_type": "Facial Hair"
+      "trait_type": "Hair Style"
     },
     {
-      "value": "Blue Longsleeve",
-      "trait_type": "Top"
+      "value": "White",
+      "trait_type": "Background"
     },
     {
-      "value": "Light-Wash Denim",
-      "trait_type": "Bottom"
-    },
-    {
-      "value": "Redbrown Leather Workboot with Brown Sole",
-      "trait_type": "Footwear"
+      "value": "Black Smartphone",
+      "trait_type": "Accessories"
     },
     {
       "value": "",
-      "trait_type": "Ring"
+      "trait_type": "Piercings"
     },
     {
       "value": "",
@@ -44,15 +48,11 @@
     },
     {
       "value": "",
-      "trait_type": "Piercings"
+      "trait_type": "Ring"
     },
     {
-      "value": "Black Smartphone",
-      "trait_type": "Accessories"
-    },
-    {
-      "value": "Navy Blue Workers Cap",
-      "trait_type": "Headwear"
+      "value": "Redbrown Leather Workboot with Brown Sole",
+      "trait_type": "Footwear"
     }
   ]
 }

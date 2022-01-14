@@ -1,58 +1,122 @@
 {
   "owners": 0,
   "likes": 0,
-  "contractAddress": "0x39ceaa47306381b6d79ad46af0f36bc5332386f2",
+  "contractAddress": "0x423e540cb46db0e4df1ac96bcbddf78a804647d8",
   "tokenId": "15377",
   "name": "Matrix Avatar #15377",
-  "image": "https://media.niftys.com/nfts/matrix/media/ckw72fnc078002f973s6uln9r3.png",
+  "image": "https://media.niftys.com/nfts/matrix/media/ckxa54smv1238167w73u59vq46r.png",
   "attributes": [
     {
-      "value": "White",
-      "trait_type": "Background"
+      "value": "TBD",
+      "trait_type": "Name"
     },
     {
-      "value": "Buzz Cut",
-      "trait_type": "Hair Style"
+      "value": "Disciple",
+      "trait_type": "Zen"
     },
     {
-      "value": "Black",
-      "trait_type": "Hair Color"
+      "value": "10",
+      "trait_type": "Wisdom"
     },
     {
-      "value": "",
-      "trait_type": "Facial Hair"
+      "value": "Talent Agent",
+      "trait_type": "Occupation"
     },
     {
-      "value": "Brown Cardigan with Tan Longsleeve Shirt",
-      "trait_type": "Top"
+      "value": "Stole a high school computer lab pass",
+      "trait_type": "Hacking"
     },
     {
-      "value": "Charcoal Slacks",
-      "trait_type": "Bottom"
+      "value": "12",
+      "trait_type": "Intelligence"
     },
     {
-      "value": "Brown Leather Shoes with Laces",
-      "trait_type": "Footwear"
+      "value": "516",
+      "trait_type": "Social Media Followers"
     },
     {
-      "value": "",
-      "trait_type": "Ring"
+      "value": "5",
+      "trait_type": "Charisma"
     },
     {
-      "value": "",
-      "trait_type": "Glasses"
+      "value": "Pragmatic Coupe",
+      "trait_type": "Transportation"
     },
     {
-      "value": "",
-      "trait_type": "Piercings"
+      "value": "10",
+      "trait_type": "Dexterity"
+    },
+    {
+      "value": "76302",
+      "trait_type": "Salary"
+    },
+    {
+      "value": "9",
+      "trait_type": "Strength"
+    },
+    {
+      "value": "711",
+      "trait_type": "Credit Score"
+    },
+    {
+      "value": "10",
+      "trait_type": "Constitution"
+    },
+    {
+      "value": "1",
+      "trait_type": "Votes"
+    },
+    {
+      "value": "1",
+      "trait_type": "Generation"
     },
     {
       "value": "Brown Leather Briefcase",
       "trait_type": "Accessories"
     },
     {
-      "value": "Navy Blue Workers Cap",
+      "value": "",
+      "trait_type": "Piercings"
+    },
+    {
+      "value": "",
+      "trait_type": "Glasses"
+    },
+    {
+      "value": "Navy Blue Worker\u0027s Cap",
       "trait_type": "Headwear"
+    },
+    {
+      "value": "",
+      "trait_type": "Ring"
+    },
+    {
+      "value": "Brown Leather Shoes with Laces",
+      "trait_type": "Footwear"
+    },
+    {
+      "value": "Charcoal Slacks",
+      "trait_type": "Bottom"
+    },
+    {
+      "value": "Brown Cardigan with Tan Longsleeve Shirt",
+      "trait_type": "Top"
+    },
+    {
+      "value": "",
+      "trait_type": "Facial Hair"
+    },
+    {
+      "value": "Black",
+      "trait_type": "Hair Color"
+    },
+    {
+      "value": "Buzz Cut",
+      "trait_type": "Hair Style"
+    },
+    {
+      "value": "White Light Rain",
+      "trait_type": "Background"
     }
   ]
 }

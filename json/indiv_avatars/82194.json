@@ -7,6 +7,10 @@
   "image": "https://media.niftys.com/nfts/matrix/media/ckw6zn31z15964f873n97dd0kz.png",
   "attributes": [
     {
+      "value": "Tan Worker\u0027s Cap",
+      "trait_type": "Headwear"
+    },
+    {
       "value": "White",
       "trait_type": "Background"
     },
@@ -49,10 +53,6 @@
     {
       "value": "Black Leather Briefcase",
       "trait_type": "Accessories"
-    },
-    {
-      "value": "Tan Workers Cap",
-      "trait_type": "Headwear"
     }
   ]
 }

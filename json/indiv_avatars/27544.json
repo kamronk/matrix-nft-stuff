@@ -12,18 +12,6 @@
     },
     {
       "value": "",
-      "trait_type": "Piercings"
-    },
-    {
-      "value": "",
-      "trait_type": "Glasses"
-    },
-    {
-      "value": "",
-      "trait_type": "Headwear"
-    },
-    {
-      "value": "",
       "trait_type": "Ring"
     },
     {
@@ -53,6 +41,18 @@
     {
       "value": "White",
       "trait_type": "Background"
+    },
+    {
+      "value": "",
+      "trait_type": "Piercings"
+    },
+    {
+      "value": "",
+      "trait_type": "Glasses"
+    },
+    {
+      "value": "",
+      "trait_type": "Headwear"
     }
   ]
 }

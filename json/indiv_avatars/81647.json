@@ -1,46 +1,78 @@
 {
   "owners": 0,
   "likes": 0,
-  "contractAddress": "0x39ceaa47306381b6d79ad46af0f36bc5332386f2",
+  "contractAddress": "0x423e540cb46db0e4df1ac96bcbddf78a804647d8",
   "tokenId": "81647",
   "name": "Matrix Avatar #81647",
-  "image": "https://media.niftys.com/nfts/matrix/media/ckw70fxyi32094f573ff2j9dey.png",
+  "image": "https://media.niftys.com/nfts/matrix/media/ckxa2nity597407s73lm87si1p.png",
   "attributes": [
     {
-      "value": "White",
-      "trait_type": "Background"
+      "value": "TBD",
+      "trait_type": "Name"
     },
     {
-      "value": "Buzz Cut",
-      "trait_type": "Hair Style"
+      "value": "Teacher",
+      "trait_type": "Zen"
     },
     {
-      "value": "Dark Brown",
-      "trait_type": "Hair Color"
+      "value": "11",
+      "trait_type": "Wisdom"
     },
     {
-      "value": "Stubble",
-      "trait_type": "Facial Hair"
+      "value": "Computer Programmer",
+      "trait_type": "Occupation"
     },
     {
-      "value": "Navy Blazer with Striped Shirt and Navy Tie",
-      "trait_type": "Top"
+      "value": "Got caught hacking your grades",
+      "trait_type": "Hacking"
     },
     {
-      "value": "Charcoal Slacks",
-      "trait_type": "Bottom"
+      "value": "13",
+      "trait_type": "Intelligence"
     },
     {
-      "value": "Brown Leather Shoes with Laces",
-      "trait_type": "Footwear"
+      "value": "1993",
+      "trait_type": "Social Media Followers"
     },
     {
-      "value": "Two Rings",
-      "trait_type": "Ring"
+      "value": "7",
+      "trait_type": "Charisma"
+    },
+    {
+      "value": "Brand New Ice Cream Truck",
+      "trait_type": "Transportation"
+    },
+    {
+      "value": "14",
+      "trait_type": "Dexterity"
+    },
+    {
+      "value": "52968",
+      "trait_type": "Salary"
+    },
+    {
+      "value": "8",
+      "trait_type": "Strength"
+    },
+    {
+      "value": "753",
+      "trait_type": "Credit Score"
+    },
+    {
+      "value": "13",
+      "trait_type": "Constitution"
+    },
+    {
+      "value": "1",
+      "trait_type": "Votes"
+    },
+    {
+      "value": "1",
+      "trait_type": "Generation"
     },
     {
       "value": "",
-      "trait_type": "Glasses"
+      "trait_type": "Accessories"
     },
     {
       "value": "Stud Earring",
@@ -48,11 +80,43 @@
     },
     {
       "value": "",
-      "trait_type": "Accessories"
+      "trait_type": "Glasses"
     },
     {
-      "value": "Purple Workers Cap",
+      "value": "Purple Worker\u0027s Cap",
       "trait_type": "Headwear"
+    },
+    {
+      "value": "Two Rings",
+      "trait_type": "Ring"
+    },
+    {
+      "value": "Brown Leather Shoes with Laces",
+      "trait_type": "Footwear"
+    },
+    {
+      "value": "Charcoal Slacks",
+      "trait_type": "Bottom"
+    },
+    {
+      "value": "Navy Blazer with Striped Shirt and Navy Tie",
+      "trait_type": "Top"
+    },
+    {
+      "value": "Stubble",
+      "trait_type": "Facial Hair"
+    },
+    {
+      "value": "Dark Brown",
+      "trait_type": "Hair Color"
+    },
+    {
+      "value": "Buzz Cut",
+      "trait_type": "Hair Style"
+    },
+    {
+      "value": "White Medium Rain",
+      "trait_type": "Background"
     }
   ]
 }

@@ -1,18 +1,46 @@
 {
   "owners": 0,
   "likes": 0,
-  "contractAddress": "0x39ceaa47306381b6d79ad46af0f36bc5332386f2",
+  "contractAddress": "0x423e540cb46db0e4df1ac96bcbddf78a804647d8",
   "tokenId": "88780",
   "name": "Matrix Avatar #88780",
-  "image": "https://media.niftys.com/nfts/matrix/media/ckw75tm9g152647f573zop1vwax.png",
+  "image": "https://media.niftys.com/nfts/matrix/media/ckxa9h4lw2453887s73vk15al81.png",
   "attributes": [
     {
-      "value": "Brown Leather Briefcase",
-      "trait_type": "Accessories"
+      "value": "White Medium Rain",
+      "trait_type": "Background"
+    },
+    {
+      "value": "Short Coil",
+      "trait_type": "Hair Style"
+    },
+    {
+      "value": "Light Brown",
+      "trait_type": "Hair Color"
     },
     {
       "value": "",
-      "trait_type": "Piercings"
+      "trait_type": "Facial Hair"
+    },
+    {
+      "value": "Charcoal Blazer with Light Blue Shirt and No Tie",
+      "trait_type": "Top"
+    },
+    {
+      "value": "Charcoal Slacks",
+      "trait_type": "Bottom"
+    },
+    {
+      "value": "Black Suede Chelseas with Brown Sole",
+      "trait_type": "Footwear"
+    },
+    {
+      "value": "",
+      "trait_type": "Ring"
+    },
+    {
+      "value": "",
+      "trait_type": "Headwear"
     },
     {
       "value": "Black Books",
@@ -20,39 +48,75 @@
     },
     {
       "value": "",
-      "trait_type": "Headwear"
+      "trait_type": "Piercings"
     },
     {
-      "value": "",
-      "trait_type": "Ring"
+      "value": "Brown Leather Briefcase",
+      "trait_type": "Accessories"
     },
     {
-      "value": "Black Suede Chelseas with Brown Sole",
-      "trait_type": "Footwear"
+      "value": "1",
+      "trait_type": "Generation"
     },
     {
-      "value": "Charcoal Slacks",
-      "trait_type": "Bottom"
+      "value": "1",
+      "trait_type": "Votes"
     },
     {
-      "value": "Charcoal Blazer with Light Blue Shirt and No Tie",
-      "trait_type": "Top"
+      "value": "TBD",
+      "trait_type": "Name"
     },
     {
-      "value": "",
-      "trait_type": "Facial Hair"
+      "value": "18",
+      "trait_type": "Constitution"
     },
     {
-      "value": "Light Brown",
-      "trait_type": "Hair Color"
+      "value": "833",
+      "trait_type": "Credit Score"
     },
     {
-      "value": "Short Coil",
-      "trait_type": "Hair Style"
+      "value": "7",
+      "trait_type": "Strength"
     },
     {
-      "value": "White",
-      "trait_type": "Background"
+      "value": "35555",
+      "trait_type": "Salary"
+    },
+    {
+      "value": "10",
+      "trait_type": "Dexterity"
+    },
+    {
+      "value": "Pragmatic Coupe",
+      "trait_type": "Transportation"
+    },
+    {
+      "value": "4",
+      "trait_type": "Charisma"
+    },
+    {
+      "value": "128",
+      "trait_type": "Social Media Followers"
+    },
+    {
+      "value": "11",
+      "trait_type": "Intelligence"
+    },
+    {
+      "value": "Subscribed to 2600",
+      "trait_type": "Hacking"
+    },
+    {
+      "value": "Receptionist",
+      "trait_type": "Occupation"
+    },
+    {
+      "value": "10",
+      "trait_type": "Wisdom"
+    },
+    {
+      "value": "Disciple",
+      "trait_type": "Zen"
     }
   ]
 }

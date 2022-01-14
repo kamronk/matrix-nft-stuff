@@ -7,28 +7,24 @@
   "image": "https://media.niftys.com/nfts/matrix/media/ckw719zx452644f973mlvstl7f.png",
   "attributes": [
     {
-      "value": "",
-      "trait_type": "Headwear"
+      "value": "Brown Leather Briefcase",
+      "trait_type": "Accessories"
     },
     {
       "value": "",
-      "trait_type": "Glasses"
+      "trait_type": "Piercings"
     },
     {
-      "value": "White",
-      "trait_type": "Background"
+      "value": "Two Rings",
+      "trait_type": "Ring"
     },
     {
-      "value": "Short Updo",
-      "trait_type": "Hair Style"
-    },
-    {
-      "value": "Light Grey",
-      "trait_type": "Hair Color"
+      "value": "Black Leather Shoes with Laces",
+      "trait_type": "Footwear"
     },
     {
       "value": "",
-      "trait_type": "Facial Hair"
+      "trait_type": "Bottom"
     },
     {
       "value": "Navy Jumpsuit",
@@ -36,23 +32,27 @@
     },
     {
       "value": "",
-      "trait_type": "Bottom"
+      "trait_type": "Facial Hair"
     },
     {
-      "value": "Black Leather Shoes with Laces",
-      "trait_type": "Footwear"
+      "value": "Light Grey",
+      "trait_type": "Hair Color"
     },
     {
-      "value": "Two Rings",
-      "trait_type": "Ring"
+      "value": "Short Updo",
+      "trait_type": "Hair Style"
+    },
+    {
+      "value": "White",
+      "trait_type": "Background"
     },
     {
       "value": "",
-      "trait_type": "Piercings"
+      "trait_type": "Glasses"
     },
     {
-      "value": "Brown Leather Briefcase",
-      "trait_type": "Accessories"
+      "value": "",
+      "trait_type": "Headwear"
     }
   ]
 }

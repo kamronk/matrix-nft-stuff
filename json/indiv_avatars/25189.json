@@ -1,30 +1,34 @@
 {
   "owners": 0,
   "likes": 0,
-  "contractAddress": "0x39ceaa47306381b6d79ad46af0f36bc5332386f2",
+  "contractAddress": "0x423e540cb46db0e4df1ac96bcbddf78a804647d8",
   "tokenId": "25189",
   "name": "Matrix Avatar #25189",
-  "image": "https://media.niftys.com/nfts/matrix/media/ckw73hb0c101967f473vun7q5dq.png",
+  "image": "https://media.niftys.com/nfts/matrix/media/ckxa6pl551687787r73s2kjlvka.png",
   "attributes": [
     {
-      "value": "Lunchbox",
-      "trait_type": "Accessories"
+      "value": "White Heavy Rain",
+      "trait_type": "Background"
+    },
+    {
+      "value": "Straight Sideswept Fringe",
+      "trait_type": "Hair Style"
+    },
+    {
+      "value": "Light Brown",
+      "trait_type": "Hair Color"
+    },
+    {
+      "value": "Mustache",
+      "trait_type": "Facial Hair"
+    },
+    {
+      "value": "Denim Jumpsuit",
+      "trait_type": "Top"
     },
     {
       "value": "",
-      "trait_type": "Piercings"
-    },
-    {
-      "value": "",
-      "trait_type": "Glasses"
-    },
-    {
-      "value": "",
-      "trait_type": "Headwear"
-    },
-    {
-      "value": "",
-      "trait_type": "Ring"
+      "trait_type": "Bottom"
     },
     {
       "value": "Black Suede Chelseas with Brown Sole",
@@ -32,27 +36,87 @@
     },
     {
       "value": "",
-      "trait_type": "Bottom"
+      "trait_type": "Ring"
     },
     {
-      "value": "Denim Jumpsuit",
-      "trait_type": "Top"
+      "value": "",
+      "trait_type": "Headwear"
     },
     {
-      "value": "Mustache",
-      "trait_type": "Facial Hair"
+      "value": "",
+      "trait_type": "Glasses"
     },
     {
-      "value": "Light Brown",
-      "trait_type": "Hair Color"
+      "value": "",
+      "trait_type": "Piercings"
     },
     {
-      "value": "Straight Sideswept Fringe",
-      "trait_type": "Hair Style"
+      "value": "Lunchbox",
+      "trait_type": "Accessories"
     },
     {
-      "value": "White",
-      "trait_type": "Background"
+      "value": "1",
+      "trait_type": "Generation"
+    },
+    {
+      "value": "1",
+      "trait_type": "Votes"
+    },
+    {
+      "value": "TBD",
+      "trait_type": "Name"
+    },
+    {
+      "value": "16",
+      "trait_type": "Constitution"
+    },
+    {
+      "value": "805",
+      "trait_type": "Credit Score"
+    },
+    {
+      "value": "12",
+      "trait_type": "Strength"
+    },
+    {
+      "value": "172581",
+      "trait_type": "Salary"
+    },
+    {
+      "value": "10",
+      "trait_type": "Dexterity"
+    },
+    {
+      "value": "Pragmatic Coupe",
+      "trait_type": "Transportation"
+    },
+    {
+      "value": "12",
+      "trait_type": "Charisma"
+    },
+    {
+      "value": "355555",
+      "trait_type": "Social Media Followers"
+    },
+    {
+      "value": "12",
+      "trait_type": "Intelligence"
+    },
+    {
+      "value": "Stole a high school computer lab pass",
+      "trait_type": "Hacking"
+    },
+    {
+      "value": "Legal Assistant",
+      "trait_type": "Occupation"
+    },
+    {
+      "value": "12",
+      "trait_type": "Wisdom"
+    },
+    {
+      "value": "Master",
+      "trait_type": "Zen"
     }
   ]
 }

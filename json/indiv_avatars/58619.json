@@ -20,10 +20,6 @@
     },
     {
       "value": "",
-      "trait_type": "Headwear"
-    },
-    {
-      "value": "",
       "trait_type": "Ring"
     },
     {
@@ -39,20 +35,24 @@
       "trait_type": "Top"
     },
     {
-      "value": "",
-      "trait_type": "Facial Hair"
-    },
-    {
-      "value": "Auburn",
-      "trait_type": "Hair Color"
-    },
-    {
       "value": "Low Ponytail",
       "trait_type": "Hair Style"
     },
     {
       "value": "White",
       "trait_type": "Background"
+    },
+    {
+      "value": "",
+      "trait_type": "Headwear"
+    },
+    {
+      "value": "",
+      "trait_type": "Facial Hair"
+    },
+    {
+      "value": "Auburn",
+      "trait_type": "Hair Color"
     }
   ]
 }

@@ -1,58 +1,122 @@
 {
   "owners": 0,
   "likes": 0,
-  "contractAddress": "0x39ceaa47306381b6d79ad46af0f36bc5332386f2",
+  "contractAddress": "0x423e540cb46db0e4df1ac96bcbddf78a804647d8",
   "tokenId": "86222",
   "name": "Matrix Avatar #86222",
-  "image": "https://media.niftys.com/nfts/matrix/media/ckw7914j8226688f3737igivsc3.png",
+  "image": "https://media.niftys.com/nfts/matrix/media/ckxacnxtg3623967q73i9hy7e3i.png",
   "attributes": [
     {
-      "value": "White",
-      "trait_type": "Background"
+      "value": "None",
+      "trait_type": "Name"
     },
     {
-      "value": "Short Afro Fade",
-      "trait_type": "Hair Style"
+      "value": "Sales Associate",
+      "trait_type": "Occupation"
     },
     {
-      "value": "Light Grey",
-      "trait_type": "Hair Color"
+      "value": "Read the Bitcoin white paper twice",
+      "trait_type": "Hacking"
     },
     {
-      "value": "",
-      "trait_type": "Facial Hair"
+      "value": "Low Rider",
+      "trait_type": "Transportation"
     },
     {
-      "value": "Red Longsleeve",
-      "trait_type": "Top"
+      "value": "Disciple",
+      "trait_type": "Zen"
     },
     {
-      "value": "Gray Slacks",
-      "trait_type": "Bottom"
+      "value": "10",
+      "trait_type": "Wisdom"
     },
     {
-      "value": "White Leather Sneaker with Grey Sole",
-      "trait_type": "Footwear"
+      "value": "10",
+      "trait_type": "Intelligence"
     },
     {
-      "value": "",
-      "trait_type": "Ring"
+      "value": "4981",
+      "trait_type": "Social Media Followers"
     },
     {
-      "value": "",
-      "trait_type": "Headwear"
+      "value": "8",
+      "trait_type": "Charisma"
     },
     {
-      "value": "Black Books",
-      "trait_type": "Glasses"
+      "value": "11",
+      "trait_type": "Dexterity"
+    },
+    {
+      "value": "35555",
+      "trait_type": "Salary"
+    },
+    {
+      "value": "7",
+      "trait_type": "Strength"
+    },
+    {
+      "value": "725",
+      "trait_type": "Credit Score"
+    },
+    {
+      "value": "11",
+      "trait_type": "Constitution"
+    },
+    {
+      "value": "1",
+      "trait_type": "Votes"
+    },
+    {
+      "value": "1",
+      "trait_type": "Generation"
+    },
+    {
+      "value": "Black Smartphone",
+      "trait_type": "Accessories"
     },
     {
       "value": "Stud Earring",
       "trait_type": "Piercings"
     },
     {
-      "value": "Black Smartphone",
-      "trait_type": "Accessories"
+      "value": "Black Books",
+      "trait_type": "Glasses"
+    },
+    {
+      "value": "",
+      "trait_type": "Headwear"
+    },
+    {
+      "value": "",
+      "trait_type": "Ring"
+    },
+    {
+      "value": "White Leather Sneaker with Grey Sole",
+      "trait_type": "Footwear"
+    },
+    {
+      "value": "Gray Slacks",
+      "trait_type": "Bottom"
+    },
+    {
+      "value": "Red Longsleeve",
+      "trait_type": "Top"
+    },
+    {
+      "value": "",
+      "trait_type": "Facial Hair"
+    },
+    {
+      "value": "Light Grey",
+      "trait_type": "Hair Color"
+    },
+    {
+      "value": "Short Afro Fade",
+      "trait_type": "Hair Style"
+    },
+    {
+      "value": "White Heavy Rain",
+      "trait_type": "Background"
     }
   ]
 }

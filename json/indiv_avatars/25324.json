@@ -8,10 +8,6 @@
   "attributes": [
     {
       "value": "",
-      "trait_type": "Accessories"
-    },
-    {
-      "value": "",
       "trait_type": "Piercings"
     },
     {
@@ -53,6 +49,10 @@
     {
       "value": "White",
       "trait_type": "Background"
+    },
+    {
+      "value": "",
+      "trait_type": "Accessories"
     }
   ]
 }

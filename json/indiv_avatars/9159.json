@@ -7,28 +7,24 @@
   "image": "https://media.niftys.com/nfts/matrix/media/ckw70znri45793f373294n43gj.png",
   "attributes": [
     {
-      "value": "",
-      "trait_type": "Ring"
+      "value": "Black Smartphone",
+      "trait_type": "Accessories"
     },
     {
       "value": "",
-      "trait_type": "Headwear"
+      "trait_type": "Piercings"
     },
     {
-      "value": "White",
-      "trait_type": "Background"
+      "value": "Black Books",
+      "trait_type": "Glasses"
     },
     {
-      "value": "Straight Sideswept Fringe",
-      "trait_type": "Hair Style"
-    },
-    {
-      "value": "Light Brown",
-      "trait_type": "Hair Color"
+      "value": "Brown Leather Shoes with Laces",
+      "trait_type": "Footwear"
     },
     {
       "value": "",
-      "trait_type": "Facial Hair"
+      "trait_type": "Bottom"
     },
     {
       "value": "Gray Jumpsuit",
@@ -36,23 +32,27 @@
     },
     {
       "value": "",
-      "trait_type": "Bottom"
+      "trait_type": "Facial Hair"
     },
     {
-      "value": "Brown Leather Shoes with Laces",
-      "trait_type": "Footwear"
+      "value": "Light Brown",
+      "trait_type": "Hair Color"
     },
     {
-      "value": "Black Books",
-      "trait_type": "Glasses"
+      "value": "Straight Sideswept Fringe",
+      "trait_type": "Hair Style"
+    },
+    {
+      "value": "White",
+      "trait_type": "Background"
     },
     {
       "value": "",
-      "trait_type": "Piercings"
+      "trait_type": "Headwear"
     },
     {
-      "value": "Black Smartphone",
-      "trait_type": "Accessories"
+      "value": "",
+      "trait_type": "Ring"
     }
   ]
 }

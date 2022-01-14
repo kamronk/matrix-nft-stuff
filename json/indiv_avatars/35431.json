@@ -1,22 +1,62 @@
 {
   "owners": 0,
   "likes": 0,
-  "contractAddress": "0x39ceaa47306381b6d79ad46af0f36bc5332386f2",
+  "contractAddress": "0x423e540cb46db0e4df1ac96bcbddf78a804647d8",
   "tokenId": "35431",
   "name": "Matrix Avatar #35431",
-  "image": "https://media.niftys.com/nfts/matrix/media/ckw76plga172915f573kc2yisey.png",
+  "image": "https://media.niftys.com/nfts/matrix/media/ckxaadngp2765987s733yvo8z2j.png",
   "attributes": [
     {
-      "value": "",
-      "trait_type": "Accessories"
+      "value": "Teacher",
+      "trait_type": "Zen"
+    },
+    {
+      "value": "None",
+      "trait_type": "Name"
+    },
+    {
+      "value": "Subscribed to 2600",
+      "trait_type": "Hacking"
+    },
+    {
+      "value": "Pragmatic Coupe",
+      "trait_type": "Transportation"
+    },
+    {
+      "value": "Custodian",
+      "trait_type": "Occupation"
+    },
+    {
+      "value": "White Medium Rain",
+      "trait_type": "Background"
+    },
+    {
+      "value": "Short Messy",
+      "trait_type": "Hair Style"
+    },
+    {
+      "value": "Light Grey",
+      "trait_type": "Hair Color"
+    },
+    {
+      "value": "Goatee",
+      "trait_type": "Facial Hair"
+    },
+    {
+      "value": "Charcoal Blazer with Light Blue Shirt and No Tie",
+      "trait_type": "Top"
+    },
+    {
+      "value": "Blue Denim",
+      "trait_type": "Bottom"
+    },
+    {
+      "value": "Tan Suede Workboot with Tan Sole",
+      "trait_type": "Footwear"
     },
     {
       "value": "",
-      "trait_type": "Piercings"
-    },
-    {
-      "value": "",
-      "trait_type": "Glasses"
+      "trait_type": "Ring"
     },
     {
       "value": "",
@@ -24,35 +64,59 @@
     },
     {
       "value": "",
-      "trait_type": "Ring"
+      "trait_type": "Glasses"
     },
     {
-      "value": "Tan Suede Workboot with Tan Sole",
-      "trait_type": "Footwear"
+      "value": "",
+      "trait_type": "Piercings"
     },
     {
-      "value": "Blue Denim",
-      "trait_type": "Bottom"
+      "value": "",
+      "trait_type": "Accessories"
     },
     {
-      "value": "Charcoal Blazer with Light Blue Shirt and No Tie",
-      "trait_type": "Top"
+      "value": "1",
+      "trait_type": "Generation"
     },
     {
-      "value": "Goatee",
-      "trait_type": "Facial Hair"
+      "value": "1",
+      "trait_type": "Votes"
     },
     {
-      "value": "Light Grey",
-      "trait_type": "Hair Color"
+      "value": "10",
+      "trait_type": "Constitution"
     },
     {
-      "value": "Short Messy",
-      "trait_type": "Hair Style"
+      "value": "711",
+      "trait_type": "Credit Score"
     },
     {
-      "value": "White",
-      "trait_type": "Background"
+      "value": "5",
+      "trait_type": "Strength"
+    },
+    {
+      "value": "10098",
+      "trait_type": "Salary"
+    },
+    {
+      "value": "10",
+      "trait_type": "Dexterity"
+    },
+    {
+      "value": "7",
+      "trait_type": "Charisma"
+    },
+    {
+      "value": "1993",
+      "trait_type": "Social Media Followers"
+    },
+    {
+      "value": "11",
+      "trait_type": "Intelligence"
+    },
+    {
+      "value": "11",
+      "trait_type": "Wisdom"
     }
   ]
 }

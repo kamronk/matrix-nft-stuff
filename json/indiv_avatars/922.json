@@ -1,58 +1,122 @@
 {
   "owners": 0,
   "likes": 0,
-  "contractAddress": "0x39ceaa47306381b6d79ad46af0f36bc5332386f2",
+  "contractAddress": "0x423e540cb46db0e4df1ac96bcbddf78a804647d8",
   "tokenId": "922",
   "name": "Matrix Avatar #922",
-  "image": "https://media.niftys.com/nfts/matrix/media/ckw6zogou16937f273kytx9to5.png",
+  "image": "https://media.niftys.com/nfts/matrix/media/ckxa1xd6u411917p73q16jx29b.png",
   "attributes": [
     {
-      "value": "White",
-      "trait_type": "Background"
+      "value": "None",
+      "trait_type": "Name"
     },
     {
-      "value": "Short Coil",
-      "trait_type": "Hair Style"
+      "value": "Master",
+      "trait_type": "Zen"
     },
     {
-      "value": "Blonde",
-      "trait_type": "Hair Color"
+      "value": "Marketing Intern",
+      "trait_type": "Occupation"
     },
     {
-      "value": "Mustache",
-      "trait_type": "Facial Hair"
+      "value": "Got caught hacking your grades",
+      "trait_type": "Hacking"
     },
     {
-      "value": "Dark Gray Longsleeve",
-      "trait_type": "Top"
+      "value": "Electric Car",
+      "trait_type": "Transportation"
     },
     {
-      "value": "Charcoal Slacks",
-      "trait_type": "Bottom"
+      "value": "12",
+      "trait_type": "Wisdom"
     },
     {
-      "value": "White Canvas Sneaker with White Sole",
-      "trait_type": "Footwear"
+      "value": "13",
+      "trait_type": "Intelligence"
     },
     {
-      "value": "",
-      "trait_type": "Ring"
+      "value": "516",
+      "trait_type": "Social Media Followers"
     },
     {
-      "value": "",
-      "trait_type": "Headwear"
+      "value": "5",
+      "trait_type": "Charisma"
     },
     {
-      "value": "Rosegold Aviators",
-      "trait_type": "Glasses"
+      "value": "12",
+      "trait_type": "Dexterity"
+    },
+    {
+      "value": "101101",
+      "trait_type": "Salary"
+    },
+    {
+      "value": "11",
+      "trait_type": "Strength"
+    },
+    {
+      "value": "508",
+      "trait_type": "Credit Score"
+    },
+    {
+      "value": "5",
+      "trait_type": "Constitution"
+    },
+    {
+      "value": "1",
+      "trait_type": "Votes"
+    },
+    {
+      "value": "1",
+      "trait_type": "Generation"
+    },
+    {
+      "value": "Brown Leather Briefcase",
+      "trait_type": "Accessories"
     },
     {
       "value": "Stud Earring",
       "trait_type": "Piercings"
     },
     {
-      "value": "Brown Leather Briefcase",
-      "trait_type": "Accessories"
+      "value": "Rosegold Aviators",
+      "trait_type": "Glasses"
+    },
+    {
+      "value": "",
+      "trait_type": "Headwear"
+    },
+    {
+      "value": "",
+      "trait_type": "Ring"
+    },
+    {
+      "value": "White Canvas Sneaker with White Sole",
+      "trait_type": "Footwear"
+    },
+    {
+      "value": "Charcoal Slacks",
+      "trait_type": "Bottom"
+    },
+    {
+      "value": "Dark Gray Longsleeve",
+      "trait_type": "Top"
+    },
+    {
+      "value": "Mustache",
+      "trait_type": "Facial Hair"
+    },
+    {
+      "value": "Blonde",
+      "trait_type": "Hair Color"
+    },
+    {
+      "value": "Short Coil",
+      "trait_type": "Hair Style"
+    },
+    {
+      "value": "White Medium Rain",
+      "trait_type": "Background"
     }
   ]
 }

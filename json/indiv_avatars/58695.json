@@ -7,6 +7,10 @@
   "image": "https://media.niftys.com/nfts/matrix/media/ckw7ainrh258178f573dlkrtgcr.png",
   "attributes": [
     {
+      "value": "Navy Blue Worker\u0027s Cap",
+      "trait_type": "Headwear"
+    },
+    {
       "value": "",
       "trait_type": "Glasses"
     },
@@ -49,10 +53,6 @@
     {
       "value": "Black Leather Briefcase",
       "trait_type": "Accessories"
-    },
-    {
-      "value": "Navy Blue Workers Cap",
-      "trait_type": "Headwear"
     }
   ]
 }

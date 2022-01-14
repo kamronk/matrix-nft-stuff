@@ -1,46 +1,82 @@
 {
   "owners": 0,
   "likes": 0,
-  "contractAddress": "0x39ceaa47306381b6d79ad46af0f36bc5332386f2",
+  "contractAddress": "0x423e540cb46db0e4df1ac96bcbddf78a804647d8",
   "tokenId": "21996",
   "name": "Matrix Avatar #21996",
-  "image": "https://media.niftys.com/nfts/matrix/media/ckw73cgqv97954f2737eyjbe5x.png",
+  "image": "https://media.niftys.com/nfts/matrix/media/ckxa6rug41659537p73t8ug2vml.png",
   "attributes": [
     {
-      "value": "White",
-      "trait_type": "Background"
+      "value": "Disciple",
+      "trait_type": "Zen"
     },
     {
-      "value": "Short Messy",
-      "trait_type": "Hair Style"
+      "value": "10",
+      "trait_type": "Wisdom"
     },
     {
-      "value": "Auburn",
-      "trait_type": "Hair Color"
+      "value": "Legal Assistant",
+      "trait_type": "Occupation"
     },
     {
-      "value": "Thin",
-      "trait_type": "Facial Hair"
+      "value": "Earned an MIT Computer Sciences Diploma",
+      "trait_type": "Hacking"
     },
     {
-      "value": "Dark Gray Longsleeve",
-      "trait_type": "Top"
+      "value": "14",
+      "trait_type": "Intelligence"
     },
     {
-      "value": "Gray Slacks",
-      "trait_type": "Bottom"
+      "value": "4981",
+      "trait_type": "Social Media Followers"
     },
     {
-      "value": "Tan Suede Workboot with Tan Sole",
-      "trait_type": "Footwear"
+      "value": "8",
+      "trait_type": "Charisma"
+    },
+    {
+      "value": "70\u0027s Hatchback",
+      "trait_type": "Transportation"
+    },
+    {
+      "value": "9",
+      "trait_type": "Dexterity"
+    },
+    {
+      "value": "52968",
+      "trait_type": "Salary"
+    },
+    {
+      "value": "8",
+      "trait_type": "Strength"
+    },
+    {
+      "value": "711",
+      "trait_type": "Credit Score"
+    },
+    {
+      "value": "10",
+      "trait_type": "Constitution"
+    },
+    {
+      "value": "TBD",
+      "trait_type": "Name"
+    },
+    {
+      "value": "1",
+      "trait_type": "Votes"
+    },
+    {
+      "value": "1",
+      "trait_type": "Generation"
     },
     {
       "value": "",
-      "trait_type": "Ring"
+      "trait_type": "Accessories"
     },
     {
       "value": "",
-      "trait_type": "Headwear"
+      "trait_type": "Piercings"
     },
     {
       "value": "Black Books",
@@ -48,11 +84,39 @@
     },
     {
       "value": "",
-      "trait_type": "Piercings"
+      "trait_type": "Headwear"
     },
     {
       "value": "",
-      "trait_type": "Accessories"
+      "trait_type": "Ring"
+    },
+    {
+      "value": "Tan Suede Workboot with Tan Sole",
+      "trait_type": "Footwear"
+    },
+    {
+      "value": "Gray Slacks",
+      "trait_type": "Bottom"
+    },
+    {
+      "value": "Dark Gray Longsleeve",
+      "trait_type": "Top"
+    },
+    {
+      "value": "Thin",
+      "trait_type": "Facial Hair"
+    },
+    {
+      "value": "Auburn",
+      "trait_type": "Hair Color"
+    },
+    {
+      "value": "Short Messy",
+      "trait_type": "Hair Style"
+    },
+    {
+      "value": "White Heavy Rain",
+      "trait_type": "Background"
     }
   ]
 }

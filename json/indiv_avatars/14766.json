@@ -7,6 +7,10 @@
   "image": "https://media.niftys.com/nfts/matrix/media/ckw71q8ng63696f373j6wpoegv.png",
   "attributes": [
     {
+      "value": "Navy Blue Worker\u0027s Cap",
+      "trait_type": "Headwear"
+    },
+    {
       "value": "",
       "trait_type": "Piercings"
     },
@@ -49,10 +53,6 @@
     {
       "value": "Black Smartphone",
       "trait_type": "Accessories"
-    },
-    {
-      "value": "Navy Blue Workers Cap",
-      "trait_type": "Headwear"
     }
   ]
 }

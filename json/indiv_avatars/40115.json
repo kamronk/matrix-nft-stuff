@@ -1,22 +1,62 @@
 {
   "owners": 0,
   "likes": 0,
-  "contractAddress": "0x39ceaa47306381b6d79ad46af0f36bc5332386f2",
+  "contractAddress": "0x423e540cb46db0e4df1ac96bcbddf78a804647d8",
   "tokenId": "40115",
   "name": "Matrix Avatar #40115",
-  "image": "https://media.niftys.com/nfts/matrix/media/ckw75sa8c153125fa73fqmgt2cy.png",
+  "image": "https://media.niftys.com/nfts/matrix/media/ckxa94ucy2378057x73gra3m7y9.png",
   "attributes": [
     {
-      "value": "Light Blue Smartphone",
-      "trait_type": "Accessories"
+      "value": "Teacher",
+      "trait_type": "Zen"
     },
     {
-      "value": "Stud Earring",
-      "trait_type": "Piercings"
+      "value": "None",
+      "trait_type": "Name"
+    },
+    {
+      "value": "Subscribed to 2600",
+      "trait_type": "Hacking"
+    },
+    {
+      "value": "Low Rider",
+      "trait_type": "Transportation"
+    },
+    {
+      "value": "Bookkeeper",
+      "trait_type": "Occupation"
+    },
+    {
+      "value": "White Light Rain",
+      "trait_type": "Background"
+    },
+    {
+      "value": "Short Pixie",
+      "trait_type": "Hair Style"
+    },
+    {
+      "value": "Black",
+      "trait_type": "Hair Color"
     },
     {
       "value": "",
-      "trait_type": "Glasses"
+      "trait_type": "Facial Hair"
+    },
+    {
+      "value": "Gray Oxford with Buttons",
+      "trait_type": "Top"
+    },
+    {
+      "value": "Light-Wash Denim",
+      "trait_type": "Bottom"
+    },
+    {
+      "value": "White Leather Sneaker with Grey Sole",
+      "trait_type": "Footwear"
+    },
+    {
+      "value": "",
+      "trait_type": "Ring"
     },
     {
       "value": "",
@@ -24,35 +64,59 @@
     },
     {
       "value": "",
-      "trait_type": "Ring"
+      "trait_type": "Glasses"
     },
     {
-      "value": "White Leather Sneaker with Grey Sole",
-      "trait_type": "Footwear"
+      "value": "Stud Earring",
+      "trait_type": "Piercings"
     },
     {
-      "value": "Light-Wash Denim",
-      "trait_type": "Bottom"
+      "value": "Light Blue Smartphone",
+      "trait_type": "Accessories"
     },
     {
-      "value": "Gray Oxford with Buttons",
-      "trait_type": "Top"
+      "value": "1",
+      "trait_type": "Generation"
     },
     {
-      "value": "",
-      "trait_type": "Facial Hair"
+      "value": "1",
+      "trait_type": "Votes"
     },
     {
-      "value": "Black",
-      "trait_type": "Hair Color"
+      "value": "10",
+      "trait_type": "Constitution"
     },
     {
-      "value": "Short Pixie",
-      "trait_type": "Hair Style"
+      "value": "711",
+      "trait_type": "Credit Score"
     },
     {
-      "value": "White",
-      "trait_type": "Background"
+      "value": "9",
+      "trait_type": "Strength"
+    },
+    {
+      "value": "76302",
+      "trait_type": "Salary"
+    },
+    {
+      "value": "11",
+      "trait_type": "Dexterity"
+    },
+    {
+      "value": "4",
+      "trait_type": "Charisma"
+    },
+    {
+      "value": "128",
+      "trait_type": "Social Media Followers"
+    },
+    {
+      "value": "11",
+      "trait_type": "Intelligence"
+    },
+    {
+      "value": "11",
+      "trait_type": "Wisdom"
     }
   ]
 }

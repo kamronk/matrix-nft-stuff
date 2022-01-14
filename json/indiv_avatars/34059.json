@@ -1,18 +1,54 @@
 {
   "owners": 0,
   "likes": 0,
-  "contractAddress": "0x39ceaa47306381b6d79ad46af0f36bc5332386f2",
+  "contractAddress": "0x423e540cb46db0e4df1ac96bcbddf78a804647d8",
   "tokenId": "34059",
   "name": "Matrix Avatar #34059",
-  "image": "https://media.niftys.com/nfts/matrix/media/ckw74sb8p130435f273a0wpigfp.png",
+  "image": "https://media.niftys.com/nfts/matrix/media/ckxa8n3f32159617p733oxugi0p.png",
   "attributes": [
     {
-      "value": "Black Leather Briefcase",
-      "trait_type": "Accessories"
+      "value": "TBD",
+      "trait_type": "Name"
+    },
+    {
+      "value": "Go-Kart",
+      "trait_type": "Transportation"
+    },
+    {
+      "value": "White Light Rain",
+      "trait_type": "Background"
+    },
+    {
+      "value": "Straight Sideswept Fringe",
+      "trait_type": "Hair Style"
+    },
+    {
+      "value": "Dark Brown",
+      "trait_type": "Hair Color"
+    },
+    {
+      "value": "Thin",
+      "trait_type": "Facial Hair"
+    },
+    {
+      "value": "Navy Blazer with Striped Shirt and Navy Tie",
+      "trait_type": "Top"
+    },
+    {
+      "value": "Dark-Wash Denim",
+      "trait_type": "Bottom"
+    },
+    {
+      "value": "Black Leather Shoes with Laces",
+      "trait_type": "Footwear"
     },
     {
       "value": "",
-      "trait_type": "Piercings"
+      "trait_type": "Ring"
+    },
+    {
+      "value": "",
+      "trait_type": "Headwear"
     },
     {
       "value": "Rosegold Aviators",
@@ -20,39 +56,67 @@
     },
     {
       "value": "",
-      "trait_type": "Headwear"
+      "trait_type": "Piercings"
     },
     {
-      "value": "",
-      "trait_type": "Ring"
+      "value": "Black Leather Briefcase",
+      "trait_type": "Accessories"
     },
     {
-      "value": "Black Leather Shoes with Laces",
-      "trait_type": "Footwear"
+      "value": "1",
+      "trait_type": "Generation"
     },
     {
-      "value": "Dark-Wash Denim",
-      "trait_type": "Bottom"
+      "value": "1",
+      "trait_type": "Votes"
     },
     {
-      "value": "Navy Blazer with Striped Shirt and Navy Tie",
-      "trait_type": "Top"
+      "value": "17",
+      "trait_type": "Constitution"
     },
     {
-      "value": "Thin",
-      "trait_type": "Facial Hair"
+      "value": "819",
+      "trait_type": "Credit Score"
     },
     {
-      "value": "Dark Brown",
-      "trait_type": "Hair Color"
+      "value": "7",
+      "trait_type": "Strength"
     },
     {
-      "value": "Straight Sideswept Fringe",
-      "trait_type": "Hair Style"
+      "value": "35555",
+      "trait_type": "Salary"
     },
     {
-      "value": "White",
-      "trait_type": "Background"
+      "value": "8",
+      "trait_type": "Dexterity"
+    },
+    {
+      "value": "11",
+      "trait_type": "Charisma"
+    },
+    {
+      "value": "84059",
+      "trait_type": "Social Media Followers"
+    },
+    {
+      "value": "11",
+      "trait_type": "Intelligence"
+    },
+    {
+      "value": "Subscribed to 2600",
+      "trait_type": "Hacking"
+    },
+    {
+      "value": "Compliance Officer",
+      "trait_type": "Occupation"
+    },
+    {
+      "value": "8",
+      "trait_type": "Wisdom"
+    },
+    {
+      "value": "Budding Scholar",
+      "trait_type": "Zen"
     }
   ]
 }

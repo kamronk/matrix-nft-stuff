@@ -1,22 +1,62 @@
 {
   "owners": 0,
   "likes": 0,
-  "contractAddress": "0x39ceaa47306381b6d79ad46af0f36bc5332386f2",
+  "contractAddress": "0x423e540cb46db0e4df1ac96bcbddf78a804647d8",
   "tokenId": "35356",
   "name": "Matrix Avatar #35356",
-  "image": "https://media.niftys.com/nfts/matrix/media/ckw755uay141122f7736mo3utjr.png",
+  "image": "https://media.niftys.com/nfts/matrix/media/ckxa8ruq52243557u73qblpo767.png",
   "attributes": [
     {
-      "value": "",
-      "trait_type": "Accessories"
+      "value": "None",
+      "trait_type": "Name"
+    },
+    {
+      "value": "Read the Bitcoin white paper twice",
+      "trait_type": "Hacking"
+    },
+    {
+      "value": "Graduate",
+      "trait_type": "Zen"
+    },
+    {
+      "value": "Assistant to the Regional Manager",
+      "trait_type": "Occupation"
+    },
+    {
+      "value": "70\u0027s Hatchback",
+      "trait_type": "Transportation"
+    },
+    {
+      "value": "White Light Rain",
+      "trait_type": "Background"
+    },
+    {
+      "value": "Short Updo",
+      "trait_type": "Hair Style"
+    },
+    {
+      "value": "Light Brown",
+      "trait_type": "Hair Color"
+    },
+    {
+      "value": "Thin",
+      "trait_type": "Facial Hair"
+    },
+    {
+      "value": "Charcoal Blazer with Light Blue Shirt and No Tie",
+      "trait_type": "Top"
+    },
+    {
+      "value": "Charcoal Slacks",
+      "trait_type": "Bottom"
+    },
+    {
+      "value": "Black Leather Shoes with Laces",
+      "trait_type": "Footwear"
     },
     {
       "value": "",
-      "trait_type": "Piercings"
-    },
-    {
-      "value": "",
-      "trait_type": "Glasses"
+      "trait_type": "Ring"
     },
     {
       "value": "",
@@ -24,35 +64,59 @@
     },
     {
       "value": "",
-      "trait_type": "Ring"
+      "trait_type": "Glasses"
     },
     {
-      "value": "Black Leather Shoes with Laces",
-      "trait_type": "Footwear"
+      "value": "",
+      "trait_type": "Piercings"
     },
     {
-      "value": "Charcoal Slacks",
-      "trait_type": "Bottom"
+      "value": "",
+      "trait_type": "Accessories"
     },
     {
-      "value": "Charcoal Blazer with Light Blue Shirt and No Tie",
-      "trait_type": "Top"
+      "value": "1",
+      "trait_type": "Generation"
     },
     {
-      "value": "Thin",
-      "trait_type": "Facial Hair"
+      "value": "1",
+      "trait_type": "Votes"
     },
     {
-      "value": "Light Brown",
-      "trait_type": "Hair Color"
+      "value": "7",
+      "trait_type": "Constitution"
     },
     {
-      "value": "Short Updo",
-      "trait_type": "Hair Style"
+      "value": "610",
+      "trait_type": "Credit Score"
     },
     {
-      "value": "White",
-      "trait_type": "Background"
+      "value": "5",
+      "trait_type": "Strength"
+    },
+    {
+      "value": "10098",
+      "trait_type": "Salary"
+    },
+    {
+      "value": "9",
+      "trait_type": "Dexterity"
+    },
+    {
+      "value": "4",
+      "trait_type": "Charisma"
+    },
+    {
+      "value": "128",
+      "trait_type": "Social Media Followers"
+    },
+    {
+      "value": "10",
+      "trait_type": "Intelligence"
+    },
+    {
+      "value": "9",
+      "trait_type": "Wisdom"
     }
   ]
 }

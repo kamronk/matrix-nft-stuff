@@ -1,58 +1,122 @@
 {
   "owners": 0,
   "likes": 0,
-  "contractAddress": "0x39ceaa47306381b6d79ad46af0f36bc5332386f2",
+  "contractAddress": "0x423e540cb46db0e4df1ac96bcbddf78a804647d8",
   "tokenId": "28593",
   "name": "Matrix Avatar #28593",
-  "image": "https://media.niftys.com/nfts/matrix/media/ckw73rhme107293f273sf0o8p2d.png",
+  "image": "https://media.niftys.com/nfts/matrix/media/ckxa7bi8c1803337p734l0ltx7h.png",
   "attributes": [
     {
-      "value": "White",
-      "trait_type": "Background"
+      "value": "Master",
+      "trait_type": "Zen"
     },
     {
-      "value": "",
-      "trait_type": "Hair Style"
+      "value": "12",
+      "trait_type": "Wisdom"
     },
     {
-      "value": "Light Brown",
-      "trait_type": "Hair Color"
+      "value": "Night Shift Supervisor",
+      "trait_type": "Occupation"
     },
     {
-      "value": "Goatee",
-      "trait_type": "Facial Hair"
+      "value": "Read the Bitcoin white paper twice",
+      "trait_type": "Hacking"
     },
     {
-      "value": "Blue Longsleeve",
-      "trait_type": "Top"
+      "value": "10",
+      "trait_type": "Intelligence"
     },
     {
-      "value": "Charcoal Slacks",
-      "trait_type": "Bottom"
+      "value": "4981",
+      "trait_type": "Social Media Followers"
     },
     {
-      "value": "White Canvas Sneaker with White Sole",
-      "trait_type": "Footwear"
+      "value": "8",
+      "trait_type": "Charisma"
     },
     {
-      "value": "",
-      "trait_type": "Ring"
+      "value": "Retired Mail Truck",
+      "trait_type": "Transportation"
     },
     {
-      "value": "",
-      "trait_type": "Glasses"
+      "value": "7",
+      "trait_type": "Dexterity"
     },
     {
-      "value": "",
-      "trait_type": "Piercings"
+      "value": "101101",
+      "trait_type": "Salary"
+    },
+    {
+      "value": "11",
+      "trait_type": "Strength"
+    },
+    {
+      "value": "777",
+      "trait_type": "Credit Score"
+    },
+    {
+      "value": "14",
+      "trait_type": "Constitution"
+    },
+    {
+      "value": "TBD",
+      "trait_type": "Name"
+    },
+    {
+      "value": "1",
+      "trait_type": "Votes"
+    },
+    {
+      "value": "1",
+      "trait_type": "Generation"
     },
     {
       "value": "Light Blue Smartphone",
       "trait_type": "Accessories"
     },
     {
-      "value": "Navy Blue Workers Cap",
+      "value": "",
+      "trait_type": "Piercings"
+    },
+    {
+      "value": "",
+      "trait_type": "Glasses"
+    },
+    {
+      "value": "Navy Blue Worker\u0027s Cap",
       "trait_type": "Headwear"
+    },
+    {
+      "value": "",
+      "trait_type": "Ring"
+    },
+    {
+      "value": "White Canvas Sneaker with White Sole",
+      "trait_type": "Footwear"
+    },
+    {
+      "value": "Charcoal Slacks",
+      "trait_type": "Bottom"
+    },
+    {
+      "value": "Blue Longsleeve",
+      "trait_type": "Top"
+    },
+    {
+      "value": "Goatee",
+      "trait_type": "Facial Hair"
+    },
+    {
+      "value": "Light Brown",
+      "trait_type": "Hair Color"
+    },
+    {
+      "value": "",
+      "trait_type": "Hair Style"
+    },
+    {
+      "value": "White Medium Rain",
+      "trait_type": "Background"
     }
   ]
 }

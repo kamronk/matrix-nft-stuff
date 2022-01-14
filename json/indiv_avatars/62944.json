@@ -8,27 +8,19 @@
   "attributes": [
     {
       "value": "",
-      "trait_type": "Headwear"
+      "trait_type": "Piercings"
+    },
+    {
+      "value": "Black Books",
+      "trait_type": "Glasses"
+    },
+    {
+      "value": "White Canvas Sneaker with White Sole",
+      "trait_type": "Footwear"
     },
     {
       "value": "",
-      "trait_type": "Ring"
-    },
-    {
-      "value": "White",
-      "trait_type": "Background"
-    },
-    {
-      "value": "Low Ponytail",
-      "trait_type": "Hair Style"
-    },
-    {
-      "value": "Black",
-      "trait_type": "Hair Color"
-    },
-    {
-      "value": "",
-      "trait_type": "Facial Hair"
+      "trait_type": "Bottom"
     },
     {
       "value": "Navy Jumpsuit",
@@ -36,19 +28,27 @@
     },
     {
       "value": "",
-      "trait_type": "Bottom"
+      "trait_type": "Facial Hair"
     },
     {
-      "value": "White Canvas Sneaker with White Sole",
-      "trait_type": "Footwear"
+      "value": "Black",
+      "trait_type": "Hair Color"
     },
     {
-      "value": "Black Books",
-      "trait_type": "Glasses"
+      "value": "Low Ponytail",
+      "trait_type": "Hair Style"
+    },
+    {
+      "value": "White",
+      "trait_type": "Background"
     },
     {
       "value": "",
-      "trait_type": "Piercings"
+      "trait_type": "Ring"
+    },
+    {
+      "value": "",
+      "trait_type": "Headwear"
     },
     {
       "value": "Brown Leather Briefcase",

@@ -7,8 +7,16 @@
   "image": "https://media.niftys.com/nfts/matrix/media/ckw6zjwde13805f973j7we22fe.png",
   "attributes": [
     {
-      "value": "Tan Workers Cap",
+      "value": "Tan Worker\u0027s Cap",
       "trait_type": "Headwear"
+    },
+    {
+      "value": "Buzz Cut",
+      "trait_type": "Hair Style"
+    },
+    {
+      "value": "White",
+      "trait_type": "Background"
     },
     {
       "value": "Black Smartphone",
@@ -45,14 +53,6 @@
     {
       "value": "Blonde",
       "trait_type": "Hair Color"
-    },
-    {
-      "value": "Buzz Cut",
-      "trait_type": "Hair Style"
-    },
-    {
-      "value": "White",
-      "trait_type": "Background"
     }
   ]
 }

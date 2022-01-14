@@ -7,28 +7,24 @@
   "image": "https://media.niftys.com/nfts/matrix/media/ckw75w9hd155504f173hzl39das.png",
   "attributes": [
     {
-      "value": "White",
-      "trait_type": "Background"
+      "value": "",
+      "trait_type": "Accessories"
     },
     {
-      "value": "Short Updo",
-      "trait_type": "Hair Style"
+      "value": "Stud Earring",
+      "trait_type": "Piercings"
     },
     {
-      "value": "Light Grey",
-      "trait_type": "Hair Color"
+      "value": "Black Books",
+      "trait_type": "Glasses"
     },
     {
       "value": "",
-      "trait_type": "Facial Hair"
-    },
-    {
-      "value": "Khaki Jumpsuit",
-      "trait_type": "Top"
+      "trait_type": "Headwear"
     },
     {
       "value": "",
-      "trait_type": "Bottom"
+      "trait_type": "Ring"
     },
     {
       "value": "Redbrown Leather Workboot with Brown Sole",
@@ -36,23 +32,27 @@
     },
     {
       "value": "",
-      "trait_type": "Ring"
+      "trait_type": "Bottom"
+    },
+    {
+      "value": "Khaki Jumpsuit",
+      "trait_type": "Top"
     },
     {
       "value": "",
-      "trait_type": "Headwear"
+      "trait_type": "Facial Hair"
     },
     {
-      "value": "Black Books",
-      "trait_type": "Glasses"
+      "value": "Light Grey",
+      "trait_type": "Hair Color"
     },
     {
-      "value": "Stud Earring",
-      "trait_type": "Piercings"
+      "value": "Short Updo",
+      "trait_type": "Hair Style"
     },
     {
-      "value": "",
-      "trait_type": "Accessories"
+      "value": "White",
+      "trait_type": "Background"
     }
   ]
 }

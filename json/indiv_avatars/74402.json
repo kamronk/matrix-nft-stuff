@@ -7,36 +7,28 @@
   "image": "https://media.niftys.com/nfts/matrix/media/ckw7bp68z283822f673oara1w1i.png",
   "attributes": [
     {
-      "value": "White",
-      "trait_type": "Background"
-    },
-    {
-      "value": "Short Afro Fade",
-      "trait_type": "Hair Style"
-    },
-    {
-      "value": "Light Brown",
-      "trait_type": "Hair Color"
+      "value": "Brown Cardigan with Off-White Oxford and No Tie",
+      "trait_type": "Top"
     },
     {
       "value": "",
       "trait_type": "Facial Hair"
     },
     {
-      "value": "Light-Wash Denim",
-      "trait_type": "Bottom"
+      "value": "Light Brown",
+      "trait_type": "Hair Color"
     },
     {
-      "value": "Black Suede Chelseas with Brown Sole",
-      "trait_type": "Footwear"
-    },
-    {
-      "value": "Two Rings",
-      "trait_type": "Ring"
+      "value": "Short Afro Fade",
+      "trait_type": "Hair Style"
     },
     {
       "value": "",
-      "trait_type": "Headwear"
+      "trait_type": "Accessories"
+    },
+    {
+      "value": "",
+      "trait_type": "Piercings"
     },
     {
       "value": "Rosegold Aviators",
@@ -44,15 +36,23 @@
     },
     {
       "value": "",
-      "trait_type": "Piercings"
+      "trait_type": "Headwear"
     },
     {
-      "value": "",
-      "trait_type": "Accessories"
+      "value": "Two Rings",
+      "trait_type": "Ring"
     },
     {
-      "value": "Brown Cardigan with Off-White Oxford Shirt",
-      "trait_type": "Top"
+      "value": "Black Suede Chelseas with Brown Sole",
+      "trait_type": "Footwear"
+    },
+    {
+      "value": "Light-Wash Denim",
+      "trait_type": "Bottom"
+    },
+    {
+      "value": "White",
+      "trait_type": "Background"
     }
   ]
 }

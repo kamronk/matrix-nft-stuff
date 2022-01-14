@@ -7,6 +7,10 @@
   "image": "https://media.niftys.com/nfts/matrix/media/ckw78g4mi216576f773yb2c0ozs.png",
   "attributes": [
     {
+      "value": "3D Glasses",
+      "trait_type": "Glasses"
+    },
+    {
       "value": "White",
       "trait_type": "Background"
     },
@@ -49,10 +53,6 @@
     {
       "value": "Brown Leather Briefcase",
       "trait_type": "Accessories"
-    },
-    {
-      "value": "3D Glasses",
-      "trait_type": "Glasses"
     }
   ]
 }

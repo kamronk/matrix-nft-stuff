@@ -7,6 +7,10 @@
   "image": "https://media.niftys.com/nfts/matrix/media/ckw78bh4e210230f673llfu8p2o.png",
   "attributes": [
     {
+      "value": "Tan Worker\u0027s Cap",
+      "trait_type": "Headwear"
+    },
+    {
       "value": "White",
       "trait_type": "Background"
     },
@@ -37,10 +41,6 @@
     {
       "value": "",
       "trait_type": "Ring"
-    },
-    {
-      "value": "Tan Workers Cap",
-      "trait_type": "Headwear"
     },
     {
       "value": "Black Books",

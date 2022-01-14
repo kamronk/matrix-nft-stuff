@@ -7,6 +7,10 @@
   "image": "https://media.niftys.com/nfts/matrix/media/ckw6yulat0068f87307laks9b.png",
   "attributes": [
     {
+      "value": "Black Smartphone",
+      "trait_type": "Accessories"
+    },
+    {
       "value": "White",
       "trait_type": "Background"
     },
@@ -49,10 +53,6 @@
     {
       "value": "",
       "trait_type": "Piercings"
-    },
-    {
-      "value": "Black Smartphone",
-      "trait_type": "Accessories"
     }
   ]
 }

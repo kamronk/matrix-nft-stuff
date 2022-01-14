@@ -1,58 +1,122 @@
 {
   "owners": 0,
   "likes": 0,
-  "contractAddress": "0x39ceaa47306381b6d79ad46af0f36bc5332386f2",
+  "contractAddress": "0x423e540cb46db0e4df1ac96bcbddf78a804647d8",
   "tokenId": "67187",
   "name": "Matrix Avatar #67187",
-  "image": "https://media.niftys.com/nfts/matrix/media/ckw7cag6l302049f873064nn8r7.png",
+  "image": "https://media.niftys.com/nfts/matrix/media/ckxafzpaa4705997v73le6uko1c.png",
   "attributes": [
     {
-      "value": "White",
-      "trait_type": "Background"
+      "value": "TBD",
+      "trait_type": "Name"
     },
     {
-      "value": "",
-      "trait_type": "Hair Style"
+      "value": "Read beginner’s guide to hacking - Y2K edition",
+      "trait_type": "Hacking"
     },
     {
-      "value": "Dark Brown",
-      "trait_type": "Hair Color"
+      "value": "Disciple",
+      "trait_type": "Zen"
     },
     {
-      "value": "Thin",
-      "trait_type": "Facial Hair"
+      "value": "10",
+      "trait_type": "Wisdom"
     },
     {
-      "value": "Gray Blazer with Black Shirt and No Tie",
-      "trait_type": "Top"
+      "value": "Night Shift Supervisor",
+      "trait_type": "Occupation"
     },
     {
-      "value": "Charcoal Slacks",
-      "trait_type": "Bottom"
+      "value": "7",
+      "trait_type": "Intelligence"
     },
     {
-      "value": "Redbrown Leather Workboot with Brown Sole",
-      "trait_type": "Footwear"
+      "value": "777",
+      "trait_type": "Social Media Followers"
     },
     {
-      "value": "",
-      "trait_type": "Ring"
+      "value": "6",
+      "trait_type": "Charisma"
     },
     {
-      "value": "",
-      "trait_type": "Glasses"
+      "value": "70\u0027s Hatchback",
+      "trait_type": "Transportation"
     },
     {
-      "value": "",
-      "trait_type": "Piercings"
+      "value": "9",
+      "trait_type": "Dexterity"
+    },
+    {
+      "value": "172581",
+      "trait_type": "Salary"
+    },
+    {
+      "value": "12",
+      "trait_type": "Strength"
+    },
+    {
+      "value": "610",
+      "trait_type": "Credit Score"
+    },
+    {
+      "value": "7",
+      "trait_type": "Constitution"
+    },
+    {
+      "value": "1",
+      "trait_type": "Votes"
+    },
+    {
+      "value": "1",
+      "trait_type": "Generation"
     },
     {
       "value": "Blue Lunchbox",
       "trait_type": "Accessories"
     },
     {
-      "value": "Purple Workers Cap",
+      "value": "",
+      "trait_type": "Piercings"
+    },
+    {
+      "value": "",
+      "trait_type": "Glasses"
+    },
+    {
+      "value": "Purple Worker\u0027s Cap",
       "trait_type": "Headwear"
+    },
+    {
+      "value": "",
+      "trait_type": "Ring"
+    },
+    {
+      "value": "Redbrown Leather Workboot with Brown Sole",
+      "trait_type": "Footwear"
+    },
+    {
+      "value": "Charcoal Slacks",
+      "trait_type": "Bottom"
+    },
+    {
+      "value": "Gray Blazer with Black Shirt and No Tie",
+      "trait_type": "Top"
+    },
+    {
+      "value": "Thin",
+      "trait_type": "Facial Hair"
+    },
+    {
+      "value": "Dark Brown",
+      "trait_type": "Hair Color"
+    },
+    {
+      "value": "",
+      "trait_type": "Hair Style"
+    },
+    {
+      "value": "White Light Rain",
+      "trait_type": "Background"
     }
   ]
 }

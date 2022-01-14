@@ -1,34 +1,94 @@
 {
   "owners": 0,
   "likes": 0,
-  "contractAddress": "0x39ceaa47306381b6d79ad46af0f36bc5332386f2",
+  "contractAddress": "0x423e540cb46db0e4df1ac96bcbddf78a804647d8",
   "tokenId": "14299",
   "name": "Matrix Avatar #14299",
-  "image": "https://media.niftys.com/nfts/matrix/media/ckw71p6iz63561f7736dfugidn.png",
+  "image": "https://media.niftys.com/nfts/matrix/media/ckxa4dfzb1049197u73umbge5z0.png",
   "attributes": [
     {
-      "value": "White",
-      "trait_type": "Background"
+      "value": "TBD",
+      "trait_type": "Name"
     },
     {
-      "value": "Buzz Cut",
-      "trait_type": "Hair Style"
+      "value": "Read beginner’s guide to hacking - Y2K edition",
+      "trait_type": "Hacking"
     },
     {
-      "value": "Light Brown",
-      "trait_type": "Hair Color"
+      "value": "New Apprentice",
+      "trait_type": "Zen"
     },
     {
-      "value": "Goatee",
-      "trait_type": "Facial Hair"
+      "value": "6",
+      "trait_type": "Wisdom"
     },
     {
-      "value": "Khaki Jumpsuit",
-      "trait_type": "Top"
+      "value": "Computer Programmer",
+      "trait_type": "Occupation"
+    },
+    {
+      "value": "7",
+      "trait_type": "Intelligence"
+    },
+    {
+      "value": "51",
+      "trait_type": "Social Media Followers"
+    },
+    {
+      "value": "3",
+      "trait_type": "Charisma"
+    },
+    {
+      "value": "Pragmatic Coupe",
+      "trait_type": "Transportation"
+    },
+    {
+      "value": "10",
+      "trait_type": "Dexterity"
+    },
+    {
+      "value": "92000",
+      "trait_type": "Salary"
+    },
+    {
+      "value": "10",
+      "trait_type": "Strength"
+    },
+    {
+      "value": "610",
+      "trait_type": "Credit Score"
+    },
+    {
+      "value": "7",
+      "trait_type": "Constitution"
+    },
+    {
+      "value": "1",
+      "trait_type": "Votes"
+    },
+    {
+      "value": "1",
+      "trait_type": "Generation"
     },
     {
       "value": "",
-      "trait_type": "Bottom"
+      "trait_type": "Accessories"
+    },
+    {
+      "value": "",
+      "trait_type": "Piercings"
+    },
+    {
+      "value": "Black Books",
+      "trait_type": "Glasses"
+    },
+    {
+      "value": "Purple Worker\u0027s Cap",
+      "trait_type": "Headwear"
+    },
+    {
+      "value": "",
+      "trait_type": "Ring"
     },
     {
       "value": "Tan Suede Workboot with Tan Sole",
@@ -36,23 +96,27 @@
     },
     {
       "value": "",
-      "trait_type": "Ring"
+      "trait_type": "Bottom"
     },
     {
-      "value": "Black Books",
-      "trait_type": "Glasses"
+      "value": "Khaki Jumpsuit",
+      "trait_type": "Top"
     },
     {
-      "value": "",
-      "trait_type": "Piercings"
+      "value": "Goatee",
+      "trait_type": "Facial Hair"
     },
     {
-      "value": "",
-      "trait_type": "Accessories"
+      "value": "Light Brown",
+      "trait_type": "Hair Color"
     },
     {
-      "value": "Purple Workers Cap",
-      "trait_type": "Headwear"
+      "value": "Buzz Cut",
+      "trait_type": "Hair Style"
+    },
+    {
+      "value": "White Light Rain",
+      "trait_type": "Background"
     }
   ]
 }

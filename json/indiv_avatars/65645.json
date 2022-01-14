@@ -7,10 +7,6 @@
   "image": "https://media.niftys.com/nfts/matrix/media/ckw7dgmdx326088f173nftmb4dz.png",
   "attributes": [
     {
-      "value": "3D Glasses",
-      "trait_type": "Glasses"
-    },
-    {
       "value": "",
       "trait_type": "Accessories"
     },
@@ -53,6 +49,10 @@
     {
       "value": "White",
       "trait_type": "Background"
+    },
+    {
+      "value": "3D Glasses",
+      "trait_type": "Glasses"
     }
   ]
 }

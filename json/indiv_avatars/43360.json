@@ -1,30 +1,38 @@
 {
   "owners": 0,
   "likes": 0,
-  "contractAddress": "0x39ceaa47306381b6d79ad46af0f36bc5332386f2",
+  "contractAddress": "0x423e540cb46db0e4df1ac96bcbddf78a804647d8",
   "tokenId": "43360",
   "name": "Matrix Avatar #43360",
-  "image": "https://media.niftys.com/nfts/matrix/media/ckw75yre3157475f273k181ji4o.png",
+  "image": "https://media.niftys.com/nfts/matrix/media/ckxa9via72576177p73jl8amq3s.png",
   "attributes": [
     {
-      "value": "",
-      "trait_type": "Accessories"
+      "value": "TBD",
+      "trait_type": "Name"
+    },
+    {
+      "value": "White Heavy Rain",
+      "trait_type": "Background"
+    },
+    {
+      "value": "Short Messy",
+      "trait_type": "Hair Style"
+    },
+    {
+      "value": "Light Grey",
+      "trait_type": "Hair Color"
+    },
+    {
+      "value": "Thin",
+      "trait_type": "Facial Hair"
+    },
+    {
+      "value": "Navy Jumpsuit",
+      "trait_type": "Top"
     },
     {
       "value": "",
-      "trait_type": "Piercings"
-    },
-    {
-      "value": "Black Books",
-      "trait_type": "Glasses"
-    },
-    {
-      "value": "",
-      "trait_type": "Headwear"
-    },
-    {
-      "value": "",
-      "trait_type": "Ring"
+      "trait_type": "Bottom"
     },
     {
       "value": "Black Suede Chelseas with Brown Sole",
@@ -32,27 +40,83 @@
     },
     {
       "value": "",
-      "trait_type": "Bottom"
+      "trait_type": "Ring"
     },
     {
-      "value": "Navy Jumpsuit",
-      "trait_type": "Top"
+      "value": "",
+      "trait_type": "Headwear"
     },
     {
-      "value": "Thin",
-      "trait_type": "Facial Hair"
+      "value": "Black Books",
+      "trait_type": "Glasses"
     },
     {
-      "value": "Light Grey",
-      "trait_type": "Hair Color"
+      "value": "",
+      "trait_type": "Piercings"
     },
     {
-      "value": "Short Messy",
-      "trait_type": "Hair Style"
+      "value": "",
+      "trait_type": "Accessories"
     },
     {
-      "value": "White",
-      "trait_type": "Background"
+      "value": "1",
+      "trait_type": "Generation"
+    },
+    {
+      "value": "1",
+      "trait_type": "Votes"
+    },
+    {
+      "value": "11",
+      "trait_type": "Constitution"
+    },
+    {
+      "value": "725",
+      "trait_type": "Credit Score"
+    },
+    {
+      "value": "9",
+      "trait_type": "Strength"
+    },
+    {
+      "value": "76302",
+      "trait_type": "Salary"
+    },
+    {
+      "value": "9",
+      "trait_type": "Dexterity"
+    },
+    {
+      "value": "70\u0027s Hatchback",
+      "trait_type": "Transportation"
+    },
+    {
+      "value": "5",
+      "trait_type": "Charisma"
+    },
+    {
+      "value": "516",
+      "trait_type": "Social Media Followers"
+    },
+    {
+      "value": "9",
+      "trait_type": "Intelligence"
+    },
+    {
+      "value": "Pretty good with GW Basic",
+      "trait_type": "Hacking"
+    },
+    {
+      "value": "Assistant to the Regional Manager",
+      "trait_type": "Occupation"
+    },
+    {
+      "value": "10",
+      "trait_type": "Wisdom"
+    },
+    {
+      "value": "Disciple",
+      "trait_type": "Zen"
     }
   ]
 }

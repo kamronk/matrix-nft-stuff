@@ -7,6 +7,10 @@
   "image": "https://media.niftys.com/nfts/matrix/media/ckw787b4l208572f373bstx3d4k.png",
   "attributes": [
     {
+      "value": "Purple Worker\u0027s Cap",
+      "trait_type": "Headwear"
+    },
+    {
       "value": "Black Smartphone",
       "trait_type": "Accessories"
     },
@@ -49,10 +53,6 @@
     {
       "value": "",
       "trait_type": "Piercings"
-    },
-    {
-      "value": "Purple Workers Cap",
-      "trait_type": "Headwear"
     }
   ]
 }

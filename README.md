@@ -31,3 +31,11 @@ Bookmarklets are tiny chunks of javascript (JS) that do something in laptop/desk
 Drag any of the following links, into your bookmarks bar to add the tools to your browser.
 
 You can find my bookmarklets in docs here: 
+
+## Scanner, Ranker and Spring Boot App Use
+
+There is a SQL script linked here:
+
+Run the script to build the structures, then run the spring boot app found here:
+
+It will do an initial large data scrape in an empty database, but then after it'll only look for new possibilities, drastically reducing the run time needed for scans of new data.

@@ -21,4 +21,13 @@ Check out my niftys profile here: [https://niftys.com/kamronk](https://niftys.co
 
 I then just exported it all into a list with the corresponding token ID, and stored it in JSON inside of an HTML file and some other fancy web stuff to make an easy to use rarity checker.
 
-You can see the exact code being used for compilation in the api directory. Specific scheduled method is here: [https://github.com/kamronk/matrix-nft-stuff/blob/main/api/com.kk.matrix-api/src/main/java/com/kk/matrixapi/SpringConfig.java#L37](https://github.com/kamronk/matrix-nft-stuff/blob/main/api/com.kk.matrix-api/src/main/java/com/kk/matrixapi/SpringConfig.java#L37)
+You can see the exact code being used for compilation in the api directory. Specific scheduled method is here: [https://github.com/kamronk/matrix-nft-stuff/blob/main/api/matrix-api/src/main/java/com/kk/matrixapi/SpringConfig.java#L37](https://github.com/kamronk/matrix-nft-stuff/blob/main/api/matrix-api/src/main/java/com/kk/matrixapi/SpringConfig.java#L37)
+
+
+## JS Bookmarklets
+
+Bookmarklets are tiny chunks of javascript (JS) that do something in laptop/desktop web browsers.
+
+Drag any of the following links, into your bookmarks bar to add the tools to your browser.
+
+You can find my bookmarklets in docs here: 
